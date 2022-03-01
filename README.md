@@ -19,6 +19,7 @@
 - [Keyboards](#keyboards)
 - [Maps](#maps)
 - [Twitch](#twitch)
+- [Video Players](#video-players)
 - [YouTube](#youtube)
 
 ## 2FA
@@ -69,7 +70,7 @@
 ### Molly
 <img alt="Molly" height="64" src="https://molly.im/author/molly/avatar_huf94a2fd78ceb4148e0a28cd6efbae53a_18855_270x270_fill_lanczos_center_3.png">
 
-- [x] Google Play
+- [ ] Google Play
 - [x] [F-Droid](https://molly.im/fdroid/)
 - [x] [GitHub](https://github.com/mollyim/mollyim-android)
 - [x] [Official page](https://molly.im/)
@@ -100,6 +101,15 @@
 - [x] [F-Droid](https://f-droid.org/packages/com.perflyst.twire/)
 - [x] [GitHub](https://github.com/twireapp/Twire)
 - [ ] Official page
+
+## Video Players
+### VLC
+<img alt="VLC" height="64" src="https://github.com/videolan/vlc-android/raw/master/application/resources/assets/images/svg/icon.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc)
+- [x] [F-Droid](https://www.f-droid.org/en/packages/org.videolan.vlc/)
+- [x] [GitHub](https://github.com/videolan/vlc-android)
+- [x] [Official page](https://www.videolan.org/)
 
 ## YouTube
 ### NewPipe
