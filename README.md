@@ -100,3 +100,12 @@
 - [x] [F-Droid](https://f-droid.org/packages/com.perflyst.twire/)
 - [x] [GitHub](https://github.com/twireapp/Twire)
 - [ ] Official page
+
+## YouTube
+### NewPipe
+<img alt="NewPipe" height="64" src="https://newpipe.net/img/logo.svg">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)
+- [x] [GitHub](https://github.com/TeamNewPipe/NewPipe)
+- [x] [Official page](https://newpipe.net/)
