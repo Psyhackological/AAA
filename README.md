@@ -59,14 +59,14 @@
 
 ## Instant Messaging
 ### Signal
-<img alt="Aegis" height="64" src="https://seeklogo.com/images/S/signal-logo-20A1616F60-seeklogo.com.png">
+<img alt="Signal" height="64" src="https://seeklogo.com/images/S/signal-logo-20A1616F60-seeklogo.com.png">
 
 - [x] [Google Play](https://github.com/signalapp/Signal-Android)
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/signalapp/Signal-Android)
 - [x] [Official page](https://signal.org/)
 
-### Moly
+### Molly
 <img alt="Molly" height="64" src="https://molly.im/author/molly/avatar_huf94a2fd78ceb4148e0a28cd6efbae53a_18855_270x270_fill_lanczos_center_3.png">
 
 - [x] Google Play
@@ -78,7 +78,16 @@
 ### Openboard
 <img alt="Openboard" height="64" src="https://github.com/openboard-team/openboard/blob/master/images/open_board_final.png?raw=true">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=org.dslul.openboard.inputmethod.latin&hl=en_US&gl=US)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.dslul.openboard.inputmethod.latin)
 - [x] [F-Droid](https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin)
 - [x] [GitHub](https://github.com/openboard-team/openboard)
 - [ ] Official page
+
+## Maps
+### Organic Maps
+<img alt="OrganicMaps" height="64" src="https://organicmaps.app/logos/green-on-transparent.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=app.organicmaps)
+- [x] [F-Droid](https://f-droid.org/en/packages/app.organicmaps/)
+- [x] [GitHub](https://github.com/organicmaps/organicmaps)
+- [x] [Official page](https://organicmaps.app/)
