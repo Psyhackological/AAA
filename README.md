@@ -91,3 +91,12 @@
 - [x] [F-Droid](https://f-droid.org/en/packages/app.organicmaps/)
 - [x] [GitHub](https://github.com/organicmaps/organicmaps)
 - [x] [Official page](https://organicmaps.app/)
+
+## Twitch
+### Twire
+<img alt="Twire" height="64" src="https://github.com/twireapp/Twire/blob/master/app/src/main/ic_launcher-web.png?raw=true">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.perflyst.twire/)
+- [x] [GitHub](https://github.com/twireapp/Twire)
+- [ ] Official page
