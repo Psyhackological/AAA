@@ -2,15 +2,18 @@
 
 ## Rules:
 - [x] Free
+- [x] Ad-free
 - [x] Open Source
 - [x] Tested by me
 - [x] Privacy-friendly
+- [x] Easy to use
 - [x] Still maintained
 - [x] Does not lack of features compared to "default app"
 
 ## Contents:
 - [2FA](#2fa)
 - [Browsers](#browsers)
+- [Discord](#discord)
 - [Google Play](#google-play)
 - [Instant Messaging](#instant-messaging)
 - [Keyboards](#keyboards)
@@ -35,6 +38,15 @@
 - [x] [F-droid](https://www.bromite.org/fdroid)
 - [x] [GitHub](https://github.com/bromite/bromite)
 - [x] [Official page](https://www.bromite.org/)
+
+## Discord
+### Aliucord
+<img style="border-radius: 32px;" alt="Aliucord" height="64" src="https://github.com/Aliucord/Aliucord/blob/main/installer/android/app/src/main/assets/icon2.png?raw=true">
+
+- [ ] Google Play
+- [ ] F-droid
+- [x] [GitHub](https://github.com/Aliucord/Aliucord)
+- [ ] Official page
 
 ## Google Play
 ### Aurora Store
