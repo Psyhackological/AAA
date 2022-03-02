@@ -19,6 +19,7 @@
 - [Keyboards](#keyboards)
 - [Maps](#maps)
 - [Music Players](#music-players)
+- [Reddit](#reddit)
 - [Twitch](#twitch)
 - [Twitter](#twitter)
 - [Video Players](#video-players)
@@ -111,6 +112,15 @@
 - [x] [F-Droid](https://f-droid.org/packages/com.shadow.blackhole/)
 - [x] [GitHub](https://github.com/Sangwan5688/BlackHole)
 - [x] [Official page](https://sangwan5688.github.io/BlackHole/)
+
+## Reddit
+### Infinity
+<img alt="Infinity" height="64" src="https://github.com/Docile-Alligator/Infinity-For-Reddit/blob/master/app/src/main/res/drawable-xxxhdpi/splash_icon.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit)
+- [x] [F-Droid](https://f-droid.org/packages/ml.docilealligator.infinityforreddit/)
+- [x] [GitHub](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+- [ ] Official page
 
 ## Twitch
 ### Twire
