@@ -18,6 +18,7 @@
 - [Instant Messaging](#instant-messaging)
 - [Keyboards](#keyboards)
 - [Maps](#maps)
+- [Music Players](#music-players)
 - [Twitch](#twitch)
 - [Twitter](#twitter)
 - [Video Players](#video-players)
@@ -94,6 +95,15 @@
 - [x] [GitHub](https://github.com/organicmaps/organicmaps)
 - [x] [Official page](https://organicmaps.app/)
 
+## Music Players
+### Retro Music Player
+<img alt="RetroMusicPlayer" height="64" src="https://play-lh.googleusercontent.com/LsjjdQ5KSBnnztnMzRq8nTkmmCSINVE3BwSf4YG0Ps2ITGZQ-yV9pzbEAgkDXjx52140=s180">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
+- [x] [Official page](https://retromusic.app/)
+
 ## Twitch
 ### Twire
 <img alt="Twire" height="64" src="https://github.com/twireapp/Twire/blob/master/app/src/main/ic_launcher-web.png?raw=true">
@@ -105,7 +115,7 @@
 
 ## Twitter
 ### Fritter
-<img alt="Twire" height="64" src="https://camo.githubusercontent.com/d2f22524a41d737d6919d4fdad7f60553a0b086fceb581a5de042c32d9c2366c/687474703a2f2f692e696d6775722e636f6d2f786d4f394d54762e706e67">
+<img alt="Fritter" height="64" src="https://camo.githubusercontent.com/d2f22524a41d737d6919d4fdad7f60553a0b086fceb581a5de042c32d9c2366c/687474703a2f2f692e696d6775722e636f6d2f786d4f394d54762e706e67">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.jonjomckay.fritter)
 - [x] [F-Droid](https://f-droid.org/packages/com.jonjomckay.fritter/)
