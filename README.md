@@ -19,6 +19,7 @@
 - [Keyboards](#keyboards)
 - [Maps](#maps)
 - [Twitch](#twitch)
+- [Twitter](#twitter)
 - [Video Players](#video-players)
 - [YouTube](#youtube)
 
@@ -101,6 +102,15 @@
 - [x] [F-Droid](https://f-droid.org/packages/com.perflyst.twire/)
 - [x] [GitHub](https://github.com/twireapp/Twire)
 - [ ] Official page
+
+## Twitter
+### Fritter
+<img alt="Twire" height="64" src="https://camo.githubusercontent.com/d2f22524a41d737d6919d4fdad7f60553a0b086fceb581a5de042c32d9c2366c/687474703a2f2f692e696d6775722e636f6d2f786d4f394d54762e706e67">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.jonjomckay.fritter)
+- [x] [F-Droid](https://f-droid.org/packages/com.jonjomckay.fritter/)
+- [x] [GitHub](hhttps://github.com/jonjomckay/fritter)
+- [x] [Official page](https://fritter.cc/)
 
 ## Video Players
 ### VLC
