@@ -104,6 +104,14 @@
 - [x] [GitHub](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
 - [x] [Official page](https://retromusic.app/)
 
+### BlackHole
+<img alt="BlackHole" height="64" src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.shadow.blackhole/)
+- [x] [GitHub](https://github.com/Sangwan5688/BlackHole)
+- [x] [Official page](https://sangwan5688.github.io/BlackHole/)
+
 ## Twitch
 ### Twire
 <img alt="Twire" height="64" src="https://github.com/twireapp/Twire/blob/master/app/src/main/ic_launcher-web.png?raw=true">
