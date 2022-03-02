@@ -149,6 +149,14 @@
 - [x] [GitHub](https://github.com/videolan/vlc-android)
 - [x] [Official page](https://www.videolan.org/)
 
+### mpv
+<img alt="mpv" height="64" src="https://github.com/mpv-android/mpv-android/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=is.xyz.mpv)
+- [x] [F-Droid](https://f-droid.org/packages/is.xyz.mpv)
+- [x] [GitHub](https://github.com/mpv-android/mpv-android)
+- [x] [Official page](https://mpv.io/)
+
 ## YouTube
 ### NewPipe
 <img alt="NewPipe" height="64" src="https://newpipe.net/img/logo.svg">
