@@ -13,6 +13,7 @@
 ### Contents:
 - [2FA](#2fa)
 - [Browsers](#browsers)
+- [Chess](#chess)
 - [Discord](#discord)
 - [Google Play](#google-play)
 - [Instant Messaging](#instant-messaging)
@@ -42,6 +43,15 @@
 - [x] [F-Droid](https://www.bromite.org/fdroid)
 - [x] [GitHub](https://github.com/bromite/bromite)
 - [x] [Official page](https://www.bromite.org/)
+
+## Chess
+### Lichess
+<img alt="Lichess" height="64" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.lichess.mobileapp)
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/lichess-org/lichobile)
+- [x] [Official page](https://lichess.org/mobile)
 
 ## Discord
 ### Aliucord
@@ -137,7 +147,7 @@
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.jonjomckay.fritter)
 - [x] [F-Droid](https://f-droid.org/packages/com.jonjomckay.fritter/)
-- [x] [GitHub](hhttps://github.com/jonjomckay/fritter)
+- [x] [GitHub](https://github.com/jonjomckay/fritter)
 - [x] [Official page](https://fritter.cc/)
 
 ## Video Players
