@@ -21,6 +21,7 @@
 - [Maps](#maps)
 - [Music Players](#music-players)
 - [Reddit](#reddit)
+- [Torrenting](#torrenting)
 - [Twitch](#twitch)
 - [Twitter](#twitter)
 - [Video Players](#video-players)
@@ -130,6 +131,15 @@
 - [x] [Google Play](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit)
 - [x] [F-Droid](https://f-droid.org/packages/ml.docilealligator.infinityforreddit/)
 - [x] [GitHub](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+- [ ] Official page
+
+## Torrenting
+### LibreTorrent
+<img alt="LibreTorrent" height="64" src="https://gitlab.com/proninyaroslav/libretorrent/-/raw/master/art/icon.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent)
+- [x] [F-Droid](https://f-droid.org/app/org.proninyaroslav.libretorrent)
+- [x] [GitLab](https://gitlab.com/proninyaroslav/libretorrent)
 - [ ] Official page
 
 ## Twitch
