@@ -14,6 +14,7 @@
 - [2FA](#2fa)
 - [Browsers](#browsers)
 - [Chess](#chess)
+- [Device Synchronization](#device-synchronization)
 - [Discord](#discord)
 - [Google Play](#google-play)
 - [Instant Messaging](#instant-messaging)
@@ -53,6 +54,15 @@
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/lichess-org/lichobile)
 - [x] [Official page](https://lichess.org/mobile)
+
+## Device Synchronization
+### KDE Connect
+<img alt="KDEconnect" height="64" src="https://raw.githubusercontent.com/KDE/kdeconnect-kde/master/icons/app/sc-apps-kdeconnect.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp)
+- [x] [F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/)
+- [x] [GitHub](https://github.com/KDE/kdeconnect-kde)
+- [x] [Official page](https://kdeconnect.kde.org/)
 
 ## Discord
 ### Aliucord
