@@ -13,6 +13,7 @@
 ### Contents:
 - [2FA](#2fa)
 - [Browsers](#browsers)
+- [Camera](#camera)
 - [Chess](#chess)
 - [Device Synchronization](#device-synchronization)
 - [Discord](#discord)
@@ -45,6 +46,15 @@
 - [x] [F-Droid](https://www.bromite.org/fdroid)
 - [x] [GitHub](https://github.com/bromite/bromite)
 - [x] [Official page](https://www.bromite.org/)
+
+## Camera 
+### OpenCamera 
+<img alt="OpenCamera" height="64" src="https://opencamera.org.uk/ic_launcher.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera)
+- [x] [F-Droid](https://f-droid.org/en/packages/net.sourceforge.opencamera/)
+- [x] [SourceForge](https://sourceforge.net/p/opencamera/code/)
+- [x] [Official page](https://opencamera.org.uk/)
 
 ## Chess
 ### Lichess
