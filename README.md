@@ -19,6 +19,7 @@
 - [Chess](#chess)
 - [Device Synchronization](#device-synchronization)
 - [Discord](#discord)
+- [GitHub Client](#github-client)
 - [Google Play](#google-play)
 - [Instant Messaging](#instant-messaging)
 - [Keyboards](#keyboards)
@@ -93,6 +94,15 @@
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/Aliucord/Aliucord)
 - [ ] Official page
+
+## GitHub Client
+### OpenHub
+<img alt="OpenHub" height="64" src="https://github.com/ThirtyDegreesRay/OpenHub/blob/master/app/src/main/res/mipmap-hdpi/logo.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.thirtydegreesray.openhub)
+- [x] [F-Droid](https://f-droid.org/ro/packages/com.thirtydegreesray.openhub/)
+- [x] [GitHub](https://github.com/ThirtyDegreesRay/OpenHub)
+- [x] [Official page](https://thirtydegreesray.github.io/OpenHub/)
 
 ## Google Play
 ### Aurora Store
