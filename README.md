@@ -7,13 +7,14 @@
 - [x] Tested by me
 - [x] Privacy-friendly
 - [x] Easy to use
-- [x] Still maintained
+- [x] Still maintained or finished
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (take care of your eyes, please)
 
 ### Contents:
 - [2FA](#2fa)
 - [Browsers](#browsers)
+- [Calculator](#calculator)
 - [Camera](#camera)
 - [Chess](#chess)
 - [Device Synchronization](#device-synchronization)
@@ -47,6 +48,15 @@
 - [x] [F-Droid](https://www.bromite.org/fdroid)
 - [x] [GitHub](https://github.com/bromite/bromite)
 - [x] [Official page](https://www.bromite.org/)
+
+## Calculator
+### Calculator++
+<img alt="Calculator++" height="64" src="https://f-droid.org/repo/icons-640/org.solovyev.android.calculator.158.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator)
+- [x] [F-Droid](https://www.f-droid.org/en/packages/org.solovyev.android.calculator/)
+- [x] [GitHub](https://github.com/Bubu/android-calculatorpp)
+- [ ] Official page
 
 ## Camera 
 ### OpenCamera 
