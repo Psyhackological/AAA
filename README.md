@@ -19,6 +19,7 @@
 - [Chess](#chess)
 - [Device Synchronization](#device-synchronization)
 - [Discord](#discord)
+- [File Manager](#file-manager)
 - [GitHub Client](#github-client)
 - [Google Play](#google-play)
 - [Instant Messaging](#instant-messaging)
@@ -93,6 +94,15 @@
 - [ ] Google Play
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/Aliucord/Aliucord)
+- [ ] Official page
+
+## File Manager
+### Material Files
+<img alt="MaterialFiles" height="64" src="https://github.com/zhanghai/MaterialFiles/raw/master/art/launcher_icon.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)
+- [x] [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files)
+- [x] [GitHub](https://github.com/zhanghai/MaterialFiles)
 - [ ] Official page
 
 ## GitHub Client
