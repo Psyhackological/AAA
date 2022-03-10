@@ -18,6 +18,7 @@
 - [Camera](#camera)
 - [Chess](#chess)
 - [Device Synchronization](#device-synchronization)
+- [Dialer](#dialer)
 - [Discord](#discord)
 - [File Manager](#file-manager)
 - [GitHub Client](#github-client)
@@ -86,6 +87,15 @@
 - [x] [F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/)
 - [x] [GitHub](https://github.com/KDE/kdeconnect-kde)
 - [x] [Official page](https://kdeconnect.kde.org/)
+
+## Dialer
+### Koler
+<img alt="Koler" height="64" src="https://github.com/Chooloo/koler/blob/master/koler/src/main/ic_launcher-web.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.chooloo.www.koler)
+- [x] [F-Droid](https://f-droid.org/app/com.chooloo.www.koler)
+- [x] [GitHub](https://github.com/Chooloo/koler)
+- [ ] Official page
 
 ## Discord
 ### Aliucord
