@@ -9,6 +9,7 @@
 - [x] Easy to use
 - [x] Still maintained
 - [x] Does not lack of features compared to "default app"
+- [x] Has dark theme (take care of your eyes, please)
 
 ### Contents:
 - [2FA](#2fa)
@@ -188,14 +189,6 @@
 - [x] [F-Droid](https://www.f-droid.org/en/packages/org.videolan.vlc/)
 - [x] [GitHub](https://github.com/videolan/vlc-android)
 - [x] [Official page](https://www.videolan.org/)
-
-### mpv
-<img alt="mpv" height="64" src="https://github.com/mpv-android/mpv-android/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=is.xyz.mpv)
-- [x] [F-Droid](https://f-droid.org/packages/is.xyz.mpv)
-- [x] [GitHub](https://github.com/mpv-android/mpv-android)
-- [x] [Official page](https://mpv.io/)
 
 ## YouTube
 ### NewPipe
