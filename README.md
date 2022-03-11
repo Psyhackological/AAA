@@ -13,7 +13,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (take care of your eyes, please)
 
-Current __awesome__ apps count: __26__
+__AWESOME__ apps counter: __27__
 
 ### Contents:
 - [2FA](#2fa)
@@ -22,6 +22,7 @@ Current __awesome__ apps count: __26__
 - [Calculator](#calculator)
 - [Camera](#camera)
 - [Chess](#chess)
+- [Contacts](#contacts)
 - [Device Synchronization](#device-synchronization)
 - [Dialer](#dialer)
 - [Discord](#discord)
@@ -94,6 +95,15 @@ Current __awesome__ apps count: __26__
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/lichess-org/lichobile)
 - [x] [Official page](https://lichess.org/mobile)
+
+## Contacts 
+### Simple Contacts 
+<img alt="SimpleContacts" height="64" src="https://github.com/SimpleMobileTools/Simple-Contacts/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.contacts.pro)
+- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.contacts.pro)
+- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Contacts)
+- [x] [Official page](https://www.simplemobiletools.com/contacts/)
 
 ## Device Synchronization
 ### KDE Connect
