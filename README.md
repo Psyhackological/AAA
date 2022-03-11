@@ -25,6 +25,7 @@ Current apps count: __23__
 - [Dialer](#dialer)
 - [Discord](#discord)
 - [File Manager](#file-manager)
+- [Gallery](#gallery)
 - [GitHub Client](#github-client)
 - [Google Play](#google-play)
 - [Instant Messaging](#instant-messaging)
@@ -118,6 +119,15 @@ Current apps count: __23__
 - [x] [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files)
 - [x] [GitHub](https://github.com/zhanghai/MaterialFiles)
 - [ ] Official page
+
+## Gallery
+### Simple Gallery
+<img alt="SimpleGallery" height="64" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery.pro)
+- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.gallery.pro)
+- [x] [GitHub](hhttps://github.com/SimpleMobileTools/Simple-Gallery)
+- [x] [Official page](https://www.simplemobiletools.com/gallery)
 
 ## GitHub Client
 ### OpenHub
