@@ -1,15 +1,19 @@
 # Awesome Android Alternatives
 
+## This is the list of THE BEST apps according to me. You can prove me wrong on the [contributing page](CONTRIBUTING.md).
+
 ### Rules:
 - [x] Free
 - [x] Ad-free
-- [x] Open Source
+- [x] Open Sourced
 - [x] Tested by me
 - [x] Privacy-friendly
 - [x] Easy to use
 - [x] Still maintained or finished
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (take care of your eyes, please)
+
+Current apps count: __23__
 
 ### Contents:
 - [2FA](#2fa)
