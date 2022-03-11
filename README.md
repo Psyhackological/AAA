@@ -13,7 +13,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (take care of your eyes, please)
 
-Current apps count: __25__
+Current __awesome__ apps count: __26__
 
 ### Contents:
 - [2FA](#2fa)
@@ -33,6 +33,7 @@ Current apps count: __25__
 - [Keyboards](#keyboards)
 - [Maps](#maps)
 - [Music Players](#music-players)
+- [Pomodoro Timer](#pomodoro-timer)
 - [Reddit](#reddit)
 - [Torrenting](#torrenting)
 - [Twitch](#twitch)
@@ -208,6 +209,15 @@ Current apps count: __25__
 - [x] [F-Droid](https://f-droid.org/packages/com.shadow.blackhole/)
 - [x] [GitHub](https://github.com/Sangwan5688/BlackHole)
 - [x] [Official page](https://sangwan5688.github.io/BlackHole/)
+
+## Pomodoro Timer
+### Goodtime
+<img alt="Goodtime" height="64" src="https://github.com/adrcotfas/Goodtime/blob/master/app/src/main/ic_launcher-web.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.apps.adrcotfas.goodtime)
+- [x] [F-Droid](https://f-droid.org/packages/com.apps.adrcotfas.goodtime)
+- [x] [GitHub](https://github.com/adrcotfas/Goodtime)
+- [ ] Official page
 
 ## Reddit
 ### Infinity
