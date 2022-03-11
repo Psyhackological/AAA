@@ -13,10 +13,11 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (take care of your eyes, please)
 
-Current apps count: __23__
+Current apps count: __25__
 
 ### Contents:
 - [2FA](#2fa)
+- [Birthday Calendar](#birthday-calendar)
 - [Browsers](#browsers)
 - [Calculator](#calculator)
 - [Camera](#camera)
@@ -47,6 +48,15 @@ Current apps count: __23__
 - [x] [F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)
 - [x] [GitHub](https://github.com/beemdevelopment/Aegis)
 - [x] [Official page](https://getaegis.app/)
+
+## Birthday Calendar
+### Birday
+<img alt="Birday" height="64" src="https://github.com/m-i-n-a-r/birday/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.minar.birday)
+- [x] [F-Droid](https://f-droid.org/packages/com.minar.birday/)
+- [x] [GitHub](https://github.com/m-i-n-a-r/birday)
+- [ ] Official page
 
 ## Browsers
 ### Bromite
@@ -126,7 +136,7 @@ Current apps count: __23__
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery.pro)
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.gallery.pro)
-- [x] [GitHub](hhttps://github.com/SimpleMobileTools/Simple-Gallery)
+- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Gallery)
 - [x] [Official page](https://www.simplemobiletools.com/gallery)
 
 ## GitHub Client
