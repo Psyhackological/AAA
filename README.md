@@ -13,7 +13,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (take care of your eyes, please)
 
-__AWESOME__ apps counter: __27__
+__AWESOME__ apps counter: __28__
 
 ### Contents:
 - [2FA](#2fa)
@@ -34,6 +34,7 @@ __AWESOME__ apps counter: __27__
 - [Keyboards](#keyboards)
 - [Maps](#maps)
 - [Music Players](#music-players)
+- [Notes](#notes)
 - [Pomodoro Timer](#pomodoro-timer)
 - [Reddit](#reddit)
 - [Torrenting](#torrenting)
@@ -219,6 +220,15 @@ __AWESOME__ apps counter: __27__
 - [x] [F-Droid](https://f-droid.org/packages/com.shadow.blackhole/)
 - [x] [GitHub](https://github.com/Sangwan5688/BlackHole)
 - [x] [Official page](https://sangwan5688.github.io/BlackHole/)
+
+## Notes
+### Notally
+<img alt="Notally" height="64" src="https://github.com/OmGodse/Notally/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.omgodse.notally)
+- [x] [F-Droid](https://f-droid.org/packages/com.omgodse.notally/)
+- [x] [GitHub](https://github.com/OmGodse/Notally)
+- [ ] Official page
 
 ## Pomodoro Timer
 ### Goodtime
