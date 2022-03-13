@@ -13,7 +13,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (take care of your eyes, please)
 
-__AWESOME__ apps counter: __28__
+__AWESOME__ apps counter: __29__
 
 ### Contents:
 - [2FA](#2fa)
@@ -37,6 +37,7 @@ __AWESOME__ apps counter: __28__
 - [Notes](#notes)
 - [Pomodoro Timer](#pomodoro-timer)
 - [Reddit](#reddit)
+- [SMS Messenger](#sms-messenger)
 - [Torrenting](#torrenting)
 - [Twitch](#twitch)
 - [Twitter](#twitter)
@@ -247,6 +248,15 @@ __AWESOME__ apps counter: __28__
 - [x] [F-Droid](https://f-droid.org/packages/ml.docilealligator.infinityforreddit/)
 - [x] [GitHub](https://github.com/Docile-Alligator/Infinity-For-Reddit)
 - [ ] Official page
+
+## SMS Messenger
+### Simple SMS Messenger
+<img alt="SimpleSMSMessenger" height="64" src="https://github.com/SimpleMobileTools/Simple-SMS-Messenger/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.smsmessenger)
+- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.smsmessenger)
+- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-SMS-Messenger)
+- [x] [Official page](https://www.simplemobiletools.com/sms)
 
 ## Torrenting
 ### LibreTorrent
