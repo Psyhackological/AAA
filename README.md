@@ -13,7 +13,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __32__
+__AWESOME__ apps counter: __33__
 
 ### Contents:
 - [2FA](#2fa)
@@ -44,6 +44,7 @@ __AWESOME__ apps counter: __32__
 - [Twitch](#twitch)
 - [Twitter](#twitter)
 - [Video Players](#video-players)
+- [Voice Recorder](#voice-recorder)
 - [YouTube](#youtube)
 
 ## 2FA
@@ -321,6 +322,15 @@ __AWESOME__ apps counter: __32__
 - [x] [F-Droid](https://www.f-droid.org/en/packages/org.videolan.vlc/)
 - [x] [GitHub](https://github.com/videolan/vlc-android)
 - [x] [Official page](https://www.videolan.org/)
+
+## Voice Recorder
+### Simple Voice Recorder
+<img alt="SimpleVoiceRecorder" height="64" src="https://github.com/SimpleMobileTools/Simple-Voice-Recorder/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.voicerecorder)
+- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.voicerecorder/)
+- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Voice-Recorder)
+- [x] [Official page](https://www.simplemobiletools.com/voice)
 
 ## YouTube
 ### NewPipe
