@@ -13,7 +13,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (take care of your eyes, please)
 
-__AWESOME__ apps counter: __29__
+__AWESOME__ apps counter: __30__
 
 ### Contents:
 - [2FA](#2fa)
@@ -142,6 +142,14 @@ __AWESOME__ apps counter: __29__
 - [x] [F-Droid](https://f-droid.org/packages/me.zhanghai.android.files)
 - [x] [GitHub](https://github.com/zhanghai/MaterialFiles)
 - [ ] Official page
+
+### Amaze File Manager
+<img alt="AmazeFileManager" height="64" src="https://github.com/TeamAmaze/AmazeFileManager/raw/release/3.7/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
+- [x] [F-Droid](https://f-droid.org/packages/com.amaze.filemanager/)
+- [x] [GitHub](https://github.com/TeamAmaze/AmazeFileManager)
+- [x] [Official page](https://teamamaze.xyz/)
 
 ## Gallery
 ### Simple Gallery
