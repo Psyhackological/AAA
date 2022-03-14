@@ -13,7 +13,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (take care of your eyes, please)
 
-__AWESOME__ apps counter: __30__
+__AWESOME__ apps counter: __31__
 
 ### Contents:
 - [2FA](#2fa)
@@ -35,6 +35,7 @@ __AWESOME__ apps counter: __30__
 - [Maps](#maps)
 - [Music Players](#music-players)
 - [Notes](#notes)
+- [PDF Viewer](#pdf-viewer)
 - [Pomodoro Timer](#pomodoro-timer)
 - [Reddit](#reddit)
 - [SMS Messenger](#sms-messenger)
@@ -237,6 +238,15 @@ __AWESOME__ apps counter: __30__
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.omgodse.notally)
 - [x] [F-Droid](https://f-droid.org/packages/com.omgodse.notally/)
 - [x] [GitHub](https://github.com/OmGodse/Notally)
+- [ ] Official page
+
+## PDF Viewer
+### Pdf Viewer Plus 
+<img alt="PdfViewerPlus" height="64" src="https://github.com/JavaCafe01/PdfViewer/raw/master/images/high_res.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.gsnathan.pdfviewer)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.gsnathan.pdfviewer)
+- [x] [GitHub](https://github.com/JavaCafe01/PdfViewer)
 - [ ] Official page
 
 ## Pomodoro Timer
