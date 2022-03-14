@@ -11,12 +11,13 @@
 - [x] Easy to use
 - [x] Still maintained or finished
 - [x] Does not lack of features compared to "default app"
-- [x] Has dark theme (take care of your eyes, please)
+- [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __31__
+__AWESOME__ apps counter: __32__
 
 ### Contents:
 - [2FA](#2fa)
+- [Barcode Scanner](#barcode-scanner)
 - [Birthday Calendar](#birthday-calendar)
 - [Browsers](#browsers)
 - [Calculator](#calculator)
@@ -53,6 +54,15 @@ __AWESOME__ apps counter: __31__
 - [x] [F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)
 - [x] [GitHub](https://github.com/beemdevelopment/Aegis)
 - [x] [Official page](https://getaegis.app/)
+
+## Barcode Scanner
+### Binary Eye
+<img alt="BinaryEye" height="64" src="https://raw.githubusercontent.com/markusfisch/BinaryEye/master/svg/google_play_icon.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye)
+- [x] [F-Droid](https://f-droid.org/en/packages/de.markusfisch.android.binaryeye/)
+- [x] [GitHub](https://github.com/markusfisch/BinaryEye)
+- [ ] Official page
 
 ## Birthday Calendar
 ### Birday
