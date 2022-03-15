@@ -13,7 +13,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __33__
+__AWESOME__ apps counter: __35__
 
 ### Contents:
 - [2FA](#2fa)
@@ -348,3 +348,11 @@ __AWESOME__ apps counter: __33__
 - [x] [F-Droid](https://f-droid.org/repository/browse/?fdid=free.rm.skytube.oss)
 - [x] [GitHub](https://github.com/SkyTubeTeam/SkyTube)
 - [x] [Official page](https://skytube-app.com/)
+
+### LibreTube
+<img alt="LibreTube" height="64" src="https://github.com/libre-tube/LibreTube/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
+
+- [ ] Google Play
+- [x] F-Droid
+- [x] [GitHub](https://github.com/libre-tube/LibreTube)
+- [x] [Official page](https://t.me/LibreTube)
