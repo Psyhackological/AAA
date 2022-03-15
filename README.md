@@ -13,7 +13,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __36__
+__AWESOME__ apps counter: __37__
 
 ### Contents:
 - [2FA](#2fa)
@@ -100,6 +100,14 @@ __AWESOME__ apps counter: __36__
 - [x] [F-Droid](https://f-droid.org/en/packages/net.sourceforge.opencamera/)
 - [x] [SourceForge](https://sourceforge.net/p/opencamera/code/)
 - [x] [Official page](https://opencamera.org.uk/)
+
+### GrapheneOS Camera 
+<img alt="GrapheneOSCamera" height="64" src="https://github.com/GrapheneOS/Camera/blob/main/app/src/main/ic_launcher-playstore.png?raw=true">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/GrapheneOS/Camera)
+- [x] [Official page](https://grapheneos.org/)
 
 ## Chess
 ### Lichess
