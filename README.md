@@ -13,13 +13,13 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __35__
+__AWESOME__ apps counter: __36__
 
 ### Contents:
 - [2FA](#2fa)
 - [Barcode Scanner](#barcode-scanner)
 - [Birthday Calendar](#birthday-calendar)
-- [Browsers](#browsers)
+- [Browser](#browser)
 - [Calculator](#calculator)
 - [Camera](#camera)
 - [Chess](#chess)
@@ -32,9 +32,9 @@ __AWESOME__ apps counter: __35__
 - [GitHub Client](#github-client)
 - [Google Play](#google-play)
 - [Instant Messaging](#instant-messaging)
-- [Keyboards](#keyboards)
+- [Keyboard](#keyboard)
 - [Maps](#maps)
-- [Music Players](#music-players)
+- [Music Player](#music-player)
 - [Notes](#notes)
 - [PDF Viewer](#pdf-viewer)
 - [Pomodoro Timer](#pomodoro-timer)
@@ -43,7 +43,7 @@ __AWESOME__ apps counter: __35__
 - [Torrenting](#torrenting)
 - [Twitch](#twitch)
 - [Twitter](#twitter)
-- [Video Players](#video-players)
+- [Video Player](#video-player)
 - [Voice Recorder](#voice-recorder)
 - [YouTube](#youtube)
 
@@ -74,7 +74,7 @@ __AWESOME__ apps counter: __35__
 - [x] [GitHub](https://github.com/m-i-n-a-r/birday)
 - [ ] Official page
 
-## Browsers
+## Browser
 ### Bromite
 <img alt="Bromite" height="64" src="https://camo.githubusercontent.com/bff09bcc69b64a9924df8e61391e90e79c9ac2280e9168505a021ddf0bca612f/68747470733a2f2f7777772e62726f6d6974652e6f72672f616e64726f69642d69636f6e2d313932783139322e706e67">
 
@@ -110,8 +110,8 @@ __AWESOME__ apps counter: __35__
 - [x] [GitHub](https://github.com/lichess-org/lichobile)
 - [x] [Official page](https://lichess.org/mobile)
 
-## Contacts 
-### Simple Contacts 
+## Contacts
+### Simple Contacts
 <img alt="SimpleContacts" height="64" src="https://github.com/SimpleMobileTools/Simple-Contacts/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.contacts.pro)
@@ -136,6 +136,14 @@ __AWESOME__ apps counter: __35__
 - [x] [F-Droid](https://f-droid.org/app/com.chooloo.www.koler)
 - [x] [GitHub](https://github.com/Chooloo/koler)
 - [ ] Official page
+
+### Simple Dialer
+<img alt="SimpleDialer" height="64" src="https://github.com/SimpleMobileTools/Simple-Dialer/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.dialer)
+- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.dialer)
+- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Dialer)
+- [x] [Official page](https://www.simplemobiletools.com/)
 
 ## Discord
 ### Aliucord
@@ -207,7 +215,7 @@ __AWESOME__ apps counter: __35__
 - [x] [GitHub](https://github.com/mollyim/mollyim-android)
 - [x] [Official page](https://molly.im/)
 
-## Keyboards
+## Keyboard
 ### Openboard
 <img alt="Openboard" height="64" src="https://github.com/openboard-team/openboard/blob/master/images/open_board_final.png?raw=true">
 
@@ -225,7 +233,7 @@ __AWESOME__ apps counter: __35__
 - [x] [GitHub](https://github.com/organicmaps/organicmaps)
 - [x] [Official page](https://organicmaps.app/)
 
-## Music Players
+## Music Player
 ### Retro Music Player
 <img alt="RetroMusicPlayer" height="64" src="https://play-lh.googleusercontent.com/LsjjdQ5KSBnnztnMzRq8nTkmmCSINVE3BwSf4YG0Ps2ITGZQ-yV9pzbEAgkDXjx52140=s180">
 
@@ -314,7 +322,7 @@ __AWESOME__ apps counter: __35__
 - [x] [GitHub](https://github.com/jonjomckay/fritter)
 - [x] [Official page](https://fritter.cc/)
 
-## Video Players
+## Video Player
 ### VLC
 <img alt="VLC" height="64" src="https://github.com/videolan/vlc-android/raw/master/application/resources/assets/images/svg/icon.svg">
 
@@ -353,6 +361,6 @@ __AWESOME__ apps counter: __35__
 <img alt="LibreTube" height="64" src="https://github.com/libre-tube/LibreTube/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 - [ ] Google Play
-- [x] F-Droid
+- [ ] F-Droid
 - [x] [GitHub](https://github.com/libre-tube/LibreTube)
 - [x] [Official page](https://t.me/LibreTube)
