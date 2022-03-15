@@ -340,3 +340,11 @@ __AWESOME__ apps counter: __33__
 - [x] [F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)
 - [x] [GitHub](https://github.com/TeamNewPipe/NewPipe)
 - [x] [Official page](https://newpipe.net/)
+
+### SkyTube
+<img alt="SkyTube" height="64" src="https://github.com/SkyTubeTeam/SkyTube/blob/master/app/src/main/ic_launcher-web.png?raw=true">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/repository/browse/?fdid=free.rm.skytube.oss)
+- [x] [GitHub](https://github.com/SkyTubeTeam/SkyTube)
+- [x] [Official page](https://skytube-app.com/)
