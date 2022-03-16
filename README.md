@@ -13,7 +13,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __37__
+__AWESOME__ apps counter: __38__
 
 ### Contents:
 - [2FA](#2fa)
@@ -275,6 +275,14 @@ __AWESOME__ apps counter: __37__
 - [x] [F-Droid](https://f-droid.org/en/packages/com.gsnathan.pdfviewer)
 - [x] [GitHub](https://github.com/JavaCafe01/PdfViewer)
 - [ ] Official page
+
+### GrapheneOS PDF Viewer 
+<img alt="GrapheneOSPDFViewer" height="64" src="https://github.com/GrapheneOS/PdfViewer/blob/main/app/src/main/ic_launcher-playstore.png?raw=true">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/GrapheneOS/PdfViewer)
+- [x] [Official page](https://grapheneos.org/)
 
 ## Pomodoro Timer
 ### Goodtime
