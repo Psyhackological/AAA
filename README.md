@@ -13,7 +13,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __38__
+__AWESOME__ apps counter: __39__
 
 ### Contents:
 - [2FA](#2fa)
@@ -257,6 +257,14 @@ __AWESOME__ apps counter: __38__
 - [x] [F-Droid](https://f-droid.org/packages/com.shadow.blackhole/)
 - [x] [GitHub](https://github.com/Sangwan5688/BlackHole)
 - [x] [Official page](https://sangwan5688.github.io/BlackHole/)
+
+### Auxio
+<img alt="Auxio" height="64" src="https://github.com/OxygenCobalt/Auxio/raw/dev/fastlane/metadata/android/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/app/org.oxycblt.auxio)
+- [x] [GitHub](https://github.com/OxygenCobalt/Auxio)
+- [ ] Official page
 
 ## Notes
 ### Notally
