@@ -92,6 +92,14 @@ __AWESOME__ apps counter: __40__
 - [x] [GitHub](https://github.com/Bubu/android-calculatorpp)
 - [ ] Official page
 
+### Simple Calculator
+<img alt="SimpleCalculator" height="64" src="https://github.com/SimpleMobileTools/Simple-Calculator/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.calculator)
+- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.calculator)
+- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Calculator)
+- [x] [Official page](https://www.simplemobiletools.com/calculator)
+
 ## Camera 
 ### OpenCamera 
 <img alt="OpenCamera" height="64" src="https://opencamera.org.uk/ic_launcher.png">
