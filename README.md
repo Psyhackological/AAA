@@ -13,7 +13,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __40__
+__AWESOME__ apps counter: __42__
 
 ### Contents:
 - [2FA](#2fa)
@@ -24,6 +24,7 @@ __AWESOME__ apps counter: __40__
 - [Camera](#camera)
 - [Chess](#chess)
 - [Contacts](#contacts)
+- [Decision Making](#decision-making)
 - [Device Synchronization](#device-synchronization)
 - [Dialer](#dialer)
 - [Discord](#discord)
@@ -134,6 +135,15 @@ __AWESOME__ apps counter: __40__
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.contacts.pro)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Contacts)
 - [x] [Official page](https://www.simplemobiletools.com/contacts/)
+
+## Decision Making
+### Decisions
+<img alt="Decisions" height="64" src="https://raw.githubusercontent.com/markusfisch/Libra/master/svg/google_play_icon.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.libra)
+- [x] [F-Droid](https://f-droid.org/packages/de.markusfisch.android.libra/)
+- [x] [GitHub](https://github.com/markusfisch/Libra)
+- [ ] Official page
 
 ## Device Synchronization
 ### KDE Connect
