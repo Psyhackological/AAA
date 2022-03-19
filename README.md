@@ -414,3 +414,16 @@ __AWESOME__ apps counter: __42__
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/libre-tube/LibreTube)
 - [x] [Official page](https://t.me/LibreTube)
+
+## Special thanks to:
+### LinuxCafeFederation/[awesome-android](https://github.com/LinuxCafeFederation/awesome-android)
+<img alt="SkyTube" height="64" src="https://avatars.githubusercontent.com/u/66378202?s=200&v=4">
+
+### pluja/[awesome-privacy](https://github.com/pluja/awesome-privacy)
+<img alt="SkyTube" width="256" src="https://github.com/pluja/awesome-privacy/raw/main/misc/logo.png">
+
+### JStumpp/[awesome-android](https://github.com/JStumpp/awesome-android)
+<img alt="SkyTube" width="256" src="https://raw.githubusercontent.com/jstumpp/awesome-android/master/awesome-android.png">
+
+### [AlternativeTo.net](https://alternativeto.net/)
+<img alt="SkyTube" width="256" src="https://alternativeto.net/static/logo.svg">
