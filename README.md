@@ -13,7 +13,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __42__
+__AWESOME__ apps counter: __43__
 
 ### Contents:
 - [2FA](#2fa)
@@ -21,6 +21,7 @@ __AWESOME__ apps counter: __42__
 - [Birthday Calendar](#birthday-calendar)
 - [Browser](#browser)
 - [Calculator](#calculator)
+- [Calendar](#calendar)
 - [Camera](#camera)
 - [Chess](#chess)
 - [Contacts](#contacts)
@@ -100,6 +101,15 @@ __AWESOME__ apps counter: __42__
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.calculator)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Calculator)
 - [x] [Official page](https://www.simplemobiletools.com/calculator)
+
+## Calendar 
+### Simple Calendar 
+<img alt="SimpleCalendar" height="64" src="https://github.com/SimpleMobileTools/Simple-Calendar/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro)
+- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.calendar.pro)
+- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Calendar)
+- [x] [Official page](https://www.simplemobiletools.com/calendar)
 
 ## Camera 
 ### OpenCamera 
