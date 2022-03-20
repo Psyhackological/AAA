@@ -13,7 +13,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __44__
+__AWESOME__ apps counter: __45__
 
 ### Contents:
 - [2FA](#2fa)
@@ -318,6 +318,14 @@ __AWESOME__ apps counter: __44__
 - [x] [F-Droid](https://f-droid.org/packages/com.omgodse.notally/)
 - [x] [GitHub](https://github.com/OmGodse/Notally)
 - [ ] Official page
+
+### Simple Notes
+<img alt="SimpleNotes" height="64" src="https://github.com/SimpleMobileTools/Simple-Notes/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.notes.pro)
+- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.notes.pro)
+- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Notes)
+- [x] [Official page](https://www.simplemobiletools.com/notes)
 
 ## PDF Viewer
 ### Pdf Viewer Plus 
