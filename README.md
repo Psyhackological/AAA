@@ -13,7 +13,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __45__
+__AWESOME__ apps counter: __46__
 
 ### Contents:
 - [2FA](#2fa)
@@ -33,6 +33,7 @@ __AWESOME__ apps counter: __45__
 - [Gallery](#gallery)
 - [GitHub Client](#github-client)
 - [Google Play](#google-play)
+- [Image Processing](#image-processing)
 - [Instant Messaging](#instant-messaging)
 - [Keyboard](#keyboard)
 - [Maps](#maps)
@@ -233,6 +234,15 @@ __AWESOME__ apps counter: __45__
 - [x] [F-Droid](https://f-droid.org/en/packages/com.aurora.store/)
 - [x] [GitLab](https://gitlab.com/AuroraOSS/AuroraStore)
 - [x] [Official page](https://auroraoss.com/)
+
+## Image Processing
+### Imagepipe
+<img alt="Imagepipe" height="64" src="https://codeberg.org/repo-avatars/230-a47fb71f565ec2388d5e78c561a5262d">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/de.kaffeemitkoffein.imagepipe)
+- [x] [CodeBerg](https://codeberg.org/Starfish/Imagepipe)
+- [ ] Official page
 
 ## Instant Messaging
 ### Signal
