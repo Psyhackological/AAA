@@ -3,17 +3,18 @@
 ## This is the list of THE BEST apps according to me. You can prove me wrong on the [contributing page](CONTRIBUTING.md).
 
 ### Rules:
-- [x] Free
-- [x] Ad-free
 - [x] Open Sourced
-- [x] Tested by me
+- [x] Free of charge
+- [x] Free as in Freedom
+- [x] Ad-free
+- [x] Installed and tested by me
 - [x] Privacy-friendly
 - [x] Easy to use
-- [x] Still maintained or finished
+- [x] Still developed or polished experience
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __47__
+__AWESOME__ apps counter: __48__
 
 ### Contents:
 - [2FA](#2fa)
@@ -33,6 +34,7 @@ __AWESOME__ apps counter: __47__
 - [Gallery](#gallery)
 - [GitHub Client](#github-client)
 - [Google Play](#google-play)
+- [Habit Tracker](#habit-tracker)
 - [Image Processing](#image-processing)
 - [Instant Messaging](#instant-messaging)
 - [Keyboard](#keyboard)
@@ -50,6 +52,8 @@ __AWESOME__ apps counter: __47__
 - [Video Player](#video-player)
 - [Voice Recorder](#voice-recorder)
 - [YouTube](#youtube)
+
+### [Special Thanks](#special-thanks-to)
 
 ## 2FA
 ### Aegis
@@ -235,6 +239,15 @@ __AWESOME__ apps counter: __47__
 - [x] [F-Droid](https://f-droid.org/en/packages/com.aurora.store/)
 - [x] [GitLab](https://gitlab.com/AuroraOSS/AuroraStore)
 - [x] [Official page](https://auroraoss.com/)
+
+## Habit Tracker 
+### Loop Habit Tracker
+<img alt="Imagepipe" height="64" src="https://github.com/iSoron/uhabits/blob/dev/uhabits-android/src/main/res/drawable/intro_icon_1.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.isoron.uhabits)
+- [x] [F-Droid](https://f-droid.org/app/org.isoron.uhabits)
+- [x] [GitHub](https://github.com/iSoron/uhabits)
+- [x] [Official page](https://loophabits.org/)
 
 ## Image Processing
 ### Imagepipe
