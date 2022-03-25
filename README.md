@@ -13,7 +13,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __46__
+__AWESOME__ apps counter: __47__
 
 ### Contents:
 - [2FA](#2fa)
@@ -41,6 +41,7 @@ __AWESOME__ apps counter: __46__
 - [Notes](#notes)
 - [PDF Viewer](#pdf-viewer)
 - [Pomodoro Timer](#pomodoro-timer)
+- [Public Transport Assistant](#public-transport-assistant)
 - [Reddit](#reddit)
 - [SMS Messenger](#sms-messenger)
 - [Torrenting](#torrenting)
@@ -353,6 +354,16 @@ __AWESOME__ apps counter: __46__
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/GrapheneOS/PdfViewer)
 - [x] [Official page](https://grapheneos.org/)
+
+
+## Public Transport Assistant
+### Transportr
+<img alt="Transportr" height="64" src="https://github.com/grote/Transportr/raw/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/repository/browse/?fdid=de.grobox.liberario)
+- [x] [GitHub](https://github.com/grote/Transportr)
+- [x] [Official page](https://transportr.app/)
 
 ## Pomodoro Timer
 ### Goodtime
