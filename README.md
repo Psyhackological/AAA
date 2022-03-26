@@ -30,6 +30,7 @@ __AWESOME__ apps counter: __50__ 🎉
 - [Device Synchronization](#device-synchronization)
 - [Dialer](#dialer)
 - [Discord](#discord)
+- [Drawing](#drawing)
 - [File Manager](#file-manager)
 - [Flashlight](#flashlight)
 - [Gallery](#gallery)
@@ -196,6 +197,15 @@ __AWESOME__ apps counter: __50__ 🎉
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/Aliucord/Aliucord)
 - [ ] Official page
+
+## Drawing
+### Simple Draw
+<img alt="SimpleDraw" height="64" src="https://github.com/SimpleMobileTools/Simple-Draw/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.draw.pro)
+- [x] [F-Droid](https://jamboard.google.com/d/13pdl1j2mvVU3Ag3Y3IMtrGLrW1N6Wf315HHnv02QCbs/edit?usp=sharing)
+- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Draw)
+- [x] [Official page](https://www.simplemobiletools.com/draw)
 
 ## File Manager
 ### Material Files
