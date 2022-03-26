@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __48__
+__AWESOME__ apps counter: __50__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -26,11 +26,12 @@ __AWESOME__ apps counter: __48__
 - [Camera](#camera)
 - [Chess](#chess)
 - [Contacts](#contacts)
-- [Decision Making](#decision-making)
+- [Decision-Making](#decision-making)
 - [Device Synchronization](#device-synchronization)
 - [Dialer](#dialer)
 - [Discord](#discord)
 - [File Manager](#file-manager)
+- [Flashlight](#flashlight)
 - [Gallery](#gallery)
 - [GitHub Client](#github-client)
 - [Google Play](#google-play)
@@ -152,7 +153,7 @@ __AWESOME__ apps counter: __48__
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Contacts)
 - [x] [Official page](https://www.simplemobiletools.com/contacts/)
 
-## Decision Making
+## Decision-Making
 ### Decisions
 <img alt="Decisions" height="64" src="https://raw.githubusercontent.com/markusfisch/Libra/master/svg/google_play_icon.svg">
 
@@ -212,6 +213,15 @@ __AWESOME__ apps counter: __48__
 - [x] [F-Droid](https://f-droid.org/packages/com.amaze.filemanager/)
 - [x] [GitHub](https://github.com/TeamAmaze/AmazeFileManager)
 - [x] [Official page](https://teamamaze.xyz/)
+
+## Flashlight
+### Simple Flashlight
+<img alt="SimpleFlashlight" height="64" src="https://github.com/SimpleMobileTools/Simple-Flashlight/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.flashlight)
+- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.flashlight)
+- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Flashlight)
+- [x] [Official page](https://www.simplemobiletools.com/flashlight)
 
 ## Gallery
 ### Simple Gallery
