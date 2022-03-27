@@ -16,6 +16,8 @@
 
 __AWESOME__ apps counter: __52__ 🎉
 
+### App Name ❤️ = My Personal Favourite
+
 ### Contents:
 - [2FA](#2fa)
 - [Barcode Scanner](#barcode-scanner)
@@ -59,7 +61,7 @@ __AWESOME__ apps counter: __52__ 🎉
 ### [Special Thanks](#special-thanks-to)
 
 ## 2FA
-### Aegis
+### Aegis ❤️
 <img alt="Aegis" height="64" src="https://getaegis.app/dist/images/icon.png">
 
 - [x] [Google Play](http://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
@@ -77,7 +79,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [ ] Official page
 
 ## Birthday Calendar
-### Birday
+### Birday ❤️
 <img alt="Birday" height="64" src="https://github.com/m-i-n-a-r/birday/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.minar.birday)
@@ -86,7 +88,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [ ] Official page
 
 ## Browser
-### Bromite
+### Bromite ❤️
 <img alt="Bromite" height="64" src="https://camo.githubusercontent.com/bff09bcc69b64a9924df8e61391e90e79c9ac2280e9168505a021ddf0bca612f/68747470733a2f2f7777772e62726f6d6974652e6f72672f616e64726f69642d69636f6e2d313932783139322e706e67">
 
 - [ ] Google Play
@@ -95,7 +97,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [x] [Official page](https://www.bromite.org/)
 
 ## Calculator
-### Calculator++
+### Calculator++ ❤️
 <img alt="Calculator++" height="64" src="https://f-droid.org/repo/icons-640/org.solovyev.android.calculator.158.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator)
@@ -103,7 +105,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [x] [GitHub](https://github.com/Bubu/android-calculatorpp)
 - [ ] Official page
 
-### Simple Calculator
+### Simple Calculator ❤️
 <img alt="SimpleCalculator" height="64" src="https://github.com/SimpleMobileTools/Simple-Calculator/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.calculator)
@@ -138,7 +140,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [x] [Official page](https://grapheneos.org/)
 
 ## Chess
-### Lichess
+### Lichess ❤️
 <img alt="Lichess" height="64" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.lichess.mobileapp)
@@ -156,7 +158,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [ ] Official page
 
 ## Contacts
-### Simple Contacts
+### Simple Contacts ❤️
 <img alt="SimpleContacts" height="64" src="https://github.com/SimpleMobileTools/Simple-Contacts/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.contacts.pro)
@@ -174,7 +176,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [ ] Official page
 
 ## Device Synchronization
-### KDE Connect
+### KDE Connect ❤️
 <img alt="KDEconnect" height="64" src="https://raw.githubusercontent.com/KDE/kdeconnect-kde/master/icons/app/sc-apps-kdeconnect.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp)
@@ -191,7 +193,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [x] [GitHub](https://github.com/Chooloo/koler)
 - [ ] Official page
 
-### Simple Dialer
+### Simple Dialer ❤️
 <img alt="SimpleDialer" height="64" src="https://github.com/SimpleMobileTools/Simple-Dialer/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.dialer)
@@ -218,7 +220,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [x] [Official page](https://www.simplemobiletools.com/draw)
 
 ## File Manager
-### Material Files
+### Material Files ❤️
 <img alt="MaterialFiles" height="64" src="https://github.com/zhanghai/MaterialFiles/raw/master/art/launcher_icon.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)
@@ -252,7 +254,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [x] [Official page](https://www.simplemobiletools.com/flashlight)
 
 ## Gallery
-### Simple Gallery
+### Simple Gallery ❤️
 <img alt="SimpleGallery" height="64" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery.pro)
@@ -270,7 +272,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [x] [Official page](https://thirtydegreesray.github.io/OpenHub/)
 
 ## Google Play
-### Aurora Store
+### Aurora Store ❤️
 <img alt="AuroraStore" height="64" src="https://gitlab.com/AuroraOSS/AuroraStore/-/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
 - [ ] Google Play
@@ -279,7 +281,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [x] [Official page](https://auroraoss.com/)
 
 ## Habit Tracker 
-### Loop Habit Tracker
+### Loop Habit Tracker ❤️
 <img alt="Imagepipe" height="64" src="https://github.com/iSoron/uhabits/blob/dev/uhabits-android/src/main/res/drawable/intro_icon_1.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.isoron.uhabits)
@@ -297,7 +299,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [ ] Official page
 
 ## Instant Messaging
-### Signal
+### Signal ❤️
 <img alt="Signal" height="64" src="https://seeklogo.com/images/S/signal-logo-20A1616F60-seeklogo.com.png">
 
 - [x] [Google Play](https://github.com/signalapp/Signal-Android)
@@ -305,7 +307,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [x] [GitHub](https://github.com/signalapp/Signal-Android)
 - [x] [Official page](https://signal.org/)
 
-### Molly
+### Molly ❤️
 <img alt="Molly" height="64" src="https://molly.im/author/molly/avatar_huf94a2fd78ceb4148e0a28cd6efbae53a_18855_270x270_fill_lanczos_center_3.png">
 
 - [ ] Google Play
@@ -314,7 +316,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [x] [Official page](https://molly.im/)
 
 ## Keyboard
-### Openboard
+### Openboard ❤️
 <img alt="Openboard" height="64" src="https://github.com/openboard-team/openboard/blob/master/images/open_board_final.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.dslul.openboard.inputmethod.latin)
@@ -322,7 +324,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [x] [GitHub](https://github.com/openboard-team/openboard)
 - [ ] Official page
 
-### Simple Keyboard
+### Simple Keyboard ❤️
 <img alt="SimpleKeyboard" height="64" src="https://github.com/SimpleMobileTools/Simple-Keyboard/raw/main/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.keyboard)
@@ -331,7 +333,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [x] [Official page](https://www.simplemobiletools.com/keyboard)
 
 ## Maps
-### Organic Maps
+### Organic Maps ❤️
 <img alt="OrganicMaps" height="64" src="https://organicmaps.app/logos/green-on-transparent.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=app.organicmaps)
@@ -340,7 +342,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [x] [Official page](https://organicmaps.app/)
 
 ## Music Player
-### Retro Music Player
+### Retro Music Player ❤️
 <img alt="RetroMusicPlayer" height="64" src="https://play-lh.googleusercontent.com/LsjjdQ5KSBnnztnMzRq8nTkmmCSINVE3BwSf4YG0Ps2ITGZQ-yV9pzbEAgkDXjx52140=s180">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
@@ -408,7 +410,7 @@ __AWESOME__ apps counter: __52__ 🎉
 
 
 ## Public Transport Assistant
-### Transportr
+### Transportr ❤️
 <img alt="Transportr" height="64" src="https://github.com/grote/Transportr/raw/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png">
 
 - [ ] Google Play
@@ -417,7 +419,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [x] [Official page](https://transportr.app/)
 
 ## Pomodoro Timer
-### Goodtime
+### Goodtime ❤️
 <img alt="Goodtime" height="64" src="https://github.com/adrcotfas/Goodtime/blob/master/app/src/main/ic_launcher-web.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.apps.adrcotfas.goodtime)
@@ -426,7 +428,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [ ] Official page
 
 ## Reddit
-### Infinity
+### Infinity ❤️
 <img alt="Infinity" height="64" src="https://github.com/Docile-Alligator/Infinity-For-Reddit/blob/master/app/src/main/res/drawable-xxxhdpi/splash_icon.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit)
@@ -435,7 +437,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [ ] Official page
 
 ## SMS Messenger
-### Simple SMS Messenger
+### Simple SMS Messenger ❤️
 <img alt="SimpleSMSMessenger" height="64" src="https://github.com/SimpleMobileTools/Simple-SMS-Messenger/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.smsmessenger)
@@ -444,7 +446,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [x] [Official page](https://www.simplemobiletools.com/sms)
 
 ## Torrenting
-### LibreTorrent
+### LibreTorrent ❤️
 <img alt="LibreTorrent" height="64" src="https://gitlab.com/proninyaroslav/libretorrent/-/raw/master/art/icon.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent)
@@ -453,7 +455,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [ ] Official page
 
 ## Twitch
-### Twire
+### Twire ❤️
 <img alt="Twire" height="64" src="https://github.com/twireapp/Twire/blob/master/app/src/main/ic_launcher-web.png?raw=true">
 
 - [ ] Google Play
@@ -462,7 +464,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [ ] Official page
 
 ## Twitter
-### Fritter
+### Fritter ❤️
 <img alt="Fritter" height="64" src="https://camo.githubusercontent.com/d2f22524a41d737d6919d4fdad7f60553a0b086fceb581a5de042c32d9c2366c/687474703a2f2f692e696d6775722e636f6d2f786d4f394d54762e706e67">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.jonjomckay.fritter)
@@ -471,7 +473,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [x] [Official page](https://fritter.cc/)
 
 ## Video Player
-### VLC
+### VLC ❤️
 <img alt="VLC" height="64" src="https://github.com/videolan/vlc-android/raw/master/application/resources/assets/images/svg/icon.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc)
@@ -480,7 +482,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [x] [Official page](https://www.videolan.org/)
 
 ## Voice Recorder
-### Simple Voice Recorder
+### Simple Voice Recorder ❤️
 <img alt="SimpleVoiceRecorder" height="64" src="https://github.com/SimpleMobileTools/Simple-Voice-Recorder/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.voicerecorder)
@@ -489,7 +491,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [x] [Official page](https://www.simplemobiletools.com/voice)
 
 ## YouTube
-### NewPipe
+### NewPipe ❤️
 <img alt="NewPipe" height="64" src="https://newpipe.net/img/logo.svg">
 
 - [ ] Google Play
@@ -525,3 +527,5 @@ __AWESOME__ apps counter: __52__ 🎉
 
 ### [AlternativeTo.net](https://alternativeto.net/)
 <img alt="SkyTube" width="256" src="https://alternativeto.net/static/logo.svg">
+
+# [⬆ Go back ⬆](#contents)
