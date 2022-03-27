@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __50__ 🎉
+__AWESOME__ apps counter: __51__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -25,6 +25,7 @@ __AWESOME__ apps counter: __50__ 🎉
 - [Calendar](#calendar)
 - [Camera](#camera)
 - [Chess](#chess)
+- [Cleaner](#cleaner)
 - [Contacts](#contacts)
 - [Decision-Making](#decision-making)
 - [Device Synchronization](#device-synchronization)
@@ -144,6 +145,15 @@ __AWESOME__ apps counter: __50__ 🎉
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/lichess-org/lichobile)
 - [x] [Official page](https://lichess.org/mobile)
+
+## Cleaner
+### LTE Cleaner
+<img alt="LTECleaner" height="64" src="https://github.com/TheRedSpy15/LTECleanerFOSS/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=theredspy15.ltecleanerfoss)
+- [x] [F-Droid](https://f-droid.org/packages/theredspy15.ltecleanerfoss/)
+- [x] [GitHub](https://github.com/TheRedSpy15/LTECleanerFOSS)
+- [ ] Official page
 
 ## Contacts
 ### Simple Contacts
