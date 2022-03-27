@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __51__ 🎉
+__AWESOME__ apps counter: __52__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -233,6 +233,14 @@ __AWESOME__ apps counter: __51__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.amaze.filemanager/)
 - [x] [GitHub](https://github.com/TeamAmaze/AmazeFileManager)
 - [x] [Official page](https://teamamaze.xyz/)
+
+### Simple File Manager
+<img alt="SimpleFileManager" height="64" src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager.pro)
+- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.filemanager.pro)
+- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-File-Manager)
+- [x] [Official page](https://www.simplemobiletools.com/filemanager/)
 
 ## Flashlight
 ### Simple Flashlight
