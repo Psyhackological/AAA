@@ -1,4 +1,6 @@
-# Awesome Android Alternatives
+<div align="center">
+    <img src="img/AAA_long_plain.svg" width="75%" alt="Awesome Android Alternatives">
+</div>
 
 ## This is the list of THE BEST apps according to me. You can prove me wrong on the [contributing page](CONTRIBUTING.md).
 
