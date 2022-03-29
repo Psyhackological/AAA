@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="img/AAA_long_plain.svg" width="75%" alt="Awesome Android Alternatives">
-</div>
+<img src="img/AAA_long_plain.svg" width="75%" alt="AwesomeAndroidAlternatives">
 
 ## This is the list of THE BEST apps according to me. You can prove me wrong on the [contributing page](CONTRIBUTING.md).
 
