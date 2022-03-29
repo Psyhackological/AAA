@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __52__ 🎉
+__AWESOME__ apps counter: __53__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -40,6 +40,7 @@ __AWESOME__ apps counter: __52__ 🎉
 - [GitHub Client](#github-client)
 - [Google Play](#google-play)
 - [Habit Tracker](#habit-tracker)
+- [Icon Pack](#icon-pack)
 - [Image Processing](#image-processing)
 - [Instant Messaging](#instant-messaging)
 - [Keyboard](#keyboard)
@@ -288,6 +289,15 @@ __AWESOME__ apps counter: __52__ 🎉
 - [x] [F-Droid](https://f-droid.org/app/org.isoron.uhabits)
 - [x] [GitHub](https://github.com/iSoron/uhabits)
 - [x] [Official page](https://loophabits.org/)
+
+## Icon Pack 
+### Arcticons ❤️
+<img alt="Arcticons" height="64" src="https://raw.githubusercontent.com/Donnnno/Arcticons/main/icons/white/arcticons.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.donnnno.arcticons)
+- [x] [F-Droid](https://f-droid.org/packages/com.donnnno.arcticons)
+- [x] [GitHub](https://github.com/Donnnno/Arcticons)
+- [x] [Official page](https://arcticons.onnno.nl/)
 
 ## Image Processing
 ### Imagepipe
