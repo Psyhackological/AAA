@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __54__ 🎉
+__AWESOME__ apps counter: __55__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -49,6 +49,7 @@ __AWESOME__ apps counter: __54__ 🎉
 - [Notes](#notes)
 - [Office Suite](#office-suite)
 - [PDF Viewer](#pdf-viewer)
+- [Password Manager](#password-manager)
 - [Pomodoro Timer](#pomodoro-timer)
 - [Public Transport Assistant](#public-transport-assistant)
 - [Reddit](#reddit)
@@ -419,6 +420,15 @@ __AWESOME__ apps counter: __54__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/com.gsnathan.pdfviewer)
 - [x] [GitHub](https://github.com/JavaCafe01/PdfViewer)
 - [ ] Official page
+
+## Password Manager
+### Bitwarden
+<img alt="Bitwarden" height="64" src="https://github.com/bitwarden/mobile/blob/master/store/google/icons/hi-res-icon.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
+- [x] [F-Droid](https://mobileapp.bitwarden.com/fdroid/)
+- [x] [GitHub](https://github.com/bitwarden/mobile)
+- [x] [Official page](https://bitwarden.com/)
 
 ### GrapheneOS PDF Viewer 
 <img alt="GrapheneOSPDFViewer" height="64" src="https://github.com/GrapheneOS/PdfViewer/blob/main/app/src/main/ic_launcher-playstore.png?raw=true">
