@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __53__ 🎉
+__AWESOME__ apps counter: __54__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -47,6 +47,7 @@ __AWESOME__ apps counter: __53__ 🎉
 - [Maps](#maps)
 - [Music Player](#music-player)
 - [Notes](#notes)
+- [Office Suite](#office-suite)
 - [PDF Viewer](#pdf-viewer)
 - [Pomodoro Timer](#pomodoro-timer)
 - [Public Transport Assistant](#public-transport-assistant)
@@ -401,6 +402,15 @@ __AWESOME__ apps counter: __53__ 🎉
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Notes)
 - [x] [Official page](https://www.simplemobiletools.com/notes)
 
+## Office Suite
+### Collabora Office
+<img alt="CollaboraOffice" height="64" src="https://www.collaboraoffice.com/wp-content/uploads/2022/03/cropped-collabora-productivity-nav-icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.collabora.libreoffice)
+- [x] [F-Droid](https://www.collaboraoffice.com/tag/f-droid/)
+- [x] [GitHub](https://github.com/CollaboraOnline/online)
+- [x] [Official page](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/)
+
 ## PDF Viewer
 ### Pdf Viewer Plus 
 <img alt="PdfViewerPlus" height="64" src="https://github.com/JavaCafe01/PdfViewer/raw/master/images/high_res.png">
@@ -526,6 +536,8 @@ __AWESOME__ apps counter: __53__ 🎉
 - [x] [Official page](https://t.me/LibreTube)
 
 ## Special thanks to:
+### AWESOME PEOPLE that developed or still develops these AWESOME SOFTWARE.
+
 ### LinuxCafeFederation/[awesome-android](https://github.com/LinuxCafeFederation/awesome-android)
 <img alt="SkyTube" height="64" src="https://avatars.githubusercontent.com/u/66378202?s=200&v=4">
 
