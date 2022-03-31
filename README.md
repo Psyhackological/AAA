@@ -421,16 +421,7 @@ __AWESOME__ apps counter: __55__ 🎉
 - [x] [GitHub](https://github.com/JavaCafe01/PdfViewer)
 - [ ] Official page
 
-## Password Manager
-### Bitwarden
-<img alt="Bitwarden" height="64" src="https://github.com/bitwarden/mobile/blob/master/store/google/icons/hi-res-icon.png?raw=true">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
-- [x] [F-Droid](https://mobileapp.bitwarden.com/fdroid/)
-- [x] [GitHub](https://github.com/bitwarden/mobile)
-- [x] [Official page](https://bitwarden.com/)
-
-### GrapheneOS PDF Viewer 
+### GrapheneOS PDF Viewer
 <img alt="GrapheneOSPDFViewer" height="64" src="https://github.com/GrapheneOS/PdfViewer/blob/main/app/src/main/ic_launcher-playstore.png?raw=true">
 
 - [ ] Google Play
@@ -438,6 +429,14 @@ __AWESOME__ apps counter: __55__ 🎉
 - [x] [GitHub](https://github.com/GrapheneOS/PdfViewer)
 - [x] [Official page](https://grapheneos.org/)
 
+## Password Manager
+### Bitwarden ❤
+<img alt="Bitwarden" height="64" src="https://github.com/bitwarden/mobile/blob/master/store/google/icons/hi-res-icon.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
+- [x] [F-Droid](https://mobileapp.bitwarden.com/fdroid/)
+- [x] [GitHub](https://github.com/bitwarden/mobile)
+- [x] [Official page](https://bitwarden.com/)
 
 ## Public Transport Assistant
 ### Transportr ❤️
