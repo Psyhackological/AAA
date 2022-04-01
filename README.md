@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __57__ 🎉
+__AWESOME__ apps counter: __59__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -239,6 +239,14 @@ __AWESOME__ apps counter: __57__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.aurora.adroid/)
 - [x] [GitLab](https://gitlab.com/AuroraOSS/auroradroid)
 - [x] [Official page](https://auroraoss.com/)
+
+### Droid-ify ❤️
+<img alt="Droid-ify" height="64" src="https://raw.githubusercontent.com/NeoApplications/Neo-Store/cfd917bab523f253394d7d9810b02a0e87b3b1c2/metadata/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.looker.droidify)
+- [x] [GitHub](https://github.com/NeoApplications/Neo-Store)
+- [ ] Official page
 
 ## File Manager
 ### Material Files ❤️
