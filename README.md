@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __56__ 🎉
+__AWESOME__ apps counter: __57__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -231,6 +231,14 @@ __AWESOME__ apps counter: __56__ 🎉
 - [ ] F-Droid
 - [x] [GitLab](https://gitlab.com/fdroid/fdroidclient)
 - [x] [Official page](https://f-droid.org/)
+
+### Aurora Droid
+<img alt="AuroraDroid" height="64" src="https://gitlab.com/AuroraOSS/auroradroid/-/raw/master/app/src/main/ic_launcher-web.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.aurora.adroid/)
+- [x] [GitLab](https://gitlab.com/AuroraOSS/auroradroid)
+- [x] [Official page](https://auroraoss.com/)
 
 ## File Manager
 ### Material Files ❤️
