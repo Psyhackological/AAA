@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __55__ 🎉
+__AWESOME__ apps counter: __56__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -34,6 +34,7 @@ __AWESOME__ apps counter: __55__ 🎉
 - [Dialer](#dialer)
 - [Discord](#discord)
 - [Drawing](#drawing)
+- [F-Droid](#f-droid)
 - [File Manager](#file-manager)
 - [Flashlight](#flashlight)
 - [Gallery](#gallery)
@@ -218,9 +219,18 @@ __AWESOME__ apps counter: __55__ 🎉
 <img alt="SimpleDraw" height="64" src="https://github.com/SimpleMobileTools/Simple-Draw/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.draw.pro)
-- [x] [F-Droid](https://jamboard.google.com/d/13pdl1j2mvVU3Ag3Y3IMtrGLrW1N6Wf315HHnv02QCbs/edit?usp=sharing)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.simplemobiletools.draw.pro/)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Draw)
 - [x] [Official page](https://www.simplemobiletools.com/draw)
+
+## F-Droid
+### F-Droid
+<img alt="F-Droid" height="64" src="https://gitlab.com/fdroid/fdroidclient/-/raw/master/app/src/main/res/drawable-hdpi/ic_launcher.png">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitLab](https://gitlab.com/fdroid/fdroidclient)
+- [x] [Official page](https://f-droid.org/)
 
 ## File Manager
 ### Material Files ❤️
