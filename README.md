@@ -32,6 +32,7 @@ __AWESOME__ apps counter: __59__ 🎉
 - [Decision-Making](#decision-making)
 - [Device Synchronization](#device-synchronization)
 - [Dialer](#dialer)
+- [Diary](#diary)
 - [Discord](#discord)
 - [Drawing](#drawing)
 - [F-Droid](#f-droid)
@@ -204,6 +205,15 @@ __AWESOME__ apps counter: __59__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.dialer)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Dialer)
 - [x] [Official page](https://www.simplemobiletools.com/)
+
+## Diary
+### Easy Diary
+<img alt="EasyDiary" height="64" src="https://github.com/hanjoongcho/aaf-easydiary/raw/master/screenshots/ic_launcher.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary)
+- [x] [F-Droid](https://f-droid.org/en/packages/me.blog.korn123.easydiary)
+- [x] [GitHub](https://github.com/hanjoongcho/aaf-easydiary)
+- [ ] Official page
 
 ## Discord
 ### Aliucord
