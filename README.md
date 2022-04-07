@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __59__ 🎉
+__AWESOME__ apps counter: __60__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -372,13 +372,21 @@ __AWESOME__ apps counter: __59__ 🎉
 - [x] [GitHub](https://github.com/openboard-team/openboard)
 - [ ] Official page
 
-### Simple Keyboard ❤️
+### Simple Keyboard
 <img alt="SimpleKeyboard" height="64" src="https://github.com/SimpleMobileTools/Simple-Keyboard/raw/main/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.keyboard)
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.keyboard)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Keyboard)
 - [x] [Official page](https://www.simplemobiletools.com/keyboard)
+
+### FlorisBoard
+<img alt="FlorisBoard" height="64" src="https://github.com/florisboard/florisboard/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard)
+- [x] [GitHub](https://github.com/florisboard/florisboard)
+- [ ] Official page
 
 ## Maps
 ### Organic Maps ❤️
