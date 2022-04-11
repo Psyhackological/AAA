@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __60__ 🎉
+__AWESOME__ apps counter: __61__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -56,6 +56,7 @@ __AWESOME__ apps counter: __60__ 🎉
 - [Public Transport Assistant](#public-transport-assistant)
 - [Reddit](#reddit)
 - [SMS Messenger](#sms-messenger)
+- [Terminal Emulator](#terminal-emulator)
 - [Torrenting](#torrenting)
 - [Twitch](#twitch)
 - [Twitter](#twitter)
@@ -517,6 +518,15 @@ __AWESOME__ apps counter: __60__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.smsmessenger)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-SMS-Messenger)
 - [x] [Official page](https://www.simplemobiletools.com/sms)
+
+## Terminal Emulator
+### Termux
+<img alt="Termux" height="64" src="https://github.com/termux/termux-app/blob/master/art/ic_launcher2.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.termux)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.termux/)
+- [x] [GitHub](https://github.com/termux/termux-app)
+- [x] [Official page](https://termux.org/)
 
 ## Torrenting
 ### LibreTorrent ❤️
