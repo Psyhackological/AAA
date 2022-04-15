@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __61__ 🎉
+__AWESOME__ apps counter: __62__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -310,6 +310,14 @@ __AWESOME__ apps counter: __61__ 🎉
 - [x] [F-Droid](https://f-droid.org/ro/packages/com.thirtydegreesray.openhub/)
 - [x] [GitHub](https://github.com/ThirtyDegreesRay/OpenHub)
 - [x] [Official page](https://thirtydegreesray.github.io/OpenHub/)
+
+### OctoDroid
+<img alt="OctoDroid" height="64" src="https://raw.githubusercontent.com/slapperwan/gh4a/master/app/src/main/res/drawable-xxhdpi/octodroid.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.gh4a)
+- [x] [F-Droid](https://f-droid.org/packages/com.gh4a/)
+- [x] [GitHub](https://github.com/slapperwan/gh4a)
+- [ ] Official page
 
 ## Google Play
 ### Aurora Store ❤️
