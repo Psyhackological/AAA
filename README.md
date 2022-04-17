@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __62__ 🎉
+__AWESOME__ apps counter: __63__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -605,6 +605,14 @@ __AWESOME__ apps counter: __62__ 🎉
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/libre-tube/LibreTube)
 - [x] [Official page](https://t.me/LibreTube)
+
+### SongTube
+<img alt="SongTube" height="64" src="https://github.com/SongTube/SongTube-App/blob/development/assets/images/ic_launcher.png?raw=true">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/SongTube/SongTube-App)
+- [x] [Official page](https://songtube.github.io/)
 
 ## Special thanks to:
 ### AWESOME PEOPLE that developed or still develops these AWESOME SOFTWARE.
