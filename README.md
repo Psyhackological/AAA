@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __66__ 🎉
+__AWESOME__ apps counter: __67__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -300,6 +300,14 @@ __AWESOME__ apps counter: __66__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.gallery.pro)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Gallery)
 - [x] [Official page](https://www.simplemobiletools.com/gallery)
+
+### Aves
+<img alt="Aves" height="64" src="https://raw.githubusercontent.com/deckerst/aves/develop/aves_logo.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=deckers.thibault.aves)
+- [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/deckers.thibault.aves)
+- [x] [GitHub](https://github.com/deckerst/aves)
+- [ ] Official page
 
 ## GitHub Client
 ### OpenHub
