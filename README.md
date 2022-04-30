@@ -18,6 +18,8 @@ __AWESOME__ apps counter: __68__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
+## Please use `Home` button to go to the top.
+
 ### Contents:
 - [2FA](#2fa)
 - [Barcode Scanner](#barcode-scanner)
