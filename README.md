@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __64__ 🎉
+__AWESOME__ apps counter: __65__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -371,6 +371,14 @@ __AWESOME__ apps counter: __64__ 🎉
 - [x] [F-Droid](https://molly.im/fdroid/)
 - [x] [GitHub](https://github.com/mollyim/mollyim-android)
 - [x] [Official page](https://molly.im/)
+
+### Session
+<img alt="Session" height="64" src="https://github.com/oxen-io/session-android/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true">
+
+- [x] [Google Play](https://getsession.org/android)
+- [x] [F-Droid](https://fdroid.getsession.org/)
+- [x] [GitHub](https://github.com/oxen-io/session-android)
+- [x] [Official page](https://getsession.org/)
 
 ## Keyboard
 ### Openboard ❤️
