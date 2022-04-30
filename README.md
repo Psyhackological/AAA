@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __65__ 🎉
+__AWESOME__ apps counter: __66__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -37,8 +37,6 @@ __AWESOME__ apps counter: __65__ 🎉
 - [Drawing](#drawing)
 - [F-Droid](#f-droid)
 - [File Manager](#file-manager)
-- [Flashlight](#flashlight)
-- [Gallery](#gallery)
 - [GitHub Client](#github-client)
 - [Google Play](#google-play)
 - [Habit Tracker](#habit-tracker)
@@ -47,6 +45,7 @@ __AWESOME__ apps counter: __65__ 🎉
 - [Instant Messaging](#instant-messaging)
 - [Keyboard](#keyboard)
 - [Maps](#maps)
+- [Matrix Client](#matrix-client)
 - [Music Player](#music-player)
 - [Notes](#notes)
 - [Office Suite](#office-suite)
@@ -413,6 +412,15 @@ __AWESOME__ apps counter: __65__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/app.organicmaps/)
 - [x] [GitHub](https://github.com/organicmaps/organicmaps)
 - [x] [Official page](https://organicmaps.app/)
+
+## Matrix Client
+### Element
+<img alt="Element" height="64" src="https://element.io/images/logo-mark-primary.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=im.vector.app)
+- [x] [F-Droid](https://f-droid.org/app/im.vector.app)
+- [x] [GitHub](https://github.com/vector-im/element-android)
+- [x] [Official page](https://element.io/)
 
 ## Music Player
 ### Retro Music Player ❤️
