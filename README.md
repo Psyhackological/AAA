@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __67__ 🎉
+__AWESOME__ apps counter: __68__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -48,6 +48,7 @@ __AWESOME__ apps counter: __67__ 🎉
 - [Matrix Client](#matrix-client)
 - [Music Player](#music-player)
 - [Notes](#notes)
+- [OCR](#ocr)
 - [Office Suite](#office-suite)
 - [PDF Viewer](#pdf-viewer)
 - [Password Manager](#password-manager)
@@ -479,6 +480,15 @@ __AWESOME__ apps counter: __67__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.notes.pro)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Notes)
 - [x] [Official page](https://www.simplemobiletools.com/notes)
+
+## OCR
+### OCR (Tesseract) 
+<img alt="OCR(Tesseract)" height="64" src="https://github.com/mtotschnig/OCR/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_scan.png?raw=true">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/org.totschnig.ocr.tesseract/)
+- [x] [GitHub](https://github.com/mtotschnig/OCR)
+- [ ] Official page
 
 ## Office Suite
 ### Collabora Office
