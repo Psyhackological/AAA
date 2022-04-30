@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __63__ 🎉
+__AWESOME__ apps counter: __64__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -588,6 +588,14 @@ __AWESOME__ apps counter: __63__ 🎉
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)
 - [x] [GitHub](https://github.com/TeamNewPipe/NewPipe)
+- [x] [Official page](https://newpipe.net/)
+
+### NewPipe x SponsorBlock x Return YouTube Dislike ❤️
+<img alt="NewPipeXSponsorBlockXReturnYouTubeDislike" height="64" src="https://newpipe.net/img/logo.svg">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)
+- [x] [GitHub](https://github.com/polymorphicshade/NewPipe)
 - [x] [Official page](https://newpipe.net/)
 
 ### SkyTube
