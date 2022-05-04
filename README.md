@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __70__ 🎉
+__AWESOME__ apps counter: __71__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -40,6 +40,7 @@ __AWESOME__ apps counter: __70__ 🎉
 - [Drawing](#drawing)
 - [F-Droid](#f-droid)
 - [File Manager](#file-manager)
+- [File Synchronization](#file-synchronization)
 - [GitHub Client](#github-client)
 - [Google Play](#google-play)
 - [Habit Tracker](#habit-tracker)
@@ -295,6 +296,15 @@ __AWESOME__ apps counter: __70__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.filemanager.pro)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-File-Manager)
 - [x] [Official page](https://www.simplemobiletools.com/filemanager/)
+
+## File Synchronization
+### Syncthing
+<img alt="Syncthing" height="64" src="https://raw.githubusercontent.com/syncthing/syncthing-android/841f89b8863102608e8d6c3d24272e1a71cb9449/graphics/ic_launcher_full.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid)
+- [x] [F-Droid](https://f-droid.org/app/com.nutomic.syncthingandroid)
+- [x] [GitHub](https://github.com/syncthing/syncthing-android)
+- [x] [Official page](https://syncthing.net/)
 
 ## Flashlight
 ### Simple Flashlight
