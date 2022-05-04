@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __68__ 🎉
+__AWESOME__ apps counter: __69__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -22,6 +22,7 @@ __AWESOME__ apps counter: __68__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
+- [Alarm](#alarm)
 - [Barcode Scanner](#barcode-scanner)
 - [Birthday Calendar](#birthday-calendar)
 - [Browser](#browser)
@@ -76,6 +77,15 @@ __AWESOME__ apps counter: __68__ 🎉
 - [x] [F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)
 - [x] [GitHub](https://github.com/beemdevelopment/Aegis)
 - [x] [Official page](https://getaegis.app/)
+
+## Alarm
+### Alarmio ❤️
+<img alt="Aegis" height="64" src="https://github.com/fennifith/Alarmio/blob/main/app/src/main/ic_launcher-web.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=me.jfenn.alarmio)
+- [x] [F-Droid](https://f-droid.org/packages/me.jfenn.alarmio/)
+- [x] [GitHub](https://github.com/fennifith/Alarmio)
+- [ ] Official page
 
 ## Barcode Scanner
 ### Binary Eye
