@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __69__ 🎉
+__AWESOME__ apps counter: __70__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -545,6 +545,14 @@ __AWESOME__ apps counter: __69__ 🎉
 - [x] [F-Droid](https://f-droid.org/repository/browse/?fdid=de.grobox.liberario)
 - [x] [GitHub](https://github.com/grote/Transportr)
 - [x] [Official page](https://transportr.app/)
+
+### Öffi
+<img alt="Öffi" height="64" src="https://gitlab.com/oeffi/oeffi/-/raw/master/oeffi/graphics/ic_oeffi_stations_color_48dp-mdpi.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=de.schildbach.oeffi)
+- [x] [F-Droid](https://www.f-droid.org/en/packages/de.schildbach.oeffi/)
+- [x] [Gitlab](https://gitlab.com/oeffi/oeffi)
+- [x] [Official page](https://oeffi.schildbach.de/)
 
 ## Pomodoro Timer
 ### Goodtime ❤️
