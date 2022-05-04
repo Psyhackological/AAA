@@ -116,7 +116,7 @@ __AWESOME__ apps counter: __69__ 🎉
 
 ## Calculator
 ### Calculator++ ❤️
-<img alt="Calculator++" height="64" src="https://f-droid.org/repo/icons-640/org.solovyev.android.calculator.158.png">
+<img alt="Calculator++" height="64" src="https://github.com/Bubu/android-calculatorpp/blob/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator)
 - [x] [F-Droid](https://www.f-droid.org/en/packages/org.solovyev.android.calculator/)
