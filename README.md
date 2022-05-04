@@ -71,7 +71,7 @@ __AWESOME__ apps counter: __69__ 🎉
 
 ## 2FA
 ### Aegis ❤️
-<img alt="Aegis" height="64" src="https://getaegis.app/dist/images/icon.png">
+<img alt="Aegis" height="64" src="https://github.com/beemdevelopment/Aegis/blob/master/app/src/main/res/drawable/ic_aegis_iconx.png?raw=true">
 
 - [x] [Google Play](http://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
 - [x] [F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)
