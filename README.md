@@ -14,7 +14,7 @@
 - [x] Does not lack of features compared to "default app"
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __71__ 🎉
+__AWESOME__ apps counter: __74__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -23,6 +23,7 @@ __AWESOME__ apps counter: __71__ 🎉
 ### Contents:
 - [2FA](#2fa)
 - [Alarm](#alarm)
+- [Background Noise](#background-noise)
 - [Barcode Scanner](#barcode-scanner)
 - [Birthday Calendar](#birthday-calendar)
 - [Browser](#browser)
@@ -87,6 +88,15 @@ __AWESOME__ apps counter: __71__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/me.jfenn.alarmio/)
 - [x] [GitHub](https://github.com/fennifith/Alarmio)
 - [ ] Official page
+
+## Background Noise
+### Noice
+<img alt="Noice" height="64" src="https://github.com/ashutoshgngwr/noice/blob/main/graphics/icon-round.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.github.ashutoshgngwr.noice)
+- [x] [F-Droid](https://f-droid.org/packages/com.github.ashutoshgngwr.noice/)
+- [x] [GitHub](https://github.com/ashutoshgngwr/noice)
+- [x] [Official page](https://trynoice.com/)
 
 ## Barcode Scanner
 ### Binary Eye
