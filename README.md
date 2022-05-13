@@ -12,6 +12,7 @@
 - [x] Easy to use
 - [x] Still developed or polished experience
 - [x] Does not lack of features compared to "default app"
+- [x] Does not need an account
 - [x] Has dark theme (go easy on your eyes)
 
 __AWESOME__ apps counter: __74__ 🎉
