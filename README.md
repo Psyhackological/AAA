@@ -40,7 +40,7 @@ __AWESOME__ apps counter: __76__ 🎉
 - [Diary](#diary)
 - [Discord](#discord)
 - [Drawing](#drawing)
-- [E-books](#e-books)
+- [E-book Reader](#e-book-reader)
 - [F-Droid](#f-droid)
 - [File Manager](#file-manager)
 - [File Synchronization](#file-synchronization)
@@ -260,7 +260,7 @@ __AWESOME__ apps counter: __76__ 🎉
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Draw)
 - [x] [Official page](https://www.simplemobiletools.com/draw)
 
-## E-books
+## E-book Reader
 ### Librera Reader
 <img alt="LibreraReader" height="64" src="https://github.com/foobnix/LibreraReader/blob/master/fastlane/metadata/android/ru/images/icon.png?raw=true">
 
