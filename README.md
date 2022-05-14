@@ -15,7 +15,7 @@
 - [x] Does not need an account
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __75__ 🎉
+__AWESOME__ apps counter: __76__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -44,6 +44,7 @@ __AWESOME__ apps counter: __75__ 🎉
 - [F-Droid](#f-droid)
 - [File Manager](#file-manager)
 - [File Synchronization](#file-synchronization)
+- [Flash Cards](#flash-cards)
 - [GitHub Client](#github-client)
 - [Google Play](#google-play)
 - [Habit Tracker](#habit-tracker)
@@ -352,6 +353,15 @@ __AWESOME__ apps counter: __75__ 🎉
 - [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/deckers.thibault.aves)
 - [x] [GitHub](https://github.com/deckerst/aves)
 - [ ] Official page
+
+## Flash Cards
+### AnkiDroid
+<img alt="AnkiDroid" height="64" src="https://github.com/ankidroid/Anki-Android/raw/main/docs/graphics/logos/ankidroid_logo.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.ichi2.anki)
+- [x] [F-Droid](https://f-droid.org/packages/com.ichi2.anki)
+- [x] [GitHub](https://github.com/ankidroid/Anki-Android)
+- [x] [Official page](https://apps.ankiweb.net)
 
 ## GitHub Client
 ### OpenHub
