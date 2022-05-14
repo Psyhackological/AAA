@@ -15,7 +15,7 @@
 - [x] Does not need an account
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __74__ 🎉
+__AWESOME__ apps counter: __75__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -40,6 +40,7 @@ __AWESOME__ apps counter: __74__ 🎉
 - [Diary](#diary)
 - [Discord](#discord)
 - [Drawing](#drawing)
+- [E-books](#e-books)
 - [F-Droid](#f-droid)
 - [File Manager](#file-manager)
 - [File Synchronization](#file-synchronization)
@@ -257,6 +258,15 @@ __AWESOME__ apps counter: __74__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/com.simplemobiletools.draw.pro/)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Draw)
 - [x] [Official page](https://www.simplemobiletools.com/draw)
+
+## E-books
+### Librera Reader
+<img alt="LibreraReader" height="64" src="https://github.com/foobnix/LibreraReader/blob/master/fastlane/metadata/android/ru/images/icon.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.foobnix.pdf.reader)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/)
+- [x] [GitHub](https://github.com/foobnix/LibreraReader)
+- [x] [Official page](https://librera.mobi/)
 
 ## F-Droid
 ### F-Droid
