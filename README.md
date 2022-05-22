@@ -15,7 +15,7 @@
 - [x] Does not need an account
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __77__ 🎉
+__AWESOME__ apps counter: __78__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -27,6 +27,7 @@ __AWESOME__ apps counter: __77__ 🎉
 - [Background Noise](#background-noise)
 - [Barcode Scanner](#barcode-scanner)
 - [Birthday Calendar](#birthday-calendar)
+- [Books Tracker](#books-tracker)
 - [Browser](#browser)
 - [Calculator](#calculator)
 - [Calendar](#calendar)
@@ -117,6 +118,15 @@ __AWESOME__ apps counter: __77__ 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.minar.birday)
 - [x] [F-Droid](https://f-droid.org/packages/com.minar.birday/)
 - [x] [GitHub](https://github.com/m-i-n-a-r/birday)
+- [ ] Official page
+
+## Books Tracker
+### Openreads
+<img alt="Openreads" height="64" src="https://github.com/mateusz-bak/openreads-android/blob/master/app/src/main/res/mipmap-xhdpi/logo_round.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=software.mdev.bookstracker)
+- [x] [F-Droid](https://f-droid.org/en/packages/software.mdev.bookstracker/)
+- [x] [GitHub](https://github.com/mateusz-bak/openreads-android)
 - [ ] Official page
 
 ## Browser
