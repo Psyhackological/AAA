@@ -15,7 +15,7 @@
 - [x] Does not need an account
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __76__ 🎉
+__AWESOME__ apps counter: __77__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -516,6 +516,14 @@ __AWESOME__ apps counter: __76__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.musicplayer)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Music-Player)
 - [x] [Official page](https://www.simplemobiletools.com/music)
+
+### Phonograph
+<img alt="Phonograph" height="64" src="https://github.com/kabouzeid/Phonograph/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.kabouzeid.gramophone)
+- [x] [F-Droid](https://f-droid.org/packages/com.kabouzeid.gramophone/)
+- [x] [GitHub](https://github.com/kabouzeid/Phonograph)
+- [ ] Official page
 
 ## Notes
 ### Notally
