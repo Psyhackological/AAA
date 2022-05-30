@@ -785,9 +785,9 @@ __AWESOME__ apps counter: __85__ 🎉
 <img alt="LibreTube" height="64" src="https://github.com/libre-tube/LibreTube/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 - [ ] Google Play
-- [ ] F-Droid
+- [x] [F-Droid](https://f-droid.org/en/packages/com.github.libretube/)
 - [x] [GitHub](https://github.com/libre-tube/LibreTube)
-- [x] [Official page](https://t.me/LibreTube)
+- [x] [Official page](https://libre-tube.github.io/)
 
 ### SongTube
 <img alt="SongTube" height="64" src="https://github.com/SongTube/SongTube-App/blob/development/assets/images/ic_launcher.png?raw=true">
