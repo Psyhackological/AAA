@@ -15,7 +15,7 @@
 - [x] Does not need an account
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __78__ 🎉
+__AWESOME__ apps counter: __79__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -517,6 +517,14 @@ __AWESOME__ apps counter: __78__ 🎉
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/app/org.oxycblt.auxio)
 - [x] [GitHub](https://github.com/OxygenCobalt/Auxio)
+- [ ] Official page
+
+### Music Player GO 
+<img alt="MusicPlayerGO" height="64" src="https://github.com/enricocid/Music-Player-GO/blob/main/project/app/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.iven.musicplayergo)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.iven.musicplayergo/)
+- [x] [GitHub](https://github.com/enricocid/Music-Player-GO)
 - [ ] Official page
 
 ### Simple Music Player
