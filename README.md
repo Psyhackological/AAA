@@ -15,7 +15,7 @@
 - [x] Does not need an account
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __83__ 🎉
+__AWESOME__ apps counter: __84__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -24,6 +24,7 @@ __AWESOME__ apps counter: __83__ 🎉
 ### Contents:
 - [2FA](#2fa)
 - [Alarm](#alarm)
+- [Addiction Tracker](#addiction-tracker)
 - [Background Noise](#background-noise)
 - [Barcode Scanner](#barcode-scanner)
 - [Birthday Calendar](#birthday-calendar)
@@ -93,6 +94,15 @@ __AWESOME__ apps counter: __83__ 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=me.jfenn.alarmio)
 - [x] [F-Droid](https://f-droid.org/packages/me.jfenn.alarmio/)
 - [x] [GitHub](https://github.com/fennifith/Alarmio)
+- [ ] Official page
+
+## Addiction Tracker
+### Sobriety
+<img alt="Sobriety" height="64" src="https://github.com/KiARC/Sobriety/blob/master/app/src/main/res/mipmap-xxxhdpi/sobriety.png?raw=true">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.katiearose.sobriety)
+- [x] [GitHub](https://github.com/KiARC/Sobriety)
 - [ ] Official page
 
 ## Background Noise
