@@ -15,7 +15,7 @@
 - [x] Does not need an account
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __84__ 🎉
+__AWESOME__ apps counter: __85__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -365,6 +365,14 @@ __AWESOME__ apps counter: __84__ 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.jerameeldelosreyes.sushi)
 - [x] [F-Droid](https://f-droid.org/packages/com.jerameeldelosreyes.sushi/)
 - [x] [GitHub](https://github.com/jerameel/sushi)
+- [ ] Official page
+
+### MoneyWallet
+<img alt="MoneyWallet" height="64" src="https://github.com/AndreAle94/moneywallet/blob/master/app/src/main/ic_launcher-web.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.oriondev.moneywallet)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.oriondev.moneywallet)
+- [x] [GitHub](https://github.com/AndreAle94/moneywallet)
 - [ ] Official page
 
 ## Flashlight
