@@ -15,7 +15,7 @@
 - [x] Does not need an account
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __81__ 🎉
+__AWESOME__ apps counter: __82__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -56,6 +56,7 @@ __AWESOME__ apps counter: __81__ 🎉
 - [Keyboard](#keyboard)
 - [Maps](#maps)
 - [Matrix Client](#matrix-client)
+- [Meditation](#meditation)
 - [Music Player](#music-player)
 - [Notes](#notes)
 - [OCR](#ocr)
@@ -512,6 +513,15 @@ __AWESOME__ apps counter: __81__ 🎉
 - [x] [GitHub](https://github.com/vector-im/element-android)
 - [x] [Official page](https://element.io/)
 
+## Meditation
+### Medito ❤️
+<img alt="Medito" height="64" src="https://github.com/meditohq/medito-app/blob/develop/android/app/src/main/ic_launcher-web.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=meditofoundation.medito)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/meditofoundation.medito)
+- [x] [GitHub](https://github.com/meditohq/medito-app)
+- [x] [Official page](https://meditofoundation.org/)
+
 ## Music Player
 ### Retro Music Player ❤️
 <img alt="RetroMusicPlayer" height="64" src="https://play-lh.googleusercontent.com/LsjjdQ5KSBnnztnMzRq8nTkmmCSINVE3BwSf4YG0Ps2ITGZQ-yV9pzbEAgkDXjx52140=s180">
@@ -537,7 +547,7 @@ __AWESOME__ apps counter: __81__ 🎉
 - [x] [GitHub](https://github.com/OxygenCobalt/Auxio)
 - [ ] Official page
 
-### Music Player GO 
+### Music Player GO ❤️
 <img alt="MusicPlayerGO" height="64" src="https://github.com/enricocid/Music-Player-GO/blob/main/project/app/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.iven.musicplayergo)
@@ -667,7 +677,7 @@ __AWESOME__ apps counter: __81__ 🎉
 - [x] [Official page](https://www.simplemobiletools.com/sms)
 
 ## Terminal Emulator
-### Termux
+### Termux ❤️
 <img alt="Termux" height="64" src="https://github.com/termux/termux-app/blob/master/art/ic_launcher2.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.termux)
