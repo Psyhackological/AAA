@@ -15,7 +15,7 @@
 - [x] Does not need an account
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __79__ 🎉
+__AWESOME__ apps counter: __80__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -45,6 +45,7 @@ __AWESOME__ apps counter: __79__ 🎉
 - [F-Droid](#f-droid)
 - [File Manager](#file-manager)
 - [File Synchronization](#file-synchronization)
+- [Finance](#finance)
 - [Flash Cards](#flash-cards)
 - [GitHub Client](#github-client)
 - [Google Play](#google-play)
@@ -337,6 +338,15 @@ __AWESOME__ apps counter: __79__ 🎉
 - [x] [F-Droid](https://f-droid.org/app/com.nutomic.syncthingandroid)
 - [x] [GitHub](https://github.com/syncthing/syncthing-android)
 - [x] [Official page](https://syncthing.net/)
+
+## Finance
+### My Expenses
+<img alt="MyExpenses" height="64" src="https://github.com/mtotschnig/MyExpenses/blob/master/metadata/en-US/images/icon.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.totschnig.myexpenses)
+- [x] [F-Droid](https://f-droid.org/en/packages/org.totschnig.myexpenses/)
+- [x] [GitHub](https://github.com/mtotschnig/MyExpenses)
+- [x] [Official page](https://www.myexpenses.mobi/en/)
 
 ## Flashlight
 ### Simple Flashlight
