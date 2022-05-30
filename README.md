@@ -15,7 +15,7 @@
 - [x] Does not need an account
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __82__ 🎉
+__AWESOME__ apps counter: __83__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -665,6 +665,14 @@ __AWESOME__ apps counter: __82__ 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit)
 - [x] [F-Droid](https://f-droid.org/packages/ml.docilealligator.infinityforreddit/)
 - [x] [GitHub](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+- [ ] Official page
+
+### Stealth️
+<img alt="Stealth️" height="64" src="https://gitlab.com/cosmosapps/stealth/-/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit/)
+- [x] [GitLab](https://gitlab.com/cosmosapps/stealth)
 - [ ] Official page
 
 ## SMS Messenger
