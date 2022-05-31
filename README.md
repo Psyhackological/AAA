@@ -15,7 +15,7 @@
 - [x] Does not need an account
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __86__ 🎉
+__AWESOME__ apps counter: __87__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -67,6 +67,7 @@ __AWESOME__ apps counter: __86__ 🎉
 - [Pomodoro Timer](#pomodoro-timer)
 - [Public Transport Assistant](#public-transport-assistant)
 - [Reddit](#reddit)
+- [RNG](#rng)
 - [SMS Messenger](#sms-messenger)
 - [Terminal Emulator](#terminal-emulator)
 - [Torrenting](#torrenting)
@@ -699,6 +700,15 @@ __AWESOME__ apps counter: __86__ 🎉
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.cosmos.unreddit/)
 - [x] [GitLab](https://gitlab.com/cosmosapps/stealth)
+- [ ] Official page
+
+## RNG
+### Randomix
+<img alt="Randomix" height="64" src="https://github.com/m-i-n-a-r/randomix/blob/master/app/src/main/ic_launcher-web.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.minar.randomix)
+- [x] [F-Droid](https://f-droid.org/packages/com.minar.randomix/)
+- [x] [GitHub](https://github.com/m-i-n-a-r/randomix)
 - [ ] Official page
 
 ## SMS Messenger
