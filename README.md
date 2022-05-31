@@ -15,7 +15,7 @@
 - [x] Does not need an account
 - [x] Has dark theme (go easy on your eyes)
 
-__AWESOME__ apps counter: __85__ 🎉
+__AWESOME__ apps counter: __86__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -392,6 +392,14 @@ __AWESOME__ apps counter: __85__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.gallery.pro)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Gallery)
 - [x] [Official page](https://www.simplemobiletools.com/gallery)
+
+### LeafPic Revived
+<img alt="LeafPicRevived" height="64" src="https://raw.githubusercontent.com/apcro/leafpicrevived/master/leafpicrevived/src/main/res/drawable/leaf_pic.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.alienpants.leafpicrevived)
+- [x] [F-Droid](https://f-droid.org/app/com.alienpants.leafpicrevived)
+- [x] [GitHub](https://github.com/apcro/leafpicrevived)
+- [ ] Official page
 
 ### Aves
 <img alt="Aves" height="64" src="https://raw.githubusercontent.com/deckerst/aves/develop/aves_logo.svg">
