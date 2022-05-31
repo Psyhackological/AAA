@@ -17,7 +17,7 @@
 
 [More detailed description here](RULES.md)
 
-__AWESOME__ apps counter: __87__ 🎉
+__AWESOME__ apps counter: __88__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -72,6 +72,7 @@ __AWESOME__ apps counter: __87__ 🎉
 - [RNG](#rng)
 - [SMS Messenger](#sms-messenger)
 - [Terminal Emulator](#terminal-emulator)
+- [To-Do List](#to-do-list)
 - [Torrenting](#torrenting)
 - [Twitch](#twitch)
 - [Twitter](#twitter)
@@ -730,6 +731,15 @@ __AWESOME__ apps counter: __87__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/com.termux/)
 - [x] [GitHub](https://github.com/termux/termux-app)
 - [x] [Official page](https://termux.org/)
+
+## To-Do List
+### Tasks️
+<img alt="Tasks️" height="64" src="https://raw.githubusercontent.com/tasks/tasks/main/graphics/round_icon.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.tasks)
+- [x] [F-Droid](https://f-droid.org/packages/org.tasks)
+- [x] [GitHub](https://github.com/tasks/tasks)
+- [x] [Official page](https://tasks.org/)
 
 ## Torrenting
 ### LibreTorrent ❤️
