@@ -17,7 +17,7 @@
 
 [More detailed description here](RULES.md)
 
-__AWESOME__ apps counter: __89__ 🎉
+__AWESOME__ apps counter: __90__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -294,6 +294,14 @@ __AWESOME__ apps counter: __89__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/)
 - [x] [GitHub](https://github.com/foobnix/LibreraReader)
 - [x] [Official page](https://librera.mobi/)
+
+### KOReader
+<img alt="KOReader" height="64" src="https://github.com/koreader/koreader/blob/master/metadata/en-US/images/icon.png?raw=true">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/org.koreader.launcher.fdroid/)
+- [x] [GitHub](https://github.com/koreader/koreader)
+- [x] [Official page](https://koreader.rocks/)
 
 ## F-Droid
 ### F-Droid
