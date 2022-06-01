@@ -16,6 +16,7 @@
 - [x] Has dark theme
 
 [More detailed explanation here](RULES.md)
+
 __AWESOME__ apps counter: __91__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
@@ -24,8 +25,8 @@ __AWESOME__ apps counter: __91__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
-- [Alarm](#alarm)
 - [Addiction Tracker](#addiction-tracker)
+- [Alarm](#alarm)
 - [Background Noise](#background-noise)
 - [Barcode Scanner](#barcode-scanner)
 - [Birthday Calendar](#birthday-calendar)
@@ -75,7 +76,7 @@ __AWESOME__ apps counter: __91__ 🎉
 - [To-Do List](#to-do-list)
 - [Torrenting](#torrenting)
 - [Twitch](#twitch)
-- [Twitter](#twitter)
+- [Unit Converter](#unit-converter)
 - [Video Player](#video-player)
 - [Voice Recorder](#voice-recorder)
 - [YouTube](#youtube)
@@ -91,15 +92,6 @@ __AWESOME__ apps counter: __91__ 🎉
 - [x] [GitHub](https://github.com/beemdevelopment/Aegis)
 - [x] [Official page](https://getaegis.app/)
 
-## Alarm
-### Alarmio ❤️
-<img alt="Aegis" height="64" src="https://github.com/fennifith/Alarmio/blob/main/app/src/main/ic_launcher-web.png?raw=true">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=me.jfenn.alarmio)
-- [x] [F-Droid](https://f-droid.org/packages/me.jfenn.alarmio/)
-- [x] [GitHub](https://github.com/fennifith/Alarmio)
-- [ ] Official page
-
 ## Addiction Tracker
 ### Sobriety
 <img alt="Sobriety" height="64" src="https://github.com/KiARC/Sobriety/blob/master/app/src/main/res/mipmap-xxxhdpi/sobriety.png?raw=true">
@@ -107,6 +99,15 @@ __AWESOME__ apps counter: __91__ 🎉
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.katiearose.sobriety)
 - [x] [GitHub](https://github.com/KiARC/Sobriety)
+- [ ] Official page
+
+## Alarm
+### Alarmio ❤️
+<img alt="Aegis" height="64" src="https://github.com/fennifith/Alarmio/blob/main/app/src/main/ic_launcher-web.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=me.jfenn.alarmio)
+- [x] [F-Droid](https://f-droid.org/packages/me.jfenn.alarmio/)
+- [x] [GitHub](https://github.com/fennifith/Alarmio)
 - [ ] Official page
 
 ## Background Noise
@@ -792,6 +793,15 @@ __AWESOME__ apps counter: __91__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.jonjomckay.fritter/)
 - [x] [GitHub](https://github.com/jonjomckay/fritter)
 - [x] [Official page](https://fritter.cc/)
+
+## Unit Converter
+### Converter NOW
+<img alt="ConverterNOW" height="64" src="https://github.com/ferraridamiano/ConverterNOW/blob/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.ferrarid.converterpro)
+- [x] [F-Droid](https://f-droid.org/packages/com.ferrarid.converterpro)
+- [x] [GitHub](https://github.com/ferraridamiano/ConverterNOW)
+- [x] [Official page](https://converter-now.web.app/)
 
 ## Video Player
 ### VLC ❤️
