@@ -15,8 +15,7 @@
 - [x] Does not need an account
 - [x] Has dark theme
 
-[More detailed description here](RULES.md)
-
+[More detailed explanation here](RULES.md)
 __AWESOME__ apps counter: __90__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
