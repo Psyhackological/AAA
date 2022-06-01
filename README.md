@@ -16,7 +16,7 @@
 - [x] Has dark theme
 
 [More detailed explanation here](RULES.md)
-__AWESOME__ apps counter: __90__ 🎉
+__AWESOME__ apps counter: __91__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -44,6 +44,7 @@ __AWESOME__ apps counter: __90__ 🎉
 - [Discord](#discord)
 - [Drawing](#drawing)
 - [E-book Reader](#e-book-reader)
+- [Emulation](#emulation)
 - [F-Droid](#f-droid)
 - [File Manager](#file-manager)
 - [File Synchronization](#file-synchronization)
@@ -301,6 +302,15 @@ __AWESOME__ apps counter: __90__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/org.koreader.launcher.fdroid/)
 - [x] [GitHub](https://github.com/koreader/koreader)
 - [x] [Official page](https://koreader.rocks/)
+
+## Emulation
+### Lemuroid
+<img alt="Lemuroid" height="64" src="https://github.com/Swordfish90/Lemuroid/blob/master/lemuroid-app/src/main/lemuroid_launcher-web.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid)
+- [x] [F-Droid](https://f-droid.org/packages/com.swordfish.lemuroid/)
+- [x] [GitLab](https://github.com/Swordfish90/Lemuroid)
+- [ ] Official page
 
 ## F-Droid
 ### F-Droid
