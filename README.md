@@ -17,7 +17,7 @@
 
 [More detailed description here](RULES.md)
 
-__AWESOME__ apps counter: __88__ 🎉
+__AWESOME__ apps counter: __89__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -599,6 +599,14 @@ __AWESOME__ apps counter: __88__ 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.kabouzeid.gramophone)
 - [x] [F-Droid](https://f-droid.org/packages/com.kabouzeid.gramophone/)
 - [x] [GitHub](https://github.com/kabouzeid/Phonograph)
+- [ ] Official page
+
+### Howl
+<img alt="Howl" height="64" src="https://github.com/Iamlooker/Howl/blob/stable/app/src/main/ic_launcher-playstore.png?raw=true">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.looker.howlmusic)
+- [x] [GitHub](https://github.com/Iamlooker/Howl)
 - [ ] Official page
 
 ## Notes
