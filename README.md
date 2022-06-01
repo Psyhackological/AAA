@@ -17,7 +17,7 @@
 
 [More detailed explanation here](RULES.md)
 
-__AWESOME__ apps counter: __91__ 🎉
+__AWESOME__ apps counter: __93__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -61,6 +61,7 @@ __AWESOME__ apps counter: __91__ 🎉
 - [Maps](#maps)
 - [Matrix Client](#matrix-client)
 - [Meditation](#meditation)
+- [Music Downloader](#music-downloader)
 - [Music Player](#music-player)
 - [Notes](#notes)
 - [OCR](#ocr)
@@ -569,6 +570,15 @@ __AWESOME__ apps counter: __91__ 🎉
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/meditofoundation.medito)
 - [x] [GitHub](https://github.com/meditohq/medito-app)
 - [x] [Official page](https://meditofoundation.org/)
+
+## Music Downloader
+### SpotiFlyer
+<img alt="SpotiFlyer" height="64" src="https://github.com/Shabinder/SpotiFlyer/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.shabinder.spotiflyer)
+- [x] [GitHub](https://github.com/Shabinder/SpotiFlyer)
+- [x] [Official page](https://shabinder.github.io/SpotiFlyer/)
 
 ## Music Player
 ### Metro
