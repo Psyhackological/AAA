@@ -553,13 +553,13 @@ __AWESOME__ apps counter: __88__ 🎉
 - [x] [Official page](https://meditofoundation.org/)
 
 ## Music Player
-### Retro Music Player ❤️
-<img alt="RetroMusicPlayer" height="64" src="https://play-lh.googleusercontent.com/LsjjdQ5KSBnnztnMzRq8nTkmmCSINVE3BwSf4YG0Ps2ITGZQ-yV9pzbEAgkDXjx52140=s180">
+### Metro
+<img alt="Metro" height="64" src="https://play-lh.googleusercontent.com/LsjjdQ5KSBnnztnMzRq8nTkmmCSINVE3BwSf4YG0Ps2ITGZQ-yV9pzbEAgkDXjx52140=s180">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
-- [ ] F-Droid
-- [x] [GitHub](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
-- [x] [Official page](https://retromusic.app/)
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/io.github.muntashirakon.Music/)
+- [x] [GitHub](https://github.com/MuntashirAkon/Metro)
+- [ ] Official page
 
 ### BlackHole
 <img alt="BlackHole" height="64" src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true">
