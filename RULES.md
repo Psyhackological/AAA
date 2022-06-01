@@ -16,9 +16,10 @@ App must not be some kind of freeware or adware.
 The app was installed on my main smartphone and used for about 15 minutes or more.
 
 ## Privacy-friendly
-This section requires more work. Currently, I found 2 ways to check if an App is "private":
+This section requires more work. Currently, I found 3 ways to check if an App is "private":
 1. [εxodus](https://reports.exodus-privacy.eu.org/en/) trackers report. [Example](https://reports.exodus-privacy.eu.org/en/reports/com.iven.musicplayergo/latest/).
 2. Privacy policy in source code repo. [Example](https://github.com/enricocid/Music-Player-GO/blob/main/PRIVACY_POLICY.md).
+3. F-Droid [Anti-Features](https://f-droid.org/docs/Anti-Features/). [Example](https://apt.izzysoft.de/fdroid/index/apk/code.name.monkey.retromusic).
 
 ## Easy to use
 The application must take a maximum of one day to understand.
