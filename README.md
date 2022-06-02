@@ -16,12 +16,13 @@
 - [x] Has dark theme
 
 [More detailed explanation here](RULES.md)
-
-__AWESOME__ apps counter: __94__ 🎉
+[Why does it exist?](WHY.md)
 
 ### App Name ❤️ = My Personal Favourite
 
 ## Please use `Home` button to go to the top.
+
+__AWESOME__ apps counter: __94__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
