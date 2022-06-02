@@ -17,7 +17,7 @@
 
 [More detailed explanation here](RULES.md)
 
-__AWESOME__ apps counter: __93__ 🎉
+__AWESOME__ apps counter: __94__ 🎉
 
 ### App Name ❤️ = My Personal Favourite
 
@@ -37,6 +37,7 @@ __AWESOME__ apps counter: __93__ 🎉
 - [Camera](#camera)
 - [Chess](#chess)
 - [Cleaner](#cleaner)
+- [Coffee Timer](#coffee-timer)
 - [Contacts](#contacts)
 - [Decision-Making](#decision-making)
 - [Device Synchronization](#device-synchronization)
@@ -216,6 +217,15 @@ __AWESOME__ apps counter: __93__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/theredspy15.ltecleanerfoss/)
 - [x] [GitHub](https://github.com/TheRedSpy15/LTECleanerFOSS)
 - [ ] Official page
+
+## Coffee Timer
+### Cofi
+<img alt="Cofi" height="64" src="https://github.com/rozPierog/Cofi/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.omelan.cofi)
+- [x] [F-Droid](https://www.f-droid.org/en/packages/com.omelan.cofi/)
+- [x] [GitHub](https://github.com/rozPierog/Cofi)
+- [x] [Official page](https://rozpierog.github.io/Cofi/)
 
 ## Contacts
 ### Simple Contacts ❤️
