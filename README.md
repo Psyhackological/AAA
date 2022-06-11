@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __98__ 🎉
+__AWESOME__ apps counter: __99__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -300,6 +300,14 @@ __AWESOME__ apps counter: __98__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/com.simplemobiletools.draw.pro/)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Draw)
 - [x] [Official page](https://www.simplemobiletools.com/draw)
+
+### Pocket Paint
+<img alt="PocketPaint" height="64" src="https://github.com/Catrobat/Paintroid/blob/develop/app/src/main/res/mipmap-xhdpi/ic_launcher.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.catrobat.paintroid)
+- [x] [F-Droid](https://f-droid.org/en/packages/org.catrobat.paintroid/)
+- [x] [GitHub](https://github.com/Catrobat/Paintroid)
+- [ ] Official page
 
 ## E-book Reader
 ### Librera Reader
