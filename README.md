@@ -16,13 +16,14 @@
 - [x] Has dark theme
 
 [More detailed explanation here](RULES.md)
+
 [Why does it exist?](WHY.md)
 
 ### App Name ❤️ = My Personal Favourite
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __94__ 🎉
+__AWESOME__ apps counter: __93__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -769,6 +770,14 @@ __AWESOME__ apps counter: __94__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.smsmessenger)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-SMS-Messenger)
 - [x] [Official page](https://www.simplemobiletools.com/sms)
+
+### QKSMS
+<img alt="QKSMS" height="64" src="https://github.com/moezbhatti/qksms/blob/master/presentation/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.moez.QKSMS)
+- [x] [F-Droid](https://f-droid.org/packages/com.moez.QKSMS/)
+- [x] [GitHub](https://github.com/moezbhatti/qksms)
+- [ ] Official page
 
 ## Terminal Emulator
 ### Termux ❤️
