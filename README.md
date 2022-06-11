@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __94__ 🎉
+__AWESOME__ apps counter: __95__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -61,6 +61,7 @@ __AWESOME__ apps counter: __94__ 🎉
 - [Image Processing](#image-processing)
 - [Instant Messaging](#instant-messaging)
 - [Keyboard](#keyboard)
+- [Manga Reader](#manga-reader)
 - [Maps](#maps)
 - [Matrix Client](#matrix-client)
 - [Meditation](#meditation)
@@ -564,6 +565,15 @@ __AWESOME__ apps counter: __94__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/app.organicmaps/)
 - [x] [GitHub](https://github.com/organicmaps/organicmaps)
 - [x] [Official page](https://organicmaps.app/)
+
+## Manga Reader
+### Tachiyomi️
+<img alt="Tachiyomi️" height="64" src="https://github.com/tachiyomiorg/tachiyomi/blob/master/app/src/main/ic_launcher-web.png?raw=true">
+
+- [ ] Google Play
+- [x] [F-Droid](https://staging.f-droid.org/en/packages/eu.kanade.tachiyomi/)
+- [x] [GitHub](https://github.com/tachiyomiorg/tachiyomi)
+- [x] [Official page](https://tachiyomi.org/)
 
 ## Matrix Client
 ### Element
