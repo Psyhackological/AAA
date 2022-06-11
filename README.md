@@ -15,7 +15,7 @@
 - [x] Does not need an account
 - [x] Has dark theme
 
-[More detailed explanation here](RULES.md)
+[More detailed explanation here.](RULES.md)
 
 [Why does it exist?](WHY.md)
 
@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __96__ 🎉
+__AWESOME__ apps counter: __97__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -867,6 +867,14 @@ __AWESOME__ apps counter: __96__ 🎉
 - [x] [F-Droid](https://www.f-droid.org/en/packages/org.videolan.vlc/)
 - [x] [GitLab](https://code.videolan.org/videolan/vlc-android)
 - [x] [Official page](https://www.videolan.org/)
+
+### Just (Video) Player
+<img alt="Just(Video)Player" height="64" src="https://github.com/moneytoo/Player/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.brouken.player)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.brouken.player/)
+- [x] [GitHub](https://github.com/moneytoo/Player)
+- [ ] Official page
 
 ## Voice Recorder
 ### Simple Voice Recorder ❤️
