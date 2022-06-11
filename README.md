@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __93__ 🎉
+__AWESOME__ apps counter: __94__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -647,6 +647,14 @@ __AWESOME__ apps counter: __93__ 🎉
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.looker.howlmusic)
 - [x] [GitHub](https://github.com/Iamlooker/Howl)
+- [ ] Official page
+
+### Noad Player
+<img alt="NoadPlayer" height="64" src="https://github.com/gauravjot/android-noad-music-player/blob/master/app/src/main/ic_launcher-web.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.droidheat.musicplayer)
+- [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.droidheat.musicplayer)
+- [x] [GitHub](https://github.com/gauravjot/android-noad-music-player)
 - [ ] Official page
 
 ## Notes
