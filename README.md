@@ -930,7 +930,7 @@ __AWESOME__ apps counter: __99__ 🎉
 <img alt="SongTube" height="64" src="https://github.com/SongTube/SongTube-App/blob/development/assets/images/ic_launcher.png?raw=true">
 
 - [ ] Google Play
-- [ ] F-Droid
+- [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.artxdev.songtube)
 - [x] [GitHub](https://github.com/SongTube/SongTube-App)
 - [x] [Official page](https://songtube.github.io/)
 
