@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __95__ 🎉
+__AWESOME__ apps counter: __96__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -683,6 +683,14 @@ __AWESOME__ apps counter: __95__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.notes.pro)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Notes)
 - [x] [Official page](https://www.simplemobiletools.com/notes)
+
+### Notedge
+<img alt="Notedge" height="64" src="https://camo.githubusercontent.com/82fed33162840dc397ea0f9c057434e8babe9456b44883ccd0311d5f0484d148/68747470733a2f2f73766773686172652e636f6d2f692f6777552e737667">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.kigya.notedgeapp)
+- [x] [GitHub](https://github.com/kigya/NotedgeApp)
+- [x] [Official page](https://notedge.netlify.app)
 
 ## OCR
 ### OCR (Tesseract) 
