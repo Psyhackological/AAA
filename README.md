@@ -857,7 +857,7 @@ __AWESOME__ apps counter: __95__ 🎉
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc)
 - [x] [F-Droid](https://www.f-droid.org/en/packages/org.videolan.vlc/)
-- [x] [GitHub](https://github.com/videolan/vlc-android)
+- [x] [GitLab](https://code.videolan.org/videolan/vlc-android)
 - [x] [Official page](https://www.videolan.org/)
 
 ## Voice Recorder
