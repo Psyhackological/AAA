@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __97__ 🎉
+__AWESOME__ apps counter: __98__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -925,6 +925,14 @@ __AWESOME__ apps counter: __97__ 🎉
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/SongTube/SongTube-App)
 - [x] [Official page](https://songtube.github.io/)
+
+### ViMusic
+<img alt="ViMusic" height="64" src="https://github.com/vfsfitvnm/ViMusic/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/it.vfsfitvnm.vimusic)
+- [x] [GitHub](https://github.com/vfsfitvnm/ViMusic)
+- [ ] Official page
 
 ## Special thanks to:
 ### AWESOME PEOPLE that developed or still develops these AWESOME SOFTWARE.
