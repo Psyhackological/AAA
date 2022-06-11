@@ -16,6 +16,10 @@ __If I've made mistake, notify me on the Issues page or throw me a pull request.
 ```
 
 ### The list:
+- I prefer svg over png icons because it is vector and weights less.
+- When searching for an app's icon in a repo, look for: `svg`, `icon.png` or `ic_launcher.png`.
+- If F-Droid link is not available, please replace `F-Droid` with `IzzyOnDroid` link if possible.
+
 ```
 ## Category Name
 ### App Name
@@ -26,8 +30,6 @@ __If I've made mistake, notify me on the Issues page or throw me a pull request.
 - [x] [Source code](SourceCodeLink)
 - [x] [Official page](OfficialPageLink)
 ```
-
-> If F-Droid's link is not available, please replace F-Droid with IzzyOnDroid if possible.
 
 If something is missing replace `x` with `space` and remove `[](link)`.
 
