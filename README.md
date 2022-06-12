@@ -956,17 +956,19 @@ __AWESOME__ apps counter: __100__ 🎉
 ### AWESOME PEOPLE that developed or still develops these AWESOME SOFTWARE.
 
 ### LinuxCafeFederation/[awesome-android](https://github.com/LinuxCafeFederation/awesome-android)
-<img alt="SkyTube" height="64" src="https://avatars.githubusercontent.com/u/66378202?s=200&v=4">
+<img alt="LinuxCafeFederation/awesome-android" height="64" src="https://avatars.githubusercontent.com/u/66378202?s=200&v=4">
 
 ### pluja/[awesome-privacy](https://github.com/pluja/awesome-privacy)
-<img alt="SkyTube" width="256" src="https://github.com/pluja/awesome-privacy/raw/main/misc/logo.png">
+<img alt="pluja/awesome-privacy" width="256" src="https://github.com/pluja/awesome-privacy/raw/main/misc/logo.png">
 
 ### JStumpp/[awesome-android](https://github.com/JStumpp/awesome-android)
-<img alt="SkyTube" width="256" src="https://raw.githubusercontent.com/jstumpp/awesome-android/master/awesome-android.png">
+<img alt="JStumpp/awesome-android" width="256" src="https://raw.githubusercontent.com/jstumpp/awesome-android/master/awesome-android.png">
 
 ### [AlternativeTo.net](https://alternativeto.net/)
-<img alt="SkyTube" width="256" src="https://alternativeto.net/static/logo.svg">
+<img alt="AlternativeTo.net" width="256" src="https://alternativeto.net/static/logo.svg">
 
-https://android.izzysoft.de/applists.php
+### [IzzyOnDroid](https://android.izzysoft.de/applists.php)
+<img alt="IzzyOnDroid" height="64" src="https://android.izzysoft.de/images/site_logo.png">
+
 
 # [⬆ Go back ⬆](#contents)
