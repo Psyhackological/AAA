@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __99__ 🎉
+__AWESOME__ apps counter: __100__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -54,6 +54,7 @@ __AWESOME__ apps counter: __99__ 🎉
 - [File Synchronization](#file-synchronization)
 - [Finance](#finance)
 - [Flash Cards](#flash-cards)
+- [Games](#games)
 - [GitHub Client](#github-client)
 - [Google Play](#google-play)
 - [Habit Tracker](#habit-tracker)
@@ -461,6 +462,15 @@ __AWESOME__ apps counter: __99__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.ichi2.anki)
 - [x] [GitHub](https://github.com/ankidroid/Anki-Android)
 - [x] [Official page](https://apps.ankiweb.net)
+
+## Games
+### Mindustry
+<img alt="Mindustry" height="64" src="https://github.com/Anuken/Mindustry/blob/master/android/ic_launcher-web.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=io.anuke.mindustry)
+- [x] [F-Droid](https://f-droid.org/packages/io.anuke.mindustry)
+- [x] [GitHub](https://github.com/Anuken/Mindustry)
+- [x] [Official page](https://mindustrygame.github.io/)
 
 ## GitHub Client
 ### OpenHub
