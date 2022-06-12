@@ -82,6 +82,7 @@ __AWESOME__ apps counter: __100__ 🎉
 - [To-Do List](#to-do-list)
 - [Torrenting](#torrenting)
 - [Twitch](#twitch)
+- [Twitter](#twitter)
 - [Unit Converter](#unit-converter)
 - [Video Player](#video-player)
 - [Voice Recorder](#voice-recorder)
