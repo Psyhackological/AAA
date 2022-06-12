@@ -312,7 +312,7 @@ __AWESOME__ apps counter: __100__ 🎉
 
 ## E-book Reader
 ### Librera Reader
-<img alt="LibreraReader" height="64" src="https://github.com/foobnix/LibreraReader/blob/master/fastlane/metadata/android/ru/images/icon.png?raw=true">
+<img alt="LibreraReader" height="64" src="https://github.com/foobnix/LibreraReader/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.foobnix.pdf.reader)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/)
@@ -966,5 +966,7 @@ __AWESOME__ apps counter: __100__ 🎉
 
 ### [AlternativeTo.net](https://alternativeto.net/)
 <img alt="SkyTube" width="256" src="https://alternativeto.net/static/logo.svg">
+
+https://android.izzysoft.de/applists.php
 
 # [⬆ Go back ⬆](#contents)
