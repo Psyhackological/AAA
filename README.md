@@ -174,6 +174,16 @@ __AWESOME__ apps counter: __102__ 🎉
 - [x] [GitHub](https://github.com/bromite/bromite)
 - [x] [Official page](https://www.bromite.org/)
 
+### Mull
+<img alt="Mull" height="64" src="https://www.apklinker.com/wp-content/plugins/APKLinker/resize_img.php?u=https://www.apklinker.com/wp-content/uploads/2021/08/Mull.png&q=9&s=80">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
+- [x] [GitHub](https://github.com/divested-mobile/mull-fenix)
+- [x] [GitLab](https://gitlab.com/divested-mobile/mull-fenix) 
+- [x] [Official page](https://divestos.org/index.php?page=our_apps#mull)
+
+
 ## Calculator
 ### Calculator++ ❤️
 <img alt="Calculator++" height="64" src="https://github.com/Bubu/android-calculatorpp/blob/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png?raw=true">
