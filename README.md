@@ -473,6 +473,14 @@ __AWESOME__ apps counter: __100__ 🎉
 - [x] [GitHub](https://github.com/Anuken/Mindustry)
 - [x] [Official page](https://mindustrygame.github.io/)
 
+### Simon Tatham's Puzzles
+<img alt="Simon Tatham's Puzzles" height="64" src="https://github.com/chrisboyle/sgtpuzzles/blob/main/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles&gl)
+- [x] [F-Droid](https://f-droid.org/en/packages/name.boyle.chris.sgtpuzzles/)
+- [x] [GitHub](https://github.com/chrisboyle/sgtpuzzles)
+- [x] [Official page](https://chris.boyle.name/projects/android-puzzles/)
+
 ## GitHub Client
 ### OpenHub
 <img alt="OpenHub" height="64" src="https://github.com/ThirtyDegreesRay/OpenHub/blob/master/app/src/main/res/mipmap-hdpi/logo.png?raw=true">
