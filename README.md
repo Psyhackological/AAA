@@ -29,6 +29,7 @@ __AWESOME__ apps counter: __102__ 🎉
 - [2FA](#2fa)
 - [Addiction Tracker](#addiction-tracker)
 - [Alarm](#alarm)
+- [Anime Tracker](#anime-tracker)
 - [Background Noise](#background-noise)
 - [Barcode Scanner](#barcode-scanner)
 - [Birthday Calendar](#birthday-calendar)
@@ -117,6 +118,15 @@ __AWESOME__ apps counter: __102__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/me.jfenn.alarmio/)
 - [x] [GitHub](https://github.com/fennifith/Alarmio)
 - [ ] Official page
+
+## Anime Tracker 
+### Aniyomi ❤️
+<img alt="Aniyomi" height="64" src="https://raw.githubusercontent.com/jmir1/aniyomi/master/.github/readme-images/app-icon.png">
+
+- [ ] [Google Play]
+- [ ] [F-Droid]
+- [x] [GitHub](https://github.com/jmir1/aniyomi)
+- [x] [Official page](https://aniyomi.jmir.xyz/)
 
 ## Background Noise
 ### Noice
