@@ -18,6 +18,7 @@
 [More detailed explanation here.](RULES.md)
 
 [Why does it exist?](WHY.md)
+
 ### App Name ❤️ = My Personal Favourite
 
 ## Please use `Home` button to go to the top.
