@@ -915,6 +915,14 @@ __AWESOME__ apps counter: __102__ 🎉
 - [x] [GitLab](https://code.videolan.org/videolan/vlc-android)
 - [x] [Official page](https://www.videolan.org/)
 
+### mpv-android ❤️
+<img alt="mpv-android" height="64" src="https://avatars.githubusercontent.com/u/18583292?s=200&v=4">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=is.xyz.mpv)
+- [x] [F-Droid](https://f-droid.org/packages/is.xyz.mpv/)
+- [x] [Github](https://github.com/mpv-android/mpv-android) [yt-dlp support?](https://github.com/mpv-android/mpv-android/pull/58)
+- [ ] Official page
+
 ### Just (Video) Player
 <img alt="Just(Video)Player" height="64" src="https://github.com/moneytoo/Player/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
