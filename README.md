@@ -925,7 +925,7 @@ __AWESOME__ apps counter: __101__ 🎉
 <img alt="NewPipeXSponsorBlockXReturnYouTubeDislike" height="64" src="https://newpipe.net/img/logo.svg">
 
 - [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/org.schabi.newpipe/)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.newpipe)
 - [x] [GitHub](https://github.com/polymorphicshade/NewPipe)
 - [x] [Official page](https://newpipe.net/)
 
