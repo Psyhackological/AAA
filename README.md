@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __100__ 🎉
+__AWESOME__ apps counter: __101__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -538,7 +538,7 @@ __AWESOME__ apps counter: __100__ 🎉
 ### Signal ❤️
 <img alt="Signal" height="64" src="https://seeklogo.com/images/S/signal-logo-20A1616F60-seeklogo.com.png">
 
-- [x] [Google Play](https://github.com/signalapp/Signal-Android)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/signalapp/Signal-Android)
 - [x] [Official page](https://signal.org/)
