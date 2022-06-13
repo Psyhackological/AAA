@@ -29,7 +29,7 @@ App is actively developed (new releases and commits in source code repository) o
 
 ## Does not lack of features compared to "default app"
 App must not punish user for using it because previous (usually proprietary) one was more feature rich.
-Example: FOSS Music Players. I love MPV and VLC and I prefer more MPV over VLC on my desktop. 
+Example: FOSS Video Players. I love MPV and VLC and I prefer more MPV over VLC on my desktop. 
 But on Android platform MPV is very truncated from features compared to VLC.
 
 ## Does not need an account
