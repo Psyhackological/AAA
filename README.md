@@ -474,7 +474,7 @@ __AWESOME__ apps counter: __101__ 🎉
 - [x] [Official page](https://mindustrygame.github.io/)
 
 ### Simon Tatham's Puzzles
-<img alt="Simon Tatham's Puzzles" height="64" src="https://github.com/chrisboyle/sgtpuzzles/blob/main/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+<img alt="SimonTathamsPuzzles" height="64" src="https://github.com/chrisboyle/sgtpuzzles/blob/main/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles&gl)
 - [x] [F-Droid](https://f-droid.org/en/packages/name.boyle.chris.sgtpuzzles/)
@@ -962,7 +962,7 @@ __AWESOME__ apps counter: __101__ 🎉
 - [ ] Official page
 
 ## Special thanks to:
-### AWESOME PEOPLE that developed or still develops these AWESOME SOFTWARE.
+### AWESOME PEOPLE that developed or still develops this AWESOME SOFTWARE.
 
 ### LinuxCafeFederation/[awesome-android](https://github.com/LinuxCafeFederation/awesome-android)
 <img alt="LinuxCafeFederation/awesome-android" height="64" src="https://avatars.githubusercontent.com/u/66378202?s=200&v=4">
