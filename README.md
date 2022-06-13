@@ -182,6 +182,15 @@ __AWESOME__ apps counter: __102__ 🎉
 - [x] [GitHub](https://github.com/Bubu/android-calculatorpp)
 - [ ] Official page
 
+### Calculator-inator ❤️
+<img alt="Calculator-inator" height="64" src="https://apt.izzysoft.de/fdroid/repo/com.inator.calculator/en-US/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.inator.calculator)
+- [x] [GitHub](https://github.com/prathameshmm02/Calculator-inator)
+- [ ] Official page
+
+
 ### Simple Calculator ❤️
 <img alt="SimpleCalculator" height="64" src="https://github.com/SimpleMobileTools/Simple-Calculator/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
