@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __101__ 🎉
+__AWESOME__ apps counter: __102__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -48,6 +48,7 @@ __AWESOME__ apps counter: __101__ 🎉
 - [Discord](#discord)
 - [Drawing](#drawing)
 - [E-book Reader](#e-book-reader)
+- [Egg Timer](#egg-timer)
 - [Emulation](#emulation)
 - [F-Droid](#f-droid)
 - [File Manager](#file-manager)
@@ -327,6 +328,15 @@ __AWESOME__ apps counter: __101__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/org.koreader.launcher.fdroid/)
 - [x] [GitHub](https://github.com/koreader/koreader)
 - [x] [Official page](https://koreader.rocks/)
+
+## Egg Timer
+### Smart EggTimer
+<img alt="SmartEggTimer" height="64" src="https://github.com/woheller69/eggtimer/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/org.woheller69.eggtimer/)
+- [x] [GitHub](https://github.com/woheller69/eggtimer)
+- [ ] Official page
 
 ## Emulation
 ### Lemuroid
