@@ -176,7 +176,7 @@ __AWESOME__ apps counter: __102__ 🎉
 - [x] [Official page](https://www.bromite.org/)
 
 ### Mull
-<img alt="Mull" height="64" src="https://github.com/Divested-Mobile/FOSS_Apps_Listhttps://user-images.githubusercontent.com/88576601/173426453-8f901901-5c38-4c88-967b-024c6a072c54.jpg">
+<img alt="Mull" height="64" src="https://user-images.githubusercontent.com/88576601/173426453-8f901901-5c38-4c88-967b-024c6a072c54.jpg">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
