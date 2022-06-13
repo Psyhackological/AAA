@@ -197,10 +197,10 @@ __AWESOME__ apps counter: __100__ 🎉
 - [x] [SourceForge](https://sourceforge.net/p/opencamera/code/)
 - [x] [Official page](https://opencamera.org.uk/)
 
-### GrapheneOS Camera 
+### Secure Camera by GrapheneOS
 <img alt="GrapheneOSCamera" height="64" src="https://github.com/GrapheneOS/Camera/blob/main/app/src/main/ic_launcher-playstore.png?raw=true">
 
-- [ ] Google Play
+- [x] [Google Play](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play)
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/GrapheneOS/Camera)
 - [x] [Official page](https://grapheneos.org/)
@@ -738,10 +738,10 @@ __AWESOME__ apps counter: __100__ 🎉
 - [x] [GitHub](https://github.com/JavaCafe01/PdfViewer)
 - [ ] Official page
 
-### GrapheneOS PDF Viewer
+### Secure PDF Viewer by GrapheneOS
 <img alt="GrapheneOSPDFViewer" height="64" src="https://github.com/GrapheneOS/PdfViewer/blob/main/app/src/main/ic_launcher-playstore.png?raw=true">
 
-- [ ] Google Play
+- [x] [Google Play](https://play.google.com/store/apps/details?id=app.grapheneos.pdfviewer.play)
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/GrapheneOS/PdfViewer)
 - [x] [Official page](https://grapheneos.org/)
