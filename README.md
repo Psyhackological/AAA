@@ -79,6 +79,7 @@ __AWESOME__ apps counter: __102__ 🎉
 - [Public Transport Assistant](#public-transport-assistant)
 - [Reddit](#reddit)
 - [RNG](#rng)
+- [RSS Reader](#rss-reader)
 - [SMS Messenger](#sms-messenger)
 - [Terminal Emulator](#terminal-emulator)
 - [To-Do List](#to-do-list)
@@ -842,6 +843,23 @@ __AWESOME__ apps counter: __102__ 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.minar.randomix)
 - [x] [F-Droid](https://f-droid.org/packages/com.minar.randomix/)
 - [x] [GitHub](https://github.com/m-i-n-a-r/randomix)
+- [ ] Official page
+
+## RSS Reader
+### Feeder
+<img alt="Feeder" height="64" src="https://gitlab.com/uploads/-/system/project/avatar/3088048/f_foreground_512.png?width=64">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.nononsenseapps.feeder/)
+- [x] [GitLab](https://gitlab.com/spacecowboy/Feeder)
+- [ ] Official page
+
+### ReadYou
+<img alt="Read You" height="64" src="https://raw.githubusercontent.com/Ashinch/ReadYou/main/fastlane/metadata/android/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://android.izzysoft.de/repo/apk/me.ash.reader)
+- [x] [GitHub](https://github.com/Ashinch/ReadYou)
 - [ ] Official page
 
 ## SMS Messenger
