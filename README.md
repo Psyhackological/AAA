@@ -4,31 +4,32 @@
 
 ### Rules:
 - [x] Open Sourced
-- [x] Free of charge
+- [x] Free of charge (on [F-Droid](#f-droid) and source code repository releases)
 - [x] Free as in Freedom
 - [x] Ad-free
-- [x] Installed and tested by me
+- [x] Installed and tested by me or by contributor
 - [x] Privacy-friendly
 - [x] Easy to use
 - [x] Still developed or polished experience
-- [x] Does not lack of features compared to "default app"
-- [x] Does not need an account
+- [x] Does not lack features compared to proprietary app
+- [x] Does not need an account (the only exception is [Self-hosted](#self-hosted))
 - [x] Has dark theme
+
+### App Name ❤️ = Someone's Personal Favourite
 
 [More detailed explanation here.](RULES.md)
 
 [Why does it exist?](WHY.md)
 
-### App Name ❤️ = My Personal Favourite
-
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __103__ 🎉
+__AWESOME__ apps counter: **112** 🎉
 
 ### Contents:
 - [2FA](#2fa)
 - [Addiction Tracker](#addiction-tracker)
 - [Alarm](#alarm)
+- [Anime & Manga](#anime--manga)
 - [Background Noise](#background-noise)
 - [Barcode Scanner](#barcode-scanner)
 - [Birthday Calendar](#birthday-calendar)
@@ -39,6 +40,7 @@ __AWESOME__ apps counter: __103__ 🎉
 - [Camera](#camera)
 - [Chess](#chess)
 - [Cleaner](#cleaner)
+- [Clock](#clock)
 - [Coffee Timer](#coffee-timer)
 - [Contacts](#contacts)
 - [Decision-Making](#decision-making)
@@ -63,7 +65,6 @@ __AWESOME__ apps counter: __103__ 🎉
 - [Image Processing](#image-processing)
 - [Instant Messaging](#instant-messaging)
 - [Keyboard](#keyboard)
-- [Manga Reader](#manga-reader)
 - [Maps](#maps)
 - [Matrix Client](#matrix-client)
 - [Meditation](#meditation)
@@ -73,12 +74,15 @@ __AWESOME__ apps counter: __103__ 🎉
 - [OCR](#ocr)
 - [Office Suite](#office-suite)
 - [PDF Viewer](#pdf-viewer)
+- [Package Manager](#package-manager)
 - [Password Manager](#password-manager)
 - [Pomodoro Timer](#pomodoro-timer)
 - [Public Transport Assistant](#public-transport-assistant)
 - [Reddit](#reddit)
 - [RNG](#rng)
+- [RSS Reader](#rss-reader)
 - [SMS Messenger](#sms-messenger)
+- [Self Hosted](#self-hosted)
 - [Terminal Emulator](#terminal-emulator)
 - [To-Do List](#to-do-list)
 - [Torrenting](#torrenting)
@@ -118,9 +122,26 @@ __AWESOME__ apps counter: __103__ 🎉
 - [x] [GitHub](https://github.com/fennifith/Alarmio)
 - [ ] Official page
 
+## Anime & Manga
+### Aniyomi 
+<img alt="Aniyomi" height="64" src="https://raw.githubusercontent.com/jmir1/aniyomi/master/.github/readme-images/app-icon.png">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/jmir1/aniyomi)
+- [x] [Official page](https://aniyomi.jmir.xyz/)
+
+### Tachiyomi️
+<img alt="Tachiyomi️" height="64" src="https://github.com/tachiyomiorg/tachiyomi/blob/master/app/src/main/ic_launcher-web.png?raw=true">
+
+- [ ] Google Play
+- [x] [F-Droid](https://staging.f-droid.org/en/packages/eu.kanade.tachiyomi/)
+- [x] [GitHub](https://github.com/tachiyomiorg/tachiyomi)
+- [x] [Official page](https://tachiyomi.org/)
+
 ## Background Noise
 ### Noice
-<img alt="Noice" height="64" src="https://github.com/ashutoshgngwr/noice/blob/main/graphics/icon-round.png?raw=true">
+<img alt="Noice" height="64" src="https://raw.githubusercontent.com/trynoice/.github/main/graphics/icon-round.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.github.ashutoshgngwr.noice)
 - [x] [F-Droid](https://f-droid.org/packages/com.github.ashutoshgngwr.noice/)
@@ -171,6 +192,14 @@ __AWESOME__ apps counter: __103__ 🎉
 - [x] [GitHub](https://github.com/bromite/bromite)
 - [x] [Official page](https://www.bromite.org/)
 
+### Mull
+<img alt="Mull" height="64" src="https://user-images.githubusercontent.com/88576601/173426453-8f901901-5c38-4c88-967b-024c6a072c54.jpg">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
+- [x] [GitLab](https://gitlab.com/divested-mobile/mull-fenix) 
+- [x] [Official page](https://divestos.org/index.php?page=our_apps#mull)
+
 ## Calculator
 ### Calculator++ ❤️
 <img alt="Calculator++" height="64" src="https://github.com/Bubu/android-calculatorpp/blob/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png?raw=true">
@@ -178,6 +207,14 @@ __AWESOME__ apps counter: __103__ 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator)
 - [x] [F-Droid](https://www.f-droid.org/en/packages/org.solovyev.android.calculator/)
 - [x] [GitHub](https://github.com/Bubu/android-calculatorpp)
+- [ ] Official page
+
+### Calculator-inator 
+<img alt="Calculator-inator" height="64" src="https://apt.izzysoft.de/fdroid/repo/com.inator.calculator/en-US/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.inator.calculator)
+- [x] [GitHub](https://github.com/prathameshmm02/Calculator-inator)
 - [ ] Official page
 
 ### Simple Calculator ❤️
@@ -213,6 +250,15 @@ __AWESOME__ apps counter: __103__ 🎉
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/GrapheneOS/Camera)
 - [x] [Official page](https://grapheneos.org/)
+
+## Clock
+### Clock
+<img alt="Clock" height="64" src="https://f-droid.org/repo/com.best.deskclock/en-US/icon_F1H61d_ntO34pu9V6nsk3Zt36toTD9y6m2yo3YYnzfE=.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.best.deskclock/)
+- [x] [GitHub](https://github.com/qw123wh/new-clock-fdroid)
+- [ ] Official page
 
 ## Chess
 ### Lichess ❤️
@@ -611,15 +657,6 @@ __AWESOME__ apps counter: __103__ 🎉
 - [x] [GitHub](https://github.com/organicmaps/organicmaps)
 - [x] [Official page](https://organicmaps.app/)
 
-## Manga Reader
-### Tachiyomi️
-<img alt="Tachiyomi️" height="64" src="https://github.com/tachiyomiorg/tachiyomi/blob/master/app/src/main/ic_launcher-web.png?raw=true">
-
-- [ ] Google Play
-- [x] [F-Droid](https://staging.f-droid.org/en/packages/eu.kanade.tachiyomi/)
-- [x] [GitHub](https://github.com/tachiyomiorg/tachiyomi)
-- [x] [Official page](https://tachiyomi.org/)
-
 ## Matrix Client
 ### Element
 <img alt="Element" height="64" src="https://element.io/images/logo-mark-primary.svg">
@@ -755,6 +792,15 @@ __AWESOME__ apps counter: __103__ 🎉
 - [x] [GitHub](https://github.com/CollaboraOnline/online)
 - [x] [Official page](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/)
 
+## Package Manager
+### App Manager
+<img alt="App Manager" height="64" src="https://github.com/MuntashirAkon/AppManager/blob/master/docs/raw/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager/)
+- [x] [GitHub](https://github.com/MuntashirAkon/AppManager)
+- [x] [Official page](https://muntashirakon.github.io/AppManager/en/)
+
 ## PDF Viewer
 ### Pdf Viewer Plus 
 <img alt="PdfViewerPlus" height="64" src="https://github.com/JavaCafe01/PdfViewer/raw/master/images/high_res.png">
@@ -833,6 +879,23 @@ __AWESOME__ apps counter: __103__ 🎉
 - [x] [GitHub](https://github.com/m-i-n-a-r/randomix)
 - [ ] Official page
 
+## RSS Reader
+### Feeder
+<img alt="Feeder" height="64" src="https://gitlab.com/uploads/-/system/project/avatar/3088048/f_foreground_512.png?width=64">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.nononsenseapps.feeder/)
+- [x] [GitLab](https://gitlab.com/spacecowboy/Feeder)
+- [ ] Official page
+
+### ReadYou
+<img alt="Read You" height="64" src="https://raw.githubusercontent.com/Ashinch/ReadYou/main/fastlane/metadata/android/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://android.izzysoft.de/repo/apk/me.ash.reader)
+- [x] [GitHub](https://github.com/Ashinch/ReadYou)
+- [ ] Official page
+
 ## SMS Messenger
 ### Simple SMS Messenger ❤️
 <img alt="SimpleSMSMessenger" height="64" src="https://github.com/SimpleMobileTools/Simple-SMS-Messenger/raw/master/fastlane/metadata/android/en-US/images/icon.png">
@@ -849,6 +912,15 @@ __AWESOME__ apps counter: __103__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.moez.QKSMS/)
 - [x] [GitHub](https://github.com/moezbhatti/qksms)
 - [ ] Official page
+
+## Self Hosted
+### Jellyfin
+<img alt="Jellyfin" height="64" src="https://f-droid.org/repo/org.jellyfin.mobile/en-US/icon_Y46m-eV538ASL9vG0piH5BI4dC1PHilt0tKyKCVp_F0=.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
+- [x] [F-Droid](https://f-droid.org/packages/org.jellyfin.mobile/)
+- [x] [Github](https://github.com/jellyfin/jellyfin-android)
+- [x] [Official page](https://jellyfin.org/)
 
 ## Terminal Emulator
 ### Termux ❤️
@@ -920,6 +992,14 @@ __AWESOME__ apps counter: __103__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/com.brouken.player/)
 - [x] [GitHub](https://github.com/moneytoo/Player)
 - [ ] Official page
+
+### mpv
+<img alt="mpv" height="64" src="https://mpv.io/images/mpv-logo-128-0baae5aa.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=is.xyz.mpv)
+- [x] [F-Droid](https://f-droid.org/packages/is.xyz.mpv/)
+- [x] [Github](https://github.com/mpv-android/mpv-android)
+- [x] [Official page](https://mpv.io/)
 
 ## Voice Recorder
 ### Simple Voice Recorder ❤️
