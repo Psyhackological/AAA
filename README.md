@@ -191,7 +191,6 @@ __AWESOME__ apps counter: __111_ 🎉
 - [x] [GitLab](https://gitlab.com/divested-mobile/mull-fenix) 
 - [x] [Official page](https://divestos.org/index.php?page=our_apps#mull)
 
-
 ## Calculator
 ### Calculator++ ❤️
 <img alt="Calculator++" height="64" src="https://github.com/Bubu/android-calculatorpp/blob/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png?raw=true">
@@ -208,7 +207,6 @@ __AWESOME__ apps counter: __111_ 🎉
 - [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.inator.calculator)
 - [x] [GitHub](https://github.com/prathameshmm02/Calculator-inator)
 - [ ] Official page
-
 
 ### Simple Calculator ❤️
 <img alt="SimpleCalculator" height="64" src="https://github.com/SimpleMobileTools/Simple-Calculator/raw/master/fastlane/metadata/android/en-US/images/icon.png">
@@ -793,7 +791,6 @@ __AWESOME__ apps counter: __111_ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager/)
 - [x] [GitHub](https://github.com/MuntashirAkon/AppManager)
 - [x] [Official page](https://muntashirakon.github.io/AppManager/en/)
-
 
 ## PDF Viewer
 ### Pdf Viewer Plus 
