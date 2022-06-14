@@ -23,10 +23,11 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: **112** 🎉
+__AWESOME__ apps counter: __120_ 🎉
 
 ### Contents:
 - [2FA](#2fa)
+- [Ad Blocking](#ad-blocking)
 - [Addiction Tracker](#addiction-tracker)
 - [Alarm](#alarm)
 - [Anime & Manga](#anime--manga)
@@ -102,6 +103,71 @@ __AWESOME__ apps counter: **112** 🎉
 - [x] [F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)
 - [x] [GitHub](https://github.com/beemdevelopment/Aegis)
 - [x] [Official page](https://getaegis.app/)
+
+### Authenticator Pro 
+<img alt="Authenticator Pro" height="64" src="https://github.com/jamie-mh/AuthenticatorPro/blob/master/doc/ic_launcher-web.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=me.jmh.authenticatorpro)
+- [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/me.jmh.authenticatorpro)
+- [x] [GitHub](https://github.com/jamie-mh/AuthenticatorPro)
+- [ ] Official page
+
+## Ad Blocking
+### AdAway
+<img alt="AdAway" height="64" src="https://github.com/AdAway/AdAway/blob/master/app/src/main/res/mipmap-mdpi/icon.png?raw=true">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/app/org.adaway)
+- [x] [GitHub](https://github.com/AdAway/AdAway)
+- [x] [Official page](https://adaway.org/)
+
+### DNS66
+<img alt="DNS66" height="64" src="https://f-droid.org/repo/icons-640/org.jak_linux.dns66.29.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/org.jak_linux.dns66/)
+- [x] [GitHub](https://github.com/julian-klode/dns66)
+- [x] [Official page](https://jak-linux.org/projects/dns66/)
+
+### InviZible Pro
+<img alt="InviZible Pro" height="64" src="https://apt.izzysoft.de/fdroid/repo/pan.alexander.tordnscrypt/en-US/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=pan.alexander.tordnscrypt.gp)
+- [x] [F-Droid](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/)
+- [x] [GitHub](https://github.com/Gedsh/InviZible)
+- [x] [Official page](https://invizible.net/en/)
+
+### NetGuard
+<img alt="NetGuard" height="64" src="https://raw.githubusercontent.com/M66B/NetGuard/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=eu.faircode.netguard)
+- [x] [F-Droid](https://f-droid.org/en/packages/eu.faircode.netguard/)
+- [x] [GitHub](https://github.com/M66B/NetGuard)
+- [x] [Official page](https://netguard.me/)
+
+### personalDNSfilter
+<img alt="personalDNSfilter" height="64" src="https://www.zenz-solutions.de/cms/wp-content/uploads/2020/11/vector_source_512.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=dnsfilter.android)
+- [x] [F-Droid](https://f-droid.org/en/packages/dnsfilter.android/)
+- [x] [GitHub](https://github.com/IngoZenz/personaldnsfilter)
+- [x] [Official page](https://www.zenz-solutions.de/personaldnsfilter-wp/)
+
+### RethinkDNS
+<img alt="RethinkDNS" height="64" src="https://play-lh.googleusercontent.com/09-ilhXCKkL8cLZtEDBEhduNW9N88IgM8EW_ghtPakQNNzRY6r1PNTp79vlmq-xz8SA=w240-h480-rw">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.celzero.bravedns)
+- [x] [F-Droid](https://f-droid.org/packages/com.celzero.bravedns/)
+- [x] [GitHub](https://github.com/celzero/rethink-app)
+- [x] [Official page](https://rethinkdns.com/app)
+
+### TrackerControl
+<img alt="TrackerControl" height="64" src="https://trackercontrol.org/images/logo.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=net.kollnig.missioncontrol.play)
+- [x] [F-Droid](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/)
+- [x] [GitHub](https://github.com/TrackerControl/tracker-control-android)
+- [x] [Official page](https://trackercontrol.org/)
 
 ## Addiction Tracker
 ### Sobriety
