@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: **111** 🎉
+__AWESOME__ apps counter: **112** 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -155,6 +155,14 @@ __AWESOME__ apps counter: **111** 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye)
 - [x] [F-Droid](https://f-droid.org/en/packages/de.markusfisch.android.binaryeye/)
 - [x] [GitHub](https://github.com/markusfisch/BinaryEye)
+- [ ] Official page
+
+### QR & Barcode Scanner
+<img alt="QrAndBarcodeScanner" height="64" src="https://raw.githubusercontent.com/wewewe718/QrAndBarcodeScanner/master/images/google_play/market_app_icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.barcodescanner)
+- [x] [F-Droid](https://www.f-droid.org/en/packages/com.example.barcodescanner/)
+- [x] [GitHub](https://github.com/wewewe718/QrAndBarcodeScanner)
 - [ ] Official page
 
 ## Birthday Calendar
