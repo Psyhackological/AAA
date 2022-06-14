@@ -33,8 +33,11 @@ __If I've made mistake, notify me on the Issues page or throw me a pull request.
 
 If something is missing replace `x` with `space` and remove `[](link)`.
 
+One main source code repository link please, not the mirror one.
+
 5. Check your spelling.
 6. Check if app in the list is in alphabetical order.
-7. Make a pull request and wait for my response.
+7. Update the app counter.
+8. Make a pull request and wait for my response.
 
 ### Thank you for your time and effort! You are awesome!

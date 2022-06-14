@@ -4,26 +4,26 @@
 
 ### Rules:
 - [x] Open Sourced
-- [x] Free of charge
+- [x] Free of charge (on [F-Droid](#f-droid) and source code repository releases)
 - [x] Free as in Freedom
 - [x] Ad-free
-- [x] Installed and tested by me
+- [x] Installed and tested by me or by contributor
 - [x] Privacy-friendly
 - [x] Easy to use
 - [x] Still developed or polished experience
-- [x] Does not lack of features compared to "default app"
-- [x] Does not need an account
+- [x] Does not lack features compared to proprietary app
+- [x] Does not need an account (the only exception is [Self-hosted](#self-hosted))
 - [x] Has dark theme
+
+### App Name ❤️ = Someone's Personal Favourite
 
 [More detailed explanation here.](RULES.md)
 
 [Why does it exist?](WHY.md)
 
-### App Name ❤️ = My Personal Favourite
-
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __111_ 🎉
+__AWESOME__ apps counter: **111** 🎉
 
 ### Contents:
 - [2FA](#2fa)
