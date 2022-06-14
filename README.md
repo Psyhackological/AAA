@@ -100,6 +100,14 @@ __AWESOME__ apps counter: __102__ 🎉
 - [x] [GitHub](https://github.com/beemdevelopment/Aegis)
 - [x] [Official page](https://getaegis.app/)
 
+### Authenticator Pro 
+<img alt="Authenticator Pro" height="64" src="https://github.com/jamie-mh/AuthenticatorPro/blob/master/doc/ic_launcher-web.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=me.jmh.authenticatorpro)
+- [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/me.jmh.authenticatorpro)
+- [x] [GitHub](https://github.com/jamie-mh/AuthenticatorPro)
+- [ ] Official page
+
 ## Addiction Tracker
 ### Sobriety
 <img alt="Sobriety" height="64" src="https://github.com/KiARC/Sobriety/blob/master/app/src/main/res/mipmap-xxxhdpi/sobriety.png?raw=true">
