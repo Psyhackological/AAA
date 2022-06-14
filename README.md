@@ -129,7 +129,7 @@ __AWESOME__ apps counter: __102__ 🎉
 ### DNS66
 <img alt="DNS66" height="64" src="https://f-droid.org/repo/icons-640/org.jak_linux.dns66.29.png">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=org.blokada.sex)
+- [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.jak_linux.dns66/)
 - [x] [GitHub](https://github.com/julian-klode/dns66)
 - [x] [Official page](https://jak-linux.org/projects/dns66/)
