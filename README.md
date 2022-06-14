@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __109_ 🎉
+__AWESOME__ apps counter: __110_ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -73,6 +73,7 @@ __AWESOME__ apps counter: __109_ 🎉
 - [Notes](#notes)
 - [OCR](#ocr)
 - [Office Suite](#office-suite)
+- [Package Manager](#package-manager)
 - [PDF Viewer](#pdf-viewer)
 - [Password Manager](#password-manager)
 - [Pomodoro Timer](#pomodoro-timer)
@@ -783,6 +784,16 @@ __AWESOME__ apps counter: __109_ 🎉
 - [x] [F-Droid](https://www.collaboraoffice.com/tag/f-droid/)
 - [x] [GitHub](https://github.com/CollaboraOnline/online)
 - [x] [Official page](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/)
+
+## Package Manager
+### App Manager
+<img alt="App Manager" height="64" src="https://github.com/MuntashirAkon/AppManager/blob/master/docs/raw/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager/)
+- [x] [GitHub](https://github.com/MuntashirAkon/AppManager)
+- [x] [Official page](https://muntashirakon.github.io/AppManager/en/)
+
 
 ## PDF Viewer
 ### Pdf Viewer Plus 
