@@ -136,6 +136,14 @@ __AWESOME__ apps counter: __102__ 🎉
 - [x] [GitHub](https://github.com/markusfisch/BinaryEye)
 - [ ] Official page
 
+### QR & Barcode Scanner
+<img alt="QrAndBarcodeScanner" height="64" src="https://raw.githubusercontent.com/wewewe718/QrAndBarcodeScanner/master/images/google_play/market_app_icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.barcodescanner)
+- [x] [F-Droid](https://www.f-droid.org/en/packages/com.example.barcodescanner/)
+- [x] [GitHub](https://github.com/wewewe718/QrAndBarcodeScanner)
+- [ ] Official page
+
 ## Birthday Calendar
 ### Birday ❤️
 <img alt="Birday" height="64" src="https://github.com/m-i-n-a-r/birday/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
