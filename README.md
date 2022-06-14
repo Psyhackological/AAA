@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __120_ 🎉
+__AWESOME__ apps counter: __121__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -604,10 +604,18 @@ __AWESOME__ apps counter: __120_ 🎉
 ### Simon Tatham's Puzzles
 <img alt="SimonTathamsPuzzles" height="64" src="https://github.com/chrisboyle/sgtpuzzles/blob/main/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles&gl)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles)
 - [x] [F-Droid](https://f-droid.org/en/packages/name.boyle.chris.sgtpuzzles/)
 - [x] [GitHub](https://github.com/chrisboyle/sgtpuzzles)
 - [x] [Official page](https://chris.boyle.name/projects/android-puzzles/)
+
+### Zoysii
+<img alt="Zoysii" height="64" src="https://gitlab.com/deepdaikon/Zoysii/-/raw/49dddd8eecd7951deb526e1671a37ed1fe0c9cc5/android/app/src/main/ic_launcher-web.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=xyz.deepdaikon.z0ysii)
+- [x] [F-Droid](https://f-droid.org/en/packages/xyz.deepdaikon.zoysii/)
+- [x] [GitLab](https://gitlab.com/deepdaikon/Zoysii)
+- [ ] Official page
 
 ## GitHub Client
 ### OpenHub
