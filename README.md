@@ -73,9 +73,9 @@ __AWESOME__ apps counter: **112** 🎉
 - [Notes](#notes)
 - [OCR](#ocr)
 - [Office Suite](#office-suite)
-- [PDF Viewer](#pdf-viewer)
 - [Package Manager](#package-manager)
 - [Password Manager](#password-manager)
+- [PDF Viewer](#pdf-viewer)
 - [Pomodoro Timer](#pomodoro-timer)
 - [Public Transport Assistant](#public-transport-assistant)
 - [Reddit](#reddit)
@@ -801,6 +801,15 @@ __AWESOME__ apps counter: **112** 🎉
 - [x] [GitHub](https://github.com/MuntashirAkon/AppManager)
 - [x] [Official page](https://muntashirakon.github.io/AppManager/en/)
 
+## Password Manager
+### Bitwarden ❤
+<img alt="Bitwarden" height="64" src="https://github.com/bitwarden/mobile/blob/master/store/google/icons/hi-res-icon.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
+- [x] [F-Droid](https://mobileapp.bitwarden.com/fdroid/)
+- [x] [GitHub](https://github.com/bitwarden/mobile)
+- [x] [Official page](https://bitwarden.com/)
+
 ## PDF Viewer
 ### Pdf Viewer Plus 
 <img alt="PdfViewerPlus" height="64" src="https://github.com/JavaCafe01/PdfViewer/raw/master/images/high_res.png">
@@ -817,15 +826,6 @@ __AWESOME__ apps counter: **112** 🎉
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/GrapheneOS/PdfViewer)
 - [x] [Official page](https://grapheneos.org/)
-
-## Password Manager
-### Bitwarden ❤
-<img alt="Bitwarden" height="64" src="https://github.com/bitwarden/mobile/blob/master/store/google/icons/hi-res-icon.png?raw=true">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
-- [x] [F-Droid](https://mobileapp.bitwarden.com/fdroid/)
-- [x] [GitHub](https://github.com/bitwarden/mobile)
-- [x] [Official page](https://bitwarden.com/)
 
 ## Public Transport Assistant
 ### Transportr ❤️
