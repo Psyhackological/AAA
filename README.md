@@ -40,7 +40,6 @@ __AWESOME__ apps counter: **112** 🎉
 - [Camera](#camera)
 - [Chess](#chess)
 - [Cleaner](#cleaner)
-- [Clock](#clock)
 - [Coffee Timer](#coffee-timer)
 - [Contacts](#contacts)
 - [Decision-Making](#decision-making)
@@ -114,12 +113,20 @@ __AWESOME__ apps counter: **112** 🎉
 - [ ] Official page
 
 ## Alarm
-### Alarmio ❤️
-<img alt="Aegis" height="64" src="https://github.com/fennifith/Alarmio/blob/main/app/src/main/ic_launcher-web.png?raw=true">
+### Alarmio
+<img alt="Alarmio" height="64" src="https://github.com/fennifith/Alarmio/blob/main/app/src/main/ic_launcher-web.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=me.jfenn.alarmio)
 - [x] [F-Droid](https://f-droid.org/packages/me.jfenn.alarmio/)
 - [x] [GitHub](https://github.com/fennifith/Alarmio)
+- [ ] Official page
+
+### Clock ❤️
+<img alt="Clock" height="64" src="https://f-droid.org/repo/com.best.deskclock/en-US/icon_F1H61d_ntO34pu9V6nsk3Zt36toTD9y6m2yo3YYnzfE=.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.best.deskclock/)
+- [x] [GitHub](https://github.com/qw123wh/new-clock-fdroid)
 - [ ] Official page
 
 ## Anime & Manga
@@ -250,15 +257,6 @@ __AWESOME__ apps counter: **112** 🎉
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/GrapheneOS/Camera)
 - [x] [Official page](https://grapheneos.org/)
-
-## Clock
-### Clock
-<img alt="Clock" height="64" src="https://f-droid.org/repo/com.best.deskclock/en-US/icon_F1H61d_ntO34pu9V6nsk3Zt36toTD9y6m2yo3YYnzfE=.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/com.best.deskclock/)
-- [x] [GitHub](https://github.com/qw123wh/new-clock-fdroid)
-- [ ] Official page
 
 ## Chess
 ### Lichess ❤️
