@@ -118,14 +118,6 @@ __AWESOME__ apps counter: __102__ 🎉
 - [x] [GitHub](https://github.com/AdAway/AdAway)
 - [x] [Official page](https://adaway.org/)
 
-### Blokada
-<img alt="Blokada" height="64" src="https://f-droid.org/repo/icons-640/org.blokada.alarm.415000000.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=org.blokada.sex)
-- [x] [F-Droid](https://f-droid.org/packages/org.blokada.fem.fdroid/)
-- [x] [GitHub](https://github.com/blokadaorg/blokada)
-- [x] [Official page](https://blokada.org/)
-
 ### DNS66
 <img alt="DNS66" height="64" src="https://f-droid.org/repo/icons-640/org.jak_linux.dns66.29.png">
 
