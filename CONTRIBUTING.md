@@ -47,6 +47,7 @@ One main source code repository link please, not the mirror one.
 - [x] I use the app on a daily basis and I love almost the entirety of it, so I placed next to it a heart.
 ```
 It mustn't be fulfilled, it makes reviewing easier for me.
+
 9. Make a pull request and wait for my response.
 
 ### Thank you for your time and effort! You are awesome!
