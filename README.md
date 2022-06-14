@@ -962,20 +962,20 @@ __AWESOME__ apps counter: __110_ 🎉
 - [x] [Official page](https://converter-now.web.app/)
 
 ## Video Player
-### VLC ❤️
-<img alt="VLC" height="64" src="https://github.com/videolan/vlc-android/raw/master/application/resources/assets/images/svg/icon.svg">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc)
-- [x] [F-Droid](https://www.f-droid.org/en/packages/org.videolan.vlc/)
-- [x] [GitLab](https://code.videolan.org/videolan/vlc-android)
-- [x] [Official page](https://www.videolan.org/)
-
-### mpv-android ❤️
+### mpv-android
 <img alt="mpv-android" height="64" src="https://avatars.githubusercontent.com/u/18583292?s=200&v=4">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=is.xyz.mpv)
 - [x] [F-Droid](https://f-droid.org/packages/is.xyz.mpv/)
 - [x] [Github](https://github.com/mpv-android/mpv-android)
+- [x] [Official page](https://jellyfin.org/)
+
+### Jellyfin
+<img alt="Jellyfin" height="64" src="https://f-droid.org/repo/org.jellyfin.mobile/en-US/icon_Y46m-eV538ASL9vG0piH5BI4dC1PHilt0tKyKCVp_F0=.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
+- [x] [F-Droid](https://f-droid.org/packages/org.jellyfin.mobile/)
+- [x] [Github](https://github.com/jellyfin/jellyfin-android)
 - [x] [Official page](https://mpv.io/)
 
 ### Just (Video) Player
@@ -985,6 +985,14 @@ __AWESOME__ apps counter: __110_ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/com.brouken.player/)
 - [x] [GitHub](https://github.com/moneytoo/Player)
 - [ ] Official page
+
+### VLC ❤️
+<img alt="VLC" height="64" src="https://github.com/videolan/vlc-android/raw/master/application/resources/assets/images/svg/icon.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc)
+- [x] [F-Droid](https://www.f-droid.org/en/packages/org.videolan.vlc/)
+- [x] [GitLab](https://code.videolan.org/videolan/vlc-android)
+- [x] [Official page](https://www.videolan.org/)
 
 ## Voice Recorder
 ### Simple Voice Recorder ❤️
