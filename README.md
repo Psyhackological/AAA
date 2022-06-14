@@ -24,7 +24,7 @@
 
 ## Please use `Home` button to go to the top.
 
-**AWESOME** apps counter: \__119_ 🎉
+**AWESOME** apps counter: \__118_ 🎉
 
 ### Contents:
 
