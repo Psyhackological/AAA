@@ -5,26 +5,28 @@
 ### Rules:
 
 - [x] Open Sourced
-- [x] Free of charge
+- [x] Free of charge (on [F-Droid](#f-droid) and source code repository releases)
 - [x] Free as in Freedom
 - [x] Ad-free
-- [x] Installed and tested by me
+- [x] Installed and tested by me or by contributor
 - [x] Privacy-friendly
 - [x] Easy to use
 - [x] Still developed or polished experience
-- [x] Does not lack of features compared to "default app"
-- [x] Does not need an account
+- [x] Does not lack features compared to proprietary app
+- [x] Does not need an account (the only exception is [Self-hosted](#self-hosted))
 - [x] Has dark theme
+
+### App Name ❤️ = Someone's Personal Favourite
 
 [More detailed explanation here.](RULES.md)
 
 [Why does it exist?](WHY.md)
 
-### App Name ❤️ = My Personal Favourite
-
 ## Please use `Home` button to go to the top.
 
-**AWESOME** apps counter: \__118_ 🎉
+==== BASE ====
+__AWESOME__ apps counter: __119_ 🎉
+==== BASE ====
 
 ### Contents:
 
@@ -43,7 +45,6 @@
 - [Camera](#camera)
 - [Chess](#chess)
 - [Cleaner](#cleaner)
-- [Clock](#clock)
 - [Coffee Timer](#coffee-timer)
 - [Contacts](#contacts)
 - [Decision-Making](#decision-making)
@@ -76,9 +77,9 @@
 - [Notes](#notes)
 - [OCR](#ocr)
 - [Office Suite](#office-suite)
-- [PDF Viewer](#pdf-viewer)
 - [Package Manager](#package-manager)
 - [Password Manager](#password-manager)
+- [PDF Viewer](#pdf-viewer)
 - [Podcast](#podcast)
 - [Pomodoro Timer](#pomodoro-timer)
 - [Public Transport Assistant](#public-transport-assistant)
@@ -102,9 +103,7 @@
 ### [Special Thanks](#special-thanks-to)
 
 ## 2FA
-
 ### Aegis ❤️
-
 <img alt="Aegis" height="64" src="https://github.com/beemdevelopment/Aegis/blob/master/app/src/main/res/drawable/ic_aegis_iconx.png?raw=true">
 
 - [x] [Google Play](http://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
@@ -113,9 +112,7 @@
 - [x] [Official page](https://getaegis.app/)
 
 ## Addiction Tracker
-
 ### Sobriety
-
 <img alt="Sobriety" height="64" src="https://github.com/KiARC/Sobriety/blob/master/app/src/main/res/mipmap-xxxhdpi/sobriety.png?raw=true">
 
 - [ ] Google Play
@@ -124,20 +121,24 @@
 - [ ] Official page
 
 ## Alarm
-
-### Alarmio ❤️
-
-<img alt="Aegis" height="64" src="https://github.com/fennifith/Alarmio/blob/main/app/src/main/ic_launcher-web.png?raw=true">
+### Alarmio
+<img alt="Alarmio" height="64" src="https://github.com/fennifith/Alarmio/blob/main/app/src/main/ic_launcher-web.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=me.jfenn.alarmio)
 - [x] [F-Droid](https://f-droid.org/packages/me.jfenn.alarmio/)
 - [x] [GitHub](https://github.com/fennifith/Alarmio)
 - [ ] Official page
 
+### Clock ❤️
+<img alt="Clock" height="64" src="https://f-droid.org/repo/com.best.deskclock/en-US/icon_F1H61d_ntO34pu9V6nsk3Zt36toTD9y6m2yo3YYnzfE=.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.best.deskclock/)
+- [x] [GitHub](https://github.com/qw123wh/new-clock-fdroid)
+- [ ] Official page
+
 ## Anime & Manga
-
-### Aniyomi
-
+### Aniyomi 
 <img alt="Aniyomi" height="64" src="https://raw.githubusercontent.com/jmir1/aniyomi/master/.github/readme-images/app-icon.png">
 
 - [ ] Google Play
@@ -146,7 +147,6 @@
 - [x] [Official page](https://aniyomi.jmir.xyz/)
 
 ### Tachiyomi️
-
 <img alt="Tachiyomi️" height="64" src="https://github.com/tachiyomiorg/tachiyomi/blob/master/app/src/main/ic_launcher-web.png?raw=true">
 
 - [ ] Google Play
@@ -175,9 +175,7 @@
 - [ ] Official page
 
 ## Background Noise
-
 ### Noice
-
 <img alt="Noice" height="64" src="https://raw.githubusercontent.com/trynoice/.github/main/graphics/icon-round.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.github.ashutoshgngwr.noice)
@@ -186,9 +184,7 @@
 - [x] [Official page](https://trynoice.com/)
 
 ## Barcode Scanner
-
 ### Binary Eye
-
 <img alt="BinaryEye" height="64" src="https://raw.githubusercontent.com/markusfisch/BinaryEye/master/svg/google_play_icon.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye)
@@ -196,8 +192,15 @@
 - [x] [GitHub](https://github.com/markusfisch/BinaryEye)
 - [ ] Official page
 
-### SecScanQR
+### QR & Barcode Scanner
+<img alt="QrAndBarcodeScanner" height="64" src="https://raw.githubusercontent.com/wewewe718/QrAndBarcodeScanner/master/images/google_play/market_app_icon.png">
 
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.barcodescanner)
+- [x] [F-Droid](https://www.f-droid.org/en/packages/com.example.barcodescanner/)
+- [x] [GitHub](https://github.com/wewewe718/QrAndBarcodeScanner)
+- [ ] Official page
+
+### SecScanQR
 <img alt="SecScanQR" height="64" src="https://github.com/Fr4gorSoftware/SecScanQR/blob/master/pictures/web_hi_res_512.png">
 
 - [ ] Google Play
@@ -206,9 +209,7 @@
 - [ ] Official page
 
 ## Birthday Calendar
-
 ### Birday ❤️
-
 <img alt="Birday" height="64" src="https://github.com/m-i-n-a-r/birday/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.minar.birday)
@@ -217,9 +218,7 @@
 - [ ] Official page
 
 ## Books Tracker
-
 ### Openreads
-
 <img alt="Openreads" height="64" src="https://github.com/mateusz-bak/openreads-android/blob/master/app/src/main/res/mipmap-xhdpi/logo_round.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=software.mdev.bookstracker)
@@ -228,9 +227,7 @@
 - [ ] Official page
 
 ## Browser
-
 ### Bromite ❤️
-
 <img alt="Bromite" height="64" src="https://camo.githubusercontent.com/bff09bcc69b64a9924df8e61391e90e79c9ac2280e9168505a021ddf0bca612f/68747470733a2f2f7777772e62726f6d6974652e6f72672f616e64726f69642d69636f6e2d313932783139322e706e67">
 
 - [ ] Google Play
@@ -239,18 +236,15 @@
 - [x] [Official page](https://www.bromite.org/)
 
 ### Mull
-
 <img alt="Mull" height="64" src="https://user-images.githubusercontent.com/88576601/173426453-8f901901-5c38-4c88-967b-024c6a072c54.jpg">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
-- [x] [GitLab](https://gitlab.com/divested-mobile/mull-fenix)
+- [x] [GitLab](https://gitlab.com/divested-mobile/mull-fenix) 
 - [x] [Official page](https://divestos.org/index.php?page=our_apps#mull)
 
 ## Calculator
-
 ### Calculator++ ❤️
-
 <img alt="Calculator++" height="64" src="https://github.com/Bubu/android-calculatorpp/blob/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator)
@@ -258,8 +252,7 @@
 - [x] [GitHub](https://github.com/Bubu/android-calculatorpp)
 - [ ] Official page
 
-### Calculator-inator
-
+### Calculator-inator 
 <img alt="Calculator-inator" height="64" src="https://apt.izzysoft.de/fdroid/repo/com.inator.calculator/en-US/icon.png">
 
 - [ ] Google Play
@@ -268,7 +261,6 @@
 - [ ] Official page
 
 ### Simple Calculator ❤️
-
 <img alt="SimpleCalculator" height="64" src="https://github.com/SimpleMobileTools/Simple-Calculator/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.calculator)
@@ -276,10 +268,8 @@
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Calculator)
 - [x] [Official page](https://www.simplemobiletools.com/calculator)
 
-## Calendar
-
-### Simple Calendar
-
+## Calendar 
+### Simple Calendar 
 <img alt="SimpleCalendar" height="64" src="https://github.com/SimpleMobileTools/Simple-Calendar/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro)
@@ -308,7 +298,6 @@
 - [x] [Official page](https://opencamera.org.uk/)
 
 ### Secure Camera by GrapheneOS
-
 <img alt="GrapheneOSCamera" height="64" src="https://github.com/GrapheneOS/Camera/blob/main/app/src/main/ic_launcher-playstore.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play)
@@ -316,21 +305,8 @@
 - [x] [GitHub](https://github.com/GrapheneOS/Camera)
 - [x] [Official page](https://grapheneos.org/)
 
-## Clock
-
-### Clock
-
-<img alt="Clock" height="64" src="https://f-droid.org/repo/com.best.deskclock/en-US/icon_F1H61d_ntO34pu9V6nsk3Zt36toTD9y6m2yo3YYnzfE=.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/com.best.deskclock/)
-- [x] [GitHub](https://github.com/qw123wh/new-clock-fdroid)
-- [ ] Official page
-
 ## Chess
-
 ### Lichess ❤️
-
 <img alt="Lichess" height="64" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.lichess.mobileapp)
@@ -339,9 +315,7 @@
 - [x] [Official page](https://lichess.org/mobile)
 
 ## Cleaner
-
 ### LTE Cleaner
-
 <img alt="LTECleaner" height="64" src="https://github.com/TheRedSpy15/LTECleanerFOSS/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=theredspy15.ltecleanerfoss)
@@ -350,9 +324,7 @@
 - [ ] Official page
 
 ## Coffee Timer
-
 ### Cofi
-
 <img alt="Cofi" height="64" src="https://github.com/rozPierog/Cofi/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.omelan.cofi)
@@ -361,9 +333,7 @@
 - [x] [Official page](https://rozpierog.github.io/Cofi/)
 
 ## Contacts
-
 ### Simple Contacts ❤️
-
 <img alt="SimpleContacts" height="64" src="https://github.com/SimpleMobileTools/Simple-Contacts/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.contacts.pro)
@@ -372,9 +342,7 @@
 - [x] [Official page](https://www.simplemobiletools.com/contacts/)
 
 ## Decision-Making
-
 ### Decisions
-
 <img alt="Decisions" height="64" src="https://raw.githubusercontent.com/markusfisch/Libra/master/svg/google_play_icon.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.libra)
@@ -383,9 +351,7 @@
 - [ ] Official page
 
 ## Device Synchronization
-
 ### KDE Connect ❤️
-
 <img alt="KDEconnect" height="64" src="https://raw.githubusercontent.com/KDE/kdeconnect-kde/master/icons/app/sc-apps-kdeconnect.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp)
@@ -394,9 +360,7 @@
 - [x] [Official page](https://kdeconnect.kde.org/)
 
 ## Dialer
-
 ### Koler
-
 <img alt="Koler" height="64" src="https://github.com/Chooloo/koler/blob/master/koler/src/main/ic_launcher-web.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.chooloo.www.koler)
@@ -405,7 +369,6 @@
 - [ ] Official page
 
 ### Simple Dialer ❤️
-
 <img alt="SimpleDialer" height="64" src="https://github.com/SimpleMobileTools/Simple-Dialer/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.dialer)
@@ -414,9 +377,7 @@
 - [x] [Official page](https://www.simplemobiletools.com/)
 
 ## Diary
-
 ### Easy Diary
-
 <img alt="EasyDiary" height="64" src="https://github.com/hanjoongcho/aaf-easydiary/raw/master/screenshots/ic_launcher.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary)
@@ -425,9 +386,7 @@
 - [ ] Official page
 
 ## Discord
-
 ### Aliucord
-
 <img alt="Aliucord" height="64" src="https://github.com/Aliucord/Aliucord/blob/main/installer/android/app/src/main/assets/icon2.png?raw=true">
 
 - [ ] Google Play
@@ -436,9 +395,7 @@
 - [ ] Official page
 
 ## Drawing
-
 ### Simple Draw
-
 <img alt="SimpleDraw" height="64" src="https://github.com/SimpleMobileTools/Simple-Draw/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.draw.pro)
@@ -447,7 +404,6 @@
 - [x] [Official page](https://www.simplemobiletools.com/draw)
 
 ### Pocket Paint
-
 <img alt="PocketPaint" height="64" src="https://github.com/Catrobat/Paintroid/blob/develop/app/src/main/res/mipmap-xhdpi/ic_launcher.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.catrobat.paintroid)
@@ -456,9 +412,7 @@
 - [ ] Official page
 
 ## E-book Reader
-
 ### Librera Reader
-
 <img alt="LibreraReader" height="64" src="https://github.com/foobnix/LibreraReader/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.foobnix.pdf.reader)
@@ -467,7 +421,6 @@
 - [x] [Official page](https://librera.mobi/)
 
 ### KOReader
-
 <img alt="KOReader" height="64" src="https://github.com/koreader/koreader/blob/master/metadata/en-US/images/icon.png?raw=true">
 
 - [ ] Google Play
@@ -476,9 +429,7 @@
 - [x] [Official page](https://koreader.rocks/)
 
 ## Egg Timer
-
 ### Smart EggTimer
-
 <img alt="SmartEggTimer" height="64" src="https://github.com/woheller69/eggtimer/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 - [ ] Google Play
@@ -487,9 +438,7 @@
 - [ ] Official page
 
 ## Emulation
-
 ### Lemuroid
-
 <img alt="Lemuroid" height="64" src="https://github.com/Swordfish90/Lemuroid/blob/master/lemuroid-app/src/main/lemuroid_launcher-web.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid)
@@ -498,9 +447,7 @@
 - [ ] Official page
 
 ## F-Droid
-
 ### F-Droid
-
 <img alt="F-Droid" height="64" src="https://gitlab.com/fdroid/fdroidclient/-/raw/master/app/src/main/res/drawable-hdpi/ic_launcher.png">
 
 - [ ] Google Play
@@ -509,7 +456,6 @@
 - [x] [Official page](https://f-droid.org/)
 
 ### Aurora Droid
-
 <img alt="AuroraDroid" height="64" src="https://gitlab.com/AuroraOSS/auroradroid/-/raw/master/app/src/main/ic_launcher-web.png">
 
 - [ ] Google Play
@@ -518,7 +464,6 @@
 - [x] [Official page](https://auroraoss.com/)
 
 ### Droid-ify ❤️
-
 <img alt="Droid-ify" height="64" src="https://raw.githubusercontent.com/NeoApplications/Neo-Store/cfd917bab523f253394d7d9810b02a0e87b3b1c2/metadata/en-US/images/icon.png">
 
 - [ ] Google Play
@@ -527,9 +472,7 @@
 - [ ] Official page
 
 ## File Manager
-
 ### Material Files ❤️
-
 <img alt="MaterialFiles" height="64" src="https://github.com/zhanghai/MaterialFiles/raw/master/art/launcher_icon.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=me.zhanghai.android.files)
@@ -538,7 +481,6 @@
 - [ ] Official page
 
 ### Amaze File Manager
-
 <img alt="AmazeFileManager" height="64" src="https://github.com/TeamAmaze/AmazeFileManager/raw/release/3.7/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.amaze.filemanager)
@@ -547,7 +489,6 @@
 - [x] [Official page](https://teamamaze.xyz/)
 
 ### Simple File Manager
-
 <img alt="SimpleFileManager" height="64" src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager.pro)
@@ -556,9 +497,7 @@
 - [x] [Official page](https://www.simplemobiletools.com/filemanager/)
 
 ## File Synchronization
-
 ### Syncthing
-
 <img alt="Syncthing" height="64" src="https://raw.githubusercontent.com/syncthing/syncthing-android/841f89b8863102608e8d6c3d24272e1a71cb9449/graphics/ic_launcher_full.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid)
@@ -576,9 +515,7 @@
 - [x] [Official page](https://snapdrop.net/)
 
 ## Finance
-
 ### My Expenses
-
 <img alt="MyExpenses" height="64" src="https://github.com/mtotschnig/MyExpenses/blob/master/metadata/en-US/images/icon.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.totschnig.myexpenses)
@@ -587,7 +524,6 @@
 - [x] [Official page](https://www.myexpenses.mobi/en/)
 
 ### Sushi
-
 <img alt="Sushi" height="64" src="https://github.com/jerameel/sushi/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.jerameeldelosreyes.sushi)
@@ -596,7 +532,6 @@
 - [ ] Official page
 
 ### MoneyWallet
-
 <img alt="MoneyWallet" height="64" src="https://github.com/AndreAle94/moneywallet/blob/master/app/src/main/ic_launcher-web.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.oriondev.moneywallet)
@@ -605,9 +540,7 @@
 - [ ] Official page
 
 ## Flashlight
-
 ### Simple Flashlight
-
 <img alt="SimpleFlashlight" height="64" src="https://github.com/SimpleMobileTools/Simple-Flashlight/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.flashlight)
@@ -616,9 +549,7 @@
 - [x] [Official page](https://www.simplemobiletools.com/flashlight)
 
 ## Gallery
-
 ### Simple Gallery ❤️
-
 <img alt="SimpleGallery" height="64" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery.pro)
@@ -627,7 +558,6 @@
 - [x] [Official page](https://www.simplemobiletools.com/gallery)
 
 ### LeafPic Revived
-
 <img alt="LeafPicRevived" height="64" src="https://raw.githubusercontent.com/apcro/leafpicrevived/master/leafpicrevived/src/main/res/drawable/leaf_pic.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.alienpants.leafpicrevived)
@@ -636,7 +566,6 @@
 - [ ] Official page
 
 ### Aves
-
 <img alt="Aves" height="64" src="https://raw.githubusercontent.com/deckerst/aves/develop/aves_logo.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=deckers.thibault.aves)
@@ -645,9 +574,7 @@
 - [ ] Official page
 
 ## Flash Cards
-
 ### AnkiDroid
-
 <img alt="AnkiDroid" height="64" src="https://github.com/ankidroid/Anki-Android/raw/main/docs/graphics/logos/ankidroid_logo.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.ichi2.anki)
@@ -656,9 +583,7 @@
 - [x] [Official page](https://apps.ankiweb.net)
 
 ## Games
-
 ### Mindustry
-
 <img alt="Mindustry" height="64" src="https://github.com/Anuken/Mindustry/blob/master/android/ic_launcher-web.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=io.anuke.mindustry)
@@ -667,7 +592,6 @@
 - [x] [Official page](https://mindustrygame.github.io/)
 
 ### Simon Tatham's Puzzles
-
 <img alt="SimonTathamsPuzzles" height="64" src="https://github.com/chrisboyle/sgtpuzzles/blob/main/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles&gl)
@@ -676,9 +600,7 @@
 - [x] [Official page](https://chris.boyle.name/projects/android-puzzles/)
 
 ## GitHub Client
-
 ### OpenHub
-
 <img alt="OpenHub" height="64" src="https://github.com/ThirtyDegreesRay/OpenHub/blob/master/app/src/main/res/mipmap-hdpi/logo.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.thirtydegreesray.openhub)
@@ -687,7 +609,6 @@
 - [x] [Official page](https://thirtydegreesray.github.io/OpenHub/)
 
 ### OctoDroid
-
 <img alt="OctoDroid" height="64" src="https://raw.githubusercontent.com/slapperwan/gh4a/master/app/src/main/res/drawable-xxhdpi/octodroid.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.gh4a)
@@ -696,9 +617,7 @@
 - [ ] Official page
 
 ## Google Play
-
 ### Aurora Store ❤️
-
 <img alt="AuroraStore" height="64" src="https://gitlab.com/AuroraOSS/AuroraStore/-/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
 - [ ] Google Play
@@ -706,10 +625,8 @@
 - [x] [GitLab](https://gitlab.com/AuroraOSS/AuroraStore)
 - [x] [Official page](https://auroraoss.com/)
 
-## Habit Tracker
-
+## Habit Tracker 
 ### Loop Habit Tracker ❤️
-
 <img alt="Imagepipe" height="64" src="https://github.com/iSoron/uhabits/blob/dev/uhabits-android/src/main/res/drawable/intro_icon_1.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.isoron.uhabits)
@@ -717,10 +634,8 @@
 - [x] [GitHub](https://github.com/iSoron/uhabits)
 - [x] [Official page](https://loophabits.org/)
 
-## Icon Pack
-
+## Icon Pack 
 ### Arcticons ❤️
-
 <img alt="Arcticons" height="64" src="https://raw.githubusercontent.com/Donnnno/Arcticons/main/icons/white/arcticons.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.donnnno.arcticons)
@@ -729,9 +644,7 @@
 - [x] [Official page](https://arcticons.onnno.nl/)
 
 ## Image Processing
-
 ### Imagepipe
-
 <img alt="Imagepipe" height="64" src="https://codeberg.org/repo-avatars/230-a47fb71f565ec2388d5e78c561a5262d">
 
 - [ ] Google Play
@@ -740,9 +653,7 @@
 - [ ] Official page
 
 ## Instant Messaging
-
 ### Signal ❤️
-
 <img alt="Signal" height="64" src="https://seeklogo.com/images/S/signal-logo-20A1616F60-seeklogo.com.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
@@ -751,7 +662,6 @@
 - [x] [Official page](https://signal.org/)
 
 ### Molly ❤️
-
 <img alt="Molly" height="64" src="https://molly.im/author/molly/avatar_huf94a2fd78ceb4148e0a28cd6efbae53a_18855_270x270_fill_lanczos_center_3.png">
 
 - [ ] Google Play
@@ -760,7 +670,6 @@
 - [x] [Official page](https://molly.im/)
 
 ### Session
-
 <img alt="Session" height="64" src="https://github.com/oxen-io/session-android/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true">
 
 - [x] [Google Play](https://getsession.org/android)
@@ -769,9 +678,7 @@
 - [x] [Official page](https://getsession.org/)
 
 ## Keyboard
-
 ### Openboard ❤️
-
 <img alt="Openboard" height="64" src="https://github.com/openboard-team/openboard/blob/master/images/open_board_final.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.dslul.openboard.inputmethod.latin)
@@ -780,7 +687,6 @@
 - [ ] Official page
 
 ### Simple Keyboard
-
 <img alt="SimpleKeyboard" height="64" src="https://github.com/SimpleMobileTools/Simple-Keyboard/raw/main/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.keyboard)
@@ -789,7 +695,6 @@
 - [x] [Official page](https://www.simplemobiletools.com/keyboard)
 
 ### FlorisBoard
-
 <img alt="FlorisBoard" height="64" src="https://github.com/florisboard/florisboard/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [ ] Google Play
@@ -798,9 +703,7 @@
 - [ ] Official page
 
 ## Maps
-
 ### Organic Maps ❤️
-
 <img alt="OrganicMaps" height="64" src="https://organicmaps.app/logos/green-on-transparent.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=app.organicmaps)
@@ -809,9 +712,7 @@
 - [x] [Official page](https://organicmaps.app/)
 
 ## Matrix Client
-
 ### Element
-
 <img alt="Element" height="64" src="https://element.io/images/logo-mark-primary.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=im.vector.app)
@@ -820,9 +721,7 @@
 - [x] [Official page](https://element.io/)
 
 ## Meditation
-
 ### Medito ❤️
-
 <img alt="Medito" height="64" src="https://github.com/meditohq/medito-app/blob/develop/android/app/src/main/ic_launcher-web.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=meditofoundation.medito)
@@ -831,9 +730,7 @@
 - [x] [Official page](https://meditofoundation.org/)
 
 ## Music Downloader
-
 ### SpotiFlyer
-
 <img alt="SpotiFlyer" height="64" src="https://github.com/Shabinder/SpotiFlyer/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 - [ ] Google Play
@@ -842,9 +739,7 @@
 - [x] [Official page](https://shabinder.github.io/SpotiFlyer/)
 
 ## Music Player
-
 ### Metro
-
 <img alt="Metro" height="64" src="https://play-lh.googleusercontent.com/LsjjdQ5KSBnnztnMzRq8nTkmmCSINVE3BwSf4YG0Ps2ITGZQ-yV9pzbEAgkDXjx52140=s180">
 
 - [ ] Google Play
@@ -853,7 +748,6 @@
 - [ ] Official page
 
 ### BlackHole
-
 <img alt="BlackHole" height="64" src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 - [ ] Google Play
@@ -862,7 +756,6 @@
 - [x] [Official page](https://sangwan5688.github.io/BlackHole/)
 
 ### Auxio
-
 <img alt="Auxio" height="64" src="https://github.com/OxygenCobalt/Auxio/raw/dev/fastlane/metadata/android/en-US/images/icon.png">
 
 - [ ] Google Play
@@ -871,7 +764,6 @@
 - [ ] Official page
 
 ### Music Player GO ❤️
-
 <img alt="MusicPlayerGO" height="64" src="https://github.com/enricocid/Music-Player-GO/blob/main/project/app/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.iven.musicplayergo)
@@ -880,7 +772,6 @@
 - [ ] Official page
 
 ### Simple Music Player
-
 <img alt="SimpleMusicPlayer" height="64" src="https://github.com/SimpleMobileTools/Simple-Music-Player/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.musicplayer)
@@ -889,7 +780,6 @@
 - [x] [Official page](https://www.simplemobiletools.com/music)
 
 ### Phonograph
-
 <img alt="Phonograph" height="64" src="https://github.com/kabouzeid/Phonograph/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.kabouzeid.gramophone)
@@ -898,7 +788,6 @@
 - [ ] Official page
 
 ### Howl
-
 <img alt="Howl" height="64" src="https://github.com/Iamlooker/Howl/blob/stable/app/src/main/ic_launcher-playstore.png?raw=true">
 
 - [ ] Google Play
@@ -907,7 +796,6 @@
 - [ ] Official page
 
 ### Noad Player
-
 <img alt="NoadPlayer" height="64" src="https://github.com/gauravjot/android-noad-music-player/blob/master/app/src/main/ic_launcher-web.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.droidheat.musicplayer)
@@ -916,9 +804,7 @@
 - [ ] Official page
 
 ## Notes
-
 ### Notally
-
 <img alt="Notally" height="64" src="https://github.com/OmGodse/Notally/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.omgodse.notally)
@@ -927,7 +813,6 @@
 - [ ] Official page
 
 ### Simple Notes
-
 <img alt="SimpleNotes" height="64" src="https://github.com/SimpleMobileTools/Simple-Notes/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.notes.pro)
@@ -936,7 +821,6 @@
 - [x] [Official page](https://www.simplemobiletools.com/notes)
 
 ### Notedge
-
 <img alt="Notedge" height="64" src="https://camo.githubusercontent.com/82fed33162840dc397ea0f9c057434e8babe9456b44883ccd0311d5f0484d148/68747470733a2f2f73766773686172652e636f6d2f692f6777552e737667">
 
 - [ ] Google Play
@@ -945,9 +829,7 @@
 - [x] [Official page](https://notedge.netlify.app)
 
 ## OCR
-
-### OCR (Tesseract)
-
+### OCR (Tesseract) 
 <img alt="OCR(Tesseract)" height="64" src="https://github.com/mtotschnig/OCR/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_scan.png?raw=true">
 
 - [ ] Google Play
@@ -956,9 +838,7 @@
 - [ ] Official page
 
 ## Office Suite
-
 ### Collabora Office
-
 <img alt="CollaboraOffice" height="64" src="https://www.collaboraoffice.com/wp-content/uploads/2022/03/cropped-collabora-productivity-nav-icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.collabora.libreoffice)
@@ -967,9 +847,7 @@
 - [x] [Official page](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/)
 
 ## Package Manager
-
 ### App Manager
-
 <img alt="App Manager" height="64" src="https://github.com/MuntashirAkon/AppManager/blob/master/docs/raw/images/icon.png">
 
 - [ ] Google Play
@@ -977,10 +855,17 @@
 - [x] [GitHub](https://github.com/MuntashirAkon/AppManager)
 - [x] [Official page](https://muntashirakon.github.io/AppManager/en/)
 
+## Password Manager
+### Bitwarden ❤
+<img alt="Bitwarden" height="64" src="https://github.com/bitwarden/mobile/blob/master/store/google/icons/hi-res-icon.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
+- [x] [F-Droid](https://mobileapp.bitwarden.com/fdroid/)
+- [x] [GitHub](https://github.com/bitwarden/mobile)
+- [x] [Official page](https://bitwarden.com/)
+
 ## PDF Viewer
-
-### Pdf Viewer Plus
-
+### Pdf Viewer Plus 
 <img alt="PdfViewerPlus" height="64" src="https://github.com/JavaCafe01/PdfViewer/raw/master/images/high_res.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.gsnathan.pdfviewer)
@@ -989,7 +874,6 @@
 - [ ] Official page
 
 ### Secure PDF Viewer by GrapheneOS
-
 <img alt="GrapheneOSPDFViewer" height="64" src="https://github.com/GrapheneOS/PdfViewer/blob/main/app/src/main/ic_launcher-playstore.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=app.grapheneos.pdfviewer.play)
@@ -998,9 +882,7 @@
 - [x] [Official page](https://grapheneos.org/)
 
 ## Password Manager
-
-### Bitwarden ❤
-
+### Bitwarden
 <img alt="Bitwarden" height="64" src="https://github.com/bitwarden/mobile/blob/master/store/google/icons/hi-res-icon.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
@@ -1018,9 +900,7 @@
 - [ ] Official page
 
 ## Public Transport Assistant
-
 ### Transportr ❤️
-
 <img alt="Transportr" height="64" src="https://github.com/grote/Transportr/raw/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png">
 
 - [ ] Google Play
@@ -1029,7 +909,6 @@
 - [x] [Official page](https://transportr.app/)
 
 ### Öffi
-
 <img alt="Öffi" height="64" src="https://gitlab.com/oeffi/oeffi/-/raw/master/oeffi/graphics/ic_oeffi_stations_color_48dp-mdpi.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=de.schildbach.oeffi)
@@ -1049,9 +928,7 @@
 - [x] [Official page](https://antennapod.org/)
 
 ## Pomodoro Timer
-
 ### Goodtime ❤️
-
 <img alt="Goodtime" height="64" src="https://github.com/adrcotfas/Goodtime/blob/master/app/src/main/ic_launcher-web.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.apps.adrcotfas.goodtime)
@@ -1060,9 +937,7 @@
 - [ ] Official page
 
 ## Reddit
-
 ### Infinity ❤️
-
 <img alt="Infinity" height="64" src="https://github.com/Docile-Alligator/Infinity-For-Reddit/blob/master/app/src/main/res/drawable-xxxhdpi/splash_icon.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit)
@@ -1071,7 +946,6 @@
 - [ ] Official page
 
 ### Stealth️
-
 <img alt="Stealth️" height="64" src="https://gitlab.com/cosmosapps/stealth/-/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
 - [ ] Google Play
@@ -1080,9 +954,7 @@
 - [ ] Official page
 
 ## RNG
-
 ### Randomix
-
 <img alt="Randomix" height="64" src="https://github.com/m-i-n-a-r/randomix/blob/master/app/src/main/ic_launcher-web.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.minar.randomix)
@@ -1091,9 +963,7 @@
 - [ ] Official page
 
 ## RSS Reader
-
 ### Feeder
-
 <img alt="Feeder" height="64" src="https://gitlab.com/uploads/-/system/project/avatar/3088048/f_foreground_512.png?width=64">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play)
@@ -1102,7 +972,6 @@
 - [ ] Official page
 
 ### ReadYou
-
 <img alt="Read You" height="64" src="https://raw.githubusercontent.com/Ashinch/ReadYou/main/fastlane/metadata/android/en-US/images/icon.png">
 
 - [ ] Google Play
@@ -1111,9 +980,7 @@
 - [ ] Official page
 
 ## SMS Messenger
-
 ### Simple SMS Messenger ❤️
-
 <img alt="SimpleSMSMessenger" height="64" src="https://github.com/SimpleMobileTools/Simple-SMS-Messenger/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.smsmessenger)
@@ -1122,7 +989,6 @@
 - [x] [Official page](https://www.simplemobiletools.com/sms)
 
 ### QKSMS
-
 <img alt="QKSMS" height="64" src="https://github.com/moezbhatti/qksms/blob/master/presentation/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.moez.QKSMS)
@@ -1131,9 +997,7 @@
 - [ ] Official page
 
 ## Self Hosted
-
 ### Jellyfin
-
 <img alt="Jellyfin" height="64" src="https://f-droid.org/repo/org.jellyfin.mobile/en-US/icon_Y46m-eV538ASL9vG0piH5BI4dC1PHilt0tKyKCVp_F0=.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
@@ -1153,9 +1017,7 @@
 - [ ] Official page
 
 ## Terminal Emulator
-
 ### Termux ❤️
-
 <img alt="Termux" height="64" src="https://github.com/termux/termux-app/blob/master/art/ic_launcher2.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.termux)
@@ -1164,9 +1026,7 @@
 - [x] [Official page](https://termux.org/)
 
 ## To-Do List
-
 ### Tasks️
-
 <img alt="Tasks️" height="64" src="https://raw.githubusercontent.com/tasks/tasks/main/graphics/round_icon.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.tasks)
@@ -1175,9 +1035,7 @@
 - [x] [Official page](https://tasks.org/)
 
 ## Torrenting
-
 ### LibreTorrent ❤️
-
 <img alt="LibreTorrent" height="64" src="https://gitlab.com/proninyaroslav/libretorrent/-/raw/master/art/icon.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.proninyaroslav.libretorrent)
@@ -1186,9 +1044,7 @@
 - [ ] Official page
 
 ## Twitch
-
 ### Twire ❤️
-
 <img alt="Twire" height="64" src="https://github.com/twireapp/Twire/blob/master/app/src/main/ic_launcher-web.png?raw=true">
 
 - [ ] Google Play
@@ -1197,9 +1053,7 @@
 - [ ] Official page
 
 ## Twitter
-
 ### Fritter ❤️
-
 <img alt="Fritter" height="64" src="https://camo.githubusercontent.com/d2f22524a41d737d6919d4fdad7f60553a0b086fceb581a5de042c32d9c2366c/687474703a2f2f692e696d6775722e636f6d2f786d4f394d54762e706e67">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.jonjomckay.fritter)
@@ -1208,9 +1062,7 @@
 - [x] [Official page](https://fritter.cc/)
 
 ## Unit Converter
-
 ### Converter NOW
-
 <img alt="ConverterNOW" height="64" src="https://github.com/ferraridamiano/ConverterNOW/blob/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.ferrarid.converterpro)
@@ -1219,9 +1071,7 @@
 - [x] [Official page](https://converter-now.web.app/)
 
 ## Video Player
-
 ### VLC ❤️
-
 <img alt="VLC" height="64" src="https://github.com/videolan/vlc-android/raw/master/application/resources/assets/images/svg/icon.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.videolan.vlc)
@@ -1230,7 +1080,6 @@
 - [x] [Official page](https://www.videolan.org/)
 
 ### Just (Video) Player
-
 <img alt="Just(Video)Player" height="64" src="https://github.com/moneytoo/Player/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.brouken.player)
@@ -1239,7 +1088,6 @@
 - [ ] Official page
 
 ### mpv
-
 <img alt="mpv" height="64" src="https://mpv.io/images/mpv-logo-128-0baae5aa.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=is.xyz.mpv)
@@ -1248,9 +1096,7 @@
 - [x] [Official page](https://mpv.io/)
 
 ## Voice Recorder
-
 ### Simple Voice Recorder ❤️
-
 <img alt="SimpleVoiceRecorder" height="64" src="https://github.com/SimpleMobileTools/Simple-Voice-Recorder/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.voicerecorder)
@@ -1268,9 +1114,7 @@
 - [ ] Official page
 
 ## YouTube
-
 ### NewPipe ❤️
-
 <img alt="NewPipe" height="64" src="https://newpipe.net/img/logo.svg">
 
 - [ ] Google Play
@@ -1279,7 +1123,6 @@
 - [x] [Official page](https://newpipe.net/)
 
 ### NewPipe x SponsorBlock x Return YouTube Dislike ❤️
-
 <img alt="NewPipeXSponsorBlockXReturnYouTubeDislike" height="64" src="https://newpipe.net/img/logo.svg">
 
 - [ ] Google Play
@@ -1288,7 +1131,6 @@
 - [x] [Official page](https://newpipe.net/)
 
 ### SkyTube
-
 <img alt="SkyTube" height="64" src="https://github.com/SkyTubeTeam/SkyTube/blob/master/app/src/main/ic_launcher-web.png?raw=true">
 
 - [ ] Google Play
@@ -1297,7 +1139,6 @@
 - [x] [Official page](https://skytube-app.com/)
 
 ### LibreTube
-
 <img alt="LibreTube" height="64" src="https://github.com/libre-tube/LibreTube/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 - [ ] Google Play
@@ -1306,7 +1147,6 @@
 - [x] [Official page](https://libre-tube.github.io/)
 
 ### SongTube
-
 <img alt="SongTube" height="64" src="https://github.com/SongTube/SongTube-App/blob/development/assets/images/ic_launcher.png?raw=true">
 
 - [ ] Google Play
@@ -1315,7 +1155,6 @@
 - [x] [Official page](https://songtube.github.io/)
 
 ### ViMusic
-
 <img alt="ViMusic" height="64" src="https://github.com/vfsfitvnm/ViMusic/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true">
 
 - [ ] Google Play
@@ -1335,27 +1174,22 @@
 - [ ] Official page
 
 ## Special thanks to:
-
 ### AWESOME PEOPLE that developed or still develops this AWESOME SOFTWARE.
 
 ### LinuxCafeFederation/[awesome-android](https://github.com/LinuxCafeFederation/awesome-android)
-
 <img alt="LinuxCafeFederation/awesome-android" height="64" src="https://avatars.githubusercontent.com/u/66378202?s=200&v=4">
 
 ### pluja/[awesome-privacy](https://github.com/pluja/awesome-privacy)
-
 <img alt="pluja/awesome-privacy" width="256" src="https://github.com/pluja/awesome-privacy/raw/main/misc/logo.png">
 
 ### JStumpp/[awesome-android](https://github.com/JStumpp/awesome-android)
-
 <img alt="JStumpp/awesome-android" width="256" src="https://raw.githubusercontent.com/jstumpp/awesome-android/master/awesome-android.png">
 
 ### [AlternativeTo.net](https://alternativeto.net/)
-
 <img alt="AlternativeTo.net" width="256" src="https://alternativeto.net/static/logo.svg">
 
 ### [IzzyOnDroid](https://android.izzysoft.de/applists.php)
-
 <img alt="IzzyOnDroid" height="64" src="https://android.izzysoft.de/images/site_logo.png">
+
 
 # [⬆ Go back ⬆](#contents)
