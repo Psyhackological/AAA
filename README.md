@@ -174,7 +174,6 @@ __AWESOME__ apps counter: __102__ 🎉
 - [x] [GitHub](https://github.com/TrackerControl/tracker-control-android)
 - [x] [Official page](https://trackercontrol.org/)
 
-
 ## Addiction Tracker
 ### Sobriety
 <img alt="Sobriety" height="64" src="https://github.com/KiARC/Sobriety/blob/master/app/src/main/res/mipmap-xxxhdpi/sobriety.png?raw=true">
