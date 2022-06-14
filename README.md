@@ -747,6 +747,13 @@ __AWESOME__ apps counter: __121__ 🎉
 - [x] [GitHub](https://github.com/meditohq/medito-app)
 - [x] [Official page](https://meditofoundation.org/)
 
+### Meditation Assistant
+<img alt="Meditation Assistant" height="64" src="https://code.rocketnine.space/tslocum/meditationassistant/raw/branch/master/MeditationAssistant/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=sh.ftp.rocketninelabs.meditationassistant)
+- [x] [F-Droid](https://f-droid.org/packages/sh.ftp.rocketninelabs.meditationassistant.opensource/)
+- [x] [Source code](https://code.rocketnine.space/tslocum/meditationassistant)
+
 ## Music Downloader
 ### SpotiFlyer
 <img alt="SpotiFlyer" height="64" src="https://github.com/Shabinder/SpotiFlyer/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true">
