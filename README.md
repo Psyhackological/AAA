@@ -661,6 +661,15 @@ __AWESOME__ apps counter: __121__ 🎉
 - [x] [GitHub](https://github.com/Donnnno/Arcticons)
 - [x] [Official page](https://arcticons.onnno.nl/)
 
+### Ameixa
+<img alt="Ameixa" height="64" src="https://gitlab.com/xphnx/ameixa/-/raw/master/app/src/chromatic/res/mipmap-xxxhdpi/ic_launcher.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/org.xphnx.ameixa/)
+- [x] [F-Droid (Monochrome ver)](https://f-droid.org/en/packages/org.xphnx.ameixamonochrome/)
+- [x] [Gitlab](https://gitlab.com/xphnx/ameixa)
+- [x] [Official page](https://xphnx.gitlab.io/ameixa)
+
 ## Image Processing
 ### Imagepipe
 <img alt="Imagepipe" height="64" src="https://codeberg.org/repo-avatars/230-a47fb71f565ec2388d5e78c561a5262d">
