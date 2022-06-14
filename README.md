@@ -4,26 +4,26 @@
 
 ### Rules:
 - [x] Open Sourced
-- [x] Free of charge
+- [x] Free of charge (on [F-Droid](#f-droid) and source code repository releases)
 - [x] Free as in Freedom
 - [x] Ad-free
-- [x] Installed and tested by me
+- [x] Installed and tested by me or by contributor
 - [x] Privacy-friendly
 - [x] Easy to use
 - [x] Still developed or polished experience
-- [x] Does not lack of features compared to "default app"
-- [x] Does not need an account
+- [x] Does not lack features compared to proprietary app
+- [x] Does not need an account (the only exception is [Self-hosted](#self-hosted))
 - [x] Has dark theme
+
+### App Name ❤️ = Someone's Personal Favourite
 
 [More detailed explanation here.](RULES.md)
 
 [Why does it exist?](WHY.md)
 
-### App Name ❤️ = My Personal Favourite
-
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __119_ 🎉
+__AWESOME__ apps counter: __120_ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -41,7 +41,6 @@ __AWESOME__ apps counter: __119_ 🎉
 - [Camera](#camera)
 - [Chess](#chess)
 - [Cleaner](#cleaner)
-- [Clock](#clock)
 - [Coffee Timer](#coffee-timer)
 - [Contacts](#contacts)
 - [Decision-Making](#decision-making)
@@ -74,9 +73,9 @@ __AWESOME__ apps counter: __119_ 🎉
 - [Notes](#notes)
 - [OCR](#ocr)
 - [Office Suite](#office-suite)
-- [PDF Viewer](#pdf-viewer)
 - [Package Manager](#package-manager)
 - [Password Manager](#password-manager)
+- [PDF Viewer](#pdf-viewer)
 - [Pomodoro Timer](#pomodoro-timer)
 - [Public Transport Assistant](#public-transport-assistant)
 - [Reddit](#reddit)
@@ -180,12 +179,20 @@ __AWESOME__ apps counter: __119_ 🎉
 - [ ] Official page
 
 ## Alarm
-### Alarmio ❤️
-<img alt="Aegis" height="64" src="https://github.com/fennifith/Alarmio/blob/main/app/src/main/ic_launcher-web.png?raw=true">
+### Alarmio
+<img alt="Alarmio" height="64" src="https://github.com/fennifith/Alarmio/blob/main/app/src/main/ic_launcher-web.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=me.jfenn.alarmio)
 - [x] [F-Droid](https://f-droid.org/packages/me.jfenn.alarmio/)
 - [x] [GitHub](https://github.com/fennifith/Alarmio)
+- [ ] Official page
+
+### Clock ❤️
+<img alt="Clock" height="64" src="https://f-droid.org/repo/com.best.deskclock/en-US/icon_F1H61d_ntO34pu9V6nsk3Zt36toTD9y6m2yo3YYnzfE=.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.best.deskclock/)
+- [x] [GitHub](https://github.com/qw123wh/new-clock-fdroid)
 - [ ] Official page
 
 ## Anime & Manga
@@ -221,6 +228,14 @@ __AWESOME__ apps counter: __119_ 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=de.markusfisch.android.binaryeye)
 - [x] [F-Droid](https://f-droid.org/en/packages/de.markusfisch.android.binaryeye/)
 - [x] [GitHub](https://github.com/markusfisch/BinaryEye)
+- [ ] Official page
+
+### QR & Barcode Scanner
+<img alt="QrAndBarcodeScanner" height="64" src="https://raw.githubusercontent.com/wewewe718/QrAndBarcodeScanner/master/images/google_play/market_app_icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.barcodescanner)
+- [x] [F-Droid](https://www.f-droid.org/en/packages/com.example.barcodescanner/)
+- [x] [GitHub](https://github.com/wewewe718/QrAndBarcodeScanner)
 - [ ] Official page
 
 ## Birthday Calendar
@@ -308,15 +323,6 @@ __AWESOME__ apps counter: __119_ 🎉
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/GrapheneOS/Camera)
 - [x] [Official page](https://grapheneos.org/)
-
-## Clock
-### Clock
-<img alt="Clock" height="64" src="https://f-droid.org/repo/com.best.deskclock/en-US/icon_F1H61d_ntO34pu9V6nsk3Zt36toTD9y6m2yo3YYnzfE=.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/com.best.deskclock/)
-- [x] [GitHub](https://github.com/qw123wh/new-clock-fdroid)
-- [ ] Official page
 
 ## Chess
 ### Lichess ❤️
@@ -859,6 +865,15 @@ __AWESOME__ apps counter: __119_ 🎉
 - [x] [GitHub](https://github.com/MuntashirAkon/AppManager)
 - [x] [Official page](https://muntashirakon.github.io/AppManager/en/)
 
+## Password Manager
+### Bitwarden ❤
+<img alt="Bitwarden" height="64" src="https://github.com/bitwarden/mobile/blob/master/store/google/icons/hi-res-icon.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
+- [x] [F-Droid](https://mobileapp.bitwarden.com/fdroid/)
+- [x] [GitHub](https://github.com/bitwarden/mobile)
+- [x] [Official page](https://bitwarden.com/)
+
 ## PDF Viewer
 ### Pdf Viewer Plus 
 <img alt="PdfViewerPlus" height="64" src="https://github.com/JavaCafe01/PdfViewer/raw/master/images/high_res.png">
@@ -875,15 +890,6 @@ __AWESOME__ apps counter: __119_ 🎉
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/GrapheneOS/PdfViewer)
 - [x] [Official page](https://grapheneos.org/)
-
-## Password Manager
-### Bitwarden ❤
-<img alt="Bitwarden" height="64" src="https://github.com/bitwarden/mobile/blob/master/store/google/icons/hi-res-icon.png?raw=true">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
-- [x] [F-Droid](https://mobileapp.bitwarden.com/fdroid/)
-- [x] [GitHub](https://github.com/bitwarden/mobile)
-- [x] [Official page](https://bitwarden.com/)
 
 ## Public Transport Assistant
 ### Transportr ❤️
