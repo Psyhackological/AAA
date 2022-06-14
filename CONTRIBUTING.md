@@ -38,6 +38,15 @@ One main source code repository link please, not the mirror one.
 5. Check your spelling.
 6. Check if app in the list is in alphabetical order.
 7. Update the app counter.
-8. Make a pull request and wait for my response.
+8. Paste changed template:
+``` markdown
+- [x] Installed and tested by me on my main smartphone and used for about 15 minutes or more.
+- [x] It has 0 trackers on [εxodus](exodus report link).
+- [x] It has 0 Droid [Anti-Features](F-Droid / IzzyOnDroid).
+- [x] Has dark theme
+- [x] I use the app on a daily basis and I love almost the entirety of it, so I placed next to it a heart.
+```
+It mustn't be fulfilled, it makes reviewing easier for me.
+9. Make a pull request and wait for my response.
 
 ### Thank you for your time and effort! You are awesome!
