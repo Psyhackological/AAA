@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __121__ 🎉
+__AWESOME__ apps counter: __130__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -61,10 +61,12 @@ __AWESOME__ apps counter: __121__ 🎉
 - [GitHub Client](#github-client)
 - [Google Play](#google-play)
 - [Habit Tracker](#habit-tracker)
+- [Health](#health)
 - [Icon Pack](#icon-pack)
 - [Image Processing](#image-processing)
 - [Instant Messaging](#instant-messaging)
 - [Keyboard](#keyboard)
+- [Loyalty Card](#loyalty-card)
 - [Maps](#maps)
 - [Matrix Client](#matrix-client)
 - [Meditation](#meditation)
@@ -237,6 +239,14 @@ __AWESOME__ apps counter: __121__ 🎉
 - [x] [F-Droid](https://www.f-droid.org/en/packages/com.example.barcodescanner/)
 - [x] [GitHub](https://github.com/wewewe718/QrAndBarcodeScanner)
 - [ ] Official page
+
+### QR Scanner (Privacy Friendly)
+<img alt="PrivacyFriendlyQRScanner" height="64" src="https://raw.githubusercontent.com/SecUSo/privacy-friendly-qr-scanner/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.secuso.privacyFriendlyCodeScanner)
+- [x] [F-Droid](https://f-droid.org/packages/com.secuso.privacyFriendlyCodeScanner/)
+- [x] [GitHub](https://github.com/SecUSo/privacy-friendly-qr-scanner)
+- [x] [Official page](https://secuso.aifb.kit.edu/english/QR_Scanner.php)
 
 ## Birthday Calendar
 ### Birday ❤️
@@ -601,6 +611,14 @@ __AWESOME__ apps counter: __121__ 🎉
 - [x] [GitHub](https://github.com/Anuken/Mindustry)
 - [x] [Official page](https://mindustrygame.github.io/)
 
+### Parlera — word guessing game
+<img alt="Parlera" height="64" src="https://gitlab.com/enjoyingfoss/parlera/-/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.enjoyingfoss.parlera)
+- [x] [F-Droid](https://f-droid.org/packages/com.enjoyingfoss.parlera/)
+- [x] [GitLab](https://gitlab.com/enjoyingfoss/parlera)
+- [ ] Official page
+
 ### Simon Tatham's Puzzles
 <img alt="SimonTathamsPuzzles" height="64" src="https://github.com/chrisboyle/sgtpuzzles/blob/main/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true">
 
@@ -608,6 +626,14 @@ __AWESOME__ apps counter: __121__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/name.boyle.chris.sgtpuzzles/)
 - [x] [GitHub](https://github.com/chrisboyle/sgtpuzzles)
 - [x] [Official page](https://chris.boyle.name/projects/android-puzzles/)
+
+### Sudoku (Privacy Friendly)
+<img alt="PrivacyFriendlySudoku" height="64" src="https://raw.githubusercontent.com/SecUSo/privacy-friendly-sudoku/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.secuso.privacyfriendlysudoku)
+- [x] [F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlysudoku/)
+- [x] [GitHub](https://github.com/SecUSo/privacy-friendly-sudoku)
+- [x] [Official page](https://secuso.aifb.kit.edu/english/Sudoku.php)
 
 ### Zoysii
 <img alt="Zoysii" height="64" src="https://gitlab.com/deepdaikon/Zoysii/-/raw/49dddd8eecd7951deb526e1671a37ed1fe0c9cc5/android/app/src/main/ic_launcher-web.png">
@@ -651,6 +677,39 @@ __AWESOME__ apps counter: __121__ 🎉
 - [x] [F-Droid](https://f-droid.org/app/org.isoron.uhabits)
 - [x] [GitHub](https://github.com/iSoron/uhabits)
 - [x] [Official page](https://loophabits.org/)
+
+## Health
+### Did I Take My Meds?
+<img alt="DidITakeMyMeds?" height="64" src="https://raw.githubusercontent.com/CorruptedArk/did-i-take-my-meds/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=dev.corruptedark.diditakemymeds)
+- [x] [F-Droid](https://f-droid.org/packages/dev.corruptedark.diditakemymeds)
+- [x] [GitHub](https://github.com/CorruptedArk/did-i-take-my-meds)
+- [ ] Official page
+
+### Feeel - home workouts
+<img alt="Feeel" height="64" src="https://gitlab.com/enjoyingfoss/feeel/-/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.enjoyingfoss.feeel)
+- [x] [F-Droid](https://f-droid.org/packages/com.enjoyingfoss.feeel/)
+- [x] [GitLab](https://gitlab.com/enjoyingfoss/feeel)
+- [ ] Official page
+
+### Just Another Workout Timer
+<img alt="JustAnotherWorkoutTimer" height="64" src="https://raw.githubusercontent.com/blockbasti/just_another_workout_timer/main/fastlane/metadata/android/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.blockbasti.justanotherworkouttimer/)
+- [x] [GitHub](https://github.com/blockbasti/just_another_workout_timer)
+- [ ] Official page
+
+### Pedometer (Privacy Friendly)
+<img alt="PrivacyFriendlyPedometer" height="64" src="https://raw.githubusercontent.com/SecUSo/privacy-friendly-pedometer/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.secuso.privacyfriendlyactivitytracker)
+- [x] [F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlyactivitytracker/)
+- [x] [GitHub](https://github.com/SecUSo/privacy-friendly-pedometer)
+- [x] [Official page](https://secuso.aifb.kit.edu/english/Pedometer.php)
 
 ## Icon Pack 
 ### Arcticons ❤️
@@ -720,6 +779,15 @@ __AWESOME__ apps counter: __121__ 🎉
 - [x] [GitHub](https://github.com/florisboard/florisboard)
 - [ ] Official page
 
+## Loyalty Card
+### Catima ❤️
+<img alt="Catima" height="64" src="https://raw.githubusercontent.com/CatimaLoyalty/Android/master/app/src/main/ic_launcher-playstore.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=me.hackerchick.catima)
+- [x] [F-Droid](https://f-droid.org/packages/me.hackerchick.catima/)
+- [x] [GitHub](https://github.com/CatimaLoyalty/Android)
+- [x] [Official page](https://catima.app/)
+
 ## Maps
 ### Organic Maps ❤️
 <img alt="OrganicMaps" height="64" src="https://organicmaps.app/logos/green-on-transparent.svg">
@@ -728,6 +796,14 @@ __AWESOME__ apps counter: __121__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/app.organicmaps/)
 - [x] [GitHub](https://github.com/organicmaps/organicmaps)
 - [x] [Official page](https://organicmaps.app/)
+
+### OsmAnd
+<img alt="OsmAnd" height="64" src="https://osmand.net/img/logo.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=net.osmand)
+- [x] [F-Droid](https://f-droid.org/packages/net.osmand.plus/)
+- [x] [GitHub](https://github.com/osmandapp/OsmAnd)
+- [x] [Official page](https://osmand.net/)
 
 ## Matrix Client
 ### Element
