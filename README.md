@@ -202,7 +202,7 @@ __AWESOME__ apps counter: __135__ 🎉
 - [ ] Official page
 
 ## Anime & Manga
-### Aniyomi❤️
+### Aniyomi ❤️
 <img alt="Aniyomi" height="64" src="https://raw.githubusercontent.com/jmir1/aniyomi/master/.github/readme-images/app-icon.png">
 
 - [ ] Google Play
@@ -904,7 +904,7 @@ __AWESOME__ apps counter: __135__ 🎉
 - [ ] Official page
 
 ## Music Scrobbler
-### Pano Scrobbler❤️
+### Pano Scrobbler ❤️
 <img alt="Pano Scrobbler" height="64" src="https://play-lh.googleusercontent.com/QIDK-bs4AbrACmPJsEpcENeQyjMfrfrgsLfizHmqVLanqNE_-Qs8eLpqLdlwCNViXg=w240-h480">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.arn.scrobble&gl=US)
@@ -1173,7 +1173,7 @@ __AWESOME__ apps counter: __135__ 🎉
 - [x] [GitHub](https://github.com/moneytoo/Player)
 - [ ] Official page
 
-### mpv❤️
+### mpv ❤️
 <img alt="mpv" height="64" src="https://mpv.io/images/mpv-logo-128-0baae5aa.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=is.xyz.mpv)
