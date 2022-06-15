@@ -93,6 +93,7 @@ __AWESOME__ apps counter: __128__ 🎉
 - [Unit Converter](#unit-converter)
 - [Video Player](#video-player)
 - [Voice Recorder](#voice-recorder)
+- [Workout](#workout)
 - [YouTube](#youtube)
 
 ### [Special Thanks](#special-thanks-to)
@@ -679,22 +680,6 @@ __AWESOME__ apps counter: __128__ 🎉
 - [x] [GitHub](https://github.com/CorruptedArk/did-i-take-my-meds)
 - [ ] Official page
 
-### Feeel - home workouts
-<img alt="Feeel" height="64" src="https://gitlab.com/enjoyingfoss/feeel/-/raw/master/fastlane/metadata/android/en-US/images/icon.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.enjoyingfoss.feeel)
-- [x] [F-Droid](https://f-droid.org/packages/com.enjoyingfoss.feeel/)
-- [x] [GitLab](https://gitlab.com/enjoyingfoss/feeel)
-- [ ] Official page
-
-### Just Another Workout Timer
-<img alt="JustAnotherWorkoutTimer" height="64" src="https://raw.githubusercontent.com/blockbasti/just_another_workout_timer/main/fastlane/metadata/android/en-US/images/icon.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/com.blockbasti.justanotherworkouttimer/)
-- [x] [GitHub](https://github.com/blockbasti/just_another_workout_timer)
-- [ ] Official page
-
 ## Icon Pack 
 ### Arcticons ❤️
 <img alt="Arcticons" height="64" src="https://raw.githubusercontent.com/Donnnno/Arcticons/main/icons/white/arcticons.svg">
@@ -1141,6 +1126,23 @@ __AWESOME__ apps counter: __128__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.voicerecorder/)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Voice-Recorder)
 - [x] [Official page](https://www.simplemobiletools.com/voice)
+
+## Workout
+### Feeel - home workouts
+<img alt="Feeel" height="64" src="https://gitlab.com/enjoyingfoss/feeel/-/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.enjoyingfoss.feeel)
+- [x] [F-Droid](https://f-droid.org/packages/com.enjoyingfoss.feeel/)
+- [x] [GitLab](https://gitlab.com/enjoyingfoss/feeel)
+- [ ] Official page
+
+### Just Another Workout Timer
+<img alt="JustAnotherWorkoutTimer" height="64" src="https://raw.githubusercontent.com/blockbasti/just_another_workout_timer/main/fastlane/metadata/android/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.blockbasti.justanotherworkouttimer/)
+- [x] [GitHub](https://github.com/blockbasti/just_another_workout_timer)
+- [ ] Official page
 
 ## YouTube
 ### NewPipe ❤️
