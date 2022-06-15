@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __128__ 🎉
+__AWESOME__ apps counter: __130__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -612,6 +612,14 @@ __AWESOME__ apps counter: __128__ 🎉
 - [x] [GitLab](https://gitlab.com/enjoyingfoss/parlera)
 - [ ] Official page
 
+### Shattered Pixel Dungeon
+<img alt="Shattered Pixel Dungeon" height="64" src="https://raw.githubusercontent.com/00-Evan/shattered-pixel-dungeon/master/desktop/src/main/assets/icons/icon_256.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.shatteredpixel.shatteredpixeldungeon/)
+- [x] [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon)
+- [x] [Official page](https://shatteredpixel.com/)
+
 ### Simon Tatham's Puzzles
 <img alt="SimonTathamsPuzzles" height="64" src="https://github.com/chrisboyle/sgtpuzzles/blob/main/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true">
 
@@ -688,6 +696,15 @@ __AWESOME__ apps counter: __128__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.donnnno.arcticons)
 - [x] [GitHub](https://github.com/Donnnno/Arcticons)
 - [x] [Official page](https://arcticons.onnno.nl/)
+
+### Ameixa
+<img alt="Ameixa" height="64" src="https://gitlab.com/xphnx/ameixa/-/raw/master/app/src/chromatic/res/mipmap-xxxhdpi/ic_launcher.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/org.xphnx.ameixa/)
+- [x] [F-Droid (Monochrome)](https://f-droid.org/en/packages/org.xphnx.ameixamonochrome/)
+- [x] [GitLab](https://gitlab.com/xphnx/ameixa)
+- [x] [Official page](https://xphnx.gitlab.io/ameixa)
 
 ## Image Processing
 ### Imagepipe
