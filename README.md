@@ -601,6 +601,14 @@ __AWESOME__ apps counter: __121__ 🎉
 - [x] [GitHub](https://github.com/Anuken/Mindustry)
 - [x] [Official page](https://mindustrygame.github.io/)
 
+### Shattered Pixel Dungeon
+<img alt="Shattered Pixel Dungeon" height="64" src="https://raw.githubusercontent.com/00-Evan/shattered-pixel-dungeon/master/desktop/src/main/assets/icons/icon_256.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.shatteredpixel.shatteredpixeldungeon/)
+- [x] [GitHub](https://github.com/00-Evan/shattered-pixel-dungeon)
+- [x] [Official page](https://shatteredpixel.com/)
+
 ### Simon Tatham's Puzzles
 <img alt="SimonTathamsPuzzles" height="64" src="https://github.com/chrisboyle/sgtpuzzles/blob/main/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true">
 
