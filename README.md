@@ -911,6 +911,14 @@ __AWESOME__ apps counter: __132__ 🎉
 - [x] [GitHub](https://github.com/kawaiiDango/pScrobbler)
 - [ ] Official page
 
+### Simple Scrobbler
+<img alt="Simple Scrobbler" height="64" src="https://avatars.githubusercontent.com/u/53984925?s=200&v=4">
+
+- [ ]  Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.adam.aslfms/)
+- [x] [GitHub](https://github.com/simple-last-fm-scrobbler/sls)
+- [x] [Official page](https://simple-last-fm-scrobbler.github.io/)
+
 ## Notes
 ### Notally
 <img alt="Notally" height="64" src="https://github.com/OmGodse/Notally/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
