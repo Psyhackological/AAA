@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __130__ 🎉
+__AWESOME__ apps counter: __128__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -239,14 +239,6 @@ __AWESOME__ apps counter: __130__ 🎉
 - [x] [F-Droid](https://www.f-droid.org/en/packages/com.example.barcodescanner/)
 - [x] [GitHub](https://github.com/wewewe718/QrAndBarcodeScanner)
 - [ ] Official page
-
-### QR Scanner (Privacy Friendly)
-<img alt="PrivacyFriendlyQRScanner" height="64" src="https://raw.githubusercontent.com/SecUSo/privacy-friendly-qr-scanner/master/fastlane/metadata/android/en-US/images/icon.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.secuso.privacyFriendlyCodeScanner)
-- [x] [F-Droid](https://f-droid.org/packages/com.secuso.privacyFriendlyCodeScanner/)
-- [x] [GitHub](https://github.com/SecUSo/privacy-friendly-qr-scanner)
-- [x] [Official page](https://secuso.aifb.kit.edu/english/QR_Scanner.php)
 
 ## Birthday Calendar
 ### Birday ❤️
@@ -702,14 +694,6 @@ __AWESOME__ apps counter: __130__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.blockbasti.justanotherworkouttimer/)
 - [x] [GitHub](https://github.com/blockbasti/just_another_workout_timer)
 - [ ] Official page
-
-### Pedometer (Privacy Friendly)
-<img alt="PrivacyFriendlyPedometer" height="64" src="https://raw.githubusercontent.com/SecUSo/privacy-friendly-pedometer/master/fastlane/metadata/android/en-US/images/icon.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=org.secuso.privacyfriendlyactivitytracker)
-- [x] [F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlyactivitytracker/)
-- [x] [GitHub](https://github.com/SecUSo/privacy-friendly-pedometer)
-- [x] [Official page](https://secuso.aifb.kit.edu/english/Pedometer.php)
 
 ## Icon Pack 
 ### Arcticons ❤️
