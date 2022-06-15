@@ -671,7 +671,7 @@ __AWESOME__ apps counter: __130__ 🎉
 
 ## Habit Tracker 
 ### Loop Habit Tracker ❤️
-<img alt="Imagepipe" height="64" src="https://github.com/iSoron/uhabits/blob/dev/uhabits-android/src/main/res/drawable/intro_icon_1.png?raw=true">
+<img alt="LoopHabitTracker" height="64" src="https://github.com/iSoron/uhabits/blob/dev/uhabits-android/src/main/res/drawable/intro_icon_1.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.isoron.uhabits)
 - [x] [F-Droid](https://f-droid.org/app/org.isoron.uhabits)
