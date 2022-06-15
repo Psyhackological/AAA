@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __130__ 🎉
+__AWESOME__ apps counter: __131__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -66,6 +66,7 @@ __AWESOME__ apps counter: __130__ 🎉
 - [Image Processing](#image-processing)
 - [Instant Messaging](#instant-messaging)
 - [Keyboard](#keyboard)
+- [Launcher](#launcher)
 - [Loyalty Card](#loyalty-card)
 - [Maps](#maps)
 - [Matrix Client](#matrix-client)
@@ -764,6 +765,15 @@ __AWESOME__ apps counter: __130__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard)
 - [x] [GitHub](https://github.com/florisboard/florisboard)
 - [ ] Official page
+
+## Launcher
+### Lawnchair
+<img alt="Lawnchair" height="64" src="https://avatars.githubusercontent.com/u/34144436?s=200&v=4">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah)
+- [x] [F-Droid](https://f-droid.org/packages/ch.deletescape.lawnchair.plah/)
+- [x] [GitHub](https://github.com/LawnchairLauncher/lawnchair)
+- [x] [Official page](https://lawnchair.app/)
 
 ## Loyalty Card
 ### Catima ❤️
