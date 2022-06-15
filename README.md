@@ -90,6 +90,7 @@ __AWESOME__ apps counter: __132__ 🎉
 - [Terminal Emulator](#terminal-emulator)
 - [To-Do List](#to-do-list)
 - [Torrenting](#torrenting)
+- [TV Shows Tracker](#tv-shows-tracker)
 - [Twitch](#twitch)
 - [Twitter](#twitter)
 - [Unit Converter](#unit-converter)
@@ -201,7 +202,7 @@ __AWESOME__ apps counter: __132__ 🎉
 - [ ] Official page
 
 ## Anime & Manga
-### Aniyomi 
+### Aniyomi❤️
 <img alt="Aniyomi" height="64" src="https://raw.githubusercontent.com/jmir1/aniyomi/master/.github/readme-images/app-icon.png">
 
 - [ ] Google Play
@@ -903,7 +904,7 @@ __AWESOME__ apps counter: __132__ 🎉
 - [ ] Official page
 
 ## Music Scrobbler
-### Pano Scrobbler
+### Pano Scrobbler❤️
 <img alt="Pano Scrobbler" height="64" src="https://play-lh.googleusercontent.com/QIDK-bs4AbrACmPJsEpcENeQyjMfrfrgsLfizHmqVLanqNE_-Qs8eLpqLdlwCNViXg=w240-h480">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.arn.scrobble&gl=US)
@@ -1119,6 +1120,15 @@ __AWESOME__ apps counter: __132__ 🎉
 - [x] [GitLab](https://gitlab.com/proninyaroslav/libretorrent)
 - [ ] Official page
 
+# TV Shows Tracker
+### Showly ❤️
+<img alt="Showly" height="64" src="https://camo.githubusercontent.com/3740231f58f9cd91dbf27285736f77ecfac4f63c02fceefcacbeb40778d3f896/68747470733a2f2f692e6962622e636f2f4368424e374c672f69632d6c61756e636865722e706e67">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.michaldrabik.showly2&gl=US)
+- [ ] F-Droid
+- [x] [Github](https://github.com/michaldrabik/Showly-2.0)
+- [x] [Official page](http://showlyapp.com/)
+
 ## Twitch
 ### Twire ❤️
 <img alt="Twire" height="64" src="https://github.com/twireapp/Twire/blob/master/app/src/main/ic_launcher-web.png?raw=true">
@@ -1163,7 +1173,7 @@ __AWESOME__ apps counter: __132__ 🎉
 - [x] [GitHub](https://github.com/moneytoo/Player)
 - [ ] Official page
 
-### mpv
+### mpv❤️
 <img alt="mpv" height="64" src="https://mpv.io/images/mpv-logo-128-0baae5aa.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=is.xyz.mpv)
