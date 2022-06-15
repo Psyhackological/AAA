@@ -73,6 +73,7 @@ __AWESOME__ apps counter: __132__ 🎉
 - [Meditation](#meditation)
 - [Music Downloader](#music-downloader)
 - [Music Player](#music-player)
+- [Music Scrobblers](#music-scrobbler)
 - [Notes](#notes)
 - [OCR](#ocr)
 - [Office Suite](#office-suite)
@@ -899,6 +900,15 @@ __AWESOME__ apps counter: __132__ 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.droidheat.musicplayer)
 - [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.droidheat.musicplayer)
 - [x] [GitHub](https://github.com/gauravjot/android-noad-music-player)
+- [ ] Official page
+
+## Music Scrobbler
+### Pano Scrobbler
+<img alt="Pano Scrobbler" height="64" src="https://play-lh.googleusercontent.com/QIDK-bs4AbrACmPJsEpcENeQyjMfrfrgsLfizHmqVLanqNE_-Qs8eLpqLdlwCNViXg=w240-h480">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.arn.scrobble&gl=US)
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/kawaiiDango/pScrobbler)
 - [ ] Official page
 
 ## Notes
