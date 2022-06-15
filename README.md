@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __123__ 🎉
+__AWESOME__ apps counter: __128__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -61,10 +61,12 @@ __AWESOME__ apps counter: __123__ 🎉
 - [GitHub Client](#github-client)
 - [Google Play](#google-play)
 - [Habit Tracker](#habit-tracker)
+- [Health](#health)
 - [Icon Pack](#icon-pack)
 - [Image Processing](#image-processing)
 - [Instant Messaging](#instant-messaging)
 - [Keyboard](#keyboard)
+- [Loyalty Card](#loyalty-card)
 - [Maps](#maps)
 - [Matrix Client](#matrix-client)
 - [Meditation](#meditation)
@@ -91,6 +93,7 @@ __AWESOME__ apps counter: __123__ 🎉
 - [Unit Converter](#unit-converter)
 - [Video Player](#video-player)
 - [Voice Recorder](#voice-recorder)
+- [Workout](#workout)
 - [YouTube](#youtube)
 
 ### [Special Thanks](#special-thanks-to)
@@ -601,6 +604,14 @@ __AWESOME__ apps counter: __123__ 🎉
 - [x] [GitHub](https://github.com/Anuken/Mindustry)
 - [x] [Official page](https://mindustrygame.github.io/)
 
+### Parlera — word guessing game
+<img alt="Parlera" height="64" src="https://gitlab.com/enjoyingfoss/parlera/-/raw/master/flatpak/com.enjoyingfoss.Parlera.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.enjoyingfoss.parlera)
+- [x] [F-Droid](https://f-droid.org/packages/com.enjoyingfoss.parlera/)
+- [x] [GitLab](https://gitlab.com/enjoyingfoss/parlera)
+- [ ] Official page
+
 ### Shattered Pixel Dungeon
 <img alt="Shattered Pixel Dungeon" height="64" src="https://raw.githubusercontent.com/00-Evan/shattered-pixel-dungeon/master/desktop/src/main/assets/icons/icon_256.png">
 
@@ -616,6 +627,14 @@ __AWESOME__ apps counter: __123__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/name.boyle.chris.sgtpuzzles/)
 - [x] [GitHub](https://github.com/chrisboyle/sgtpuzzles)
 - [x] [Official page](https://chris.boyle.name/projects/android-puzzles/)
+
+### Sudoku (Privacy Friendly)
+<img alt="PrivacyFriendlySudoku" height="64" src="https://raw.githubusercontent.com/SecUSo/privacy-friendly-sudoku/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.secuso.privacyfriendlysudoku)
+- [x] [F-Droid](https://f-droid.org/packages/org.secuso.privacyfriendlysudoku/)
+- [x] [GitHub](https://github.com/SecUSo/privacy-friendly-sudoku)
+- [x] [Official page](https://secuso.aifb.kit.edu/english/Sudoku.php)
 
 ### Zoysii
 <img alt="Zoysii" height="64" src="https://gitlab.com/deepdaikon/Zoysii/-/raw/49dddd8eecd7951deb526e1671a37ed1fe0c9cc5/android/app/src/main/ic_launcher-web.png">
@@ -653,12 +672,21 @@ __AWESOME__ apps counter: __123__ 🎉
 
 ## Habit Tracker 
 ### Loop Habit Tracker ❤️
-<img alt="Imagepipe" height="64" src="https://github.com/iSoron/uhabits/blob/dev/uhabits-android/src/main/res/drawable/intro_icon_1.png?raw=true">
+<img alt="LoopHabitTracker" height="64" src="https://github.com/iSoron/uhabits/blob/dev/uhabits-android/src/main/res/drawable/intro_icon_1.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.isoron.uhabits)
 - [x] [F-Droid](https://f-droid.org/app/org.isoron.uhabits)
 - [x] [GitHub](https://github.com/iSoron/uhabits)
 - [x] [Official page](https://loophabits.org/)
+
+## Health
+### Did I Take My Meds?
+<img alt="DidITakeMyMeds?" height="64" src="https://raw.githubusercontent.com/CorruptedArk/did-i-take-my-meds/25129dbbf9e801259b31a4ec740a9127e2cce14b/icons/launcher_icon.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=dev.corruptedark.diditakemymeds)
+- [x] [F-Droid](https://f-droid.org/packages/dev.corruptedark.diditakemymeds)
+- [x] [GitHub](https://github.com/CorruptedArk/did-i-take-my-meds)
+- [ ] Official page
 
 ## Icon Pack 
 ### Arcticons ❤️
@@ -737,6 +765,15 @@ __AWESOME__ apps counter: __123__ 🎉
 - [x] [GitHub](https://github.com/florisboard/florisboard)
 - [ ] Official page
 
+## Loyalty Card
+### Catima ❤️
+<img alt="Catima" height="64" src="https://raw.githubusercontent.com/CatimaLoyalty/Android/8318d2e7c38fa478244107716ec125331115cf25/logo.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=me.hackerchick.catima)
+- [x] [F-Droid](https://f-droid.org/packages/me.hackerchick.catima/)
+- [x] [GitHub](https://github.com/CatimaLoyalty/Android)
+- [x] [Official page](https://catima.app/)
+
 ## Maps
 ### Organic Maps ❤️
 <img alt="OrganicMaps" height="64" src="https://organicmaps.app/logos/green-on-transparent.svg">
@@ -745,6 +782,14 @@ __AWESOME__ apps counter: __123__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/app.organicmaps/)
 - [x] [GitHub](https://github.com/organicmaps/organicmaps)
 - [x] [Official page](https://organicmaps.app/)
+
+### OsmAnd
+<img alt="OsmAnd" height="64" src="https://osmand.net/img/logo.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=net.osmand)
+- [x] [F-Droid](https://f-droid.org/packages/net.osmand.plus/)
+- [x] [GitHub](https://github.com/osmandapp/OsmAnd)
+- [x] [Official page](https://osmand.net/)
 
 ## Matrix Client
 ### Element
@@ -1098,6 +1143,23 @@ __AWESOME__ apps counter: __123__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.voicerecorder/)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Voice-Recorder)
 - [x] [Official page](https://www.simplemobiletools.com/voice)
+
+## Workout
+### Feeel - home workouts
+<img alt="Feeel" height="64" src="https://gitlab.com/enjoyingfoss/feeel/-/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.enjoyingfoss.feeel)
+- [x] [F-Droid](https://f-droid.org/packages/com.enjoyingfoss.feeel/)
+- [x] [GitLab](https://gitlab.com/enjoyingfoss/feeel)
+- [ ] Official page
+
+### Just Another Workout Timer
+<img alt="JustAnotherWorkoutTimer" height="64" src="https://raw.githubusercontent.com/blockbasti/just_another_workout_timer/main/fastlane/metadata/android/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.blockbasti.justanotherworkouttimer/)
+- [x] [GitHub](https://github.com/blockbasti/just_another_workout_timer)
+- [ ] Official page
 
 ## YouTube
 ### NewPipe ❤️
