@@ -612,7 +612,7 @@ __AWESOME__ apps counter: __130__ 🎉
 - [x] [Official page](https://mindustrygame.github.io/)
 
 ### Parlera — word guessing game
-<img alt="Parlera" height="64" src="https://gitlab.com/enjoyingfoss/parlera/-/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="Parlera" height="64" src="https://gitlab.com/enjoyingfoss/parlera/-/raw/master/flatpak/com.enjoyingfoss.Parlera.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.enjoyingfoss.parlera)
 - [x] [F-Droid](https://f-droid.org/packages/com.enjoyingfoss.parlera/)
@@ -680,7 +680,7 @@ __AWESOME__ apps counter: __130__ 🎉
 
 ## Health
 ### Did I Take My Meds?
-<img alt="DidITakeMyMeds?" height="64" src="https://raw.githubusercontent.com/CorruptedArk/did-i-take-my-meds/master/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="DidITakeMyMeds?" height="64" src="https://raw.githubusercontent.com/CorruptedArk/did-i-take-my-meds/25129dbbf9e801259b31a4ec740a9127e2cce14b/icons/launcher_icon.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=dev.corruptedark.diditakemymeds)
 - [x] [F-Droid](https://f-droid.org/packages/dev.corruptedark.diditakemymeds)
@@ -781,7 +781,7 @@ __AWESOME__ apps counter: __130__ 🎉
 
 ## Loyalty Card
 ### Catima ❤️
-<img alt="Catima" height="64" src="https://raw.githubusercontent.com/CatimaLoyalty/Android/master/app/src/main/ic_launcher-playstore.png">
+<img alt="Catima" height="64" src="https://raw.githubusercontent.com/CatimaLoyalty/Android/8318d2e7c38fa478244107716ec125331115cf25/logo.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=me.hackerchick.catima)
 - [x] [F-Droid](https://f-droid.org/packages/me.hackerchick.catima/)
