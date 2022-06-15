@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __131__ 🎉
+__AWESOME__ apps counter: __132__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -527,6 +527,14 @@ __AWESOME__ apps counter: __131__ 🎉
 - [x] [F-Droid](https://f-droid.org/app/com.nutomic.syncthingandroid)
 - [x] [GitHub](https://github.com/syncthing/syncthing-android)
 - [x] [Official page](https://syncthing.net/)
+
+### Syncthing-Fork
+<img alt="Syncthing-Fork" height="64" src="https://raw.githubusercontent.com/syncthing/syncthing-android/841f89b8863102608e8d6c3d24272e1a71cb9449/graphics/ic_launcher_full.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.github.catfriend1.syncthingandroid&gl=US)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid/)
+- [x] [GitHub](https://github.com/Catfriend1/syncthing-android)
+- [ ] Official page
 
 ## Finance
 ### My Expenses
