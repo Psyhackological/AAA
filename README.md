@@ -25,7 +25,7 @@
 ## Please use `Home` button to go to the top.
 
 
-__AWESOME__ apps counter: __139__ 🎉
+__AWESOME__ apps counter: __140__ 🎉
 
 ### Contents:
 
@@ -1234,6 +1234,14 @@ __AWESOME__ apps counter: __139__ 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=wangdaye.com.geometricweather)
 - [x] [F-Droid](https://f-droid.org/en/packages/wangdaye.com.geometricweather/)
 - [x] [GitHub](https://github.com/WangDaYeeeeee/GeometricWeather)
+- [ ] Official page
+
+### Veterondo
+<img alt="Veterondo" height="64" src="https://f-droid.org/repo/icons-640/com.saladdressing.veterondo.13.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.saladdressing.veterondo)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.saladdressing.veterondo/)
+- [x] [GitHub](https://github.com/Antonis427/veterondo)
 - [ ] Official page
 
 ## Workout
