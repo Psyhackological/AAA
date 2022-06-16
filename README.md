@@ -25,7 +25,7 @@
 ## Please use `Home` button to go to the top.
 
 
-__AWESOME__ apps counter: __130__ 🎉
+__AWESOME__ apps counter: __139__ 🎉
 
 ### Contents:
 
@@ -997,7 +997,7 @@ __AWESOME__ apps counter: __130__ 🎉
 <img alt="Keepass2Android" height="64" src="https://github.com/PhilippC/keepass2android/blob/master/graphics/launcher_icon/Logo-green.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
-- [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/keepass2android.keepass2android_nonet) offline-only version
+- [x] [IzzyOnDroid (Offline-only)](https://android.izzysoft.de/repo/apk/keepass2android.keepass2android_nonet)
 - [x] [GitHub](https://github.com/PhilippC/keepass2android)
 - [ ] Official page
 
@@ -1228,7 +1228,6 @@ __AWESOME__ apps counter: __130__ 🎉
 - [ ] Official page
 
 ## Weather
-
 ### Geometric Weather
 <img alt="GeometricWeather" height="64" src="https://github.com/WangDaYeeeeee/GeometricWeather/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
 
@@ -1252,6 +1251,7 @@ __AWESOME__ apps counter: __130__ 🎉
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.blockbasti.justanotherworkouttimer/)
 - [x] [GitHub](https://github.com/blockbasti/just_another_workout_timer)
+- [ ] Official page
 
 ## YouTube
 ### NewPipe ❤️
