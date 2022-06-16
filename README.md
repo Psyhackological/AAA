@@ -52,6 +52,7 @@ __AWESOME__ apps counter: __135__ 🎉
 - [E-book Reader](#e-book-reader)
 - [Egg Timer](#egg-timer)
 - [Emulation](#emulation)
+- [Email clients](#email-clients)
 - [F-Droid](#f-droid)
 - [File Manager](#file-manager)
 - [File Synchronization](#file-synchronization)
@@ -471,12 +472,29 @@ __AWESOME__ apps counter: __135__ 🎉
 - [x] [GitLab](https://github.com/Swordfish90/Lemuroid)
 - [ ] Official page
 
+## Email Clients
+### Fair Mail
+<img alt="Fair Mail" height="64" src="https://raw.githubusercontent.com/M66B/FairEmail/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=eu.faircode.email)
+- [x] [F-Droid](https://f-droid.org/en/packages/eu.faircode.email/)
+- [x] [Github](https://github.com/M66B/FairEmail)
+- [x] [Official page](https://email.faircode.eu/)
+
+### k-9 Mail
+<img alt="k-9 Mail" height="64" src="https://f-droid.org/repo/com.fsck.k9/en-US/icon_-2bZW0ZnkKqPVher2SxQK8hXGGSjgaBHoa8x6vW0v8w=.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9)
+- [x] [F-Droid](https://f-droid.org/packages/com.fsck.k9/)
+- [x] [Githubh](https://github.com/thundernest/k-9)
+- [x] [Official page](https://k9mail.app/)
+
 ## F-Droid
 ### F-Droid
 <img alt="F-Droid" height="64" src="https://gitlab.com/fdroid/fdroidclient/-/raw/master/app/src/main/res/drawable-hdpi/ic_launcher.png">
 
 - [ ] Google Play
-- [ ] F-Droid
+- [x] [F-Droid](https://f-droid.org/en/packages/org.fdroid.fdroid/)
 - [x] [GitLab](https://gitlab.com/fdroid/fdroidclient)
 - [x] [Official page](https://f-droid.org/)
 
