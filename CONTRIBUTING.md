@@ -42,7 +42,7 @@ One main source code repository link please, not the mirror one.
 ``` markdown
 - [x] Installed and tested by me on my main smartphone and used for about 15 minutes or more.
 - [x] It has 0 trackers on [εxodus](exodus report link).
-- [x] It has 0 F-Droid [Anti-Features](F-Droid / IzzyOnDroid page link).
+- [x] It has 0 F-Droid [Anti-Features](F-Droid / IzzyOnDroid link).
 - [x] Has dark theme
 - [x] I use the app on a daily basis and I love almost the entirety of it, so I placed next to it a heart.
 ```
