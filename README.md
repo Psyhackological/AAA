@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __135__ 🎉
+__AWESOME__ apps counter: __137__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -31,6 +31,7 @@ __AWESOME__ apps counter: __135__ 🎉
 - [Addiction Tracker](#addiction-tracker)
 - [Alarm](#alarm)
 - [Anime & Manga](#anime--manga)
+- [Android Customization](#android-customization)
 - [Background Noise](#background-noise)
 - [Barcode Scanner](#barcode-scanner)
 - [Birthday Calendar](#birthday-calendar)
@@ -218,6 +219,15 @@ __AWESOME__ apps counter: __135__ 🎉
 - [x] [F-Droid](https://staging.f-droid.org/en/packages/eu.kanade.tachiyomi/)
 - [x] [GitHub](https://github.com/tachiyomiorg/tachiyomi)
 - [x] [Official page](https://tachiyomi.org/)
+
+## Android Customization
+### Magisk️
+<img alt="Magisk️" height="64" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.topjohnwu.magisk/)
+- [x] [GitHub](https://github.com/topjohnwu/Magisk)
+- [x] [Official page](https://topjohnwu.github.io/Magisk/)
 
 ## Background Noise
 ### Noice
