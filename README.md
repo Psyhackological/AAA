@@ -533,7 +533,7 @@ __AWESOME__ apps counter: __135__ 🎉
 ### Syncthing-Fork
 <img alt="Syncthing-Fork" height="64" src="https://raw.githubusercontent.com/syncthing/syncthing-android/841f89b8863102608e8d6c3d24272e1a71cb9449/graphics/ic_launcher_full.svg">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.github.catfriend1.syncthingandroid&gl=US)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.github.catfriend1.syncthingandroid)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid/)
 - [x] [GitHub](https://github.com/Catfriend1/syncthing-android)
 - [ ] Official page
@@ -907,7 +907,7 @@ __AWESOME__ apps counter: __135__ 🎉
 ### Pano Scrobbler ❤️
 <img alt="Pano Scrobbler" height="64" src="https://play-lh.googleusercontent.com/QIDK-bs4AbrACmPJsEpcENeQyjMfrfrgsLfizHmqVLanqNE_-Qs8eLpqLdlwCNViXg=w240-h480">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.arn.scrobble&gl=US)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.arn.scrobble)
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/kawaiiDango/pScrobbler)
 - [ ] Official page
@@ -1124,7 +1124,7 @@ __AWESOME__ apps counter: __135__ 🎉
 ### Showly ❤️
 <img alt="Showly" height="64" src="https://camo.githubusercontent.com/3740231f58f9cd91dbf27285736f77ecfac4f63c02fceefcacbeb40778d3f896/68747470733a2f2f692e6962622e636f2f4368424e374c672f69632d6c61756e636865722e706e67">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.michaldrabik.showly2&gl=US)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.michaldrabik.showly2)
 - [ ] F-Droid
 - [x] [Github](https://github.com/michaldrabik/Showly-2.0)
 - [x] [Official page](http://showlyapp.com/)
