@@ -3,6 +3,7 @@
 ## This is the list of THE BEST apps according to me. You can prove me wrong on the [contributing page](CONTRIBUTING.md).
 
 ### Rules:
+
 - [x] Open Sourced
 - [x] Free of charge (on [F-Droid](#f-droid) and source code repository releases)
 - [x] Free as in Freedom
@@ -23,14 +24,17 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __130__ 🎉
+
+__AWESOME__ apps counter: __140__ 🎉
 
 ### Contents:
+
 - [2FA](#2fa)
 - [Ad Blocking](#ad-blocking)
 - [Addiction Tracker](#addiction-tracker)
 - [Alarm](#alarm)
 - [Anime & Manga](#anime--manga)
+- [App Backup](#app-backup)
 - [Background Noise](#background-noise)
 - [Barcode Scanner](#barcode-scanner)
 - [Birthday Calendar](#birthday-calendar)
@@ -78,6 +82,7 @@ __AWESOME__ apps counter: __130__ 🎉
 - [Package Manager](#package-manager)
 - [Password Manager](#password-manager)
 - [PDF Viewer](#pdf-viewer)
+- [Podcast](#podcast)
 - [Pomodoro Timer](#pomodoro-timer)
 - [Public Transport Assistant](#public-transport-assistant)
 - [Reddit](#reddit)
@@ -85,6 +90,7 @@ __AWESOME__ apps counter: __130__ 🎉
 - [RSS Reader](#rss-reader)
 - [SMS Messenger](#sms-messenger)
 - [Self Hosted](#self-hosted)
+- [Stargazing](#stargazing)
 - [Terminal Emulator](#terminal-emulator)
 - [To-Do List](#to-do-list)
 - [Torrenting](#torrenting)
@@ -93,6 +99,7 @@ __AWESOME__ apps counter: __130__ 🎉
 - [Unit Converter](#unit-converter)
 - [Video Player](#video-player)
 - [Voice Recorder](#voice-recorder)
+- [Weather](#weather)
 - [Workout](#workout)
 - [YouTube](#youtube)
 
@@ -215,6 +222,24 @@ __AWESOME__ apps counter: __130__ 🎉
 - [x] [GitHub](https://github.com/tachiyomiorg/tachiyomi)
 - [x] [Official page](https://tachiyomi.org/)
 
+### TachiyomiSY
+<img alt="TachiyomiSY" height="64" src="https://github.com/jobobby04/TachiyomiSY/blob/master/app/src/main/ic_launcher-web.png?raw=true">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/jobobby04/TachiyomiSY)
+- [ ] Official page
+
+## App Backup
+### Neo Backup
+<img alt="NeoBackup" height="64" src="https://github.com/NeoApplications/Neo-Backup/raw/main/fastlane/metadata/android/en-US/images/icon.png">
+(Root required)
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.machiav3lli.backup/)
+- [x] [GitHub](https://github.com/NeoApplications/Neo-Backup)
+- [ ] Official page
+
 ## Background Noise
 ### Noice
 <img alt="Noice" height="64" src="https://raw.githubusercontent.com/trynoice/.github/main/graphics/icon-round.png">
@@ -239,6 +264,14 @@ __AWESOME__ apps counter: __130__ 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.barcodescanner)
 - [x] [F-Droid](https://www.f-droid.org/en/packages/com.example.barcodescanner/)
 - [x] [GitHub](https://github.com/wewewe718/QrAndBarcodeScanner)
+- [ ] Official page
+
+### SecScanQR
+<img alt="SecScanQR" height="64" src="https://github.com/Fr4gorSoftware/SecScanQR/blob/master/pictures/web_hi_res_512.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/de.t_dankworth.secscanqr/)
+- [x] [GitHub](https://github.com/Fr4gorSoftware/SecScanQR)
 - [ ] Official page
 
 ## Birthday Calendar
@@ -310,8 +343,16 @@ __AWESOME__ apps counter: __130__ 🎉
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Calendar)
 - [x] [Official page](https://www.simplemobiletools.com/calendar)
 
-## Camera 
-### OpenCamera 
+### Etar
+<img alt="Etar" height="64" src="https://github.com/Etar-Group/Etar-Calendar/blob/master/metadata/Etar%20Logo.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=ws.xsoh.etar)
+- [x] [F-Droid](https://f-droid.org/en/packages/ws.xsoh.etar/)
+- [x] [GitHub](https://github.com/Etar-Group/Etar-Calendar)
+- [ ] Official page
+
+## Camera
+### OpenCamera
 <img alt="OpenCamera" height="64" src="https://opencamera.org.uk/ic_launcher.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera)
@@ -526,6 +567,14 @@ __AWESOME__ apps counter: __130__ 🎉
 - [x] [F-Droid](https://f-droid.org/app/com.nutomic.syncthingandroid)
 - [x] [GitHub](https://github.com/syncthing/syncthing-android)
 - [x] [Official page](https://syncthing.net/)
+
+### Snapdrop
+<img alt="Snapdrop" height="64" src="https://github.com/fm-sys/snapdrop-android/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.fmsys.snapdrop)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.fmsys.snapdrop/)
+- [x] [GitHub](https://github.com/fm-sys/snapdrop-android)
+- [x] [Official page](https://snapdrop.net/)
 
 ## Finance
 ### My Expenses
@@ -944,6 +993,14 @@ __AWESOME__ apps counter: __130__ 🎉
 - [x] [GitHub](https://github.com/bitwarden/mobile)
 - [x] [Official page](https://bitwarden.com/)
 
+### Keepass2Android
+<img alt="Keepass2Android" height="64" src="https://github.com/PhilippC/keepass2android/blob/master/graphics/launcher_icon/Logo-green.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
+- [x] [IzzyOnDroid (Offline-only)](https://android.izzysoft.de/repo/apk/keepass2android.keepass2android_nonet)
+- [x] [GitHub](https://github.com/PhilippC/keepass2android)
+- [ ] Official page
+
 ## PDF Viewer
 ### Pdf Viewer Plus 
 <img alt="PdfViewerPlus" height="64" src="https://github.com/JavaCafe01/PdfViewer/raw/master/images/high_res.png">
@@ -977,6 +1034,15 @@ __AWESOME__ apps counter: __130__ 🎉
 - [x] [F-Droid](https://www.f-droid.org/en/packages/de.schildbach.oeffi/)
 - [x] [Gitlab](https://gitlab.com/oeffi/oeffi)
 - [x] [Official page](https://oeffi.schildbach.de/)
+
+## Podcast
+### AntennaPod
+<img alt="AntennaPod" height="64" src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
+- [x] [F-Droid](https://f-droid.org/en/packages/de.danoeh.antennapod/)
+- [x] [Github](https://github.com/AntennaPod/AntennaPod)
+- [x] [Official page](https://antennapod.org/)
 
 ## Pomodoro Timer
 ### Goodtime ❤️
@@ -1055,6 +1121,15 @@ __AWESOME__ apps counter: __130__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/org.jellyfin.mobile/)
 - [x] [Github](https://github.com/jellyfin/jellyfin-android)
 - [x] [Official page](https://jellyfin.org/)
+
+## Stargazing
+### Sky Map
+<img alt="SkyMap" height="64" src="https://f-droid.org/repo/com.google.android.stardroid/en-US/icon_viguh3xj7mYysCwo-kWNIl5Hv8iMQV81ma2soxFM8BY=.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.google.android.stardroid&hl=en)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.google.android.stardroid/)
+- [x] [Github](https://github.com/sky-map-team/stardroid)
+- [ ] Official page
 
 ## Terminal Emulator
 ### Termux ❤️
@@ -1143,6 +1218,31 @@ __AWESOME__ apps counter: __130__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.voicerecorder/)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Voice-Recorder)
 - [x] [Official page](https://www.simplemobiletools.com/voice)
+
+### Audio Recorder
+<img alt="AudioRecorder" height="64" src="https://github.com/Dimowner/AudioRecorder/raw/master/app/src/releaseConfig/res/mipmap-xxxhdpi/audio_recorder_logo.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.dimowner.audiorecorder)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.dimowner.audiorecorder/)
+- [x] [GitHub](https://github.com/Dimowner/AudioRecorder)
+- [ ] Official page
+
+## Weather
+### Geometric Weather
+<img alt="GeometricWeather" height="64" src="https://github.com/WangDaYeeeeee/GeometricWeather/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=wangdaye.com.geometricweather)
+- [x] [F-Droid](https://f-droid.org/en/packages/wangdaye.com.geometricweather/)
+- [x] [GitHub](https://github.com/WangDaYeeeeee/GeometricWeather)
+- [ ] Official page
+
+### Veterondo
+<img alt="Veterondo" height="64" src="https://f-droid.org/repo/icons-640/com.saladdressing.veterondo.13.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.saladdressing.veterondo)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.saladdressing.veterondo/)
+- [x] [GitHub](https://github.com/Antonis427/veterondo)
+- [ ] Official page
 
 ## Workout
 ### Feeel - home workouts
