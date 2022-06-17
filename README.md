@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __141__ 🎉
+__AWESOME__ apps counter: __149__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -31,6 +31,7 @@ __AWESOME__ apps counter: __141__ 🎉
 - [Addiction Tracker](#addiction-tracker)
 - [Alarm](#alarm)
 - [Anime & Manga](#anime--manga)
+- [Android Customization](#android-customization)
 - [App Backup](#app-backup)
 - [Background Noise](#background-noise)
 - [Barcode Scanner](#barcode-scanner)
@@ -53,6 +54,7 @@ __AWESOME__ apps counter: __141__ 🎉
 - [E-book Reader](#e-book-reader)
 - [Egg Timer](#egg-timer)
 - [Emulation](#emulation)
+- [Email](#email)
 - [F-Droid](#f-droid)
 - [File Manager](#file-manager)
 - [File Synchronization](#file-synchronization)
@@ -70,12 +72,14 @@ __AWESOME__ apps counter: __141__ 🎉
 - [Image Processing](#image-processing)
 - [Instant Messaging](#instant-messaging)
 - [Keyboard](#keyboard)
+- [Launcher](#launcher)
 - [Loyalty Card](#loyalty-card)
 - [Maps](#maps)
 - [Matrix Client](#matrix-client)
 - [Meditation](#meditation)
 - [Music Downloader](#music-downloader)
 - [Music Player](#music-player)
+- [Music Scrobblers](#music-scrobbler)
 - [Notes](#notes)
 - [OCR](#ocr)
 - [Office Suite](#office-suite)
@@ -94,6 +98,7 @@ __AWESOME__ apps counter: __141__ 🎉
 - [Terminal Emulator](#terminal-emulator)
 - [To-Do List](#to-do-list)
 - [Torrenting](#torrenting)
+- [TV Shows Tracker](#tv-shows-tracker)
 - [Twitch](#twitch)
 - [Twitter](#twitter)
 - [Unit Converter](#unit-converter)
@@ -206,7 +211,7 @@ __AWESOME__ apps counter: __141__ 🎉
 - [ ] Official page
 
 ## Anime & Manga
-### Aniyomi 
+### Aniyomi ❤️
 <img alt="Aniyomi" height="64" src="https://raw.githubusercontent.com/jmir1/aniyomi/master/.github/readme-images/app-icon.png">
 
 - [ ] Google Play
@@ -229,6 +234,15 @@ __AWESOME__ apps counter: __141__ 🎉
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/jobobby04/TachiyomiSY)
 - [ ] Official page
+
+## Android Customization
+### Magisk️
+<img alt="Magisk️" height="64" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.topjohnwu.magisk/)
+- [x] [GitHub](https://github.com/topjohnwu/Magisk)
+- [x] [Official page](https://topjohnwu.github.io/Magisk/)
 
 ## App Backup
 ### Neo Backup
@@ -511,12 +525,30 @@ __AWESOME__ apps counter: __141__ 🎉
 - [x] [GitLab](https://github.com/Swordfish90/Lemuroid)
 - [ ] Official page
 
+## Email
+### FairEmail
+<img alt="FairEmail" height="64" src="https://raw.githubusercontent.com/M66B/FairEmail/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=eu.faircode.email)
+- [x] [F-Droid](https://f-droid.org/en/packages/eu.faircode.email/)
+- [x] [Github](https://github.com/M66B/FairEmail)
+- [x] [Official page](https://email.faircode.eu/)
+
+### K-9 Mail
+<img alt="K-9 Mail" height="64" src="https://f-droid.org/repo/com.fsck.k9/en-US/icon_-2bZW0ZnkKqPVher2SxQK8hXGGSjgaBHoa8x6vW0v8w=.png">
+ README.md
+4 conflicts 
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9)
+- [x] [F-Droid](https://f-droid.org/packages/com.fsck.k9/)
+- [x] [Githubh](https://github.com/thundernest/k-9)
+- [x] [Official page](https://k9mail.app/)
+
 ## F-Droid
 ### F-Droid
 <img alt="F-Droid" height="64" src="https://gitlab.com/fdroid/fdroidclient/-/raw/master/app/src/main/res/drawable-hdpi/ic_launcher.png">
 
 - [ ] Google Play
-- [ ] F-Droid
+- [x] [F-Droid](https://f-droid.org/en/packages/org.fdroid.fdroid/)
 - [x] [GitLab](https://gitlab.com/fdroid/fdroidclient)
 - [x] [Official page](https://f-droid.org/)
 
@@ -569,6 +601,14 @@ __AWESOME__ apps counter: __141__ 🎉
 - [x] [F-Droid](https://f-droid.org/app/com.nutomic.syncthingandroid)
 - [x] [GitHub](https://github.com/syncthing/syncthing-android)
 - [x] [Official page](https://syncthing.net/)
+
+### Syncthing-Fork
+<img alt="Syncthing-Fork" height="64" src="https://raw.githubusercontent.com/syncthing/syncthing-android/841f89b8863102608e8d6c3d24272e1a71cb9449/graphics/ic_launcher_full.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.github.catfriend1.syncthingandroid)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.github.catfriend1.syncthingandroid/)
+- [x] [GitHub](https://github.com/Catfriend1/syncthing-android)
+- [ ] Official page
 
 ### Snapdrop
 <img alt="Snapdrop" height="64" src="https://github.com/fm-sys/snapdrop-android/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
@@ -825,6 +865,15 @@ __AWESOME__ apps counter: __141__ 🎉
 - [x] [GitHub](https://github.com/florisboard/florisboard)
 - [ ] Official page
 
+## Launcher
+### Lawnchair
+<img alt="Lawnchair" height="64" src="https://avatars.githubusercontent.com/u/34144436?s=200&v=4">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah)
+- [x] [F-Droid](https://f-droid.org/packages/ch.deletescape.lawnchair.plah/)
+- [x] [GitHub](https://github.com/LawnchairLauncher/lawnchair)
+- [x] [Official page](https://lawnchair.app/)
+
 ## Loyalty Card
 ### Catima ❤️
 <img alt="Catima" height="64" src="https://raw.githubusercontent.com/CatimaLoyalty/Android/8318d2e7c38fa478244107716ec125331115cf25/logo.svg">
@@ -942,6 +991,23 @@ __AWESOME__ apps counter: __141__ 🎉
 - [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.droidheat.musicplayer)
 - [x] [GitHub](https://github.com/gauravjot/android-noad-music-player)
 - [ ] Official page
+
+## Music Scrobbler
+### Pano Scrobbler ❤️
+<img alt="Pano Scrobbler" height="64" src="https://play-lh.googleusercontent.com/QIDK-bs4AbrACmPJsEpcENeQyjMfrfrgsLfizHmqVLanqNE_-Qs8eLpqLdlwCNViXg=w240-h480">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.arn.scrobble)
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/kawaiiDango/pScrobbler)
+- [ ] Official page
+
+### Simple Scrobbler
+<img alt="Simple Scrobbler" height="64" src="https://avatars.githubusercontent.com/u/53984925?s=200&v=4">
+
+- [ ]  Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.adam.aslfms/)
+- [x] [GitHub](https://github.com/simple-last-fm-scrobbler/sls)
+- [x] [Official page](https://simple-last-fm-scrobbler.github.io/)
 
 ## Notes
 ### Notally
@@ -1169,6 +1235,15 @@ __AWESOME__ apps counter: __141__ 🎉
 - [x] [GitLab](https://gitlab.com/proninyaroslav/libretorrent)
 - [ ] Official page
 
+# TV Shows Tracker
+### Showly ❤️
+<img alt="Showly" height="64" src="https://camo.githubusercontent.com/3740231f58f9cd91dbf27285736f77ecfac4f63c02fceefcacbeb40778d3f896/68747470733a2f2f692e6962622e636f2f4368424e374c672f69632d6c61756e636865722e706e67">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.michaldrabik.showly2)
+- [ ] F-Droid
+- [x] [Github](https://github.com/michaldrabik/Showly-2.0)
+- [x] [Official page](http://showlyapp.com/)
+
 ## Twitch
 ### Twire ❤️
 <img alt="Twire" height="64" src="https://github.com/twireapp/Twire/blob/master/app/src/main/ic_launcher-web.png?raw=true">
@@ -1213,7 +1288,7 @@ __AWESOME__ apps counter: __141__ 🎉
 - [x] [GitHub](https://github.com/moneytoo/Player)
 - [ ] Official page
 
-### mpv
+### mpv ❤️
 <img alt="mpv" height="64" src="https://mpv.io/images/mpv-logo-128-0baae5aa.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=is.xyz.mpv)
