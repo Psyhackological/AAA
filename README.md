@@ -312,7 +312,8 @@ __AWESOME__ apps counter: __140__ 🎉
 ### Calculator++ ❤️
 <img alt="Calculator++" height="64" src="https://github.com/Bubu/android-calculatorpp/blob/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png?raw=true">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator)
+([Google Play's version](https://reports.exodus-privacy.eu.org/en/reports/44561/) differes from [F-Droid's one](https://reports.exodus-privacy.eu.org/en/reports/org.solovyev.android.calculator/latest/), and it violates the rules.)
+- [x] ~~[Google Play](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator)~~
 - [x] [F-Droid](https://www.f-droid.org/en/packages/org.solovyev.android.calculator/)
 - [x] [GitHub](https://github.com/Bubu/android-calculatorpp)
 - [ ] Official page
