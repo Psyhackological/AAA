@@ -8,7 +8,7 @@
 - [x] Free as in Freedom
 - [x] Ad-free
 - [x] Installed and tested by me or by contributor
-- [x] Privacy-friendly
+- [x] [Privacy-friendly tested](PRIVACY.md)
 - [x] Easy to use
 - [x] Still developed or polished experience
 - [x] Does not lack features compared to proprietary app
