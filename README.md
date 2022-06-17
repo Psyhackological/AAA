@@ -3,7 +3,6 @@
 ## This is the list of THE BEST apps according to me. You can prove me wrong on the [contributing page](CONTRIBUTING.md).
 
 ### Rules:
-
 - [x] Open Sourced
 - [x] Free of charge (on [F-Droid](#f-droid) and source code repository releases)
 - [x] Free as in Freedom
@@ -28,7 +27,6 @@
 __AWESOME__ apps counter: __140__ 🎉
 
 ### Contents:
-
 - [2FA](#2fa)
 - [Ad Blocking](#ad-blocking)
 - [Addiction Tracker](#addiction-tracker)
@@ -115,7 +113,7 @@ __AWESOME__ apps counter: __140__ 🎉
 - [x] [Official page](https://getaegis.app/)
 
 ### Authenticator Pro 
-<img alt="Authenticator Pro" height="64" src="https://github.com/jamie-mh/AuthenticatorPro/blob/master/doc/ic_launcher-web.png?raw=true">
+<img alt="AuthenticatorPro" height="64" src="https://github.com/jamie-mh/AuthenticatorPro/blob/master/doc/ic_launcher-web.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=me.jmh.authenticatorpro)
 - [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/me.jmh.authenticatorpro)
@@ -140,7 +138,7 @@ __AWESOME__ apps counter: __140__ 🎉
 - [x] [Official page](https://jak-linux.org/projects/dns66/)
 
 ### InviZible Pro
-<img alt="InviZible Pro" height="64" src="https://apt.izzysoft.de/fdroid/repo/pan.alexander.tordnscrypt/en-US/icon.png">
+<img alt="InviZiblePro" height="64" src="https://apt.izzysoft.de/fdroid/repo/pan.alexander.tordnscrypt/en-US/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=pan.alexander.tordnscrypt.gp)
 - [x] [F-Droid](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/)
@@ -662,7 +660,7 @@ __AWESOME__ apps counter: __140__ 🎉
 - [ ] Official page
 
 ### Shattered Pixel Dungeon
-<img alt="Shattered Pixel Dungeon" height="64" src="https://raw.githubusercontent.com/00-Evan/shattered-pixel-dungeon/master/desktop/src/main/assets/icons/icon_256.png">
+<img alt="ShatteredPixelDungeon" height="64" src="https://raw.githubusercontent.com/00-Evan/shattered-pixel-dungeon/master/desktop/src/main/assets/icons/icon_256.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.shatteredpixel.shatteredpixeldungeon/)
@@ -977,7 +975,7 @@ __AWESOME__ apps counter: __140__ 🎉
 
 ## Package Manager
 ### App Manager
-<img alt="App Manager" height="64" src="https://github.com/MuntashirAkon/AppManager/blob/master/docs/raw/images/icon.png">
+<img alt="AppManager" height="64" src="https://github.com/MuntashirAkon/AppManager/blob/master/docs/raw/images/icon.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager/)
@@ -1089,7 +1087,7 @@ __AWESOME__ apps counter: __140__ 🎉
 - [ ] Official page
 
 ### ReadYou
-<img alt="Read You" height="64" src="https://raw.githubusercontent.com/Ashinch/ReadYou/main/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="ReadYou" height="64" src="https://raw.githubusercontent.com/Ashinch/ReadYou/main/fastlane/metadata/android/en-US/images/icon.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://android.izzysoft.de/repo/apk/me.ash.reader)
