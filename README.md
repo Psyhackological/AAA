@@ -535,9 +535,8 @@ __AWESOME__ apps counter: __149__ 🎉
 - [x] [Official page](https://email.faircode.eu/)
 
 ### K-9 Mail
-<img alt="K-9 Mail" height="64" src="https://f-droid.org/repo/com.fsck.k9/en-US/icon_-2bZW0ZnkKqPVher2SxQK8hXGGSjgaBHoa8x6vW0v8w=.png">
- README.md
-4 conflicts 
+<img alt="K-9Mail" height="64" src="https://f-droid.org/repo/com.fsck.k9/en-US/icon_-2bZW0ZnkKqPVher2SxQK8hXGGSjgaBHoa8x6vW0v8w=.png">
+
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9)
 - [x] [F-Droid](https://f-droid.org/packages/com.fsck.k9/)
 - [x] [Githubh](https://github.com/thundernest/k-9)
