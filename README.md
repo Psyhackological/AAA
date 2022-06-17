@@ -24,6 +24,8 @@
 ## Please use `Home` button to go to the top.
 
 __AWESOME__ apps counter: __131__ 🎉
+=======
+__AWESOME__ apps counter: __140__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -31,6 +33,7 @@ __AWESOME__ apps counter: __131__ 🎉
 - [Addiction Tracker](#addiction-tracker)
 - [Alarm](#alarm)
 - [Anime & Manga](#anime--manga)
+- [App Backup](#app-backup)
 - [Background Noise](#background-noise)
 - [Barcode Scanner](#barcode-scanner)
 - [Birthday Calendar](#birthday-calendar)
@@ -58,6 +61,8 @@ __AWESOME__ apps counter: __131__ 🎉
 - [Finance](#finance)
 - [Firewall](#firewall)
 - [Flash Cards](#flash-cards)
+- [Flashlight](#flashlight)
+- [Gallery](#gallery)
 - [Games](#games)
 - [GitHub Client](#github-client)
 - [Google Play](#google-play)
@@ -79,6 +84,7 @@ __AWESOME__ apps counter: __131__ 🎉
 - [Package Manager](#package-manager)
 - [Password Manager](#password-manager)
 - [PDF Viewer](#pdf-viewer)
+- [Podcast](#podcast)
 - [Pomodoro Timer](#pomodoro-timer)
 - [Public Transport Assistant](#public-transport-assistant)
 - [Reddit](#reddit)
@@ -86,6 +92,7 @@ __AWESOME__ apps counter: __131__ 🎉
 - [RSS Reader](#rss-reader)
 - [SMS Messenger](#sms-messenger)
 - [Self Hosted](#self-hosted)
+- [Stargazing](#stargazing)
 - [Terminal Emulator](#terminal-emulator)
 - [To-Do List](#to-do-list)
 - [Torrenting](#torrenting)
@@ -94,6 +101,7 @@ __AWESOME__ apps counter: __131__ 🎉
 - [Unit Converter](#unit-converter)
 - [Video Player](#video-player)
 - [Voice Recorder](#voice-recorder)
+- [Weather](#weather)
 - [Workout](#workout)
 - [YouTube](#youtube)
 
@@ -109,7 +117,7 @@ __AWESOME__ apps counter: __131__ 🎉
 - [x] [Official page](https://getaegis.app/)
 
 ### Authenticator Pro 
-<img alt="Authenticator Pro" height="64" src="https://github.com/jamie-mh/AuthenticatorPro/blob/master/doc/ic_launcher-web.png?raw=true">
+<img alt="AuthenticatorPro" height="64" src="https://github.com/jamie-mh/AuthenticatorPro/blob/master/doc/ic_launcher-web.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=me.jmh.authenticatorpro)
 - [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/me.jmh.authenticatorpro)
@@ -134,7 +142,7 @@ __AWESOME__ apps counter: __131__ 🎉
 - [x] [Official page](https://jak-linux.org/projects/dns66/)
 
 ### InviZible Pro
-<img alt="InviZible Pro" height="64" src="https://apt.izzysoft.de/fdroid/repo/pan.alexander.tordnscrypt/en-US/icon.png">
+<img alt="InviZiblePro" height="64" src="https://apt.izzysoft.de/fdroid/repo/pan.alexander.tordnscrypt/en-US/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=pan.alexander.tordnscrypt.gp)
 - [x] [F-Droid](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable/)
@@ -216,6 +224,24 @@ __AWESOME__ apps counter: __131__ 🎉
 - [x] [GitHub](https://github.com/tachiyomiorg/tachiyomi)
 - [x] [Official page](https://tachiyomi.org/)
 
+### TachiyomiSY
+<img alt="TachiyomiSY" height="64" src="https://github.com/jobobby04/TachiyomiSY/blob/master/app/src/main/ic_launcher-web.png?raw=true">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/jobobby04/TachiyomiSY)
+- [ ] Official page
+
+## App Backup
+### Neo Backup
+<img alt="NeoBackup" height="64" src="https://github.com/NeoApplications/Neo-Backup/raw/main/fastlane/metadata/android/en-US/images/icon.png">
+(Root required)
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.machiav3lli.backup/)
+- [x] [GitHub](https://github.com/NeoApplications/Neo-Backup)
+- [ ] Official page
+
 ## Background Noise
 ### Noice
 <img alt="Noice" height="64" src="https://raw.githubusercontent.com/trynoice/.github/main/graphics/icon-round.png">
@@ -240,6 +266,14 @@ __AWESOME__ apps counter: __131__ 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.barcodescanner)
 - [x] [F-Droid](https://www.f-droid.org/en/packages/com.example.barcodescanner/)
 - [x] [GitHub](https://github.com/wewewe718/QrAndBarcodeScanner)
+- [ ] Official page
+
+### SecScanQR
+<img alt="SecScanQR" height="64" src="https://github.com/Fr4gorSoftware/SecScanQR/blob/master/pictures/web_hi_res_512.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/de.t_dankworth.secscanqr/)
+- [x] [GitHub](https://github.com/Fr4gorSoftware/SecScanQR)
 - [ ] Official page
 
 ## Birthday Calendar
@@ -311,8 +345,16 @@ __AWESOME__ apps counter: __131__ 🎉
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Calendar)
 - [x] [Official page](https://www.simplemobiletools.com/calendar)
 
-## Camera 
-### OpenCamera 
+### Etar
+<img alt="Etar" height="64" src="https://github.com/Etar-Group/Etar-Calendar/blob/master/metadata/Etar%20Logo.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=ws.xsoh.etar)
+- [x] [F-Droid](https://f-droid.org/en/packages/ws.xsoh.etar/)
+- [x] [GitHub](https://github.com/Etar-Group/Etar-Calendar)
+- [ ] Official page
+
+## Camera
+### OpenCamera
 <img alt="OpenCamera" height="64" src="https://opencamera.org.uk/ic_launcher.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera)
@@ -528,6 +570,14 @@ __AWESOME__ apps counter: __131__ 🎉
 - [x] [GitHub](https://github.com/syncthing/syncthing-android)
 - [x] [Official page](https://syncthing.net/)
 
+### Snapdrop
+<img alt="Snapdrop" height="64" src="https://github.com/fm-sys/snapdrop-android/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.fmsys.snapdrop)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.fmsys.snapdrop/)
+- [x] [GitHub](https://github.com/fm-sys/snapdrop-android)
+- [x] [Official page](https://snapdrop.net/)
+
 ## Finance
 ### My Expenses
 <img alt="MyExpenses" height="64" src="https://github.com/mtotschnig/MyExpenses/blob/master/metadata/en-US/images/icon.png?raw=true">
@@ -561,6 +611,15 @@ __AWESOME__ apps counter: __131__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/dev.ukanth.ufirewall/)
 - [x] [Source code](https://github.com/ukanth/afwall/)
 - [ ] Official page
+=======
+## Flash Cards
+### AnkiDroid
+<img alt="AnkiDroid" height="64" src="https://github.com/ankidroid/Anki-Android/raw/main/docs/graphics/logos/ankidroid_logo.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.ichi2.anki)
+- [x] [F-Droid](https://f-droid.org/packages/com.ichi2.anki)
+- [x] [GitHub](https://github.com/ankidroid/Anki-Android)
+- [x] [Official page](https://apps.ankiweb.net)
 
 ## Flashlight
 ### Simple Flashlight
@@ -596,15 +655,6 @@ __AWESOME__ apps counter: __131__ 🎉
 - [x] [GitHub](https://github.com/deckerst/aves)
 - [ ] Official page
 
-## Flash Cards
-### AnkiDroid
-<img alt="AnkiDroid" height="64" src="https://github.com/ankidroid/Anki-Android/raw/main/docs/graphics/logos/ankidroid_logo.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.ichi2.anki)
-- [x] [F-Droid](https://f-droid.org/packages/com.ichi2.anki)
-- [x] [GitHub](https://github.com/ankidroid/Anki-Android)
-- [x] [Official page](https://apps.ankiweb.net)
-
 ## Games
 ### Mindustry
 <img alt="Mindustry" height="64" src="https://github.com/Anuken/Mindustry/blob/master/android/ic_launcher-web.png?raw=true">
@@ -623,7 +673,7 @@ __AWESOME__ apps counter: __131__ 🎉
 - [ ] Official page
 
 ### Shattered Pixel Dungeon
-<img alt="Shattered Pixel Dungeon" height="64" src="https://raw.githubusercontent.com/00-Evan/shattered-pixel-dungeon/master/desktop/src/main/assets/icons/icon_256.png">
+<img alt="ShatteredPixelDungeon" height="64" src="https://raw.githubusercontent.com/00-Evan/shattered-pixel-dungeon/master/desktop/src/main/assets/icons/icon_256.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.shatteredpixel.shatteredpixeldungeon/)
@@ -869,12 +919,12 @@ __AWESOME__ apps counter: __131__ 🎉
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Music-Player)
 - [x] [Official page](https://www.simplemobiletools.com/music)
 
-### Phonograph
-<img alt="Phonograph" height="64" src="https://github.com/kabouzeid/Phonograph/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true">
+### Vinyl
+<img alt="Vinyl" height="64" src="https://github.com/AdrienPoupa/VinylMusicPlayer/blob/master/app/src/main/res/drawable-xxxhdpi/icon_web.png?raw=true">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.kabouzeid.gramophone)
-- [x] [F-Droid](https://f-droid.org/packages/com.kabouzeid.gramophone/)
-- [x] [GitHub](https://github.com/kabouzeid/Phonograph)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.poupa.vinylmusicplayer)
+- [x] [F-Droid](https://f-droid.org/packages/com.poupa.vinylmusicplayer/)
+- [x] [GitHub](https://github.com/AdrienPoupa/VinylMusicPlayer)
 - [ ] Official page
 
 ### Howl
@@ -938,7 +988,7 @@ __AWESOME__ apps counter: __131__ 🎉
 
 ## Package Manager
 ### App Manager
-<img alt="App Manager" height="64" src="https://github.com/MuntashirAkon/AppManager/blob/master/docs/raw/images/icon.png">
+<img alt="AppManager" height="64" src="https://github.com/MuntashirAkon/AppManager/blob/master/docs/raw/images/icon.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager/)
@@ -953,6 +1003,14 @@ __AWESOME__ apps counter: __131__ 🎉
 - [x] [F-Droid](https://mobileapp.bitwarden.com/fdroid/)
 - [x] [GitHub](https://github.com/bitwarden/mobile)
 - [x] [Official page](https://bitwarden.com/)
+
+### Keepass2Android
+<img alt="Keepass2Android" height="64" src="https://github.com/PhilippC/keepass2android/blob/master/graphics/launcher_icon/Logo-green.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
+- [x] [IzzyOnDroid (Offline-only)](https://android.izzysoft.de/repo/apk/keepass2android.keepass2android_nonet)
+- [x] [GitHub](https://github.com/PhilippC/keepass2android)
+- [ ] Official page
 
 ## PDF Viewer
 ### Pdf Viewer Plus 
@@ -987,6 +1045,15 @@ __AWESOME__ apps counter: __131__ 🎉
 - [x] [F-Droid](https://www.f-droid.org/en/packages/de.schildbach.oeffi/)
 - [x] [Gitlab](https://gitlab.com/oeffi/oeffi)
 - [x] [Official page](https://oeffi.schildbach.de/)
+
+## Podcast
+### AntennaPod
+<img alt="AntennaPod" height="64" src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
+- [x] [F-Droid](https://f-droid.org/en/packages/de.danoeh.antennapod/)
+- [x] [Github](https://github.com/AntennaPod/AntennaPod)
+- [x] [Official page](https://antennapod.org/)
 
 ## Pomodoro Timer
 ### Goodtime ❤️
@@ -1033,7 +1100,7 @@ __AWESOME__ apps counter: __131__ 🎉
 - [ ] Official page
 
 ### ReadYou
-<img alt="Read You" height="64" src="https://raw.githubusercontent.com/Ashinch/ReadYou/main/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="ReadYou" height="64" src="https://raw.githubusercontent.com/Ashinch/ReadYou/main/fastlane/metadata/android/en-US/images/icon.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://android.izzysoft.de/repo/apk/me.ash.reader)
@@ -1065,6 +1132,15 @@ __AWESOME__ apps counter: __131__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/org.jellyfin.mobile/)
 - [x] [Github](https://github.com/jellyfin/jellyfin-android)
 - [x] [Official page](https://jellyfin.org/)
+
+## Stargazing
+### Sky Map
+<img alt="SkyMap" height="64" src="https://f-droid.org/repo/com.google.android.stardroid/en-US/icon_viguh3xj7mYysCwo-kWNIl5Hv8iMQV81ma2soxFM8BY=.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.google.android.stardroid&hl=en)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.google.android.stardroid/)
+- [x] [Github](https://github.com/sky-map-team/stardroid)
+- [ ] Official page
 
 ## Terminal Emulator
 ### Termux ❤️
@@ -1154,6 +1230,31 @@ __AWESOME__ apps counter: __131__ 🎉
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Voice-Recorder)
 - [x] [Official page](https://www.simplemobiletools.com/voice)
 
+### Audio Recorder
+<img alt="AudioRecorder" height="64" src="https://github.com/Dimowner/AudioRecorder/raw/master/app/src/releaseConfig/res/mipmap-xxxhdpi/audio_recorder_logo.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.dimowner.audiorecorder)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.dimowner.audiorecorder/)
+- [x] [GitHub](https://github.com/Dimowner/AudioRecorder)
+- [ ] Official page
+
+## Weather
+### Geometric Weather
+<img alt="GeometricWeather" height="64" src="https://github.com/WangDaYeeeeee/GeometricWeather/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=wangdaye.com.geometricweather)
+- [x] [F-Droid](https://f-droid.org/en/packages/wangdaye.com.geometricweather/)
+- [x] [GitHub](https://github.com/WangDaYeeeeee/GeometricWeather)
+- [ ] Official page
+
+### Veterondo
+<img alt="Veterondo" height="64" src="https://f-droid.org/repo/icons-640/com.saladdressing.veterondo.13.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.saladdressing.veterondo)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.saladdressing.veterondo/)
+- [x] [GitHub](https://github.com/Antonis427/veterondo)
+- [ ] Official page
+
 ## Workout
 ### Feeel - home workouts
 <img alt="Feeel" height="64" src="https://gitlab.com/enjoyingfoss/feeel/-/raw/master/fastlane/metadata/android/en-US/images/icon.png">
@@ -1238,5 +1339,7 @@ __AWESOME__ apps counter: __131__ 🎉
 ### [IzzyOnDroid](https://android.izzysoft.de/applists.php)
 <img alt="IzzyOnDroid" height="64" src="https://android.izzysoft.de/images/site_logo.png">
 
+### [DivestOS](https://divestos.org/index.php?page=recommended_apps)
+<img alt="IzzyOnDroid" width="256" src="https://repository-images.githubusercontent.com/268886326/71242700-7c98-11eb-9864-7f64920e3e16">
 
 # [⬆ Go back ⬆](#contents)
