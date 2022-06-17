@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __140__ 🎉
+__AWESOME__ apps counter: __141__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -57,6 +57,7 @@ __AWESOME__ apps counter: __140__ 🎉
 - [File Manager](#file-manager)
 - [File Synchronization](#file-synchronization)
 - [Finance](#finance)
+- [Firewall](#firewall)
 - [Flash Cards](#flash-cards)
 - [Flashlight](#flashlight)
 - [Gallery](#gallery)
@@ -600,6 +601,15 @@ __AWESOME__ apps counter: __140__ 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.oriondev.moneywallet)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.oriondev.moneywallet)
 - [x] [GitHub](https://github.com/AndreAle94/moneywallet)
+- [ ] Official page
+
+## Firewall
+### AFWall+
+<img alt="AFWall+" height="64" src="https://github.com/ukanth/afwall/blob/beta/app/src/main/ic_launcher-web.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall)
+- [x] [F-Droid](https://f-droid.org/en/packages/dev.ukanth.ufirewall/)
+- [x] [GitHub](https://github.com/ukanth/afwall/)
 - [ ] Official page
 
 ## Flash Cards
