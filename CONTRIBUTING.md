@@ -30,23 +30,25 @@ __If I've made mistake, notify me on the Issues page or throw me a pull request.
 - [x] [Source code](SourceCodeLink)
 - [x] [Official page](OfficialPageLink)
 ```
+__Note that in img's alt there is no spaces at all.__
 
 If something is missing replace `x` with `space` and remove `[](link)`.
 
-One main source code repository link please, not the mirror one.
+Change `Source code` to only one main source code repository link please, not the mirror one.
 
 5. Check your spelling.
 6. Check if app in the list is in alphabetical order.
 7. Update the app counter.
-8. Paste changed template:
+8. Paste changed template for each app:
 ``` markdown
+## AppName
 - [x] Installed and tested by me on my main smartphone and used for about 15 minutes or more.
-- [x] It has 0 trackers on [εxodus](exodus report link).
-- [x] It has 0 Droid [Anti-Features](F-Droid / IzzyOnDroid).
-- [x] Has dark theme
+- [x] Has dark theme.
+- [x] It has x trackers on [εxodus](εxodus report link).
+- [x] It has x F-Droid [Anti-Features](F-Droid / IzzyOnDroid link).
 - [x] I use the app on a daily basis and I love almost the entirety of it, so I placed next to it a heart.
 ```
-It does not have to be fulfilled, it just makes reviewing easier for me.
+Replace `x` and `links` with your data about the app.
 
 9. Make a pull request and wait for my response.
 
