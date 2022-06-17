@@ -451,6 +451,7 @@ __AWESOME__ apps counter: __140__ 🎉
 ### Aliucord
 <img alt="Aliucord" height="64" src="https://github.com/Aliucord/Aliucord/blob/main/installer/android/app/src/main/assets/icon2.png?raw=true">
 
+(Aliucord doesn't make Discord open source, it is still proprietary software but with FOSS patches and modifications [without Discord Tracking](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java))
 - [ ] Google Play
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/Aliucord/Aliucord)
