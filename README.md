@@ -23,8 +23,6 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __131__ 🎉
-=======
 __AWESOME__ apps counter: __140__ 🎉
 
 ### Contents:
@@ -607,11 +605,11 @@ __AWESOME__ apps counter: __140__ 🎉
 ### AFWall+
 <img alt="AFWall+" height="64" src="https://github.com/ukanth/afwall/blob/beta/app/src/main/ic_launcher-web.png">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall&gl=US)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall)
 - [x] [F-Droid](https://f-droid.org/en/packages/dev.ukanth.ufirewall/)
-- [x] [Source code](https://github.com/ukanth/afwall/)
+- [x] [GitHub](https://github.com/ukanth/afwall/)
 - [ ] Official page
-=======
+
 ## Flash Cards
 ### AnkiDroid
 <img alt="AnkiDroid" height="64" src="https://github.com/ankidroid/Anki-Android/raw/main/docs/graphics/logos/ankidroid_logo.png">
