@@ -907,12 +907,12 @@ __AWESOME__ apps counter: __140__ 🎉
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Music-Player)
 - [x] [Official page](https://www.simplemobiletools.com/music)
 
-### Phonograph
-<img alt="Phonograph" height="64" src="https://github.com/kabouzeid/Phonograph/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true">
+### Vinyl
+<img alt="Vinyl" height="64" src="https://github.com/AdrienPoupa/VinylMusicPlayer/blob/master/app/src/main/res/drawable-xxxhdpi/icon_web.png?raw=true">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.kabouzeid.gramophone)
-- [x] [F-Droid](https://f-droid.org/packages/com.kabouzeid.gramophone/)
-- [x] [GitHub](https://github.com/kabouzeid/Phonograph)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.poupa.vinylmusicplayer)
+- [x] [F-Droid](https://f-droid.org/packages/com.poupa.vinylmusicplayer/)
+- [x] [GitHub](https://github.com/AdrienPoupa/VinylMusicPlayer)
 - [ ] Official page
 
 ### Howl
@@ -1326,5 +1326,8 @@ __AWESOME__ apps counter: __140__ 🎉
 
 ### [IzzyOnDroid](https://android.izzysoft.de/applists.php)
 <img alt="IzzyOnDroid" height="64" src="https://android.izzysoft.de/images/site_logo.png">
+
+### [DivestOS](https://divestos.org/index.php?page=recommended_apps)
+<img alt="IzzyOnDroid" width="256" src="https://repository-images.githubusercontent.com/268886326/71242700-7c98-11eb-9864-7f64920e3e16">
 
 # [⬆ Go back ⬆](#contents)
