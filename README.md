@@ -884,6 +884,14 @@ __AWESOME__ apps counter: __140__ 🎉
 - [x] [GitHub](https://github.com/Sangwan5688/BlackHole)
 - [x] [Official page](https://sangwan5688.github.io/BlackHole/)
 
+### Spotube
+<img alt="Spotube" height="64" src="https://github.com/KRTirtho/spotube/blob/master/assets/spotube_banner.png?raw=true">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/KRTirtho/spotube)
+- [ ] Official page
+
 ### Auxio
 <img alt="Auxio" height="64" src="https://github.com/OxygenCobalt/Auxio/raw/dev/fastlane/metadata/android/en-US/images/icon.png">
 
@@ -1293,6 +1301,30 @@ __AWESOME__ apps counter: __140__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/com.github.libretube/)
 - [x] [GitHub](https://github.com/libre-tube/LibreTube)
 - [x] [Official page](https://libre-tube.github.io/)
+
+### VueTube
+<img alt="VueTube" height="64" src="https://github.com/VueTubeApp/VueTube/blob/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/VueTubeApp/VueTube)
+- [x] [Official page](https://vuetube.app/)
+
+### PsTube
+<img alt="PsTube" height="64" src="https://raw.githubusercontent.com/prateekmedia/pstube/main/assets/pstube.png">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/prateekmedia/pstube)
+- [ ] Official page
+
+### FreeTube
+<img alt="FreeTube" height="64" src="https://github.com/FreeTubeApp/FreeTube/blob/development/_icons/256x256.png?raw=true">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/FreeTubeApp/FreeTube)
+- [x] [Official page](https://freetubeapp.io/)
 
 ### SongTube
 <img alt="SongTube" height="64" src="https://github.com/SongTube/SongTube-App/blob/development/assets/images/ic_launcher.png?raw=true">
