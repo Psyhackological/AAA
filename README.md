@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __149__ 🎉
+__AWESOME__ apps counter: __150__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -539,7 +539,7 @@ __AWESOME__ apps counter: __149__ 🎉
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9)
 - [x] [F-Droid](https://f-droid.org/packages/com.fsck.k9/)
-- [x] [Githubh](https://github.com/thundernest/k-9)
+- [x] [GitHub](https://github.com/thundernest/k-9)
 - [x] [Official page](https://k9mail.app/)
 
 ## F-Droid
@@ -741,6 +741,14 @@ __AWESOME__ apps counter: __149__ 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=xyz.deepdaikon.z0ysii)
 - [x] [F-Droid](https://f-droid.org/en/packages/xyz.deepdaikon.zoysii/)
 - [x] [GitLab](https://gitlab.com/deepdaikon/Zoysii)
+- [ ] Official page
+
+### Quinb
+<img alt="Quinb" height="64" src="https://gitlab.com/deepdaikon/Quinb/-/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=xyz.deepdaikon.quinb)
+- [x] [F-Droid](https://f-droid.org/en/packages/xyz.deepdaikon.quinb/)
+- [x] [GitLab](https://gitlab.com/deepdaikon/Quinb)
 - [ ] Official page
 
 ## GitHub Client
