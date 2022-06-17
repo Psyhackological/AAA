@@ -23,7 +23,6 @@
 
 ## Please use `Home` button to go to the top.
 
-
 __AWESOME__ apps counter: __140__ 🎉
 
 ### Contents:
@@ -59,6 +58,8 @@ __AWESOME__ apps counter: __140__ 🎉
 - [File Synchronization](#file-synchronization)
 - [Finance](#finance)
 - [Flash Cards](#flash-cards)
+- [Flashlight](#flashlight)
+- [Gallery](#gallery)
 - [Games](#games)
 - [GitHub Client](#github-client)
 - [Google Play](#google-play)
@@ -599,6 +600,15 @@ __AWESOME__ apps counter: __140__ 🎉
 - [x] [GitHub](https://github.com/AndreAle94/moneywallet)
 - [ ] Official page
 
+## Flash Cards
+### AnkiDroid
+<img alt="AnkiDroid" height="64" src="https://github.com/ankidroid/Anki-Android/raw/main/docs/graphics/logos/ankidroid_logo.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.ichi2.anki)
+- [x] [F-Droid](https://f-droid.org/packages/com.ichi2.anki)
+- [x] [GitHub](https://github.com/ankidroid/Anki-Android)
+- [x] [Official page](https://apps.ankiweb.net)
+
 ## Flashlight
 ### Simple Flashlight
 <img alt="SimpleFlashlight" height="64" src="https://github.com/SimpleMobileTools/Simple-Flashlight/raw/master/fastlane/metadata/android/en-US/images/icon.png">
@@ -632,15 +642,6 @@ __AWESOME__ apps counter: __140__ 🎉
 - [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/deckers.thibault.aves)
 - [x] [GitHub](https://github.com/deckerst/aves)
 - [ ] Official page
-
-## Flash Cards
-### AnkiDroid
-<img alt="AnkiDroid" height="64" src="https://github.com/ankidroid/Anki-Android/raw/main/docs/graphics/logos/ankidroid_logo.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.ichi2.anki)
-- [x] [F-Droid](https://f-droid.org/packages/com.ichi2.anki)
-- [x] [GitHub](https://github.com/ankidroid/Anki-Android)
-- [x] [Official page](https://apps.ankiweb.net)
 
 ## Games
 ### Mindustry
@@ -1325,6 +1326,5 @@ __AWESOME__ apps counter: __140__ 🎉
 
 ### [IzzyOnDroid](https://android.izzysoft.de/applists.php)
 <img alt="IzzyOnDroid" height="64" src="https://android.izzysoft.de/images/site_logo.png">
-
 
 # [⬆ Go back ⬆](#contents)
