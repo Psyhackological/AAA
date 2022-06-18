@@ -1385,7 +1385,7 @@ __AWESOME__ apps counter: __158__ 🎉
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=se.leap.bitmaskclient)
 - [x] [F-Droid](https://f-droid.org/en/packages/se.leap.bitmaskclient/)
-- [x] [GitLab](https://github.com/WangDaYeeeeee/GeometricWeather)
+- [x] [GitLab](https://0xacab.org/leap/bitmask_android)
 - [x] [Official page](https://bitmask.net/)
 
 ## Weather
