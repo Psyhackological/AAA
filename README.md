@@ -867,7 +867,7 @@ __AWESOME__ apps counter: __158__ 🎉
 - [x] [Official page](https://getsession.org/)
 
 ### Nekogram X
-<img alt="Nekogram X" height="64" src="https://avatars.githubusercontent.com/u/63057291?s=200&v=4">
+<img alt="Nekogram X" height="64" src="https://raw.githubusercontent.com/NekogramX/NekoX/master/TMessagesProj/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/nekox.messenger/)
