@@ -50,6 +50,7 @@ __AWESOME__ apps counter: __150__ 🎉
 - [Dialer](#dialer)
 - [Diary](#diary)
 - [Discord](#discord)
+- [Download Manager](#download-manager)
 - [Drawing](#drawing)
 - [E-book Reader](#e-book-reader)
 - [Egg Timer](#egg-timer)
@@ -104,6 +105,7 @@ __AWESOME__ apps counter: __150__ 🎉
 - [Unit Converter](#unit-converter)
 - [Video Player](#video-player)
 - [Voice Recorder](#voice-recorder)
+- [VPN](#vpn)
 - [Weather](#weather)
 - [Workout](#workout)
 - [YouTube](#youtube)
@@ -243,6 +245,14 @@ __AWESOME__ apps counter: __150__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/com.topjohnwu.magisk/)
 - [x] [GitHub](https://github.com/topjohnwu/Magisk)
 - [x] [Official page](https://topjohnwu.github.io/Magisk/)
+
+### SmartPack-Kernel Manager
+<img alt="SmartPack-Kernel Manager" height="64" src="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/app/src/main/ic_launcher-web.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.smartpack.kernelmanager)
+- [x] [GitHub](https://github.com/SmartPack/SmartPack-Kernel-Manager)
+- [x] [Official page](https://smartpack.github.io/)
 
 ## App Backup
 ### Neo Backup
@@ -461,6 +471,15 @@ __AWESOME__ apps counter: __150__ 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary)
 - [x] [F-Droid](https://f-droid.org/en/packages/me.blog.korn123.easydiary)
 - [x] [GitHub](https://github.com/hanjoongcho/aaf-easydiary)
+- [ ] Official page
+
+## Download Manager
+### Download Navi
+<img alt="Download Navi" height="64" src="https://play-lh.googleusercontent.com/XKSnuIxirq8HktMEpxtcWbAVFl7ThnGg6I_hph0PeYe1JEt8iVCLAf76sDoUeVUu2eFL">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.tachibana.downloader)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.tachibana.downloader/)
+- [x] [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)
 - [ ] Official page
 
 ## Discord
@@ -847,6 +866,22 @@ __AWESOME__ apps counter: __150__ 🎉
 - [x] [GitHub](https://github.com/oxen-io/session-android)
 - [x] [Official page](https://getsession.org/)
 
+### Nekogram X
+<img alt="Nekogram X" height="64" src="https://avatars.githubusercontent.com/u/63057291?s=200&v=4">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/nekox.messenger/)
+- [x] [GitHub](https://github.com/NekoX-Dev/NekoX)
+- [ ] Official page
+
+### Owlgram
+<img alt="Owlgram" height="64" src="https://owlgram.org/img/owlgram.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=it.owlgram.android)
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/OwlGramDev/OwlGram)
+- [x] [Official page](https://owlgram.org/)
+
 ## Keyboard
 ### Openboard ❤️
 <img alt="Openboard" height="64" src="https://github.com/openboard-team/openboard/blob/master/images/open_board_final.png?raw=true">
@@ -1065,8 +1100,16 @@ __AWESOME__ apps counter: __150__ 🎉
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager/)
-- [x] [GitHub](https://github.com/MuntashirAkon/AppManager)
+- [x] [GitHub](https://github.com/SmartPack/PackageManager)
 - [x] [Official page](https://muntashirakon.github.io/AppManager/en/)
+
+### Package Manager
+<img alt="Package Manager" height="64" src="https://raw.githubusercontent.com/SmartPack/PackageManager/master/app/src/main/ic_launcher-web.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager)
+- [x] [F-Droid](https://f-droid.org/packages/com.smartpack.packagemanager)
+- [x] [GitHub](https://github.com/SmartPack/PackageManager)
+- [x] [Official page](https://smartpack.github.io/)
 
 ## Password Manager
 ### Bitwarden ❤
@@ -1319,6 +1362,15 @@ __AWESOME__ apps counter: __150__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/com.dimowner.audiorecorder/)
 - [x] [GitHub](https://github.com/Dimowner/AudioRecorder)
 - [ ] Official page
+
+## VPN
+### Bitmask
+<img alt="Bitmask" height="64" src="https://0xacab.org/uploads/-/system/project/avatar/578/bitmask-icon.png?width=64">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=se.leap.bitmaskclient)
+- [x] [F-Droid](https://f-droid.org/en/packages/se.leap.bitmaskclient/)
+- [x] [GitLab](https://github.com/WangDaYeeeeee/GeometricWeather)
+- [x] [Official page](https://bitmask.net/)
 
 ## Weather
 ### Geometric Weather
