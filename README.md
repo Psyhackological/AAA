@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __150__ 🎉
+__AWESOME__ apps counter: __158__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
