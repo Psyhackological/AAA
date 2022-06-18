@@ -882,6 +882,14 @@ __AWESOME__ apps counter: __150__ 🎉
 - [x] [GitHub](https://github.com/OwlGramDev/OwlGram)
 - [x] [Official page](https://owlgram.org/)
 
+### Delta Chat
+<img alt="Delta Chat" height="64" src="https://delta.chat/assets/logos/delta-chat.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=chat.delta)
+- [x] [F-Droid](https://f-droid.org/app/com.b44t.messenger)
+- [x] [GitHub](https://github.com/deltachat/deltachat-android)
+- [x] [Official page](https://delta.chat/en/)
+
 ## Keyboard
 ### Openboard ❤️
 <img alt="Openboard" height="64" src="https://github.com/openboard-team/openboard/blob/master/images/open_board_final.png?raw=true">
@@ -950,6 +958,14 @@ __AWESOME__ apps counter: __150__ 🎉
 - [x] [F-Droid](https://f-droid.org/app/im.vector.app)
 - [x] [GitHub](https://github.com/vector-im/element-android)
 - [x] [Official page](https://element.io/)
+
+### Fluffy Chat
+<img alt="Fluffy Chat" height="64" src="https://gitlab.com/uploads/-/system/project/avatar/16112282/logo.png?width=64">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=chat.fluffy.fluffychat)
+- [x] [F-Droid](https://f-droid.org/de/packages/chat.fluffy.fluffychat/)
+- [x] [GitHub](https://gitlab.com/famedly/fluffychat)
+- [x] [Official page](https://fluffychat.im/)
 
 ## Meditation
 ### Medito ❤️
