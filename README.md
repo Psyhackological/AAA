@@ -1100,7 +1100,7 @@ __AWESOME__ apps counter: __150__ 🎉
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager/)
-- [x] [GitHub](https://github.com/SmartPack/PackageManager)
+- [x] [GitHub](https://github.com/MuntashirAkon/AppManager)
 - [x] [Official page](https://muntashirakon.github.io/AppManager/en/)
 
 ### Package Manager
