@@ -1,8 +1,8 @@
 # Privacy Report
 
-For now there is only one [example](#music-player-go):
+See [example](#music-player-go):
 
-Examined apps: __1/140__ 🕵️
+Examined apps: __2/140__ 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -84,6 +84,12 @@ Examined apps: __1/140__ 🕵️
 ## 2FA
 ### Aegis 
 <img alt="Aegis" height="64" src="https://github.com/beemdevelopment/Aegis/blob/master/app/src/main/res/drawable/ic_aegis_iconx.png?raw=true">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/com.beemdevelopment.aegis/latest/): 0
+- [x] [F-Droid Anti-Features](https://f-droid.org/en/packages/com.beemdevelopment.aegis/): 0
+- [x] [Privacy Policy](https://getaegis.app/aegis/privacy.html)
+> Aegis Authenticator does not collect any data from your device.
+
 
 ### Authenticator Pro 
 <img alt="AuthenticatorPro" height="64" src="https://github.com/jamie-mh/AuthenticatorPro/blob/master/doc/ic_launcher-web.png?raw=true">
@@ -411,7 +417,7 @@ Examined apps: __1/140__ 🕵️
 
 - [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/com.iven.musicplayergo/latest/): 0
 - [x] [F-Droid Anti-Features](https://f-droid.org/packages/com.iven.musicplayergo/): 0
-- [x] [GitHub Privacy Policy](https://github.com/enricocid/Music-Player-GO/blob/main/PRIVACY_POLICY.md)
+- [x] [Privacy Policy](https://github.com/enricocid/Music-Player-GO/blob/main/PRIVACY_POLICY.md)
 > Music Player GO does NOT collect or store any data.
 
 ### Simple Music Player
