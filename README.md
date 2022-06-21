@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __158__ 🎉
+__AWESOME__ apps counter: __159__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -1395,6 +1395,14 @@ __AWESOME__ apps counter: __158__ 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=wangdaye.com.geometricweather)
 - [x] [F-Droid](https://f-droid.org/en/packages/wangdaye.com.geometricweather/)
 - [x] [GitHub](https://github.com/WangDaYeeeeee/GeometricWeather)
+- [ ] Official page
+
+### Pluvia Weather
+<img alt="PluviaWeather" height="64" src="https://raw.githubusercontent.com/SpicyChair/pluvia_weather_flutter/master/android/app/src/main/ic_launcher-playstore.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.spicychair.weather)
+- [x] [F-Droid](https://f-droid.org/packages/com.spicychair.weather/)
+- [x] [GitHub](https://github.com/SpicyChair/pluvia_weather_flutter)
 - [ ] Official page
 
 ### Veterondo
