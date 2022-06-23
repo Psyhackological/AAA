@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __159__ 🎉
+__AWESOME__ apps counter: __158__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -105,7 +105,6 @@ __AWESOME__ apps counter: __159__ 🎉
 - [Unit Converter](#unit-converter)
 - [Video Player](#video-player)
 - [Voice Recorder](#voice-recorder)
-- [VPN](#vpn)
 - [Weather](#weather)
 - [Workout](#workout)
 - [YouTube](#youtube)
@@ -1378,15 +1377,6 @@ __AWESOME__ apps counter: __159__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/com.dimowner.audiorecorder/)
 - [x] [GitHub](https://github.com/Dimowner/AudioRecorder)
 - [ ] Official page
-
-## VPN
-### Bitmask
-<img alt="Bitmask" height="64" src="https://0xacab.org/uploads/-/system/project/avatar/578/bitmask-icon.png?width=64">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=se.leap.bitmaskclient)
-- [x] [F-Droid](https://f-droid.org/en/packages/se.leap.bitmaskclient/)
-- [x] [GitLab](https://0xacab.org/leap/bitmask_android)
-- [x] [Official page](https://bitmask.net/)
 
 ## Weather
 ### Geometric Weather
