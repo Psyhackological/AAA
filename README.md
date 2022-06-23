@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __158__ 🎉
+__AWESOME__ apps counter: __159__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -1310,12 +1310,20 @@ __AWESOME__ apps counter: __158__ 🎉
 - [x] [Official page](http://showlyapp.com/)
 
 ## Twitch
-### Twire ❤️
+### Twire
 <img alt="Twire" height="64" src="https://github.com/twireapp/Twire/blob/master/app/src/main/ic_launcher-web.png?raw=true">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.perflyst.twire/)
 - [x] [GitHub](https://github.com/twireapp/Twire)
+- [ ] Official page
+
+### Xtra 
+<img alt="Xtra" height="64" src="https://github.com/AndreyAsadchy/Xtra/raw/197ba90cac879abd2a5645393ce361847f12fa0b/app/src/main/ic_launcher-web.png">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/crackededed/Xtra)
 - [ ] Official page
 
 ## Twitter
