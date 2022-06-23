@@ -2,6 +2,12 @@
 
 See [example](#music-player-go):
 
+## Trackers
+The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the app can have is with `crash reporting` label.
+
+## F-Droid Anti-Features
+WIP
+
 Examined apps: __3/140__ 🕵️
 
 ### Contents:
