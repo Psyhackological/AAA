@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __159__ 🎉
+__AWESOME__ apps counter: __160__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -811,6 +811,14 @@ __AWESOME__ apps counter: __159__ 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=dev.corruptedark.diditakemymeds)
 - [x] [F-Droid](https://f-droid.org/packages/dev.corruptedark.diditakemymeds)
 - [x] [GitHub](https://github.com/CorruptedArk/did-i-take-my-meds)
+- [ ] Official page
+
+### Medic Log
+<img alt="MedicLog" height="64" src="https://raw.githubusercontent.com/rh-id/a-medic-log/master/graphics/launcher.svg">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/m.co.rh.id.a_medic_log/)
+- [x] [GitHub](https://github.com/rh-id/a-medic-log)
 - [ ] Official page
 
 ## Icon Pack 
