@@ -556,7 +556,7 @@ __AWESOME__ apps counter: __163__ 🎉
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid)
 - [x] [F-Droid](https://f-droid.org/packages/com.swordfish.lemuroid/)
-- [x] [GitLab](https://github.com/Swordfish90/Lemuroid)
+- [x] [GitHub](https://github.com/Swordfish90/Lemuroid)
 - [ ] Official page
 
 ## Email
