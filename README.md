@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __162__ 🎉
+__AWESOME__ apps counter: __163__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -998,6 +998,14 @@ __AWESOME__ apps counter: __162__ 🎉
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/meditofoundation.medito)
 - [x] [GitHub](https://github.com/meditohq/medito-app)
 - [x] [Official page](https://meditofoundation.org/)
+
+### Meditation Assistant
+<img alt="MeditationAssistant" height="64" src="https://code.rocketnine.space/tslocum/meditationassistant/raw/branch/master/metadata/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=sh.ftp.rocketninelabs.meditationassistant)
+- [x] [F-Droid](https://f-droid.org/packages/sh.ftp.rocketninelabs.meditationassistant.opensource/)
+- [x] [GitTea](https://code.rocketnine.space/tslocum/meditationassistant)
+- [ ] Official page
 
 ## Music Downloader
 ### SpotiFlyer
