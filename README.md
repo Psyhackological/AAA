@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __161__ 🎉
+__AWESOME__ apps counter: __162__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -514,6 +514,14 @@ __AWESOME__ apps counter: __161__ 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.catrobat.paintroid)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.catrobat.paintroid/)
 - [x] [GitHub](https://github.com/Catrobat/Paintroid)
+- [ ] Official page
+
+### PixaPencil
+<img alt="PixaPencil" height="64" src="https://user-images.githubusercontent.com/50536495/170400421-0c3a1711-4484-42b1-995b-ee0095c3c7cb.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.therealbluepandabear.pixapencil/)
+- [x] [GitHub](https://github.com/therealbluepandabear/PixaPencil)
 - [ ] Official page
 
 ## E-book Reader
