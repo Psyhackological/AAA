@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __160__ 🎉
+__AWESOME__ apps counter: __161__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -295,6 +295,14 @@ __AWESOME__ apps counter: __160__ 🎉
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/de.t_dankworth.secscanqr/)
 - [x] [GitHub](https://github.com/Fr4gorSoftware/SecScanQR)
+- [ ] Official page
+
+### Simple QR
+<img alt="SimpleQR" height="64" src="https://raw.githubusercontent.com/tomfong/simple-qr/main/.github/images/icon_round.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.tomfong.simpleqr)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.tomfong.simpleqr)
+- [x] [GitHub](https://github.com/tomfong/simple-qr)
 - [ ] Official page
 
 ## Birthday Calendar
