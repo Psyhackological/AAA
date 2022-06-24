@@ -1530,4 +1530,7 @@ __AWESOME__ apps counter: __163__ 🎉
 ### [DivestOS](https://divestos.org/index.php?page=recommended_apps)
 <img alt="IzzyOnDroid" width="256" src="https://repository-images.githubusercontent.com/268886326/71242700-7c98-11eb-9864-7f64920e3e16">
 
+### [PRISM Break](https://prism-break.org/en/categories/android/)
+<img alt="PRISMBreak" height="64" src="https://gitlab.com/uploads/-/system/project/avatar/7100936/apple-touch-icon-144-precomposed.png?width=64">
+
 # [⬆ Go back ⬆](#contents)
