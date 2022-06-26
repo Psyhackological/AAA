@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __164__ 🎉
+__AWESOME__ apps counter: __165__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -662,6 +662,14 @@ __AWESOME__ apps counter: __164__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.ichi2.anki)
 - [x] [GitHub](https://github.com/ankidroid/Anki-Android)
 - [x] [Official page](https://apps.ankiweb.net)
+
+### Flash Deck
+<img alt="Flash Deck" height="64" src="https://raw.githubusercontent.com/rh-id/a-flash-deck/master/graphics/launcher.svg">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/m.co.rh.id.a_flash_deck/)
+- [x] [GitHub](https://github.com/rh-id/a-flash-deck)
+- [ ] Official page
 
 ## Flashlight
 ### Simple Flashlight
