@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __163__ 🎉
+__AWESOME__ apps counter: __164__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -1426,6 +1426,14 @@ __AWESOME__ apps counter: __163__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.spicychair.weather/)
 - [x] [GitHub](https://github.com/SpicyChair/pluvia_weather_flutter)
 - [ ] Official page
+
+### Clima
+<img alt="Clima" height="64" src="https://github.com/Lacerte/clima/blob/master/packages/clima_ui/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/co.prestosole.clima/)
+- [x] [GitHub](https://github.com/Lacerte/clima)
+- [x] [Official page](https://lacerte.github.io/clima/)
 
 ### Veterondo
 <img alt="Veterondo" height="64" src="https://f-droid.org/repo/icons-640/com.saladdressing.veterondo.13.png">
