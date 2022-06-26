@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __166__ 🎉
+__AWESOME__ apps counter: __167__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -1236,6 +1236,14 @@ __AWESOME__ apps counter: __166__ 🎉
 - [ ] Google Play
 - [x] [F-Droid](https://android.izzysoft.de/repo/apk/me.ash.reader)
 - [x] [GitHub](https://github.com/Ashinch/ReadYou)
+- [ ] Official page
+
+### Nunti
+<img alt="Nunti" height="64" src="https://gitlab.com/ondrejfoltyn/nunti/-/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.nunti/)
+- [x] [GitLab](https://gitlab.com/ondrejfoltyn/nunti)
 - [ ] Official page
 
 ## SMS Messenger
