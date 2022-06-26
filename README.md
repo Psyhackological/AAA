@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __165__ 🎉
+__AWESOME__ apps counter: __166__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -1340,6 +1340,14 @@ __AWESOME__ apps counter: __165__ 🎉
 - [ ] F-Droid
 - [x] [Github](https://github.com/michaldrabik/Showly-2.0)
 - [x] [Official page](http://showlyapp.com/)
+
+### GreenStash️ - Savings Tracker
+<img alt="GreenStash️" height="64" src="https://github.com/Pool-Of-Tears/GreenStash/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.starry.greenstash)
+- [x] [Github](https://github.com/Pool-Of-Tears/GreenStash)
+- [ ] Official page
 
 ## Twitch
 ### Twire
