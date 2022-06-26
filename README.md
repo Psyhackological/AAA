@@ -28,15 +28,12 @@ __AWESOME__ apps counter: __163__ 🎉
 ### Contents:
 - [2FA](#2fa)
 - [Ad Blocking](#ad-blocking)
-- [Addiction Tracker](#addiction-tracker)
 - [Alarm](#alarm)
 - [Anime & Manga](#anime--manga)
 - [Android Customization](#android-customization)
 - [App Backup](#app-backup)
 - [Background Noise](#background-noise)
 - [Barcode Scanner](#barcode-scanner)
-- [Birthday Calendar](#birthday-calendar)
-- [Books Tracker](#books-tracker)
 - [Browser](#browser)
 - [Calculator](#calculator)
 - [Calendar](#calendar)
@@ -67,7 +64,6 @@ __AWESOME__ apps counter: __163__ 🎉
 - [Games](#games)
 - [GitHub Client](#github-client)
 - [Google Play](#google-play)
-- [Habit Tracker](#habit-tracker)
 - [Health](#health)
 - [Icon Pack](#icon-pack)
 - [Image Processing](#image-processing)
@@ -99,7 +95,7 @@ __AWESOME__ apps counter: __163__ 🎉
 - [Terminal Emulator](#terminal-emulator)
 - [To-Do List](#to-do-list)
 - [Torrenting](#torrenting)
-- [TV Shows Tracker](#tv-shows-tracker)
+- [Trackers](#trackers)
 - [Twitch](#twitch)
 - [Twitter](#twitter)
 - [Unit Converter](#unit-converter)
@@ -184,15 +180,6 @@ __AWESOME__ apps counter: __163__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/)
 - [x] [GitHub](https://github.com/TrackerControl/tracker-control-android)
 - [x] [Official page](https://trackercontrol.org/)
-
-## Addiction Tracker
-### Sobriety
-<img alt="Sobriety" height="64" src="https://github.com/KiARC/Sobriety/blob/master/app/src/main/res/mipmap-xxxhdpi/sobriety.png?raw=true">
-
-- [ ] Google Play
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.katiearose.sobriety)
-- [x] [GitHub](https://github.com/KiARC/Sobriety)
-- [ ] Official page
 
 ## Alarm
 ### Alarmio
@@ -303,24 +290,6 @@ __AWESOME__ apps counter: __163__ 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.tomfong.simpleqr)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.tomfong.simpleqr)
 - [x] [GitHub](https://github.com/tomfong/simple-qr)
-- [ ] Official page
-
-## Birthday Calendar
-### Birday ❤️
-<img alt="Birday" height="64" src="https://github.com/m-i-n-a-r/birday/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.minar.birday)
-- [x] [F-Droid](https://f-droid.org/packages/com.minar.birday/)
-- [x] [GitHub](https://github.com/m-i-n-a-r/birday)
-- [ ] Official page
-
-## Books Tracker
-### Openreads
-<img alt="Openreads" height="64" src="https://github.com/mateusz-bak/openreads-android/blob/master/app/src/main/res/mipmap-xhdpi/logo_round.png?raw=true">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=software.mdev.bookstracker)
-- [x] [F-Droid](https://f-droid.org/en/packages/software.mdev.bookstracker/)
-- [x] [GitHub](https://github.com/mateusz-bak/openreads-android)
 - [ ] Official page
 
 ## Browser
@@ -810,15 +779,6 @@ __AWESOME__ apps counter: __163__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/com.aurora.store/)
 - [x] [GitLab](https://gitlab.com/AuroraOSS/AuroraStore)
 - [x] [Official page](https://auroraoss.com/)
-
-## Habit Tracker 
-### Loop Habit Tracker ❤️
-<img alt="LoopHabitTracker" height="64" src="https://github.com/iSoron/uhabits/blob/dev/uhabits-android/src/main/res/drawable/intro_icon_1.png?raw=true">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=org.isoron.uhabits)
-- [x] [F-Droid](https://f-droid.org/app/org.isoron.uhabits)
-- [x] [GitHub](https://github.com/iSoron/uhabits)
-- [x] [Official page](https://loophabits.org/)
 
 ## Health
 ### Did I Take My Meds?
@@ -1332,8 +1292,40 @@ __AWESOME__ apps counter: __163__ 🎉
 - [x] [GitLab](https://gitlab.com/proninyaroslav/libretorrent)
 - [ ] Official page
 
-# TV Shows Tracker
-### Showly ❤️
+## Trackers
+### Birday ❤️ - Birthday Tracker
+<img alt="Birday" height="64" src="https://github.com/m-i-n-a-r/birday/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.minar.birday)
+- [x] [F-Droid](https://f-droid.org/packages/com.minar.birday/)
+- [x] [GitHub](https://github.com/m-i-n-a-r/birday)
+- [ ] Official page
+
+### Loop ❤️ - Habit Tracker 
+<img alt="LoopHabitTracker" height="64" src="https://github.com/iSoron/uhabits/blob/dev/uhabits-android/src/main/res/drawable/intro_icon_1.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.isoron.uhabits)
+- [x] [F-Droid](https://f-droid.org/app/org.isoron.uhabits)
+- [x] [GitHub](https://github.com/iSoron/uhabits)
+- [x] [Official page](https://loophabits.org/)
+
+### Openreads - Books Tracker
+<img alt="Openreads" height="64" src="https://github.com/mateusz-bak/openreads-android/blob/master/app/src/main/res/mipmap-xhdpi/logo_round.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=software.mdev.bookstracker)
+- [x] [F-Droid](https://f-droid.org/en/packages/software.mdev.bookstracker/)
+- [x] [GitHub](https://github.com/mateusz-bak/openreads-android)
+- [ ] Official page
+
+### Sobriety - Addiction Tracker
+<img alt="Sobriety" height="64" src="https://github.com/KiARC/Sobriety/blob/master/app/src/main/res/mipmap-xxxhdpi/sobriety.png?raw=true">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.katiearose.sobriety)
+- [x] [GitHub](https://github.com/KiARC/Sobriety)
+- [ ] Official page
+
+### Showly ❤️ - TV Shows Tracker
 <img alt="Showly" height="64" src="https://camo.githubusercontent.com/3740231f58f9cd91dbf27285736f77ecfac4f63c02fceefcacbeb40778d3f896/68747470733a2f2f692e6962622e636f2f4368424e374c672f69632d6c61756e636865722e706e67">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.michaldrabik.showly2)
