@@ -1309,7 +1309,7 @@ __AWESOME__ apps counter: __167__ 🎉
 - [ ] Official page
 
 ## Trackers
-### Birday ❤️ - Birthday Tracker
+### Birday ❤️ — Birthday Tracker
 <img alt="Birday" height="64" src="https://github.com/m-i-n-a-r/birday/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.minar.birday)
@@ -1317,7 +1317,7 @@ __AWESOME__ apps counter: __167__ 🎉
 - [x] [GitHub](https://github.com/m-i-n-a-r/birday)
 - [ ] Official page
 
-### Loop ❤️ - Habit Tracker 
+### Loop ❤️ — Habit Tracker 
 <img alt="LoopHabitTracker" height="64" src="https://github.com/iSoron/uhabits/blob/dev/uhabits-android/src/main/res/drawable/intro_icon_1.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.isoron.uhabits)
@@ -1325,7 +1325,7 @@ __AWESOME__ apps counter: __167__ 🎉
 - [x] [GitHub](https://github.com/iSoron/uhabits)
 - [x] [Official page](https://loophabits.org/)
 
-### Openreads - Books Tracker
+### Openreads — Books Tracker
 <img alt="Openreads" height="64" src="https://github.com/mateusz-bak/openreads-android/blob/master/app/src/main/res/mipmap-xhdpi/logo_round.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=software.mdev.bookstracker)
@@ -1333,7 +1333,7 @@ __AWESOME__ apps counter: __167__ 🎉
 - [x] [GitHub](https://github.com/mateusz-bak/openreads-android)
 - [ ] Official page
 
-### Sobriety - Addiction Tracker
+### Sobriety — Addiction Tracker
 <img alt="Sobriety" height="64" src="https://github.com/KiARC/Sobriety/blob/master/app/src/main/res/mipmap-xxxhdpi/sobriety.png?raw=true">
 
 - [ ] Google Play
@@ -1341,7 +1341,7 @@ __AWESOME__ apps counter: __167__ 🎉
 - [x] [GitHub](https://github.com/KiARC/Sobriety)
 - [ ] Official page
 
-### Showly ❤️ - TV Shows Tracker
+### Showly ❤️ — TV Shows Tracker
 <img alt="Showly" height="64" src="https://camo.githubusercontent.com/3740231f58f9cd91dbf27285736f77ecfac4f63c02fceefcacbeb40778d3f896/68747470733a2f2f692e6962622e636f2f4368424e374c672f69632d6c61756e636865722e706e67">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.michaldrabik.showly2)
@@ -1349,13 +1349,21 @@ __AWESOME__ apps counter: __167__ 🎉
 - [x] [Github](https://github.com/michaldrabik/Showly-2.0)
 - [x] [Official page](http://showlyapp.com/)
 
-### GreenStash️ - Savings Tracker
+### GreenStash️ — Savings Tracker
 <img alt="GreenStash️" height="64" src="https://github.com/Pool-Of-Tears/GreenStash/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.starry.greenstash)
 - [x] [Github](https://github.com/Pool-Of-Tears/GreenStash)
 - [ ] Official page
+
+### Vacation Days — Days Off Tracker
+<img alt="VacationDays" height="64" src="https://github.com/Crazy-Marvin/VacationDays/blob/development/fastlane/metadata/android/en-US/images/icon.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=rocks.poopjournal.vacationdays)
+- [x] [F-Droid](https://f-droid.org/packages/rocks.poopjournal.vacationdays/)
+- [x] [Github](https://github.com/Crazy-Marvin/VacationDays)
+- [x] [Official page](https://crazymarvin.com/vacation-days/)
 
 ## Twitch
 ### Twire
