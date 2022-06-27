@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __169__ 🎉
+__AWESOME__ apps counter: __170__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -321,7 +321,7 @@ __AWESOME__ apps counter: __169__ 🎉
 ### Calculator++ ❤️
 <img alt="Calculator++" height="64" src="https://github.com/Bubu/android-calculatorpp/blob/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png?raw=true">
 
-([Google Play's version](https://reports.exodus-privacy.eu.org/en/reports/44561/) differes from [F-Droid's one](https://reports.exodus-privacy.eu.org/en/reports/org.solovyev.android.calculator/latest/), and it violates the rules.)
+([Google Play's version](https://reports.exodus-privacy.eu.org/en/reports/44561/) differs from [F-Droid's one](https://reports.exodus-privacy.eu.org/en/reports/org.solovyev.android.calculator/latest/), and it violates the rules.)
 - [x] ~~[Google Play](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator)~~
 - [x] [F-Droid](https://www.f-droid.org/en/packages/org.solovyev.android.calculator/)
 - [x] [GitHub](https://github.com/Bubu/android-calculatorpp)
@@ -572,10 +572,12 @@ __AWESOME__ apps counter: __169__ 🎉
 
 ### Droid-ify ❤️
 <img alt="Droid-ify" height="64" src="https://raw.githubusercontent.com/NeoApplications/Neo-Store/cfd917bab523f253394d7d9810b02a0e87b3b1c2/metadata/en-US/images/icon.png">
+Currently being reworked as Neo Store, beta builds are available in the telegram group.
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.looker.droidify)
 - [x] [GitHub](https://github.com/NeoApplications/Neo-Store)
+- [x] [Telegram Group](https://t.me/neo_android_store)
 - [ ] Official page
 
 ## File Manager
@@ -922,6 +924,16 @@ __AWESOME__ apps counter: __169__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/ch.deletescape.lawnchair.plah/)
 - [x] [GitHub](https://github.com/LawnchairLauncher/lawnchair)
 - [x] [Official page](https://lawnchair.app/)
+
+### Omega Launcher
+<img alt="Neo Launcher" height="64" src="https://apt.izzysoft.de/fdroid/repo/com.saggitt.omega/en-US/icon.png">
+Currently being reworked as Neo Launcher, beta builds available in the telegram group.
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.saggitt.omega)
+- [x] [GitHub](https://github.com/NeoApplications/Neo-Launcher)
+- [x] [Telegram Group](https://t.me/neo_launcher)
+- [ ] Official page
 
 ## Loyalty Card
 ### Catima ❤️
@@ -1468,7 +1480,7 @@ __AWESOME__ apps counter: __169__ 🎉
 - [ ] Official page
 
 ### Clima
-<img alt="Clima" height="64" src="https://github.com/Lacerte/clima/blob/master/packages/clima_ui/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true">
+<img alt="Clima" height="64" src="https://github.com/Lacerte/clima/blob/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/co.prestosole.clima/)
