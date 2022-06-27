@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __167__ 🎉
+__AWESOME__ apps counter: __168__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -231,6 +231,14 @@ __AWESOME__ apps counter: __167__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/com.topjohnwu.magisk/)
 - [x] [GitHub](https://github.com/topjohnwu/Magisk)
 - [x] [Official page](https://topjohnwu.github.io/Magisk/)
+
+### Warden
+<img alt="Warden-Kernel Manager" height="64" src="https://gitlab.com/AuroraOSS/AppWarden/-/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.aurora.warden)
+- [x] [GitLab](https://gitlab.com/AuroraOSS/AppWarden)
+- [x] [Official page](https://auroraoss.com/)
 
 ### SmartPack-Kernel Manager
 <img alt="SmartPack-Kernel Manager" height="64" src="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/app/src/main/ic_launcher-web.png">
