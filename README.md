@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __168__ 🎉
+__AWESOME__ apps counter: __169__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -233,7 +233,7 @@ __AWESOME__ apps counter: __168__ 🎉
 - [x] [Official page](https://topjohnwu.github.io/Magisk/)
 
 ### Warden
-<img alt="Warden-Kernel Manager" height="64" src="https://gitlab.com/AuroraOSS/AppWarden/-/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+<img alt="Warden" height="64" src="https://gitlab.com/AuroraOSS/AppWarden/-/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.aurora.warden)
@@ -1284,7 +1284,7 @@ __AWESOME__ apps counter: __168__ 🎉
 ### Sky Map
 <img alt="SkyMap" height="64" src="https://f-droid.org/repo/com.google.android.stardroid/en-US/icon_viguh3xj7mYysCwo-kWNIl5Hv8iMQV81ma2soxFM8BY=.png">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.google.android.stardroid&hl=en)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.google.android.stardroid)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.google.android.stardroid/)
 - [x] [Github](https://github.com/sky-map-team/stardroid)
 - [ ] Official page
@@ -1474,6 +1474,14 @@ __AWESOME__ apps counter: __168__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/co.prestosole.clima/)
 - [x] [GitHub](https://github.com/Lacerte/clima)
 - [x] [Official page](https://lacerte.github.io/clima/)
+
+### Forecastie
+<img alt="Forecastie" height="64" src="https://github.com/martykan/forecastie/blob/master/icon.png?raw=true">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/cz.martykan.forecastie/)
+- [x] [GitHub](https://github.com/martykan/forecastie)
+- [ ] Official page
 
 ### Veterondo
 <img alt="Veterondo" height="64" src="https://f-droid.org/repo/icons-640/com.saladdressing.veterondo.13.png">
