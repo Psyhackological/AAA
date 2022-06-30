@@ -927,7 +927,7 @@ Currently being reworked as Neo Store, beta builds are available in the telegram
 
 ### Omega Launcher
 <img alt="Neo Launcher" height="64" src="https://apt.izzysoft.de/fdroid/repo/com.saggitt.omega/en-US/icon.png">
-Currently being reworked as Neo Launcher, beta builds available in the telegram group.
+Currently being reworked as Neo Launcher, beta builds are available in the telegram group.
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.saggitt.omega)
