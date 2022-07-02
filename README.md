@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __172__ 🎉
+__AWESOME__ apps counter: __173__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -926,7 +926,8 @@ Currently being reworked as Neo Store, beta builds are available in the telegram
 - [x] [Official page](https://lawnchair.app/)
 
 ### Omega Launcher
-<img alt="Neo Launcher" height="64" src="https://apt.izzysoft.de/fdroid/repo/com.saggitt.omega/en-US/icon.png">
+<img alt="NeoLauncher" height="64" src="https://apt.izzysoft.de/fdroid/repo/com.saggitt.omega/en-US/icon.png">
+
 Currently being reworked as Neo Launcher, beta builds are available in the telegram group.
 
 - [ ] Google Play
@@ -934,6 +935,14 @@ Currently being reworked as Neo Launcher, beta builds are available in the teleg
 - [x] [GitHub](https://github.com/NeoApplications/Neo-Launcher)
 - [x] [Telegram Group](https://t.me/neo_launcher)
 - [ ] Official page
+
+### KISS Launcher ❤️
+<img alt="KISS" height="64" src="https://github.com/Neamar/KISS/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=fr.neamar.kiss)
+- [x] [F-Droid](https://f-droid.org/packages/fr.neamar.kiss/)
+- [x] [GitHub](https://github.com/Neamar/KISS)
+- [x] [Official page](https://kisslauncher.com/)
 
 ## Loyalty Card
 ### Catima ❤️
