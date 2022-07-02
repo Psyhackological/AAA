@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __170__ 🎉
+__AWESOME__ apps counter: __172__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -1588,7 +1588,7 @@ Currently being reworked as Neo Launcher, beta builds are available in the teleg
 <img alt="IzzyOnDroid" height="64" src="https://android.izzysoft.de/images/site_logo.png">
 
 ### [DivestOS](https://divestos.org/index.php?page=recommended_apps)
-<img alt="IzzyOnDroid" width="256" src="https://repository-images.githubusercontent.com/268886326/71242700-7c98-11eb-9864-7f64920e3e16">
+<img alt="DivestOS" width="256" src="https://repository-images.githubusercontent.com/268886326/71242700-7c98-11eb-9864-7f64920e3e16">
 
 ### [PRISM Break](https://prism-break.org/en/categories/android/)
 <img alt="PRISMBreak" height="64" src="https://gitlab.com/uploads/-/system/project/avatar/7100936/apple-touch-icon-144-precomposed.png">
