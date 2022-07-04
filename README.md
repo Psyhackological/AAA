@@ -103,6 +103,7 @@ __AWESOME__ apps counter: __173__ 🎉
 - [Video Player](#video-player)
 - [Voice Recorder](#voice-recorder)
 - [Weather](#weather)
+- [Wikipedia](#wikipedia)
 - [Workout](#workout)
 - [YouTube](#youtube)
 
@@ -1545,6 +1546,15 @@ Currently being reworked as Neo Launcher, beta builds are available in the teleg
 - [x] [F-Droid](https://f-droid.org/en/packages/com.saladdressing.veterondo/)
 - [x] [GitHub](https://github.com/Antonis427/veterondo)
 - [ ] Official page
+
+## Wikipedia
+### Wikipedia
+<img alt="Wikipedia" height="64" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Wikipedia_mobile_app_logo.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.wikipedia)
+- [x] [F-Droid](https://f-droid.org/en/packages/org.wikipedia/)
+- [x] [Github](https://github.com/wikimedia/apps-android-wikipedia)
+- [x] [Official page](https://www.wikipedia.org/)
 
 ## Workout
 ### Feeel - home workouts
