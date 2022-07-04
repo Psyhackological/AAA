@@ -1318,6 +1318,14 @@ Currently being reworked as Neo Launcher, beta builds are available in the teleg
 - [x] [Github](https://github.com/jellyfin/jellyfin-android)
 - [x] [Official page](https://jellyfin.org/)
 
+### Findroid
+<img alt="Findroid" height="64" src="https://play-lh.googleusercontent.com/y0r6t9yI5rYK4WRiRoC3E2s408HFDorzCj288979Z82UPDzePBLdGTzipgg11GFy66vv=w240-h480-rw">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=dev.jdtech.jellyfin)
+- [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/dev.jdtech.jellyfin)
+- [x] [Github](https://github.com/jarnedemeulemeester/findroid)
+- [ ] Official page
+
 ## Stargazing
 ### Sky Map
 <img alt="SkyMap" height="64" src="https://f-droid.org/repo/com.google.android.stardroid/en-US/icon_viguh3xj7mYysCwo-kWNIl5Hv8iMQV81ma2soxFM8BY=.png">
