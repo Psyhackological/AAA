@@ -499,7 +499,7 @@ __AWESOME__ apps counter: __173__ 🎉
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.therealbluepandabear.pixapencil/)
 - [x] [GitHub](https://github.com/therealbluepandabear/PixaPencil)
-- [ ] Official page
+- [x] [Official page](https://pixapencil.github.io/)
 
 ## E-book Reader
 ### Librera Reader
