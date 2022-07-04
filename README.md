@@ -93,6 +93,7 @@ __AWESOME__ apps counter: __173__ 🎉
 - [Self Hosted](#self-hosted)
 - [Stargazing](#stargazing)
 - [Terminal Emulator](#terminal-emulator)
+- [Text Editor](#text-editor)
 - [To-Do List](#to-do-list)
 - [Torrenting](#torrenting)
 - [Trackers](#trackers)
@@ -1334,6 +1335,15 @@ Currently being reworked as Neo Launcher, beta builds are available in the teleg
 - [x] [F-Droid](https://f-droid.org/en/packages/com.termux/)
 - [x] [GitHub](https://github.com/termux/termux-app)
 - [x] [Official page](https://termux.org/)
+
+## Text Editor
+### Acode
+<img alt="Acode" height="64" src="https://raw.githubusercontent.com/deadlyjack/Acode/main/res/icon/android/ic_launcher-web.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)
+- [x] [F-Droid](https://f-droid.org/packages/com.foxdebug.acode/)
+- [x] [GitHub](https://github.com/deadlyjack/acode)
+- [x] [Official page](https://acode.foxdebug.com/)
 
 ## To-Do List
 ### Tasks️
