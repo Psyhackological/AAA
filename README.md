@@ -223,6 +223,14 @@ __AWESOME__ apps counter: __173__ 🎉
 - [x] [GitHub](https://github.com/jobobby04/TachiyomiSY)
 - [ ] Official page
 
+### Kotatsu
+<img alt="Kotatsu" height="64" src="https://kotatsuapp.github.io/img/icon4_retro.svg">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/org.koitharu.kotatsu/)
+- [x] [GitHub](https://github.com/KotatsuApp/Kotatsu)
+- [x] [Official page](https://kotatsuapp.github.io/)
+
 ## Android Customization
 ### Magisk️
 <img alt="Magisk️" height="64" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png">
