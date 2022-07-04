@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __173__ 🎉
+__AWESOME__ apps counter: __178__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -1032,7 +1032,7 @@ Currently being reworked as Neo Launcher, beta builds are available in the teleg
 - [x] [Official page](https://shabinder.github.io/SpotiFlyer/)
 
 ## Music Player
-### Metro
+### Metro ❤️
 <img alt="Metro" height="64" src="https://play-lh.googleusercontent.com/LsjjdQ5KSBnnztnMzRq8nTkmmCSINVE3BwSf4YG0Ps2ITGZQ-yV9pzbEAgkDXjx52140=s180">
 
 - [ ] Google Play
@@ -1157,7 +1157,7 @@ Currently being reworked as Neo Launcher, beta builds are available in the teleg
 - [x] [Official page](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/)
 
 ## Package Manager
-### App Manager
+### App Manager ❤️
 <img alt="AppManager" height="64" src="https://github.com/MuntashirAkon/AppManager/blob/master/docs/raw/images/icon.png">
 
 - [ ] Google Play
@@ -1174,7 +1174,7 @@ Currently being reworked as Neo Launcher, beta builds are available in the teleg
 - [x] [Official page](https://smartpack.github.io/)
 
 ## Password Manager
-### Bitwarden ❤
+### Bitwarden ❤️
 <img alt="Bitwarden" height="64" src="https://github.com/bitwarden/mobile/blob/master/store/google/icons/hi-res-icon.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
