@@ -325,6 +325,14 @@ __AWESOME__ apps counter: __173__ 🎉
 - [x] [GitLab](https://gitlab.com/divested-mobile/mull-fenix) 
 - [x] [Official page](https://divestos.org/index.php?page=our_apps#mull)
 
+### Brave
+<img alt="Brave" height="64" src="https://avatars.githubusercontent.com/u/12301619?s=200&v=4">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.brave.browser)
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/brave/brave-browser)
+- [x] [Official page](https://brave.com/)
+
 ## Calculator
 ### Calculator++ ❤️
 <img alt="Calculator++" height="64" src="https://github.com/Bubu/android-calculatorpp/blob/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png?raw=true">
