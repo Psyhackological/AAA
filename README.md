@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __174__ 🎉
+__AWESOME__ apps counter: __180__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -92,7 +92,9 @@ __AWESOME__ apps counter: __174__ 🎉
 - [SMS Messenger](#sms-messenger)
 - [Self Hosted](#self-hosted)
 - [Stargazing](#stargazing)
+- [Streaming](#streaming)
 - [Terminal Emulator](#terminal-emulator)
+- [Text Editor](#text-editor)
 - [To-Do List](#to-do-list)
 - [Torrenting](#torrenting)
 - [Trackers](#trackers)
@@ -102,6 +104,7 @@ __AWESOME__ apps counter: __174__ 🎉
 - [Video Player](#video-player)
 - [Voice Recorder](#voice-recorder)
 - [Weather](#weather)
+- [Wikipedia](#wikipedia)
 - [Workout](#workout)
 - [YouTube](#youtube)
 
@@ -223,6 +226,14 @@ __AWESOME__ apps counter: __174__ 🎉
 - [x] [GitHub](https://github.com/jobobby04/TachiyomiSY)
 - [ ] Official page
 
+### Kotatsu
+<img alt="Kotatsu" height="64" src="https://kotatsuapp.github.io/img/icon4_retro.svg">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/org.koitharu.kotatsu/)
+- [x] [GitHub](https://github.com/KotatsuApp/Kotatsu)
+- [x] [Official page](https://kotatsuapp.github.io/)
+
 ## Android Customization
 ### Magisk️
 <img alt="Magisk️" height="64" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Magisk_Logo.png">
@@ -316,6 +327,14 @@ __AWESOME__ apps counter: __174__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
 - [x] [GitLab](https://gitlab.com/divested-mobile/mull-fenix) 
 - [x] [Official page](https://divestos.org/index.php?page=our_apps#mull)
+
+### Brave
+<img alt="Brave" height="64" src="https://avatars.githubusercontent.com/u/12301619?s=200&v=4">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.brave.browser)
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/brave/brave-browser)
+- [x] [Official page](https://brave.com/)
 
 ## Calculator
 ### Calculator++ ❤️
@@ -1022,7 +1041,7 @@ Currently being reworked as Neo Launcher, beta builds are available in the teleg
 - [x] [Official page](https://shabinder.github.io/SpotiFlyer/)
 
 ## Music Player
-### Metro
+### Metro ❤️
 <img alt="Metro" height="64" src="https://play-lh.googleusercontent.com/LsjjdQ5KSBnnztnMzRq8nTkmmCSINVE3BwSf4YG0Ps2ITGZQ-yV9pzbEAgkDXjx52140=s180">
 
 - [ ] Google Play
@@ -1147,7 +1166,7 @@ Currently being reworked as Neo Launcher, beta builds are available in the teleg
 - [x] [Official page](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/)
 
 ## Package Manager
-### App Manager
+### App Manager ❤️
 <img alt="AppManager" height="64" src="https://github.com/MuntashirAkon/AppManager/blob/master/docs/raw/images/icon.png">
 
 - [ ] Google Play
@@ -1164,7 +1183,7 @@ Currently being reworked as Neo Launcher, beta builds are available in the teleg
 - [x] [Official page](https://smartpack.github.io/)
 
 ## Password Manager
-### Bitwarden ❤
+### Bitwarden ❤️
 <img alt="Bitwarden" height="64" src="https://github.com/bitwarden/mobile/blob/master/store/google/icons/hi-res-icon.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
@@ -1309,6 +1328,14 @@ Currently being reworked as Neo Launcher, beta builds are available in the teleg
 - [x] [Github](https://github.com/jellyfin/jellyfin-android)
 - [x] [Official page](https://jellyfin.org/)
 
+### Findroid
+<img alt="Findroid" height="64" src="https://play-lh.googleusercontent.com/y0r6t9yI5rYK4WRiRoC3E2s408HFDorzCj288979Z82UPDzePBLdGTzipgg11GFy66vv=w240-h480-rw">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=dev.jdtech.jellyfin)
+- [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/dev.jdtech.jellyfin)
+- [x] [Github](https://github.com/jarnedemeulemeester/findroid)
+- [ ] Official page
+
 ## Stargazing
 ### Sky Map
 <img alt="SkyMap" height="64" src="https://f-droid.org/repo/com.google.android.stardroid/en-US/icon_viguh3xj7mYysCwo-kWNIl5Hv8iMQV81ma2soxFM8BY=.png">
@@ -1318,6 +1345,15 @@ Currently being reworked as Neo Launcher, beta builds are available in the teleg
 - [x] [Github](https://github.com/sky-map-team/stardroid)
 - [ ] Official page
 
+## Streaming
+### CloudStream
+<img alt="CloudStream" height="64" src="https://github.com/LagradOst/CloudStream-3/blob/master/app/src/main/ic_launcher-playstore.png?raw=true">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3/)
+- [x] [Github](https://github.com/LagradOst/CloudStream-3)
+- [x] [Official page](https://lagradost.github.io/CloudStream-3/)
+
 ## Terminal Emulator
 ### Termux ❤️
 <img alt="Termux" height="64" src="https://github.com/termux/termux-app/blob/master/art/ic_launcher2.png?raw=true">
@@ -1326,6 +1362,15 @@ Currently being reworked as Neo Launcher, beta builds are available in the teleg
 - [x] [F-Droid](https://f-droid.org/en/packages/com.termux/)
 - [x] [GitHub](https://github.com/termux/termux-app)
 - [x] [Official page](https://termux.org/)
+
+## Text Editor
+### Acode
+<img alt="Acode" height="64" src="https://raw.githubusercontent.com/deadlyjack/Acode/main/res/icon/android/ic_launcher-web.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)
+- [x] [F-Droid](https://f-droid.org/packages/com.foxdebug.acode/)
+- [x] [GitHub](https://github.com/deadlyjack/acode)
+- [x] [Official page](https://acode.foxdebug.com/)
 
 ## To-Do List
 ### Tasks️
@@ -1519,6 +1564,15 @@ Currently being reworked as Neo Launcher, beta builds are available in the teleg
 - [x] [F-Droid](https://f-droid.org/en/packages/com.saladdressing.veterondo/)
 - [x] [GitHub](https://github.com/Antonis427/veterondo)
 - [ ] Official page
+
+## Wikipedia
+### Wikipedia
+<img alt="Wikipedia" height="64" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Wikipedia_mobile_app_logo.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.wikipedia)
+- [x] [F-Droid](https://f-droid.org/en/packages/org.wikipedia/)
+- [x] [Github](https://github.com/wikimedia/apps-android-wikipedia)
+- [x] [Official page](https://www.wikipedia.org/)
 
 ## Workout
 ### Feeel - home workouts
