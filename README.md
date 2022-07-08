@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __178__ 🎉
+__AWESOME__ apps counter: __179__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -590,10 +590,18 @@ __AWESOME__ apps counter: __178__ 🎉
 
 ### Droid-ify ❤️
 <img alt="Droid-ify" height="64" src="https://raw.githubusercontent.com/NeoApplications/Neo-Store/cfd917bab523f253394d7d9810b02a0e87b3b1c2/metadata/en-US/images/icon.png">
-Currently being reworked as Neo Store, beta builds are available in the telegram group.
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.looker.droidify)
+- [x] [GitHub](https://github.com/Iamlooker/Droid-ify)
+- [ ] Official page
+
+### Neo Store
+<img alt="NeoStore" height="64" src="https://raw.githubusercontent.com/NeoApplications/Neo-Store/master/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+
+Beta builds are available in the telegram group. 
+- [ ] Google Play
+- [ ] F-Droid
 - [x] [GitHub](https://github.com/NeoApplications/Neo-Store)
 - [x] [Telegram Group](https://t.me/neo_android_store)
 - [ ] Official page
