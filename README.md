@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __179__ 🎉
+__AWESOME__ apps counter: __180__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -92,6 +92,7 @@ __AWESOME__ apps counter: __179__ 🎉
 - [SMS Messenger](#sms-messenger)
 - [Self Hosted](#self-hosted)
 - [Stargazing](#stargazing)
+- [Streaming](#streaming)
 - [Terminal Emulator](#terminal-emulator)
 - [Text Editor](#text-editor)
 - [To-Do List](#to-do-list)
@@ -1343,6 +1344,15 @@ Currently being reworked as Neo Launcher, beta builds are available in the teleg
 - [x] [F-Droid](https://f-droid.org/en/packages/com.google.android.stardroid/)
 - [x] [Github](https://github.com/sky-map-team/stardroid)
 - [ ] Official page
+
+## Streaming
+### CouldStream
+<img alt="CouldStream" height="64" src="https://github.com/LagradOst/CloudStream-3/blob/master/app/src/main/ic_launcher-playstore.png?raw=true">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3/)
+- [x] [Github](https://github.com/LagradOst/CloudStream-3)
+- [x] [Official page](https://lagradost.github.io/CloudStream-3/)
 
 ## Terminal Emulator
 ### Termux ❤️
