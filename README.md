@@ -1346,8 +1346,8 @@ Currently being reworked as Neo Launcher, beta builds are available in the teleg
 - [ ] Official page
 
 ## Streaming
-### CouldStream
-<img alt="CouldStream" height="64" src="https://github.com/LagradOst/CloudStream-3/blob/master/app/src/main/ic_launcher-playstore.png?raw=true">
+### CloudStream
+<img alt="CloudStream" height="64" src="https://github.com/LagradOst/CloudStream-3/blob/master/app/src/main/ic_launcher-playstore.png?raw=true">
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3/)
