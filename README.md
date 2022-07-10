@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __181__ 🎉
+__AWESOME__ apps counter: __182__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -952,6 +952,14 @@ Beta builds are available in the telegram group.
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.jlindemann.science)
 - [x] [GitHub](https://github.com/JLindemann42/Atomic-Periodic-Table.Android/)
 - [x] [Official page](https://www.jlindemann.se/homepage/atomic)
+
+### Linux Command Library
+<img alt="LinuxCommandLibrary" height="64" src="https://github.com/SimonSchubert/LinuxCommandLibrary/blob/master/android/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcommandbibliotheca)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.inspiredandroid.linuxcommandbibliotheca)
+- [x] [GitHub](https://github.com/SimonSchubert/LinuxCommandLibrary)
+- [x] [Official page](https://linuxcommandlibrary.com/)
 
 ## Launcher
 ### Lawnchair
