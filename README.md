@@ -600,12 +600,10 @@ __AWESOME__ apps counter: __182__ 🎉
 
 ### Neo Store
 <img alt="NeoStore" height="64" src="https://raw.githubusercontent.com/NeoApplications/Neo-Store/master/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
-
-Beta builds are available in the telegram group. 
+ 
 - [ ] Google Play
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/NeoApplications/Neo-Store)
-- [x] [Telegram Group](https://t.me/neo_android_store)
 - [ ] Official page
 
 ## File Manager
@@ -970,15 +968,14 @@ Beta builds are available in the telegram group.
 - [x] [GitHub](https://github.com/LawnchairLauncher/lawnchair)
 - [x] [Official page](https://lawnchair.app/)
 
-### Omega Launcher
-<img alt="NeoLauncher" height="64" src="https://apt.izzysoft.de/fdroid/repo/com.saggitt.omega/en-US/icon.png">
+### Neo Launcher
+<img alt="NeoLauncher" height="64" src="https://github.com/NeoApplications/Neo-Launcher/raw/A-12/fastlane/metadata/android/en-US/images/icon.png">
 
-Currently being reworked as Neo Launcher, beta builds are available in the telegram group.
+Currently being reworked as Neo Launcher.
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.saggitt.omega)
 - [x] [GitHub](https://github.com/NeoApplications/Neo-Launcher)
-- [x] [Telegram Group](https://t.me/neo_launcher)
 - [ ] Official page
 
 ### KISS Launcher ❤️
