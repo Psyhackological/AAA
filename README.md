@@ -51,8 +51,8 @@ __AWESOME__ apps counter: __182__ 🎉
 - [Drawing](#drawing)
 - [E-book Reader](#e-book-reader)
 - [Egg Timer](#egg-timer)
-- [Emulation](#emulation)
 - [Email](#email)
+- [Emulation](#emulation)
 - [F-Droid](#f-droid)
 - [File Manager](#file-manager)
 - [File Synchronization](#file-synchronization)
@@ -547,15 +547,6 @@ __AWESOME__ apps counter: __182__ 🎉
 - [x] [GitHub](https://github.com/woheller69/eggtimer)
 - [ ] Official page
 
-## Emulation
-### Lemuroid
-<img alt="Lemuroid" height="64" src="https://github.com/Swordfish90/Lemuroid/blob/master/lemuroid-app/src/main/lemuroid_launcher-web.png?raw=true">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid)
-- [x] [F-Droid](https://f-droid.org/packages/com.swordfish.lemuroid/)
-- [x] [GitHub](https://github.com/Swordfish90/Lemuroid)
-- [ ] Official page
-
 ## Email
 ### FairEmail
 <img alt="FairEmail" height="64" src="https://raw.githubusercontent.com/M66B/FairEmail/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
@@ -572,6 +563,15 @@ __AWESOME__ apps counter: __182__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.fsck.k9/)
 - [x] [GitHub](https://github.com/thundernest/k-9)
 - [x] [Official page](https://k9mail.app/)
+
+## Emulation
+### Lemuroid
+<img alt="Lemuroid" height="64" src="https://github.com/Swordfish90/Lemuroid/blob/master/lemuroid-app/src/main/lemuroid_launcher-web.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid)
+- [x] [F-Droid](https://f-droid.org/packages/com.swordfish.lemuroid/)
+- [x] [GitHub](https://github.com/Swordfish90/Lemuroid)
+- [ ] Official page
 
 ## F-Droid
 ### F-Droid
