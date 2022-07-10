@@ -40,7 +40,6 @@ __AWESOME__ apps counter: __182__ 🎉
 - [Camera](#camera)
 - [Chess](#chess)
 - [Cleaner](#cleaner)
-- [Coffee Timer](#coffee-timer)
 - [Contacts](#contacts)
 - [Decision-Making](#decision-making)
 - [Device Synchronization](#device-synchronization)
@@ -50,7 +49,6 @@ __AWESOME__ apps counter: __182__ 🎉
 - [Download Manager](#download-manager)
 - [Drawing](#drawing)
 - [E-book Reader](#e-book-reader)
-- [Egg Timer](#egg-timer)
 - [Email](#email)
 - [Emulation](#emulation)
 - [F-Droid](#f-droid)
@@ -85,7 +83,6 @@ __AWESOME__ apps counter: __182__ 🎉
 - [Password Manager](#password-manager)
 - [PDF Viewer](#pdf-viewer)
 - [Podcast](#podcast)
-- [Pomodoro Timer](#pomodoro-timer)
 - [Public Transport Assistant](#public-transport-assistant)
 - [Reddit](#reddit)
 - [RNG](#rng)
@@ -96,6 +93,7 @@ __AWESOME__ apps counter: __182__ 🎉
 - [Streaming](#streaming)
 - [Terminal Emulator](#terminal-emulator)
 - [Text Editor](#text-editor)
+- [Timers](#Timers)
 - [To-Do List](#to-do-list)
 - [Torrenting](#torrenting)
 - [Trackers](#trackers)
@@ -415,15 +413,6 @@ __AWESOME__ apps counter: __182__ 🎉
 - [x] [GitHub](https://github.com/TheRedSpy15/LTECleanerFOSS)
 - [ ] Official page
 
-## Coffee Timer
-### Cofi
-<img alt="Cofi" height="64" src="https://github.com/rozPierog/Cofi/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.omelan.cofi)
-- [x] [F-Droid](https://www.f-droid.org/en/packages/com.omelan.cofi/)
-- [x] [GitHub](https://github.com/rozPierog/Cofi)
-- [x] [Official page](https://rozpierog.github.io/Cofi/)
-
 ## Contacts
 ### Simple Contacts ❤️
 <img alt="SimpleContacts" height="64" src="https://github.com/SimpleMobileTools/Simple-Contacts/raw/master/fastlane/metadata/android/en-US/images/icon.png">
@@ -537,15 +526,6 @@ __AWESOME__ apps counter: __182__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/org.koreader.launcher.fdroid/)
 - [x] [GitHub](https://github.com/koreader/koreader)
 - [x] [Official page](https://koreader.rocks/)
-
-## Egg Timer
-### Smart EggTimer
-<img alt="SmartEggTimer" height="64" src="https://github.com/woheller69/eggtimer/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/org.woheller69.eggtimer/)
-- [x] [GitHub](https://github.com/woheller69/eggtimer)
-- [ ] Official page
 
 ## Email
 ### FairEmail
@@ -1257,15 +1237,6 @@ Currently being reworked as Neo Launcher.
 - [x] [Github](https://github.com/AntennaPod/AntennaPod)
 - [x] [Official page](https://antennapod.org/)
 
-## Pomodoro Timer
-### Goodtime ❤️
-<img alt="Goodtime" height="64" src="https://github.com/adrcotfas/Goodtime/blob/master/app/src/main/ic_launcher-web.png?raw=true">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.apps.adrcotfas.goodtime)
-- [x] [F-Droid](https://f-droid.org/packages/com.apps.adrcotfas.goodtime)
-- [x] [GitHub](https://github.com/adrcotfas/Goodtime)
-- [ ] Official page
-
 ## Reddit
 ### Infinity ❤️
 <img alt="Infinity" height="64" src="https://github.com/Docile-Alligator/Infinity-For-Reddit/blob/master/app/src/main/res/drawable-xxxhdpi/splash_icon.png?raw=true">
@@ -1386,6 +1357,31 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/packages/com.foxdebug.acode/)
 - [x] [GitHub](https://github.com/deadlyjack/acode)
 - [x] [Official page](https://acode.foxdebug.com/)
+
+## Timers
+### Goodtime ❤️
+<img alt="Goodtime" height="64" src="https://github.com/adrcotfas/Goodtime/blob/master/app/src/main/ic_launcher-web.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.apps.adrcotfas.goodtime)
+- [x] [F-Droid](https://f-droid.org/packages/com.apps.adrcotfas.goodtime)
+- [x] [GitHub](https://github.com/adrcotfas/Goodtime)
+- [ ] Official page
+
+### Cofi
+<img alt="Cofi" height="64" src="https://github.com/rozPierog/Cofi/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.omelan.cofi)
+- [x] [F-Droid](https://www.f-droid.org/en/packages/com.omelan.cofi/)
+- [x] [GitHub](https://github.com/rozPierog/Cofi)
+- [x] [Official page](https://rozpierog.github.io/Cofi/)
+
+### Smart EggTimer
+<img alt="SmartEggTimer" height="64" src="https://github.com/woheller69/eggtimer/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/org.woheller69.eggtimer/)
+- [x] [GitHub](https://github.com/woheller69/eggtimer)
+- [ ] Official page
 
 ## To-Do List
 ### Tasks️
