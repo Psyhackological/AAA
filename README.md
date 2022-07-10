@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __182__ 🎉
+__AWESOME__ apps counter: __183__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -1359,7 +1359,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Official page](https://acode.foxdebug.com/)
 
 ## Timers
-### Goodtime ❤️
+### Goodtime ❤️ — Pomodoro Timer
 <img alt="Goodtime" height="64" src="https://github.com/adrcotfas/Goodtime/blob/master/app/src/main/ic_launcher-web.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.apps.adrcotfas.goodtime)
@@ -1367,7 +1367,7 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/adrcotfas/Goodtime)
 - [ ] Official page
 
-### Cofi
+### Cofi — Coffee Timer
 <img alt="Cofi" height="64" src="https://github.com/rozPierog/Cofi/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.omelan.cofi)
@@ -1382,6 +1382,14 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/en/packages/org.woheller69.eggtimer/)
 - [x] [GitHub](https://github.com/woheller69/eggtimer)
 - [ ] Official page
+
+### Cuppa — Tea Timer
+<img alt="Cuppa" height="64" src="https://www.nathanatos.com/software/images/Cuppa_hires_default.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.nathanatos.Cuppa)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.nathanatos.Cuppa/)
+- [x] [GitHub](https://github.com/ncosgray/cuppa_mobile)
+- [x] [Official page](https://www.nathanatos.com/)
 
 ## To-Do List
 ### Tasks️
