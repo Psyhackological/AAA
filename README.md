@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __180__ 🎉
+__AWESOME__ apps counter: __181__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -69,6 +69,7 @@ __AWESOME__ apps counter: __180__ 🎉
 - [Image Processing](#image-processing)
 - [Instant Messaging](#instant-messaging)
 - [Keyboard](#keyboard)
+- [Knowledge](#knowledge)
 - [Launcher](#launcher)
 - [Loyalty Card](#loyalty-card)
 - [Maps](#maps)
@@ -942,6 +943,15 @@ Beta builds are available in the telegram group.
 - [x] [F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard)
 - [x] [GitHub](https://github.com/florisboard/florisboard)
 - [ ] Official page
+
+## Knowledge
+### Atomic — Periodic Table
+<img alt="Atomic" height="64" src="https://github.com/JLindemann42/Atomic-Periodic-Table.Android/blob/master/app/src/main/ic_launcher-web.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.jlindemann.science)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.jlindemann.science)
+- [x] [GitHub](https://github.com/JLindemann42/Atomic-Periodic-Table.Android/)
+- [x] [Official page](https://www.jlindemann.se/homepage/atomic)
 
 ## Launcher
 ### Lawnchair
