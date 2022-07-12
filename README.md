@@ -209,6 +209,15 @@ __AWESOME__ apps counter: __183__ 🎉
 - [x] [GitHub](https://github.com/jmir1/aniyomi)
 - [x] [Official page](https://aniyomi.jmir.xyz/)
 
+### Saikou
+<img alt="Saikou" height="64" src="https://raw.githubusercontent.com/saikou-app/saikou/main/app/src/main/ic_launcher-playstore.png">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/saikou-app/saikou)
+- [x] [Official page](https://saikou-app.github.io/)
+
+
 ### Tachiyomi️
 <img alt="Tachiyomi️" height="64" src="https://github.com/tachiyomiorg/tachiyomi/blob/master/app/src/main/ic_launcher-web.png?raw=true">
 
