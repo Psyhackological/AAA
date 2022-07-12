@@ -544,6 +544,14 @@ __AWESOME__ apps counter: __183__ 🎉
 - [x] [GitHub](https://github.com/thundernest/k-9)
 - [x] [Official page](https://k9mail.app/)
 
+### SimpleLogin
+<img alt="SimpleLogin" height="64" src="https://raw.githubusercontent.com/simple-login/Simple-Login-Android/master/SimpleLogin/app/src/main/ic_launcher-playstore.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=io.simplelogin.android)
+- [x] [F-Droid](hhttps://f-droid.org/en/packages/io.simplelogin.android.fdroid/)
+- [x] [GitHub](https://github.com/simple-login/Simple-Login-Android)
+- [x] [Official page](https://simplelogin.io/)
+
 ## Emulation
 ### Lemuroid
 <img alt="Lemuroid" height="64" src="https://github.com/Swordfish90/Lemuroid/blob/master/lemuroid-app/src/main/lemuroid_launcher-web.png?raw=true">
