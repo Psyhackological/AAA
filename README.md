@@ -1593,6 +1593,14 @@ Currently being reworked as Neo Launcher.
 - [x] [Github](https://github.com/wikimedia/apps-android-wikipedia)
 - [x] [Official page](https://www.wikipedia.org/)
 
+### Kiwix
+<img alt="Kiwix" height="64" src="https://raw.githubusercontent.com/kiwix/kiwix-android/develop/app/src/main/kiwix_icon-web.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.kiwix.kiwixmobile)
+- [x] [F-Droid](https://f-droid.org/packages/org.kiwix.kiwixmobile/)
+- [x] [Github](https://github.com/kiwix/kiwix-android)
+- [x] [Official page](https://www.kiwix.org)
+
 ## Workout
 ### Feeel - home workouts
 <img alt="Feeel" height="64" src="https://gitlab.com/enjoyingfoss/feeel/-/raw/master/fastlane/metadata/android/en-US/images/icon.png">
