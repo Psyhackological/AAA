@@ -87,8 +87,9 @@ __AWESOME__ apps counter: __184__ 🎉
 - [Reddit](#reddit)
 - [RNG](#rng)
 - [RSS Reader](#rss-reader)
-- [SMS Messenger](#sms-messenger)
 - [Self Hosted](#self-hosted)
+- [SMS Messenger](#sms-messenger)
+- [Spotify](#spotify)
 - [Stargazing](#stargazing)
 - [Streaming](#streaming)
 - [Terminal Emulator](#terminal-emulator)
@@ -1288,6 +1289,23 @@ Currently being reworked as Neo Launcher.
 - [x] [GitLab](https://gitlab.com/ondrejfoltyn/nunti)
 - [ ] Official page
 
+## Self Hosted
+### Jellyfin
+<img alt="Jellyfin" height="64" src="https://f-droid.org/repo/org.jellyfin.mobile/en-US/icon_Y46m-eV538ASL9vG0piH5BI4dC1PHilt0tKyKCVp_F0=.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
+- [x] [F-Droid](https://f-droid.org/packages/org.jellyfin.mobile/)
+- [x] [Github](https://github.com/jellyfin/jellyfin-android)
+- [x] [Official page](https://jellyfin.org/)
+
+### Findroid
+<img alt="Findroid" height="64" src="https://play-lh.googleusercontent.com/y0r6t9yI5rYK4WRiRoC3E2s408HFDorzCj288979Z82UPDzePBLdGTzipgg11GFy66vv=w240-h480-rw">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=dev.jdtech.jellyfin)
+- [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/dev.jdtech.jellyfin)
+- [x] [Github](https://github.com/jarnedemeulemeester/findroid)
+- [ ] Official page
+
 ## SMS Messenger
 ### Simple SMS Messenger ❤️
 <img alt="SimpleSMSMessenger" height="64" src="https://github.com/SimpleMobileTools/Simple-SMS-Messenger/raw/master/fastlane/metadata/android/en-US/images/icon.png">
@@ -1305,21 +1323,13 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/moezbhatti/qksms)
 - [ ] Official page
 
-## Self Hosted
-### Jellyfin
-<img alt="Jellyfin" height="64" src="https://f-droid.org/repo/org.jellyfin.mobile/en-US/icon_Y46m-eV538ASL9vG0piH5BI4dC1PHilt0tKyKCVp_F0=.png">
+## Spotify
+### Blade Player ❤️
+<img alt="Blade Player" height="64" src="https://github.com/vhaudiquet/BladePlayer/blob/master/app/src/main/ic_launcher-playstore.png">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
-- [x] [F-Droid](https://f-droid.org/packages/org.jellyfin.mobile/)
-- [x] [Github](https://github.com/jellyfin/jellyfin-android)
-- [x] [Official page](https://jellyfin.org/)
-
-### Findroid
-<img alt="Findroid" height="64" src="https://play-lh.googleusercontent.com/y0r6t9yI5rYK4WRiRoC3E2s408HFDorzCj288979Z82UPDzePBLdGTzipgg11GFy66vv=w240-h480-rw">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=dev.jdtech.jellyfin)
-- [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/dev.jdtech.jellyfin)
-- [x] [Github](https://github.com/jarnedemeulemeester/findroid)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=v.blade)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/v.blade)
+- [x] [GitHub](https://github.com/vhaudiquet/BladePlayer)
 - [ ] Official page
 
 ## Stargazing
