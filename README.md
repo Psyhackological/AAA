@@ -97,6 +97,7 @@ __AWESOME__ apps counter: __183__ 🎉
 - [To-Do List](#to-do-list)
 - [Torrenting](#torrenting)
 - [Trackers](#trackers)
+- [Translator](#translator)
 - [Twitch](#twitch)
 - [Twitter](#twitter)
 - [Unit Converter](#unit-converter)
@@ -1465,6 +1466,23 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/packages/rocks.poopjournal.vacationdays/)
 - [x] [Github](https://github.com/Crazy-Marvin/VacationDays)
 - [x] [Official page](https://crazymarvin.com/vacation-days/)
+
+## Translator
+### SimplyTranslate Mobile ❤️
+<img alt="SimplyTranslate Mobile" height="64" src="https://github.com/ManeraKai/simplytranslate_mobile/raw/main/fastlane/metadata/android/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile/)
+- [x] [GitHub](https://github.com/ManeraKai/simplytranslate_mobile)
+- [x] [Official page](https://simplytranslate.org/)
+
+### Arna Translate
+<img alt="SimplyTranslate Mobile" height="64" src="https://user-images.githubusercontent.com/16052180/171461601-8b58706b-12d4-4131-97ad-1580fd5ba580.png">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.arna.translate)
+- [x] [GitHub](https://github.com/MahanRahmati/translate)
+- [x] [Official page](https://lingva.ml/)
 
 ## Twitch
 ### Twire
