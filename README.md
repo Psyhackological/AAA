@@ -1483,7 +1483,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile/)
 - [x] [GitHub](https://github.com/ManeraKai/simplytranslate_mobile)
-- [x] [Official page](https://manerakai.github.io/simplytrans/index.html)
+- [x] [Official page](https://manerakai.github.io/simplytranslate_mobile/index.html)
 
 ## Twitch
 ### Twire
