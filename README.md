@@ -1475,7 +1475,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.arna.translate)
 - [x] [GitHub](https://github.com/MahanRahmati/translate)
-- [x] [Official page](https://lingva.ml/)
+- [ ] Official page
 
 ### SimplyTranslate Mobile ❤️
 <img alt="SimplyTranslate Mobile" height="64" src="https://github.com/ManeraKai/simplytranslate_mobile/raw/main/fastlane/metadata/android/en-US/images/icon.png">
@@ -1483,7 +1483,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile/)
 - [x] [GitHub](https://github.com/ManeraKai/simplytranslate_mobile)
-- [x] [Official page](https://simplytranslate.org/)
+- [x] [Official page](https://manerakai.github.io/simplytrans/index.html)
 
 ## Twitch
 ### Twire
