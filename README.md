@@ -1474,7 +1474,7 @@ Currently being reworked as Neo Launcher.
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.arna.translate)
-- [x] [GitHub](https://github.com/MahanRahmati/translate)
+- [x] [GitHub](https://manerakai.github.io/simplytrans/index.html)
 - [ ] Official page
 
 ### SimplyTranslate Mobile ❤️
