@@ -5,6 +5,8 @@ This is the list of **THE BEST FOSS apps** according to me. You can prove me wro
 > `App Name ❤️` ⇾ Someone's Personal Favourite
 >
 > [Why does it exist?](WHY.md)
+>
+> Please use `Home` button to go to the top.
 
 ### Rules:
 - [x] Open Sourced
@@ -24,7 +26,6 @@ This is the list of **THE BEST FOSS apps** according to me. You can prove me wro
 
 
 
-## Please use `Home` button to go to the top.
 
 __AWESOME__ apps counter: __187__ 🎉
 
