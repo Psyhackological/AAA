@@ -554,6 +554,7 @@ __AWESOME__ apps counter: __187__ 🎉
 - [x] [Official page](https://k9mail.app/)
 
 ### SimpleLogin
+> Aliases management
 <img alt="SimpleLogin" height="64" src="https://raw.githubusercontent.com/simple-login/Simple-Login-Android/master/SimpleLogin/app/src/main/ic_launcher-playstore.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=io.simplelogin.android)
