@@ -1,6 +1,10 @@
 <img src="img/AAA_long_plain.svg" width="75%" alt="AwesomeAndroidAlternatives">
 
-## This is the list of THE BEST apps according to me. You can prove me wrong on the [contributing page](CONTRIBUTING.md).
+## Introduction
+This is the list of **THE BEST FOSS apps** according to me. You can prove me wrong on the [contributing page](CONTRIBUTING.md).
+> `App Name ❤️` ⇾ Someone's Personal Favourite
+>
+> [Why does it exist?](WHY.md)
 
 ### Rules:
 - [x] Open Sourced
@@ -15,11 +19,10 @@
 - [x] Does not need an account (the only exception is [Self-hosted](#self-hosted))
 - [x] Has dark theme
 
-### App Name ❤️ = Someone's Personal Favourite
+>
+> [More detailed explanation here.](RULES.md)
 
-[More detailed explanation here.](RULES.md)
 
-[Why does it exist?](WHY.md)
 
 ## Please use `Home` button to go to the top.
 
