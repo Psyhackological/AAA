@@ -1553,7 +1553,7 @@ Currently being reworked as Neo Launcher.
 
 ## Voice Recorder
 ### Simple Voice Recorder ❤️
-<img alt="SimpleVoiceRecorder" height="64" src="https://github.com/SimpleMobileTools/Simple-Voice-Recorder/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="SimpleVoiceRecorder" height="64" src="https://raw.githubusercontent.com/SimpleMobileTools/Simple-Voice-Recorder/master/graphics/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.voicerecorder)
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.voicerecorder/)
