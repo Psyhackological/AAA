@@ -23,7 +23,7 @@
 
 ## Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __183__ 🎉
+__AWESOME__ apps counter: __187__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -208,6 +208,15 @@ __AWESOME__ apps counter: __183__ 🎉
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/jmir1/aniyomi)
 - [x] [Official page](https://aniyomi.jmir.xyz/)
+
+### Saikou
+<img alt="Saikou" height="64" src="https://raw.githubusercontent.com/saikou-app/saikou/main/app/src/main/ic_launcher-playstore.png">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/saikou-app/saikou)
+- [x] [Official page](https://saikou-app.github.io/)
+
 
 ### Tachiyomi️
 <img alt="Tachiyomi️" height="64" src="https://github.com/tachiyomiorg/tachiyomi/blob/master/app/src/main/ic_launcher-web.png?raw=true">
@@ -543,6 +552,15 @@ __AWESOME__ apps counter: __183__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.fsck.k9/)
 - [x] [GitHub](https://github.com/thundernest/k-9)
 - [x] [Official page](https://k9mail.app/)
+
+### SimpleLogin
+> Aliases management
+<img alt="SimpleLogin" height="64" src="https://raw.githubusercontent.com/simple-login/Simple-Login-Android/master/SimpleLogin/app/src/main/ic_launcher-playstore.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=io.simplelogin.android)
+- [x] [F-Droid](https://f-droid.org/en/packages/io.simplelogin.android.fdroid/)
+- [x] [GitHub](https://github.com/simple-login/Simple-Login-Android)
+- [x] [Official page](https://simplelogin.io/)
 
 ## Emulation
 ### Lemuroid
@@ -1142,6 +1160,14 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/kigya/NotedgeApp)
 - [x] [Official page](https://notedge.netlify.app)
 
+### Joplin
+<img alt="Joplin" height="64" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=net.cozic.joplin)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/net.cozic.joplin)
+- [x] [GitHub](https://github.com/laurent22/joplin/)
+- [x] [Official page](https://joplinapp.org/)
+
 ## OCR
 ### OCR (Tesseract) 
 <img alt="OCR(Tesseract)" height="64" src="https://github.com/mtotschnig/OCR/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_scan.png?raw=true">
@@ -1528,7 +1554,7 @@ Currently being reworked as Neo Launcher.
 
 ## Voice Recorder
 ### Simple Voice Recorder ❤️
-<img alt="SimpleVoiceRecorder" height="64" src="https://github.com/SimpleMobileTools/Simple-Voice-Recorder/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="SimpleVoiceRecorder" height="64" src="https://raw.githubusercontent.com/SimpleMobileTools/Simple-Voice-Recorder/master/graphics/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.voicerecorder)
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.voicerecorder/)
@@ -1592,6 +1618,14 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/en/packages/org.wikipedia/)
 - [x] [Github](https://github.com/wikimedia/apps-android-wikipedia)
 - [x] [Official page](https://www.wikipedia.org/)
+
+### Kiwix
+<img alt="Kiwix" height="64" src="https://raw.githubusercontent.com/kiwix/kiwix-android/develop/app/src/main/kiwix_icon-web.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.kiwix.kiwixmobile)
+- [x] [F-Droid](https://f-droid.org/packages/org.kiwix.kiwixmobile/)
+- [x] [Github](https://github.com/kiwix/kiwix-android)
+- [x] [Official page](https://www.kiwix.org)
 
 ## Workout
 ### Feeel - home workouts
