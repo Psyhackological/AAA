@@ -1,7 +1,17 @@
-<img src="img/AAA_long_plain.svg" width="75%" alt="AwesomeAndroidAlternatives">
+<p align="center">
+<img src="img/AAA_long_plain.svg" width="45%" alt="AwesomeAndroidAlternatives"/>
+</p>
 
-## This is the list of THE BEST apps according to me. You can prove me wrong on the [contributing page](CONTRIBUTING.md).
+## Introduction 
+This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyhackological/AAA/graphs/contributors).You can prove us wrong on the [contributing page](CONTRIBUTING.md).
+>
+>App Name ❤️ = Someone's Personal Favourite
+>
+>[Why does it exist?](WHY.md)
+>
+>Please use `Home` button to go to the top.
 
+__AWESOME__ apps counter: __187__ 🎉
 ### Rules:
 - [x] Open Sourced
 - [x] Free of charge (on [F-Droid](#f-droid) and source code repository releases)
@@ -14,16 +24,8 @@
 - [x] Does not lack features compared to proprietary app
 - [x] Does not need an account (the only exception is [Self-hosted](#self-hosted))
 - [x] Has dark theme
-
-### App Name ❤️ = Someone's Personal Favourite
-
-[More detailed explanation here.](RULES.md)
-
-[Why does it exist?](WHY.md)
-
-## Please use `Home` button to go to the top.
-
-__AWESOME__ apps counter: __187__ 🎉
+>
+>[More detailed explanation here.](RULES.md)
 
 ### Contents:
 - [2FA](#2fa)
