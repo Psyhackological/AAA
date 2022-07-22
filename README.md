@@ -199,7 +199,7 @@ __AWESOME__ apps counter: __187__ 🎉
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.best.deskclock/)
-- [x] [GitHub](https://github.com/qw123wh/new-clock-fdroid)
+- [x] [GitHub](https://github.com/qw123wh/new-clock)
 - [ ] Official page
 
 ## Anime & Manga
