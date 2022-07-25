@@ -99,6 +99,7 @@ __AWESOME__ apps counter: __187__ 🎉
 - [To-Do List](#to-do-list)
 - [Torrenting](#torrenting)
 - [Trackers](#trackers)
+- [Translator](#translator)
 - [Twitch](#twitch)
 - [Twitter](#twitter)
 - [Unit Converter](#unit-converter)
@@ -1519,6 +1520,15 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/packages/rocks.poopjournal.vacationdays/)
 - [x] [Github](https://github.com/Crazy-Marvin/VacationDays)
 - [x] [Official page](https://crazymarvin.com/vacation-days/)
+
+## Translator
+### DeepL
+<img alt="DeepL" height="64" src="https://raw.githubusercontent.com/sakusaku3939/DeepLAndroid/master/app/src/main/ic_launcher-playstore.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.example.deeplviewer/)
+- [x] [GitHub](https://github.com/sakusaku3939/DeepLAndroid)
+- [ ] Official page
 
 ## Twitch
 ### Twire
