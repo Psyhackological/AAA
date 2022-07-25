@@ -9,7 +9,6 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >Please use `Home` button to go to the top.
 
-__AWESOME__ apps counter: __187__ 🎉
 ### Rules:
 - [x] Open Sourced
 - [x] Free of charge (on [F-Droid](#f-droid) and source code repository releases)
@@ -25,6 +24,7 @@ __AWESOME__ apps counter: __187__ 🎉
 >
 >[More detailed explanation here.](RULES.md)
 
+__AWESOME__ apps counter: __187__ 🎉
 ### Contents:
 - [2FA](#2fa)
 - [Ad Blocking](#ad-blocking)
