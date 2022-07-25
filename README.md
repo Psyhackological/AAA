@@ -91,6 +91,7 @@ __AWESOME__ apps counter: __187__ 🎉
 - [Self Hosted](#self-hosted)
 - [Stargazing](#stargazing)
 - [Streaming](#streaming)
+- [Survival](#survival)
 - [Terminal Emulator](#terminal-emulator)
 - [Text Editor](#text-editor)
 - [Timers](#Timers)
@@ -1373,6 +1374,15 @@ Currently being reworked as Neo Launcher.
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3/)
 - [x] [Github](https://github.com/LagradOst/CloudStream-3)
 - [x] [Official page](https://lagradost.github.io/CloudStream-3/)
+
+## Survival
+### Trail Sense
+<img alt="Trail Sense" height="64" src="https://raw.githubusercontent.com/kylecorry31/Trail-Sense/main/app/src/main/ic_launcher-web.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.kylecorry.trail_sense)
+- [x] [Fdroid](https://f-droid.org/en/packages/com.kylecorry.trail_sense/)
+- [x] [Github](https://github.com/kylecorry31/Trail-Sense)
+- [x] [Official page](https://kylecorry.com/Trail-Sense/)
 
 ## Terminal Emulator
 ### Termux ❤️
