@@ -68,6 +68,7 @@ __AWESOME__ apps counter: __187__ 🎉
 - [Instant Messaging](#instant-messaging)
 - [Keyboard](#keyboard)
 - [Knowledge](#knowledge)
+- [Language](#language)
 - [Launcher](#launcher)
 - [Loyalty Card](#loyalty-card)
 - [Maps](#maps)
@@ -965,6 +966,15 @@ __AWESOME__ apps counter: __187__ 🎉
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.inspiredandroid.linuxcommandbibliotheca)
 - [x] [GitHub](https://github.com/SimonSchubert/LinuxCommandLibrary)
 - [x] [Official page](https://linuxcommandlibrary.com/)
+
+## Language
+### Kakugo
+<img alt="Kakugo" height="64" src="https://raw.githubusercontent.com/blastrock/kakugo/master/app/src/main/ic_launcher-web.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.kaqui)
+- [x] [F-Droid](https://f-droid.org/packages/org.kaqui/)
+- [x] [GitHub](https://github.com/blastrock/kakugo)
+- [ ] Official page
 
 ## Launcher
 ### Lawnchair
