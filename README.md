@@ -1,6 +1,4 @@
-<p align="center">
 <img src="img/AAA_long_plain.svg" width="45%" alt="AwesomeAndroidAlternatives"/>
-</p>
 
 ## Introduction 
 This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyhackological/AAA/graphs/contributors).You can prove us wrong on the [contributing page](CONTRIBUTING.md).
