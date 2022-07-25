@@ -857,6 +857,14 @@ __AWESOME__ apps counter: __187__ 🎉
 - [x] [GitLab](https://gitlab.com/xphnx/ameixa)
 - [x] [Official page](https://xphnx.gitlab.io/ameixa)
 
+### Delta
+<img alt="Delta" height="64" src="https://raw.githubusercontent.com/Delta-Icons/android/master/app/src/main/ic_launcher-playstore.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=website.leifs.delta)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/website.leifs.delta)
+- [x] [Github](https://github.com/Delta-Icons/android)
+- [x] [Official page](https://delta-icons.github.io/)
+
 ## Image Processing
 ### Imagepipe
 <img alt="Imagepipe" height="64" src="https://codeberg.org/repo-avatars/230-a47fb71f565ec2388d5e78c561a5262d">
