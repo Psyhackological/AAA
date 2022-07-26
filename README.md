@@ -91,6 +91,7 @@ __AWESOME__ apps counter: __191__ 🎉
 - [RSS Reader](#rss-reader)
 - [SMS Messenger](#sms-messenger)
 - [Self Hosted](#self-hosted)
+- [Spotify](#spotify)
 - [Stargazing](#stargazing)
 - [Streaming](#streaming)
 - [Survival](#survival)
@@ -1368,6 +1369,15 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=dev.jdtech.jellyfin)
 - [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/dev.jdtech.jellyfin)
 - [x] [Github](https://github.com/jarnedemeulemeester/findroid)
+- [ ] Official page
+
+## Spotify
+### Blade Player ❤️
+<img alt="Blade Player" height="64" src="https://github.com/vhaudiquet/BladePlayer/blob/master/app/src/main/ic_launcher-playstore.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=v.blade)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/v.blade)
+- [x] [GitHub](https://github.com/vhaudiquet/BladePlayer)
 - [ ] Official page
 
 ## Stargazing
