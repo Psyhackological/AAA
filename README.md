@@ -1,4 +1,4 @@
-<img src="img/AAA_long_plain.svg" width="45%" alt="AwesomeAndroidAlternatives"/>
+<img src="img/AAA_long_plain.svg" width="60%" alt="AwesomeAndroidAlternatives"/>
 
 ## Introduction 
 This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyhackological/AAA/graphs/contributors).You can prove us wrong on the [contributing page](CONTRIBUTING.md).
@@ -24,7 +24,8 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __187__ 🎉
+__AWESOME__ apps counter: __191__ 🎉
+
 ### Contents:
 - [2FA](#2fa)
 - [Ad Blocking](#ad-blocking)
@@ -198,8 +199,9 @@ __AWESOME__ apps counter: __187__ 🎉
 ### Clock ❤️
 <img alt="Clock" height="64" src="https://f-droid.org/repo/com.best.deskclock/en-US/icon_F1H61d_ntO34pu9V6nsk3Zt36toTD9y6m2yo3YYnzfE=.png">
 
+F-Droid version is outdated compared to GitHub's.
 - [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/com.best.deskclock/)
+- [x] ~~[F-Droid](https://f-droid.org/packages/com.best.deskclock/)~~
 - [x] [GitHub](https://github.com/qw123wh/new-clock)
 - [ ] Official page
 
