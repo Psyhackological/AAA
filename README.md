@@ -1388,6 +1388,14 @@ Currently being reworked as Neo Launcher.
 - [x] [Github](https://github.com/LagradOst/CloudStream-3)
 - [x] [Official page](https://lagradost.github.io/CloudStream-3/)
 
+### Burning-Series
+<img alt="Burning-Series" height="64" src="https://f-droid.org/repo/de.datlag.burningseries/en-US/icon_mn8-Wrvht9_iyE6QETjT1TkUaCtOThW2m8OQQfuJzfI=.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/de.datlag.burningseries/)
+- [x] [Github](https://github.com/DATL4G/BurningSeries-Android/)
+- [ ] Official page
+
 ## Survival
 ### Trail Sense
 <img alt="Trail Sense" height="64" src="https://raw.githubusercontent.com/kylecorry31/Trail-Sense/main/app/src/main/ic_launcher-web.png">
