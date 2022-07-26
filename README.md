@@ -1532,6 +1532,14 @@ Currently being reworked as Neo Launcher.
 - [x] [Official page](https://crazymarvin.com/vacation-days/)
 
 ## Translator
+### Arna Translate
+<img alt="SimplyTranslate Mobile" height="64" src="https://user-images.githubusercontent.com/16052180/171461601-8b58706b-12d4-4131-97ad-1580fd5ba580.png">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.arna.translate)
+- [x] [GitHub](https://manerakai.github.io/simplytranslate_mobile/index.html)
+- [ ] Official page
+
 ### DeepL
 <img alt="DeepL" height="64" src="https://raw.githubusercontent.com/sakusaku3939/DeepLAndroid/master/app/src/main/ic_launcher-playstore.png">
 
