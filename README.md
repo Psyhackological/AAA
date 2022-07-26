@@ -1553,7 +1553,7 @@ Currently being reworked as Neo Launcher.
 <img alt="Xtra" height="64" src="https://github.com/AndreyAsadchy/Xtra/raw/197ba90cac879abd2a5645393ce361847f12fa0b/app/src/main/ic_launcher-web.png">
 
 - [ ] Google Play
-- [ ] F-Droid
+- [x] [F-Droid](https://f-droid.org/en/packages/com.github.andreyasadchy.xtra/)
 - [x] [GitHub](https://github.com/crackededed/Xtra)
 - [ ] Official page
 
