@@ -1,6 +1,13 @@
-<img src="img/AAA_long_plain.svg" width="75%" alt="AwesomeAndroidAlternatives">
+<img src="img/AAA_long_plain.svg" width="45%" alt="AwesomeAndroidAlternatives"/>
 
-## This is the list of THE BEST apps according to me. You can prove me wrong on the [contributing page](CONTRIBUTING.md).
+## Introduction 
+This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyhackological/AAA/graphs/contributors).You can prove us wrong on the [contributing page](CONTRIBUTING.md).
+>
+>App Name ❤️ = Someone's Personal Favourite
+>
+>[Why does it exist?](WHY.md)
+>
+>Please use `Home` button to go to the top.
 
 ### Rules:
 - [x] Open Sourced
@@ -14,17 +21,10 @@
 - [x] Does not lack features compared to proprietary app
 - [x] Does not need an account (the only exception is [Self-hosted](#self-hosted))
 - [x] Has dark theme
-
-### App Name ❤️ = Someone's Personal Favourite
-
-[More detailed explanation here.](RULES.md)
-
-[Why does it exist?](WHY.md)
-
-## Please use `Home` button to go to the top.
+>
+>[More detailed explanation here.](RULES.md)
 
 __AWESOME__ apps counter: __187__ 🎉
-
 ### Contents:
 - [2FA](#2fa)
 - [Ad Blocking](#ad-blocking)
@@ -68,6 +68,7 @@ __AWESOME__ apps counter: __187__ 🎉
 - [Instant Messaging](#instant-messaging)
 - [Keyboard](#keyboard)
 - [Knowledge](#knowledge)
+- [Language](#language)
 - [Launcher](#launcher)
 - [Loyalty Card](#loyalty-card)
 - [Maps](#maps)
@@ -91,12 +92,14 @@ __AWESOME__ apps counter: __187__ 🎉
 - [Self Hosted](#self-hosted)
 - [Stargazing](#stargazing)
 - [Streaming](#streaming)
+- [Survival](#survival)
 - [Terminal Emulator](#terminal-emulator)
 - [Text Editor](#text-editor)
 - [Timers](#Timers)
 - [To-Do List](#to-do-list)
 - [Torrenting](#torrenting)
 - [Trackers](#trackers)
+- [Translator](#translator)
 - [Twitch](#twitch)
 - [Twitter](#twitter)
 - [Unit Converter](#unit-converter)
@@ -197,7 +200,7 @@ __AWESOME__ apps counter: __187__ 🎉
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.best.deskclock/)
-- [x] [GitHub](https://github.com/qw123wh/new-clock-fdroid)
+- [x] [GitHub](https://github.com/qw123wh/new-clock)
 - [ ] Official page
 
 ## Anime & Manga
@@ -857,6 +860,14 @@ __AWESOME__ apps counter: __187__ 🎉
 - [x] [GitLab](https://gitlab.com/xphnx/ameixa)
 - [x] [Official page](https://xphnx.gitlab.io/ameixa)
 
+### Delta
+<img alt="Delta" height="64" src="https://raw.githubusercontent.com/Delta-Icons/android/master/app/src/main/ic_launcher-playstore.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=website.leifs.delta)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/website.leifs.delta)
+- [x] [Github](https://github.com/Delta-Icons/android)
+- [x] [Official page](https://delta-icons.github.io/)
+
 ## Image Processing
 ### Imagepipe
 <img alt="Imagepipe" height="64" src="https://codeberg.org/repo-avatars/230-a47fb71f565ec2388d5e78c561a5262d">
@@ -956,6 +967,15 @@ __AWESOME__ apps counter: __187__ 🎉
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.inspiredandroid.linuxcommandbibliotheca)
 - [x] [GitHub](https://github.com/SimonSchubert/LinuxCommandLibrary)
 - [x] [Official page](https://linuxcommandlibrary.com/)
+
+## Language
+### Kakugo
+<img alt="Kakugo" height="64" src="https://raw.githubusercontent.com/blastrock/kakugo/master/app/src/main/ic_launcher-web.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.kaqui)
+- [x] [F-Droid](https://f-droid.org/packages/org.kaqui/)
+- [x] [GitHub](https://github.com/blastrock/kakugo)
+- [ ] Official page
 
 ## Launcher
 ### Lawnchair
@@ -1366,6 +1386,15 @@ Currently being reworked as Neo Launcher.
 - [x] [Github](https://github.com/LagradOst/CloudStream-3)
 - [x] [Official page](https://lagradost.github.io/CloudStream-3/)
 
+## Survival
+### Trail Sense
+<img alt="Trail Sense" height="64" src="https://raw.githubusercontent.com/kylecorry31/Trail-Sense/main/app/src/main/ic_launcher-web.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.kylecorry.trail_sense)
+- [x] [Fdroid](https://f-droid.org/en/packages/com.kylecorry.trail_sense/)
+- [x] [Github](https://github.com/kylecorry31/Trail-Sense)
+- [x] [Official page](https://kylecorry.com/Trail-Sense/)
+
 ## Terminal Emulator
 ### Termux ❤️
 <img alt="Termux" height="64" src="https://github.com/termux/termux-app/blob/master/art/ic_launcher2.png?raw=true">
@@ -1491,6 +1520,15 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/packages/rocks.poopjournal.vacationdays/)
 - [x] [Github](https://github.com/Crazy-Marvin/VacationDays)
 - [x] [Official page](https://crazymarvin.com/vacation-days/)
+
+## Translator
+### DeepL
+<img alt="DeepL" height="64" src="https://raw.githubusercontent.com/sakusaku3939/DeepLAndroid/master/app/src/main/ic_launcher-playstore.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.example.deeplviewer/)
+- [x] [GitHub](https://github.com/sakusaku3939/DeepLAndroid)
+- [ ] Official page
 
 ## Twitch
 ### Twire
