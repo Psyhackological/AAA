@@ -1548,6 +1548,14 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/sakusaku3939/DeepLAndroid)
 - [ ] Official page
 
+### SimplyTranslate Mobile ❤️
+<img alt="SimplyTranslate Mobile" height="64" src="https://github.com/ManeraKai/simplytranslate_mobile/raw/main/fastlane/metadata/android/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile/)
+- [x] [GitHub](https://github.com/ManeraKai/simplytranslate_mobile)
+- [x] [Official page](https://manerakai.github.io/simplytranslate_mobile/index.html)
+
 ## Twitch
 ### Twire
 <img alt="Twire" height="64" src="https://github.com/twireapp/Twire/blob/master/app/src/main/ic_launcher-web.png?raw=true">
