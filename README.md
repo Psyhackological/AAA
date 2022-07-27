@@ -266,7 +266,7 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [Official page](https://auroraoss.com/)
 
 ### SmartPack-Kernel Manager
-<img alt="SmartPack-Kernel Manager" height="64" src="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/app/src/main/ic_launcher-web.png">
+<img alt="SmartPack-KernelManager" height="64" src="https://raw.githubusercontent.com/SmartPack/SmartPack-Kernel-Manager/master/app/src/main/ic_launcher-web.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.smartpack.kernelmanager)
@@ -483,7 +483,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ## Download Manager
 ### Download Navi
-<img alt="Download Navi" height="64" src="https://play-lh.googleusercontent.com/XKSnuIxirq8HktMEpxtcWbAVFl7ThnGg6I_hph0PeYe1JEt8iVCLAf76sDoUeVUu2eFL">
+<img alt="DownloadNavi" height="64" src="https://play-lh.googleusercontent.com/XKSnuIxirq8HktMEpxtcWbAVFl7ThnGg6I_hph0PeYe1JEt8iVCLAf76sDoUeVUu2eFL">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.tachibana.downloader)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.tachibana.downloader/)
@@ -704,7 +704,7 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [Official page](https://apps.ankiweb.net)
 
 ### Flash Deck
-<img alt="Flash Deck" height="64" src="https://raw.githubusercontent.com/rh-id/a-flash-deck/master/graphics/launcher.svg">
+<img alt="FlashDeck" height="64" src="https://raw.githubusercontent.com/rh-id/a-flash-deck/master/graphics/launcher.svg">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/m.co.rh.id.a_flash_deck/)
@@ -906,7 +906,7 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [Official page](https://getsession.org/)
 
 ### Nekogram X
-<img alt="Nekogram X" height="64" src="https://raw.githubusercontent.com/NekogramX/NekoX/master/TMessagesProj/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+<img alt="NekogramX" height="64" src="https://raw.githubusercontent.com/NekogramX/NekoX/master/TMessagesProj/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/nekox.messenger/)
@@ -922,7 +922,7 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [Official page](https://owlgram.org/)
 
 ### Delta Chat
-<img alt="Delta Chat" height="64" src="https://delta.chat/assets/logos/delta-chat.svg">
+<img alt="DeltaChat" height="64" src="https://delta.chat/assets/logos/delta-chat.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=chat.delta)
 - [x] [F-Droid](https://f-droid.org/app/com.b44t.messenger)
@@ -1043,7 +1043,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Official page](https://element.io/)
 
 ### Fluffy Chat
-<img alt="Fluffy Chat" height="64" src="https://gitlab.com/uploads/-/system/project/avatar/16112282/logo.png?width=64">
+<img alt="FluffyChat" height="64" src="https://gitlab.com/uploads/-/system/project/avatar/16112282/logo.png?width=64">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=chat.fluffy.fluffychat)
 - [x] [F-Droid](https://f-droid.org/de/packages/chat.fluffy.fluffychat/)
@@ -1143,7 +1143,7 @@ Currently being reworked as Neo Launcher.
 
 ## Music Scrobbler
 ### Pano Scrobbler ❤️
-<img alt="Pano Scrobbler" height="64" src="https://play-lh.googleusercontent.com/QIDK-bs4AbrACmPJsEpcENeQyjMfrfrgsLfizHmqVLanqNE_-Qs8eLpqLdlwCNViXg=w240-h480">
+<img alt="PanoScrobbler" height="64" src="https://play-lh.googleusercontent.com/QIDK-bs4AbrACmPJsEpcENeQyjMfrfrgsLfizHmqVLanqNE_-Qs8eLpqLdlwCNViXg=w240-h480">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.arn.scrobble)
 - [ ] F-Droid
@@ -1151,7 +1151,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Official page
 
 ### Simple Scrobbler
-<img alt="Simple Scrobbler" height="64" src="https://avatars.githubusercontent.com/u/53984925?s=200&v=4">
+<img alt="SimpleScrobbler" height="64" src="https://avatars.githubusercontent.com/u/53984925?s=200&v=4">
 
 - [ ]  Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.adam.aslfms/)
@@ -1219,7 +1219,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Official page](https://muntashirakon.github.io/AppManager/en/)
 
 ### Package Manager
-<img alt="Package Manager" height="64" src="https://raw.githubusercontent.com/SmartPack/PackageManager/master/app/src/main/ic_launcher-web.png">
+<img alt="PackageManager" height="64" src="https://raw.githubusercontent.com/SmartPack/PackageManager/master/app/src/main/ic_launcher-web.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager)
 - [x] [F-Droid](https://f-droid.org/packages/com.smartpack.packagemanager)
@@ -1373,7 +1373,7 @@ Currently being reworked as Neo Launcher.
 
 ## Spotify
 ### Blade Player ❤️
-<img alt="Blade Player" height="64" src="https://github.com/vhaudiquet/BladePlayer/blob/master/app/src/main/ic_launcher-playstore.png">
+<img alt="BladePlayer" height="64" src="https://github.com/vhaudiquet/BladePlayer/blob/master/app/src/main/ic_launcher-playstore.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=v.blade)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/v.blade)
@@ -1408,7 +1408,7 @@ Currently being reworked as Neo Launcher.
 
 ## Survival
 ### Trail Sense
-<img alt="Trail Sense" height="64" src="https://raw.githubusercontent.com/kylecorry31/Trail-Sense/main/app/src/main/ic_launcher-web.png">
+<img alt="TrailSense" height="64" src="https://raw.githubusercontent.com/kylecorry31/Trail-Sense/main/app/src/main/ic_launcher-web.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.kylecorry.trail_sense)
 - [x] [Fdroid](https://f-droid.org/en/packages/com.kylecorry.trail_sense/)
@@ -1543,7 +1543,7 @@ Currently being reworked as Neo Launcher.
 
 ## Translator
 ### Arna Translate
-<img alt="SimplyTranslate Mobile" height="64" src="https://user-images.githubusercontent.com/16052180/171461601-8b58706b-12d4-4131-97ad-1580fd5ba580.png">
+<img alt="ArnaTranslate" height="64" src="https://user-images.githubusercontent.com/16052180/171461601-8b58706b-12d4-4131-97ad-1580fd5ba580.png">
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.arna.translate)
@@ -1559,7 +1559,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Official page
 
 ### SimplyTranslate Mobile ❤️
-<img alt="SimplyTranslate Mobile" height="64" src="https://github.com/ManeraKai/simplytranslate_mobile/raw/main/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="SimplyTranslateMobile" height="64" src="https://github.com/ManeraKai/simplytranslate_mobile/raw/main/fastlane/metadata/android/en-US/images/icon.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile/)
@@ -1769,6 +1769,9 @@ Currently being reworked as Neo Launcher.
 
 ## Special thanks to:
 ### AWESOME PEOPLE that developed or still develops this AWESOME SOFTWARE.
+
+### Contributors to this repo:
+[![GitHub contributors](https://contrib.rocks/image?repo=Psyhackological/AAA)](https://github.com/Psyhackological/AAA/graphs/contributors)
 
 ### LinuxCafeFederation/[awesome-android](https://github.com/LinuxCafeFederation/awesome-android)
 <img alt="LinuxCafeFederation/awesome-android" height="64" src="https://avatars.githubusercontent.com/u/66378202?s=200&v=4">
