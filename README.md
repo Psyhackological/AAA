@@ -24,7 +24,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __191__ 🎉
+__AWESOME__ apps counter: __195__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -91,6 +91,7 @@ __AWESOME__ apps counter: __191__ 🎉
 - [RSS Reader](#rss-reader)
 - [SMS Messenger](#sms-messenger)
 - [Self Hosted](#self-hosted)
+- [Spotify](#spotify)
 - [Stargazing](#stargazing)
 - [Streaming](#streaming)
 - [Survival](#survival)
@@ -1370,6 +1371,15 @@ Currently being reworked as Neo Launcher.
 - [x] [Github](https://github.com/jarnedemeulemeester/findroid)
 - [ ] Official page
 
+## Spotify
+### Blade Player ❤️
+<img alt="Blade Player" height="64" src="https://github.com/vhaudiquet/BladePlayer/blob/master/app/src/main/ic_launcher-playstore.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=v.blade)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/v.blade)
+- [x] [GitHub](https://github.com/vhaudiquet/BladePlayer)
+- [ ] Official page
+
 ## Stargazing
 ### Sky Map
 <img alt="SkyMap" height="64" src="https://f-droid.org/repo/com.google.android.stardroid/en-US/icon_viguh3xj7mYysCwo-kWNIl5Hv8iMQV81ma2soxFM8BY=.png">
@@ -1387,6 +1397,14 @@ Currently being reworked as Neo Launcher.
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3/)
 - [x] [Github](https://github.com/LagradOst/CloudStream-3)
 - [x] [Official page](https://lagradost.github.io/CloudStream-3/)
+
+### Burning-Series
+<img alt="Burning-Series" height="64" src="https://f-droid.org/repo/de.datlag.burningseries/en-US/icon_mn8-Wrvht9_iyE6QETjT1TkUaCtOThW2m8OQQfuJzfI=.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/de.datlag.burningseries/)
+- [x] [Github](https://github.com/DATL4G/BurningSeries-Android/)
+- [ ] Official page
 
 ## Survival
 ### Trail Sense
@@ -1524,6 +1542,14 @@ Currently being reworked as Neo Launcher.
 - [x] [Official page](https://crazymarvin.com/vacation-days/)
 
 ## Translator
+### Arna Translate
+<img alt="SimplyTranslate Mobile" height="64" src="https://user-images.githubusercontent.com/16052180/171461601-8b58706b-12d4-4131-97ad-1580fd5ba580.png">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.arna.translate)
+- [x] [GitHub](https://manerakai.github.io/simplytranslate_mobile/index.html)
+- [ ] Official page
+
 ### DeepL
 <img alt="DeepL" height="64" src="https://raw.githubusercontent.com/sakusaku3939/DeepLAndroid/master/app/src/main/ic_launcher-playstore.png">
 
@@ -1531,6 +1557,14 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/packages/com.example.deeplviewer/)
 - [x] [GitHub](https://github.com/sakusaku3939/DeepLAndroid)
 - [ ] Official page
+
+### SimplyTranslate Mobile ❤️
+<img alt="SimplyTranslate Mobile" height="64" src="https://github.com/ManeraKai/simplytranslate_mobile/raw/main/fastlane/metadata/android/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile/)
+- [x] [GitHub](https://github.com/ManeraKai/simplytranslate_mobile)
+- [x] [Official page](https://manerakai.github.io/simplytranslate_mobile/index.html)
 
 ## Twitch
 ### Twire
@@ -1545,7 +1579,7 @@ Currently being reworked as Neo Launcher.
 <img alt="Xtra" height="64" src="https://github.com/AndreyAsadchy/Xtra/raw/197ba90cac879abd2a5645393ce361847f12fa0b/app/src/main/ic_launcher-web.png">
 
 - [ ] Google Play
-- [ ] F-Droid
+- [x] [F-Droid](https://f-droid.org/en/packages/com.github.andreyasadchy.xtra/)
 - [x] [GitHub](https://github.com/crackededed/Xtra)
 - [ ] Official page
 
