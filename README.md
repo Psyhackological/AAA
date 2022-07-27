@@ -24,7 +24,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __196__ 🎉
+__AWESOME__ apps counter: __197__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -1548,6 +1548,14 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/packages/rocks.poopjournal.vacationdays/)
 - [x] [Github](https://github.com/Crazy-Marvin/VacationDays)
 - [x] [Official page](https://crazymarvin.com/vacation-days/)
+
+### BetterCounter — Multi-purpose Tracker
+<img alt="BetterCounter" height="64" src="https://github.com/albertvaka/bettercounter/raw/main/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.kde.bettercounter)
+- [x] [F-Droid](https://f-droid.org/en/packages/org.kde.bettercounter/)
+- [x] [Github](https://github.com/albertvaka/bettercounter)
+- [ ] Official page
 
 ## Translator
 ### Arna Translate
