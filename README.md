@@ -430,7 +430,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ## Contacts
 ### Simple Contacts ❤️
-<img alt="SimpleContacts" height="64" src="https://github.com/SimpleMobileTools/Simple-Contacts/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="SimpleContacts" height="64" src="https://github.com/SimpleMobileTools/Simple-Contacts/raw/master/graphics/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.contacts.pro)
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.contacts.pro)
