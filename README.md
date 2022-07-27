@@ -1,6 +1,6 @@
-<img src="img/AAA_long_plain.svg" width="60%" alt="AwesomeAndroidAlternatives"/>
+<img src="img/AAA_long_plain.svg" width="60%" alt="AwesomeAndroidAlternatives">
 
-## Introduction 
+## Introduction
 This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyhackological/AAA/graphs/contributors).You can prove us wrong on the [contributing page](CONTRIBUTING.md).
 >
 >App Name ❤️ = Someone's Personal Favourite
@@ -123,7 +123,7 @@ __AWESOME__ apps counter: __197__ 🎉
 - [x] [GitHub](https://github.com/beemdevelopment/Aegis)
 - [x] [Official page](https://getaegis.app/)
 
-### Authenticator Pro 
+### Authenticator Pro
 <img alt="AuthenticatorPro" height="64" src="https://github.com/jamie-mh/AuthenticatorPro/blob/master/doc/ic_launcher-web.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=me.jmh.authenticatorpro)
@@ -339,7 +339,7 @@ F-Droid version is outdated compared to GitHub's.
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
-- [x] [GitLab](https://gitlab.com/divested-mobile/mull-fenix) 
+- [x] [GitLab](https://gitlab.com/divested-mobile/mull-fenix)
 - [x] [Official page](https://divestos.org/index.php?page=our_apps#mull)
 
 ### Brave
@@ -360,7 +360,7 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/Bubu/android-calculatorpp)
 - [ ] Official page
 
-### Calculator-inator 
+### Calculator-inator
 <img alt="Calculator-inator" height="64" src="https://apt.izzysoft.de/fdroid/repo/com.inator.calculator/en-US/icon.png">
 
 - [ ] Google Play
@@ -376,8 +376,8 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Calculator)
 - [x] [Official page](https://www.simplemobiletools.com/calculator)
 
-## Calendar 
-### Simple Calendar 
+## Calendar
+### Simple Calendar
 <img alt="SimpleCalendar" height="64" src="https://github.com/SimpleMobileTools/Simple-Calendar/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro)
@@ -604,7 +604,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Neo Store
 <img alt="NeoStore" height="64" src="https://raw.githubusercontent.com/NeoApplications/Neo-Store/master/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
- 
+
 - [ ] Google Play
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/NeoApplications/Neo-Store)
@@ -754,7 +754,7 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/Anuken/Mindustry)
 - [x] [Official page](https://mindustrygame.github.io/)
 
-### Parlera — word guessing game
+### Parlera
 <img alt="Parlera" height="64" src="https://gitlab.com/enjoyingfoss/parlera/-/raw/master/flatpak/com.enjoyingfoss.Parlera.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.enjoyingfoss.parlera)
@@ -845,7 +845,7 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/rh-id/a-medic-log)
 - [ ] Official page
 
-## Icon Pack 
+## Icon Pack
 ### Arcticons ❤️
 <img alt="Arcticons" height="64" src="https://raw.githubusercontent.com/Donnnno/Arcticons/main/icons/white/arcticons.svg">
 
@@ -955,7 +955,8 @@ F-Droid version is outdated compared to GitHub's.
 - [ ] Official page
 
 ## Knowledge
-### Atomic — Periodic Table
+### Atomic
+> Periodic Table
 <img alt="Atomic" height="64" src="https://github.com/JLindemann42/Atomic-Periodic-Table.Android/blob/master/app/src/main/ic_launcher-web.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.jlindemann.science)
@@ -1192,7 +1193,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Official page](https://joplinapp.org/)
 
 ## OCR
-### OCR (Tesseract) 
+### OCR (Tesseract)
 <img alt="OCR(Tesseract)" height="64" src="https://github.com/mtotschnig/OCR/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_scan.png?raw=true">
 
 - [ ] Google Play
@@ -1244,7 +1245,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Official page
 
 ## PDF Viewer
-### Pdf Viewer Plus 
+### Pdf Viewer Plus
 <img alt="PdfViewerPlus" height="64" src="https://github.com/JavaCafe01/PdfViewer/raw/master/images/high_res.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.gsnathan.pdfviewer)
@@ -1434,7 +1435,8 @@ Currently being reworked as Neo Launcher.
 - [x] [Official page](https://acode.foxdebug.com/)
 
 ## Timers
-### Goodtime ❤️ — Pomodoro Timer
+### Goodtime ❤️
+> Pomodoro Timer
 <img alt="Goodtime" height="64" src="https://github.com/adrcotfas/Goodtime/blob/master/app/src/main/ic_launcher-web.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.apps.adrcotfas.goodtime)
@@ -1442,7 +1444,8 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/adrcotfas/Goodtime)
 - [ ] Official page
 
-### Cofi — Coffee Timer
+### Cofi
+> Coffee Timer
 <img alt="Cofi" height="64" src="https://github.com/rozPierog/Cofi/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.omelan.cofi)
@@ -1458,7 +1461,8 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/woheller69/eggtimer)
 - [ ] Official page
 
-### Cuppa — Tea Timer
+### Cuppa
+> Tea Timer
 <img alt="Cuppa" height="64" src="https://www.nathanatos.com/software/images/Cuppa_hires_default.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.nathanatos.Cuppa)
@@ -1493,7 +1497,8 @@ Currently being reworked as Neo Launcher.
 - [ ] Official page
 
 ## Trackers
-### Birday ❤️ — Birthday Tracker
+### Birday ❤️
+> Birthday Tracker
 <img alt="Birday" height="64" src="https://github.com/m-i-n-a-r/birday/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.minar.birday)
@@ -1501,7 +1506,8 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/m-i-n-a-r/birday)
 - [ ] Official page
 
-### Loop ❤️ — Habit Tracker 
+### Loop ❤️
+> Habit Tracker
 <img alt="LoopHabitTracker" height="64" src="https://github.com/iSoron/uhabits/blob/dev/uhabits-android/src/main/res/drawable/intro_icon_1.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.isoron.uhabits)
@@ -1509,7 +1515,8 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/iSoron/uhabits)
 - [x] [Official page](https://loophabits.org/)
 
-### Openreads — Books Tracker
+### Openreads
+> Books Tracker
 <img alt="Openreads" height="64" src="https://github.com/mateusz-bak/openreads-android/blob/master/app/src/main/res/mipmap-xhdpi/logo_round.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=software.mdev.bookstracker)
@@ -1517,7 +1524,8 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/mateusz-bak/openreads-android)
 - [ ] Official page
 
-### Sobriety — Addiction Tracker
+### Sobriety
+> Addiction Tracker
 <img alt="Sobriety" height="64" src="https://github.com/KiARC/Sobriety/blob/master/app/src/main/res/mipmap-xxxhdpi/sobriety.png?raw=true">
 
 - [ ] Google Play
@@ -1525,7 +1533,8 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/KiARC/Sobriety)
 - [ ] Official page
 
-### Showly ❤️ — TV Shows Tracker
+### Showly ❤️
+> TV Shows Tracker
 <img alt="Showly" height="64" src="https://camo.githubusercontent.com/3740231f58f9cd91dbf27285736f77ecfac4f63c02fceefcacbeb40778d3f896/68747470733a2f2f692e6962622e636f2f4368424e374c672f69632d6c61756e636865722e706e67">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.michaldrabik.showly2)
@@ -1533,7 +1542,8 @@ Currently being reworked as Neo Launcher.
 - [x] [Github](https://github.com/michaldrabik/Showly-2.0)
 - [x] [Official page](http://showlyapp.com/)
 
-### GreenStash️ — Savings Tracker
+### GreenStash️
+> Savings Tracker
 <img alt="GreenStash️" height="64" src="https://github.com/Pool-Of-Tears/GreenStash/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
 
 - [ ] Google Play
@@ -1541,7 +1551,8 @@ Currently being reworked as Neo Launcher.
 - [x] [Github](https://github.com/Pool-Of-Tears/GreenStash)
 - [ ] Official page
 
-### Vacation Days — Days Off Tracker
+### Vacation Days
+> Days Off Tracker
 <img alt="VacationDays" height="64" src="https://github.com/Crazy-Marvin/VacationDays/blob/development/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=rocks.poopjournal.vacationdays)
@@ -1549,7 +1560,8 @@ Currently being reworked as Neo Launcher.
 - [x] [Github](https://github.com/Crazy-Marvin/VacationDays)
 - [x] [Official page](https://crazymarvin.com/vacation-days/)
 
-### BetterCounter — Multi-purpose Tracker
+### BetterCounter
+> Multi-purpose Tracker
 <img alt="BetterCounter" height="64" src="https://github.com/albertvaka/bettercounter/raw/main/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.kde.bettercounter)
@@ -1584,14 +1596,14 @@ Currently being reworked as Neo Launcher.
 
 ## Twitch
 ### Twire
-<img alt="Twire" height="64" src="https://github.com/twireapp/Twire/blob/master/app/src/main/ic_launcher-web.png?raw=true">
+<img alt="Twire" height="64" src="https://github.com/twireapp/Twire/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png?raw=true">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.perflyst.twire/)
 - [x] [GitHub](https://github.com/twireapp/Twire)
 - [ ] Official page
 
-### Xtra 
+### Xtra
 <img alt="Xtra" height="64" src="https://github.com/AndreyAsadchy/Xtra/raw/197ba90cac879abd2a5645393ce361847f12fa0b/app/src/main/ic_launcher-web.png">
 
 - [ ] Google Play
