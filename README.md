@@ -24,7 +24,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __197__ 🎉
+__AWESOME__ apps counter: __198__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -841,9 +841,17 @@ F-Droid version is outdated compared to GitHub's.
 <img alt="MedicLog" height="64" src="https://raw.githubusercontent.com/rh-id/a-medic-log/master/graphics/launcher.svg">
 
 - [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.zell_mbc.medilog/index.html.en)
+- [x] [GitLab](https://gitlab.com/toz12/medilog)
+- [ ] Official page
+
+### MediLog
+<img alt="MediLog" height="64" src="https://gitlab.com/toz12/medilog/-/raw/master/app/src/main/ic_launcher.png">
+
+- [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/m.co.rh.id.a_medic_log/)
 - [x] [GitHub](https://github.com/rh-id/a-medic-log)
-- [ ] Official page
+- [x] [Official page](https://zell-mbc.com/en/privacy/medilog)
 
 ## Icon Pack
 ### Arcticons ❤️
