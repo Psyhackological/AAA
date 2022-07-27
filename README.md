@@ -24,7 +24,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __198__ 🎉
+__AWESOME__ apps counter: __199__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -801,6 +801,14 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [F-Droid](https://f-droid.org/en/packages/xyz.deepdaikon.quinb/)
 - [x] [GitLab](https://gitlab.com/deepdaikon/Quinb)
 - [ ] Official page
+
+### UnCiv
+<img alt="UnCiv" height="64" src="https://github.com/yairm210/Unciv/blob/master/extraImages/Unciv%20icon%20v5.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.unciv.app)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.unciv.app/)
+- [x] [GitHub](https://github.com/yairm210/Unciv)
+- [x] [Official page](https://yairm210.itch.io/unciv)
 
 ## GitHub Client
 ### OpenHub
