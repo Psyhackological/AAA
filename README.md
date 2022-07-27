@@ -24,7 +24,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __191__ 🎉
+__AWESOME__ apps counter: __195__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
