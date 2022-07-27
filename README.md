@@ -24,7 +24,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __195__ 🎉
+__AWESOME__ apps counter: __196__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -1474,6 +1474,14 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/packages/org.tasks)
 - [x] [GitHub](https://github.com/tasks/tasks)
 - [x] [Official page](https://tasks.org/)
+
+### PocketPlan
+<img alt="PocketPlan" height="64" src="https://github.com/estep248/PocketPlan/blob/master/app/src/main/ic_launcher-playstore.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.pocket_plan.j7_003)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.pocket_plan.j7_003)
+- [x] [GitHub](https://github.com/estep248/PocketPlan)
+- [ ] Official page
 
 ## Torrenting
 ### LibreTorrent ❤️
