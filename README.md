@@ -301,13 +301,13 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/markusfisch/BinaryEye)
 - [ ] Official page
 
-### QR & Barcode Scanner
-<img alt="QrAndBarcodeScanner" height="64" src="https://raw.githubusercontent.com/wewewe718/QrAndBarcodeScanner/master/images/google_play/market_app_icon.png">
+### QR Scanner (PFA)
+<img alt="PrivacyFriendlyQRScanner" height="64" src="https://raw.githubusercontent.com/SecUSo/privacy-friendly-qr-scanner/master/fastlane/metadata/android/en-US/images/icon.png">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=org.barcodescanner)
-- [x] [F-Droid](https://www.f-droid.org/en/packages/com.example.barcodescanner/)
-- [x] [GitHub](https://github.com/wewewe718/QrAndBarcodeScanner)
-- [ ] Official page
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.secuso.privacyFriendlyCodeScanner)
+- [x] [F-Droid](https://f-droid.org/packages/com.secuso.privacyFriendlyCodeScanner/)
+- [x] [GitHub](https://github.com/SecUSo/privacy-friendly-qr-scanner)
+- [x] [Official page](https://secuso.aifb.kit.edu/english/QR_Scanner.php)
 
 ### SecScanQR
 <img alt="SecScanQR" height="64" src="https://github.com/Fr4gorSoftware/SecScanQR/blob/master/pictures/web_hi_res_512.png">
