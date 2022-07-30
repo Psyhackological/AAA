@@ -368,6 +368,14 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/prathameshmm02/Calculator-inator)
 - [ ] Official page
 
+### OpenCalc
+<img alt="OpenCalc" height="64" src="https://github.com/Darkempire78/OpenCalc/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png?raw=true">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.darkempire78.opencalculator/)
+- [x] [GitHub](https://github.com/Darkempire78/OpenCalc)
+- [ ] Official page
+
 ### Simple Calculator ❤️
 <img alt="SimpleCalculator" height="64" src="https://github.com/SimpleMobileTools/Simple-Calculator/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
