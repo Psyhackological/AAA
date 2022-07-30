@@ -24,7 +24,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __199__ 🎉
+__AWESOME__ apps counter: __200__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -366,6 +366,14 @@ F-Droid version is outdated compared to GitHub's.
 - [ ] Google Play
 - [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.inator.calculator)
 - [x] [GitHub](https://github.com/prathameshmm02/Calculator-inator)
+- [ ] Official page
+
+### OpenCalc
+<img alt="OpenCalc" height="64" src="https://github.com/Darkempire78/OpenCalc/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png?raw=true">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.darkempire78.opencalculator/)
+- [x] [GitHub](https://github.com/Darkempire78/OpenCalc)
 - [ ] Official page
 
 ### Simple Calculator ❤️
