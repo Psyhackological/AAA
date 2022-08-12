@@ -1416,12 +1416,12 @@ Currently being reworked as Neo Launcher.
 
 ## Streaming
 ### CloudStream
-<img alt="CloudStream" height="64" src="https://github.com/LagradOst/CloudStream-3/blob/master/app/src/main/ic_launcher-playstore.png?raw=true">
+<img alt="CloudStream" height="64" src="https://apt.izzysoft.de/fdroid/repo/com.lagradost.cloudstream3/en-US/icon.png">
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3/)
-- [x] [Github](https://github.com/LagradOst/CloudStream-3)
-- [x] [Official page](https://lagradost.github.io/CloudStream-3/)
+- [x] [Github](https://github.com/recloudstream/cloudstream)
+- [x] [Official page](https://cloudstream.ws)
 
 ### Burning-Series
 <img alt="Burning-Series" height="64" src="https://f-droid.org/repo/de.datlag.burningseries/en-US/icon_mn8-Wrvht9_iyE6QETjT1TkUaCtOThW2m8OQQfuJzfI=.png">
