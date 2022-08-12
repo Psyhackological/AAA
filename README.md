@@ -1416,7 +1416,7 @@ Currently being reworked as Neo Launcher.
 
 ## Streaming
 ### CloudStream
-<img alt="CloudStream" height="64" src="https://apt.izzysoft.de/fdroid/repo/com.lagradost.cloudstream3/en-US/icon.png">
+<img alt="CloudStream" height="64" src="https://raw.githubusercontent.com/recloudstream/cloudstream/master/app/src/main/ic_launcher-playstore.png">
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3/)
