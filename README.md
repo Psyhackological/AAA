@@ -556,7 +556,7 @@ F-Droid version is outdated compared to GitHub's.
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=eu.faircode.email)
 - [x] [F-Droid](https://f-droid.org/en/packages/eu.faircode.email/)
-- [x] [Github](https://github.com/M66B/FairEmail)
+- [x] [GitHub](https://github.com/M66B/FairEmail)
 - [x] [Official page](https://email.faircode.eu/)
 
 ### K-9 Mail
@@ -892,7 +892,7 @@ F-Droid version is outdated compared to GitHub's.
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=website.leifs.delta)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/website.leifs.delta)
-- [x] [Github](https://github.com/Delta-Icons/android)
+- [x] [GitHub](https://github.com/Delta-Icons/android)
 - [x] [Official page](https://delta-icons.github.io/)
 
 ## Image Processing
@@ -1308,7 +1308,7 @@ Currently being reworked as Neo Launcher.
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
 - [x] [F-Droid](https://f-droid.org/en/packages/de.danoeh.antennapod/)
-- [x] [Github](https://github.com/AntennaPod/AntennaPod)
+- [x] [GitHub](https://github.com/AntennaPod/AntennaPod)
 - [x] [Official page](https://antennapod.org/)
 
 ## Reddit
@@ -1385,7 +1385,7 @@ Currently being reworked as Neo Launcher.
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.jellyfin.mobile)
 - [x] [F-Droid](https://f-droid.org/packages/org.jellyfin.mobile/)
-- [x] [Github](https://github.com/jellyfin/jellyfin-android)
+- [x] [GitHub](https://github.com/jellyfin/jellyfin-android)
 - [x] [Official page](https://jellyfin.org/)
 
 ### Findroid
@@ -1393,7 +1393,7 @@ Currently being reworked as Neo Launcher.
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=dev.jdtech.jellyfin)
 - [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/dev.jdtech.jellyfin)
-- [x] [Github](https://github.com/jarnedemeulemeester/findroid)
+- [x] [GitHub](https://github.com/jarnedemeulemeester/findroid)
 - [ ] Official page
 
 ## Spotify
@@ -1411,7 +1411,7 @@ Currently being reworked as Neo Launcher.
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.google.android.stardroid)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.google.android.stardroid/)
-- [x] [Github](https://github.com/sky-map-team/stardroid)
+- [x] [GitHub](https://github.com/sky-map-team/stardroid)
 - [ ] Official page
 
 ## Streaming
@@ -1420,7 +1420,7 @@ Currently being reworked as Neo Launcher.
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3/)
-- [x] [Github](https://github.com/recloudstream/cloudstream)
+- [x] [GitHub](https://github.com/recloudstream/cloudstream)
 - [x] [Official page](https://cloudstream.ws)
 
 ### Burning-Series
@@ -1428,7 +1428,7 @@ Currently being reworked as Neo Launcher.
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/de.datlag.burningseries/)
-- [x] [Github](https://github.com/DATL4G/BurningSeries-Android/)
+- [x] [GitHub](https://github.com/DATL4G/BurningSeries-Android/)
 - [ ] Official page
 
 ## Survival
@@ -1437,7 +1437,7 @@ Currently being reworked as Neo Launcher.
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.kylecorry.trail_sense)
 - [x] [Fdroid](https://f-droid.org/en/packages/com.kylecorry.trail_sense/)
-- [x] [Github](https://github.com/kylecorry31/Trail-Sense)
+- [x] [GitHub](https://github.com/kylecorry31/Trail-Sense)
 - [x] [Official page](https://kylecorry.com/Trail-Sense/)
 
 ## Terminal Emulator
@@ -1563,7 +1563,7 @@ Currently being reworked as Neo Launcher.
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.michaldrabik.showly2)
 - [ ] F-Droid
-- [x] [Github](https://github.com/michaldrabik/Showly-2.0)
+- [x] [GitHub](https://github.com/michaldrabik/Showly-2.0)
 - [x] [Official page](http://showlyapp.com/)
 
 ### GreenStash️
@@ -1572,7 +1572,7 @@ Currently being reworked as Neo Launcher.
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.starry.greenstash)
-- [x] [Github](https://github.com/Pool-Of-Tears/GreenStash)
+- [x] [GitHub](https://github.com/Pool-Of-Tears/GreenStash)
 - [ ] Official page
 
 ### Vacation Days
@@ -1581,7 +1581,7 @@ Currently being reworked as Neo Launcher.
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=rocks.poopjournal.vacationdays)
 - [x] [F-Droid](https://f-droid.org/packages/rocks.poopjournal.vacationdays/)
-- [x] [Github](https://github.com/Crazy-Marvin/VacationDays)
+- [x] [GitHub](https://github.com/Crazy-Marvin/VacationDays)
 - [x] [Official page](https://crazymarvin.com/vacation-days/)
 
 ### BetterCounter
@@ -1590,7 +1590,7 @@ Currently being reworked as Neo Launcher.
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.kde.bettercounter)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.kde.bettercounter/)
-- [x] [Github](https://github.com/albertvaka/bettercounter)
+- [x] [GitHub](https://github.com/albertvaka/bettercounter)
 - [ ] Official page
 
 ## Translator
@@ -1675,7 +1675,7 @@ Currently being reworked as Neo Launcher.
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=is.xyz.mpv)
 - [x] [F-Droid](https://f-droid.org/packages/is.xyz.mpv/)
-- [x] [Github](https://github.com/mpv-android/mpv-android)
+- [x] [GitHub](https://github.com/mpv-android/mpv-android)
 - [x] [Official page](https://mpv.io/)
 
 ## Voice Recorder
@@ -1742,7 +1742,7 @@ Currently being reworked as Neo Launcher.
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.wikipedia)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.wikipedia/)
-- [x] [Github](https://github.com/wikimedia/apps-android-wikipedia)
+- [x] [GitHub](https://github.com/wikimedia/apps-android-wikipedia)
 - [x] [Official page](https://www.wikipedia.org/)
 
 ### Kiwix
@@ -1750,7 +1750,7 @@ Currently being reworked as Neo Launcher.
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.kiwix.kiwixmobile)
 - [x] [F-Droid](https://f-droid.org/packages/org.kiwix.kiwixmobile/)
-- [x] [Github](https://github.com/kiwix/kiwix-android)
+- [x] [GitHub](https://github.com/kiwix/kiwix-android)
 - [x] [Official page](https://www.kiwix.org)
 
 ## Workout
