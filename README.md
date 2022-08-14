@@ -361,7 +361,7 @@ F-Droid version is outdated compared to GitHub's.
 - [ ] Official page
 
 ### Calculator-inator
-<img alt="Calculator-inator" height="64" src="https://apt.izzysoft.de/fdroid/repo/com.inator.calculator/en-US/icon.png">
+<img alt="Calculator-inator" height="64" src="https://github.com/prathameshmm02/Calculator-inator/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 - [ ] Google Play
 - [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.inator.calculator)
@@ -510,7 +510,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ## Drawing
 ### Simple Draw
-<img alt="SimpleDraw" height="64" src="https://github.com/SimpleMobileTools/Simple-Draw/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="SimpleDraw" height="64" src="https://github.com/SimpleMobileTools/Simple-Draw/raw/master/graphics/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.draw.pro)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.simplemobiletools.draw.pro/)
@@ -636,7 +636,7 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [Official page](https://teamamaze.xyz/)
 
 ### Simple File Manager
-<img alt="SimpleFileManager" height="64" src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="SimpleFileManager" height="64" src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/graphics/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager.pro)
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.filemanager.pro)

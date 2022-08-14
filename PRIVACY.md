@@ -204,7 +204,7 @@ Examined apps: __3/200__ 🕵️
 <img alt="Calculator++" height="64" src="https://github.com/Bubu/android-calculatorpp/blob/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png?raw=true">
 
 ### Calculator-inator
-<img alt="Calculator-inator" height="64" src="https://apt.izzysoft.de/fdroid/repo/com.inator.calculator/en-US/icon.png">
+<img alt="Calculator-inator" height="64" src="https://github.com/prathameshmm02/Calculator-inator/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 ### OpenCalc
 <img alt="OpenCalc" height="64" src="https://github.com/Darkempire78/OpenCalc/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png?raw=true">
@@ -267,7 +267,7 @@ Examined apps: __3/200__ 🕵️
 
 ## Drawing
 ### Simple Draw
-<img alt="SimpleDraw" height="64" src="https://github.com/SimpleMobileTools/Simple-Draw/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="SimpleDraw" height="64" src="https://github.com/SimpleMobileTools/Simple-Draw/raw/master/graphics/icon.png">
 
 ### Pocket Paint
 <img alt="PocketPaint" height="64" src="https://github.com/Catrobat/Paintroid/blob/develop/app/src/main/res/mipmap-xhdpi/ic_launcher.png?raw=true">
@@ -318,7 +318,7 @@ Examined apps: __3/200__ 🕵️
 <img alt="AmazeFileManager" height="64" src="https://github.com/TeamAmaze/AmazeFileManager/raw/release/3.7/icon.png">
 
 ### Simple File Manager
-<img alt="SimpleFileManager" height="64" src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="SimpleFileManager" height="64" src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/graphics/icon.png">
 
 ## File Synchronization
 ### Syncthing
