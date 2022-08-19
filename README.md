@@ -1421,7 +1421,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.lagradost.cloudstream3/)
 - [x] [GitHub](https://github.com/recloudstream/cloudstream)
-- [x] [Official page](https://cloudstream.ws)
+- [x] [Official page](https://recloudstream.github.io/)
 
 ### Burning-Series
 <img alt="Burning-Series" height="64" src="https://f-droid.org/repo/de.datlag.burningseries/en-US/icon_mn8-Wrvht9_iyE6QETjT1TkUaCtOThW2m8OQQfuJzfI=.png">
