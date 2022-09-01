@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **9/200** 🕵️
+Examined apps: **10/200** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -168,6 +168,12 @@ InviZible Pro forwards internet traffic to Tor, DNSCrypt and I2P networks.
 
 ### TrackerControl
 <img alt="TrackerControl" height="64" src="https://trackercontrol.org/images/logo.png">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/net.kollnig.missioncontrol.fdroid/latest/): 0 trackers, 11 permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/): 0
+- [x] [Privacy Policy](https://github.com/TrackerControl/tracker-control-android#privacy-notice): no bits collection.
+> TrackerControl does not send any personal data off your device.
+TrackerControl allows users to monitor the network communications on their Android device. This network data qualifies as personal data, but is only processed locally on the user's device.
 
 ## Alarm
 ### Alarmio
