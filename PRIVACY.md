@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **10/200** 🕵️
+Examined apps: **11/200** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -98,7 +98,7 @@ Examined apps: **10/200** 🕵️
 - [YouTube](#youtube)
 
 ## 2FA
-### Aegis ❤️
+### Aegis
 <img alt="Aegis" height="64" src="https://github.com/beemdevelopment/Aegis/blob/master/app/src/main/res/drawable/ic_aegis_iconx.png?raw=true">
 
 - [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/com.beemdevelopment.aegis/latest/): 0 trackers, 3 permissions
@@ -183,11 +183,11 @@ TrackerControl allows users to monitor the network communications on their Andro
 - [x] [F-Droid Anti-Features](https://f-droid.org/packages/me.jfenn.alarmio/): 0
 - [ ] Privacy Policy: I could not find one.
 
-### Clock ❤️
+### Clock
 <img alt="Clock" height="64" src="https://f-droid.org/repo/com.best.deskclock/en-US/icon_F1H61d_ntO34pu9V6nsk3Zt36toTD9y6m2yo3YYnzfE=.png">
 
 ## Anime & Manga
-### Aniyomi ❤️
+### Aniyomi
 <img alt="Aniyomi" height="64" src="https://raw.githubusercontent.com/jmir1/aniyomi/master/.github/readme-images/app-icon.png">
 
 ### Saikou
@@ -234,7 +234,7 @@ TrackerControl allows users to monitor the network communications on their Andro
 <img alt="SimpleQR" height="64" src="https://raw.githubusercontent.com/tomfong/simple-qr/main/.github/images/icon_round.png">
 
 ## Browser
-### Bromite ❤️
+### Bromite
 <img alt="Bromite" height="64" src="https://camo.githubusercontent.com/bff09bcc69b64a9924df8e61391e90e79c9ac2280e9168505a021ddf0bca612f/68747470733a2f2f7777772e62726f6d6974652e6f72672f616e64726f69642d69636f6e2d313932783139322e706e67">
 
 ### Mull
@@ -244,7 +244,7 @@ TrackerControl allows users to monitor the network communications on their Andro
 <img alt="Brave" height="64" src="https://avatars.githubusercontent.com/u/12301619?s=200&v=4">
 
 ## Calculator
-### Calculator++ ❤️
+### Calculator++
 <img alt="Calculator++" height="64" src="https://github.com/Bubu/android-calculatorpp/blob/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png?raw=true">
 
 ### Calculator-inator
@@ -253,7 +253,7 @@ TrackerControl allows users to monitor the network communications on their Andro
 ### OpenCalc
 <img alt="OpenCalc" height="64" src="https://github.com/Darkempire78/OpenCalc/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png?raw=true">
 
-### Simple Calculator ❤️
+### Simple Calculator
 <img alt="SimpleCalculator" height="64" src="https://github.com/SimpleMobileTools/Simple-Calculator/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 ## Calendar
@@ -271,7 +271,7 @@ TrackerControl allows users to monitor the network communications on their Andro
 <img alt="GrapheneOSCamera" height="64" src="https://github.com/GrapheneOS/Camera/blob/main/app/src/main/ic_launcher-playstore.png?raw=true">
 
 ## Chess
-### Lichess ❤️
+### Lichess
 <img alt="Lichess" height="64" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format">
 
 ## Cleaner
@@ -279,7 +279,7 @@ TrackerControl allows users to monitor the network communications on their Andro
 <img alt="LTECleaner" height="64" src="https://github.com/TheRedSpy15/LTECleanerFOSS/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png?raw=true">
 
 ## Contacts
-### Simple Contacts ❤️
+### Simple Contacts
 <img alt="SimpleContacts" height="64" src="https://github.com/SimpleMobileTools/Simple-Contacts/raw/master/graphics/icon.png">
 
 ## Decision-Making
@@ -287,14 +287,14 @@ TrackerControl allows users to monitor the network communications on their Andro
 <img alt="Decisions" height="64" src="https://raw.githubusercontent.com/markusfisch/Libra/master/svg/google_play_icon.svg">
 
 ## Device Synchronization
-### KDE Connect ❤️
+### KDE Connect
 <img alt="KDEconnect" height="64" src="https://raw.githubusercontent.com/KDE/kdeconnect-kde/master/icons/app/sc-apps-kdeconnect.svg">
 
 ## Dialer
 ### Koler
 <img alt="Koler" height="64" src="https://github.com/Chooloo/koler/blob/master/koler/src/main/ic_launcher-web.png?raw=true">
 
-### Simple Dialer ❤️
+### Simple Dialer
 <img alt="SimpleDialer" height="64" src="https://github.com/SimpleMobileTools/Simple-Dialer/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 ## Diary
@@ -348,14 +348,14 @@ TrackerControl allows users to monitor the network communications on their Andro
 ### Aurora Droid
 <img alt="AuroraDroid" height="64" src="https://gitlab.com/AuroraOSS/auroradroid/-/raw/master/app/src/main/ic_launcher-web.png">
 
-### Droid-ify ❤️
+### Droid-ify
 <img alt="Droid-ify" height="64" src="https://raw.githubusercontent.com/NeoApplications/Neo-Store/cfd917bab523f253394d7d9810b02a0e87b3b1c2/metadata/en-US/images/icon.png">
 
 ### Neo Store
 <img alt="NeoStore" height="64" src="https://raw.githubusercontent.com/NeoApplications/Neo-Store/master/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
 
 ## File Manager
-### Material Files ❤️
+### Material Files
 <img alt="MaterialFiles" height="64" src="https://github.com/zhanghai/MaterialFiles/raw/master/art/launcher_icon.svg">
 
 ### Amaze File Manager
@@ -400,7 +400,7 @@ TrackerControl allows users to monitor the network communications on their Andro
 <img alt="SimpleFlashlight" height="64" src="https://github.com/SimpleMobileTools/Simple-Flashlight/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 ## Gallery
-### Simple Gallery ❤️
+### Simple Gallery
 <img alt="SimpleGallery" height="64" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 ### LeafPic Revived
@@ -442,7 +442,7 @@ TrackerControl allows users to monitor the network communications on their Andro
 <img alt="OctoDroid" height="64" src="https://raw.githubusercontent.com/slapperwan/gh4a/master/app/src/main/res/drawable-xxhdpi/octodroid.png">
 
 ## Google Play
-### Aurora Store ❤️
+### Aurora Store
 <img alt="AuroraStore" height="64" src="https://gitlab.com/AuroraOSS/AuroraStore/-/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
 ## Health
@@ -456,7 +456,7 @@ TrackerControl allows users to monitor the network communications on their Andro
 <img alt="MediLog" height="64" src="https://gitlab.com/toz12/medilog/-/raw/master/app/src/main/ic_launcher.png">
 
 ## Icon Pack
-### Arcticons ❤️
+### Arcticons
 <img alt="Arcticons" height="64" src="https://raw.githubusercontent.com/Donnnno/Arcticons/main/icons/white/arcticons.svg">
 
 ### Ameixa
@@ -470,10 +470,10 @@ TrackerControl allows users to monitor the network communications on their Andro
 <img alt="Imagepipe" height="64" src="https://codeberg.org/repo-avatars/230-a47fb71f565ec2388d5e78c561a5262d">
 
 ## Instant Messaging
-### Signal ❤️
+### Signal
 <img alt="Signal" height="64" src="https://seeklogo.com/images/S/signal-logo-20A1616F60-seeklogo.com.png">
 
-### Molly ❤️
+### Molly
 <img alt="Molly" height="64" src="https://molly.im/author/molly/avatar_huf94a2fd78ceb4148e0a28cd6efbae53a_18855_270x270_fill_lanczos_center_3.png">
 
 ### Session
@@ -489,7 +489,7 @@ TrackerControl allows users to monitor the network communications on their Andro
 <img alt="DeltaChat" height="64" src="https://delta.chat/assets/logos/delta-chat.svg">
 
 ## Keyboard
-### Openboard ❤️
+### Openboard
 <img alt="Openboard" height="64" src="https://github.com/openboard-team/openboard/blob/master/images/open_board_final.png?raw=true">
 
 ### Simple Keyboard
@@ -519,15 +519,15 @@ TrackerControl allows users to monitor the network communications on their Andro
 
 Currently being reworked as Neo Launcher.
 
-### KISS Launcher ❤️
+### KISS Launcher
 <img alt="KISS" height="64" src="https://github.com/Neamar/KISS/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 ## Loyalty Card
-### Catima ❤️
+### Catima
 <img alt="Catima" height="64" src="https://raw.githubusercontent.com/CatimaLoyalty/Android/8318d2e7c38fa478244107716ec125331115cf25/logo.svg">
 
 ## Maps
-### Organic Maps ❤️
+### Organic Maps
 <img alt="OrganicMaps" height="64" src="https://organicmaps.app/logos/green-on-transparent.svg">
 
 ### OsmAnd
@@ -541,7 +541,7 @@ Currently being reworked as Neo Launcher.
 <img alt="FluffyChat" height="64" src="https://gitlab.com/uploads/-/system/project/avatar/16112282/logo.png?width=64">
 
 ## Meditation
-### Medito ❤️
+### Medito
 <img alt="Medito" height="64" src="https://github.com/meditohq/medito-app/blob/develop/android/app/src/main/ic_launcher-web.png?raw=true">
 
 ### Meditation Assistant
@@ -552,7 +552,7 @@ Currently being reworked as Neo Launcher.
 <img alt="SpotiFlyer" height="64" src="https://github.com/Shabinder/SpotiFlyer/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 ## Music Player
-### Metro ❤️
+### Metro
 <img alt="Metro" height="64" src="https://play-lh.googleusercontent.com/LsjjdQ5KSBnnztnMzRq8nTkmmCSINVE3BwSf4YG0Ps2ITGZQ-yV9pzbEAgkDXjx52140=s180">
 
 ### BlackHole
@@ -561,7 +561,7 @@ Currently being reworked as Neo Launcher.
 ### Auxio
 <img alt="Auxio" height="64" src="https://github.com/OxygenCobalt/Auxio/raw/dev/fastlane/metadata/android/en-US/images/icon.png">
 
-### Music Player GO ❤️
+### Music Player GO
 <img alt="MusicPlayerGO" height="64" src="https://github.com/enricocid/Music-Player-GO/blob/main/project/app/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true">
 
 - [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/com.iven.musicplayergo/latest/): 0 trackers, 4 permissions
@@ -582,7 +582,7 @@ Currently being reworked as Neo Launcher.
 <img alt="NoadPlayer" height="64" src="https://github.com/gauravjot/android-noad-music-player/blob/master/app/src/main/ic_launcher-web.png?raw=true">
 
 ## Music Scrobbler
-### Pano Scrobbler ❤️
+### Pano Scrobbler
 <img alt="PanoScrobbler" height="64" src="https://play-lh.googleusercontent.com/QIDK-bs4AbrACmPJsEpcENeQyjMfrfrgsLfizHmqVLanqNE_-Qs8eLpqLdlwCNViXg=w240-h480">
 
 ### Simple Scrobbler
@@ -610,14 +610,14 @@ Currently being reworked as Neo Launcher.
 <img alt="CollaboraOffice" height="64" src="https://www.collaboraoffice.com/wp-content/uploads/2022/03/cropped-collabora-productivity-nav-icon.png">
 
 ## Package Manager
-### App Manager ❤️
+### App Manager
 <img alt="AppManager" height="64" src="https://github.com/MuntashirAkon/AppManager/blob/master/docs/raw/images/icon.png">
 
 ### Package Manager
 <img alt="PackageManager" height="64" src="https://raw.githubusercontent.com/SmartPack/PackageManager/master/app/src/main/ic_launcher-web.png">
 
 ## Password Manager
-### Bitwarden ❤️
+### Bitwarden
 <img alt="Bitwarden" height="64" src="https://github.com/bitwarden/mobile/blob/master/store/google/icons/hi-res-icon.png?raw=true">
 
 ### Keepass2Android
@@ -631,7 +631,7 @@ Currently being reworked as Neo Launcher.
 <img alt="GrapheneOSPDFViewer" height="64" src="https://github.com/GrapheneOS/PdfViewer/blob/main/app/src/main/ic_launcher-playstore.png?raw=true">
 
 ## Public Transport Assistant
-### Transportr ❤️
+### Transportr
 <img alt="Transportr" height="64" src="https://github.com/grote/Transportr/raw/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png">
 
 ### Öffi
@@ -642,7 +642,7 @@ Currently being reworked as Neo Launcher.
 <img alt="AntennaPod" height="64" src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png">
 
 ## Reddit
-### Infinity ❤️
+### Infinity
 <img alt="Infinity" height="64" src="https://github.com/Docile-Alligator/Infinity-For-Reddit/blob/master/app/src/main/res/drawable-xxxhdpi/splash_icon.png?raw=true">
 
 ### Stealth️
@@ -663,7 +663,7 @@ Currently being reworked as Neo Launcher.
 <img alt="Nunti" height="64" src="https://gitlab.com/ondrejfoltyn/nunti/-/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 ## SMS Messenger
-### Simple SMS Messenger ❤️
+### Simple SMS Messenger
 <img alt="SimpleSMSMessenger" height="64" src="https://github.com/SimpleMobileTools/Simple-SMS-Messenger/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
 ### QKSMS
@@ -677,7 +677,7 @@ Currently being reworked as Neo Launcher.
 <img alt="Findroid" height="64" src="https://play-lh.googleusercontent.com/y0r6t9yI5rYK4WRiRoC3E2s408HFDorzCj288979Z82UPDzePBLdGTzipgg11GFy66vv=w240-h480-rw">
 
 ## Spotify
-### Blade Player ❤️
+### Blade Player
 <img alt="BladePlayer" height="64" src="https://github.com/vhaudiquet/BladePlayer/blob/master/app/src/main/ic_launcher-playstore.png">
 
 ## Stargazing
@@ -696,7 +696,7 @@ Currently being reworked as Neo Launcher.
 <img alt="TrailSense" height="64" src="https://raw.githubusercontent.com/kylecorry31/Trail-Sense/main/app/src/main/ic_launcher-web.png">
 
 ## Terminal Emulator
-### Termux ❤️
+### Termux
 <img alt="Termux" height="64" src="https://github.com/termux/termux-app/blob/master/art/ic_launcher2.png?raw=true">
 
 ## Text Editor
@@ -704,7 +704,7 @@ Currently being reworked as Neo Launcher.
 <img alt="Acode" height="64" src="https://raw.githubusercontent.com/deadlyjack/Acode/main/res/icon/android/ic_launcher-web.png">
 
 ## Timers
-### Goodtime ❤️
+### Goodtime
 > Pomodoro Timer
 <img alt="Goodtime" height="64" src="https://github.com/adrcotfas/Goodtime/blob/master/app/src/main/ic_launcher-web.png?raw=true">
 
@@ -727,15 +727,15 @@ Currently being reworked as Neo Launcher.
 <img alt="PocketPlan" height="64" src="https://github.com/estep248/PocketPlan/blob/master/app/src/main/ic_launcher-playstore.png?raw=true">
 
 ## Torrenting
-### LibreTorrent ❤️
+### LibreTorrent
 <img alt="LibreTorrent" height="64" src="https://gitlab.com/proninyaroslav/libretorrent/-/raw/master/art/icon.svg">
 
 ## Trackers
-### Birday ❤️
+### Birday
 > Birthday Tracker
 <img alt="Birday" height="64" src="https://github.com/m-i-n-a-r/birday/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
-### Loop ❤️
+### Loop
 > Habit Tracker
 <img alt="LoopHabitTracker" height="64" src="https://github.com/iSoron/uhabits/blob/dev/uhabits-android/src/main/res/drawable/intro_icon_1.png?raw=true">
 
@@ -747,7 +747,7 @@ Currently being reworked as Neo Launcher.
 > Addiction Tracker
 <img alt="Sobriety" height="64" src="https://github.com/KiARC/Sobriety/blob/master/app/src/main/res/mipmap-xxxhdpi/sobriety.png?raw=true">
 
-### Showly ❤️
+### Showly
 > TV Shows Tracker
 <img alt="Showly" height="64" src="https://camo.githubusercontent.com/3740231f58f9cd91dbf27285736f77ecfac4f63c02fceefcacbeb40778d3f896/68747470733a2f2f692e6962622e636f2f4368424e374c672f69632d6c61756e636865722e706e67">
 
@@ -770,7 +770,7 @@ Currently being reworked as Neo Launcher.
 ### DeepL
 <img alt="DeepL" height="64" src="https://raw.githubusercontent.com/sakusaku3939/DeepLAndroid/master/app/src/main/ic_launcher-playstore.png">
 
-### SimplyTranslate Mobile ❤️
+### SimplyTranslate Mobile
 <img alt="SimplyTranslateMobile" height="64" src="https://github.com/ManeraKai/simplytranslate_mobile/raw/main/fastlane/metadata/android/en-US/images/icon.png">
 
 ## Twitch
@@ -781,7 +781,7 @@ Currently being reworked as Neo Launcher.
 <img alt="Xtra" height="64" src="https://github.com/AndreyAsadchy/Xtra/raw/197ba90cac879abd2a5645393ce361847f12fa0b/app/src/main/ic_launcher-web.png">
 
 ## Twitter
-### Fritter ❤️
+### Fritter
 <img alt="Fritter" height="64" src="https://camo.githubusercontent.com/d2f22524a41d737d6919d4fdad7f60553a0b086fceb581a5de042c32d9c2366c/687474703a2f2f692e696d6775722e636f6d2f786d4f394d54762e706e67">
 
 ## Unit Converter
@@ -789,17 +789,17 @@ Currently being reworked as Neo Launcher.
 <img alt="ConverterNOW" height="64" src="https://github.com/ferraridamiano/ConverterNOW/blob/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true">
 
 ## Video Player
-### VLC ❤️
+### VLC
 <img alt="VLC" height="64" src="https://github.com/videolan/vlc-android/raw/master/application/resources/assets/images/svg/icon.svg">
 
 ### Just (Video) Player
 <img alt="Just(Video)Player" height="64" src="https://github.com/moneytoo/Player/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
-### mpv ❤️
+### mpv
 <img alt="mpv" height="64" src="https://mpv.io/images/mpv-logo-128-0baae5aa.png">
 
 ## Voice Recorder
-### Simple Voice Recorder ❤️
+### Simple Voice Recorder
 <img alt="SimpleVoiceRecorder" height="64" src="https://raw.githubusercontent.com/SimpleMobileTools/Simple-Voice-Recorder/master/graphics/icon.png">
 
 ### Audio Recorder
@@ -836,10 +836,10 @@ Currently being reworked as Neo Launcher.
 <img alt="JustAnotherWorkoutTimer" height="64" src="https://raw.githubusercontent.com/blockbasti/just_another_workout_timer/main/fastlane/metadata/android/en-US/images/icon.png">
 
 ## YouTube
-### NewPipe ❤️
+### NewPipe
 <img alt="NewPipe" height="64" src="https://newpipe.net/img/logo.svg">
 
-### NewPipe x SponsorBlock x Return YouTube Dislike ❤️
+### NewPipe x SponsorBlock x Return YouTube Dislike
 <img alt="NewPipeXSponsorBlockXReturnYouTubeDislike" height="64" src="https://newpipe.net/img/logo.svg">
 
 ### SkyTube
