@@ -5,8 +5,9 @@ See [example](#music-player-go):
 ## Trackers
 The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the app can have is with `crash reporting` label.
 
-## F-Droid Anti-Features
-WIP
+## F-Droid Anti-Features (WIP)
+The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
+- [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
 Examined apps: __3/200__ 🕵️
 
