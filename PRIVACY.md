@@ -186,6 +186,10 @@ TrackerControl allows users to monitor the network communications on their Andro
 ### Clock
 <img alt="Clock" height="64" src="https://f-droid.org/repo/com.best.deskclock/en-US/icon_F1H61d_ntO34pu9V6nsk3Zt36toTD9y6m2yo3YYnzfE=.png">
 
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/com.best.deskclock/latest/): 0 trackers, 9 permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/packages/com.best.deskclock/): 0
+- [ ] Privacy Policy: I could not find one.
+
 ## Anime & Manga
 ### Aniyomi
 <img alt="Aniyomi" height="64" src="https://raw.githubusercontent.com/jmir1/aniyomi/master/.github/readme-images/app-icon.png">
