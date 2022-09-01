@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **6/200** 🕵️
+Examined apps: **7/200** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -144,6 +144,11 @@ InviZible Pro forwards internet traffic to Tor, DNSCrypt and I2P networks.
 
 ### NetGuard
 <img alt="NetGuard" height="64" src="https://raw.githubusercontent.com/M66B/NetGuard/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/265877/): 0 trackers, 11 permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/packages/eu.faircode.netguard/): 0
+- [x] [Privacy Policy](https://netguard.me/): no bits collection.
+> Privacy is my policy: I will not, under any circumstances whatsoever, give out or sell privacy sensitive information to anyone, unless required by law.
 
 ### personalDNSfilter
 <img alt="personalDNSfilter" height="64" src="https://www.zenz-solutions.de/cms/wp-content/uploads/2020/11/vector_source_512.svg">
