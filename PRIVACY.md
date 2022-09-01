@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **7/200** 🕵️
+Examined apps: **8/200** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -152,6 +152,11 @@ InviZible Pro forwards internet traffic to Tor, DNSCrypt and I2P networks.
 
 ### personalDNSfilter
 <img alt="personalDNSfilter" height="64" src="https://www.zenz-solutions.de/cms/wp-content/uploads/2020/11/vector_source_512.svg">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/258861/): 0 trackers, 8	permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/packages/dnsfilter.android/): 0
+- [x] [Privacy Policy](https://www.zenz-solutions.de/personaldnsfilter-privacy/): no bits collection.
+> Our app does not collect user data in any way; personalDNSfilter is not in any way capable to collect any data.
 
 ### RethinkDNS
 <img alt="RethinkDNS" height="64" src="https://play-lh.googleusercontent.com/09-ilhXCKkL8cLZtEDBEhduNW9N88IgM8EW_ghtPakQNNzRY6r1PNTp79vlmq-xz8SA=w240-h480-rw">
