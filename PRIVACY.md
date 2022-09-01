@@ -101,10 +101,10 @@ Examined apps: __3/200__ 🕵️
 ### Aegis ❤️
 <img alt="Aegis" height="64" src="https://github.com/beemdevelopment/Aegis/blob/master/app/src/main/res/drawable/ic_aegis_iconx.png?raw=true">
 
-> [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/com.beemdevelopment.aegis/latest/): 0 trackers, 3 permissions
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/com.beemdevelopment.aegis/latest/): 0 trackers, 3 permissions
 - [x] [F-Droid Anti-Features](https://f-droid.org/en/packages/com.beemdevelopment.aegis/): 0
 - [x] [Privacy Policy](https://getaegis.app/aegis/privacy.html): no bits collection.
-> Aegis Authenticator does not collect any data from your devic
+> Aegis Authenticator does not collect any data from your device.
 
 ### Authenticator Pro
 <img alt="AuthenticatorPro" height="64" src="https://github.com/jamie-mh/AuthenticatorPro/blob/master/doc/ic_launcher-web.png?raw=true">
