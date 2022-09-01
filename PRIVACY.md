@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: __3/200__ 🕵️
+Examined apps: __4/200__ 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -117,6 +117,12 @@ Examined apps: __3/200__ 🕵️
 ## Ad Blocking
 ### AdAway
 <img alt="AdAway" height="64" src="https://github.com/AdAway/AdAway/blob/master/app/src/main/res/mipmap-mdpi/icon.png?raw=true">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/org.adaway/latest/): 0 trackers, 7 permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/packages/org.adaway/): 0
+- [x] [Privacy Policy](https://github.com/AdAway/AdAway/wiki/Telemetry#tldr): no bits collection.
+> AdAway do not record or send any personal data.
+User can send crash and anonymous usage data if he/she want to.
 
 ### DNS66
 <img alt="DNS66" height="64" src="https://f-droid.org/repo/icons-640/org.jak_linux.dns66.29.png">
