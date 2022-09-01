@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **11/200** 🕵️
+Examined apps: **13/200** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -843,8 +843,26 @@ Currently being reworked as Neo Launcher.
 ### NewPipe
 <img alt="NewPipe" height="64" src="https://newpipe.net/img/logo.svg">
 
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/org.schabi.newpipe/latest/): 0 trackers, 7 permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/packages/org.schabi.newpipe): 1
+	- [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
+- [x] [Privacy Policy](https://newpipe.net/#privacy):
+	- No proprietary Google APIs
+	- Only send information which are required to get video and channel details
+	- Decide what information we keep
+	- We store everything offline on your device
+
 ### NewPipe x SponsorBlock x Return YouTube Dislike
 <img alt="NewPipeXSponsorBlockXReturnYouTubeDislike" height="64" src="https://newpipe.net/img/logo.svg">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/org.schabi.newpipe/latest/): 0 trackers, 7 permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/packages/org.schabi.newpipe): 1
+	- [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
+- [x] [Privacy Policy](https://newpipe.net/#privacy):
+	- No proprietary Google APIs
+	- Only send information which are required to get video and channel details
+	- Decide what information we keep
+	- We store everything offline on your device
 
 ### SkyTube
 <img alt="SkyTube" height="64" src="https://github.com/SkyTubeTeam/SkyTube/blob/master/app/src/main/ic_launcher-web.png?raw=true">
