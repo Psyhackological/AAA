@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: __4/200__ 🕵️
+Examined apps: **5/200** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -126,6 +126,14 @@ User can send crash and anonymous usage data if he/she want to.
 
 ### DNS66
 <img alt="DNS66" height="64" src="https://f-droid.org/repo/icons-640/org.jak_linux.dns66.29.png">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/org.jak_linux.dns66/latest/): 0 trackers, 5 permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/packages/org.jak_linux.dns66): 0
+- [x] [Privacy Policy](https://github.com/julian-klode/dns66#privacy-guarantee): no bits collection.
+> Privacy is the most important aspect of DNS66. Currently, DNS66 is strictly data reducing.
+If such a feature is added (Automatic updates, Debugging), you will be presented with the choice to enable it (it will be disabled by default).
+
+
 
 ### InviZible Pro
 <img alt="InviZiblePro" height="64" src="https://apt.izzysoft.de/fdroid/repo/pan.alexander.tordnscrypt/en-US/icon.png">
