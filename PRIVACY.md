@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **8/200** 🕵️
+Examined apps: **9/200** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -160,6 +160,11 @@ InviZible Pro forwards internet traffic to Tor, DNSCrypt and I2P networks.
 
 ### RethinkDNS
 <img alt="RethinkDNS" height="64" src="https://play-lh.googleusercontent.com/09-ilhXCKkL8cLZtEDBEhduNW9N88IgM8EW_ghtPakQNNzRY6r1PNTp79vlmq-xz8SA=w240-h480-rw">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/com.celzero.bravedns/latest/): 0 trackers, 9 permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/packages/com.celzero.bravedns/): 0
+- [x] [Privacy Policy](https://rethinkdns.com/privacy): no bits collection.
+> We do not collect, sell, license, share any data (personally identifiable or otherwise) from the RethinkDNS Android app.
 
 ### TrackerControl
 <img alt="TrackerControl" height="64" src="https://trackercontrol.org/images/logo.png">
