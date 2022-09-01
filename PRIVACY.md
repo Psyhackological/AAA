@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **5/200** 🕵️
+Examined apps: **6/200** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -133,10 +133,14 @@ User can send crash and anonymous usage data if he/she want to.
 > Privacy is the most important aspect of DNS66. Currently, DNS66 is strictly data reducing.
 If such a feature is added (Automatic updates, Debugging), you will be presented with the choice to enable it (it will be disabled by default).
 
-
-
 ### InviZible Pro
 <img alt="InviZiblePro" height="64" src="https://apt.izzysoft.de/fdroid/repo/pan.alexander.tordnscrypt/en-US/icon.png">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/pan.alexander.tordnscrypt.stable/latest/): 0 trackers, 11 permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/packages/pan.alexander.tordnscrypt.stable): 0
+- [x] [Privacy Policy](https://invizible.net/en/privacy/): no bits collection.
+> InviZible Pro does not collect or share any personal or sensitive user data.
+InviZible Pro forwards internet traffic to Tor, DNSCrypt and I2P networks.
 
 ### NetGuard
 <img alt="NetGuard" height="64" src="https://raw.githubusercontent.com/M66B/NetGuard/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
