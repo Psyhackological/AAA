@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **18/200** 🕵️
+Examined apps: **19/200** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -738,6 +738,11 @@ Currently being reworked as Neo Launcher.
 ## Torrenting
 ### LibreTorrent
 <img alt="LibreTorrent" height="64" src="https://gitlab.com/proninyaroslav/libretorrent/-/raw/master/art/icon.svg">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/241475/): 0 trackers, 14 permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/en/packages/org.proninyaroslav.libretorrent/): 0
+- [x] [Privacy Policy](https://gitlab.com/proninyaroslav/libretorrent/-/blob/master/PRIVACY.md): unless you allow crash reporting.
+> The developer doesn't collect personally identifiable data. Only except when you send crash logs. The logs contain no personal or identifying information, however, your identity may be revealed through your email address.
 
 ## Trackers
 ### Birday
