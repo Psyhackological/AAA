@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **17/200** 🕵️
+Examined apps: **18/200** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -702,6 +702,11 @@ Currently being reworked as Neo Launcher.
 ## Terminal Emulator
 ### Termux
 <img alt="Termux" height="64" src="https://github.com/termux/termux-app/blob/master/art/ic_launcher2.png?raw=true">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/229805/): 0 trackers, 13 permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/packages/com.termux/): 0
+- [x] [Privacy Policy](https://termux.dev/en/privacy-policy): no bits collection.
+> Termux does not record any personal information and requests permissions only for termux and its plugin apps to function properly, without sending any data over the network in the background.
 
 ## Text Editor
 ### Acode
