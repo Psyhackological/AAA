@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **13/200** 🕵️
+Examined apps: **14/200** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -795,6 +795,16 @@ Currently being reworked as Neo Launcher.
 ## Video Player
 ### VLC
 <img alt="VLC" height="64" src="https://github.com/videolan/vlc-android/raw/master/application/resources/assets/images/svg/icon.svg">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/239992/): 0 trackers, 18 permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/packages/org.videolan.vlc/): 0
+- [x] [Privacy Policy](https://www.videolan.org/privacy.html): no bits collection unless you allow crash reporting.
+> VLC software does not use any user account, and does not collect any user data, when working.
+VideoLAN does not collect any data, nor any telemetry, when VLC is being run.
+However, some limited personal information could be collected or shared in 3 precise cases:
+- during the crash report process,
+- during updates checking,
+- for metadata retrieval.
 
 ### Just (Video) Player
 <img alt="Just(Video)Player" height="64" src="https://github.com/moneytoo/Player/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
