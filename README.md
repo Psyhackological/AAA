@@ -1451,7 +1451,7 @@ Currently being reworked as Neo Launcher.
 
 ## Text Editor
 ### Acode
-<img alt="Acode" height="64" src="https://raw.githubusercontent.com/deadlyjack/Acode/main/res/icon/android/ic_launcher-web.png">
+<img alt="Acode" height="64" src="https://github.com/deadlyjack/Acode/raw/main/res/logo_1.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)
 - [x] [F-Droid](https://f-droid.org/packages/com.foxdebug.acode/)

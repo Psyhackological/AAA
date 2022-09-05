@@ -690,7 +690,7 @@ Currently being reworked as Neo Launcher.
 
 ## Streaming
 ### CloudStream
-<img alt="CloudStream" height="64" src="https://github.com/LagradOst/CloudStream-3/blob/master/app/src/main/ic_launcher-playstore.png?raw=true">
+<img alt="CloudStream" height="64" src="https://raw.githubusercontent.com/recloudstream/cloudstream/master/app/src/main/ic_launcher-playstore.png">
 
 ### Burning-Series
 <img alt="Burning-Series" height="64" src="https://f-droid.org/repo/de.datlag.burningseries/en-US/icon_mn8-Wrvht9_iyE6QETjT1TkUaCtOThW2m8OQQfuJzfI=.png">
@@ -710,7 +710,7 @@ Currently being reworked as Neo Launcher.
 
 ## Text Editor
 ### Acode
-<img alt="Acode" height="64" src="https://raw.githubusercontent.com/deadlyjack/Acode/main/res/icon/android/ic_launcher-web.png">
+<img alt="Acode" height="64" src="https://github.com/deadlyjack/Acode/raw/main/res/logo_1.png">
 
 ## Timers
 ### Goodtime
