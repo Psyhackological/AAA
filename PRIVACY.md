@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **16/200** 🕵️
+Examined apps: **17/200** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -893,5 +893,10 @@ However, some limited personal information could be collected or shared in 3 pre
 
 ### ViMusic
 <img alt="ViMusic" height="64" src="https://github.com/vfsfitvnm/ViMusic/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/286965/): 0 trackers, 5 permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/packages/it.vfsfitvnm.vimusic/): 1
+	- [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
+- [ ] Privacy Policy: not found.
 
 # [⬆ Go back ⬆](#contents)
