@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **15/200** 🕵️
+Examined apps: **16/200** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -808,6 +808,10 @@ However, some limited personal information could be collected or shared in 3 pre
 
 ### Just (Video) Player
 <img alt="Just(Video)Player" height="64" src="https://github.com/moneytoo/Player/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/261844/): 0 trackers, 5 permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/en/packages/com.brouken.player/): 0
+- [ ] Privacy Policy: not found.
 
 ### mpv
 <img alt="mpv" height="64" src="https://mpv.io/images/mpv-logo-128-0baae5aa.png">
