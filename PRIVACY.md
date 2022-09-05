@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **19/200** 🕵️
+Examined apps: **20/200** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -277,6 +277,14 @@ TrackerControl allows users to monitor the network communications on their Andro
 ## Chess
 ### Lichess
 <img alt="Lichess" height="64" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/289873/): 1 tracker, 5 permissions
+	- [Google Firebase Analytics](https://reports.exodus-privacy.eu.org/en/trackers/49/) - analytics. However this is [only for push notifications](https://github.com/lichess-org/lichobile/issues/1121#issuecomment-603447225). No real tracking.
+- [x] [F-Droid Anti-Features](https://apt.izzysoft.de/fdroid/index/apk/org.lichess.mobileapp): 3
+	- ~~[Tracking](https://f-droid.org/docs/Anti-Features/#Tracking)~~ - not really as stated above
+	- [Non-Free Dependencies](https://f-droid.org/docs/Anti-Features/#NonFreeDep)
+	- [Non-Free Network Services](https://f-droid.org/docs/Anti-Features/#NonFreeNet) - to be honest not sure why.
+- [x] [Privacy Policy](https://lichess.org/privacy): some data collected, but nothing spooky. Read for yourself. 
 
 ## Cleaner
 ### LTE Cleaner
