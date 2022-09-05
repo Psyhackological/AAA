@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **14/200** 🕵️
+Examined apps: **15/200** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -112,7 +112,7 @@ Examined apps: **14/200** 🕵️
 - [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/me.jmh.authenticatorpro/latest/): 0 trackers, 8 permissions
 - [x] [F-Droid Anti-Features](https://apt.izzysoft.de/fdroid/index/apk/me.jmh.authenticatorpro): 1
   - [NonFree Dependencies](https://f-droid.org/docs/Anti-Features/#NonFreeDep): The application depends on a non-free application (usually Google Services) – i.e. it requires it to be installed on the device, but does not include it.
-- [ ] Privacy Policy: I could not find one.
+- [ ] Privacy Policy: not found.
 
 ## Ad Blocking
 ### AdAway
@@ -181,14 +181,14 @@ TrackerControl allows users to monitor the network communications on their Andro
 
 - [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/me.jfenn.alarmio/latest/): 0 trackers, 12 permissions
 - [x] [F-Droid Anti-Features](https://f-droid.org/packages/me.jfenn.alarmio/): 0
-- [ ] Privacy Policy: I could not find one.
+- [ ] Privacy Policy: not found.
 
 ### Clock
 <img alt="Clock" height="64" src="https://f-droid.org/repo/com.best.deskclock/en-US/icon_F1H61d_ntO34pu9V6nsk3Zt36toTD9y6m2yo3YYnzfE=.png">
 
 - [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/com.best.deskclock/latest/): 0 trackers, 9 permissions
 - [x] [F-Droid Anti-Features](https://f-droid.org/packages/com.best.deskclock/): 0
-- [ ] Privacy Policy: I could not find one.
+- [ ] Privacy Policy: not found.
 
 ## Anime & Manga
 ### Aniyomi
@@ -811,6 +811,10 @@ However, some limited personal information could be collected or shared in 3 pre
 
 ### mpv
 <img alt="mpv" height="64" src="https://mpv.io/images/mpv-logo-128-0baae5aa.png">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/286399/): 0 trackers, 4 permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/packages/is.xyz.mpv): 0
+- [ ] Privacy Policy: not found.
 
 ## Voice Recorder
 ### Simple Voice Recorder
