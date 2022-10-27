@@ -1060,6 +1060,15 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/osmandapp/OsmAnd)
 - [x] [Official page](https://osmand.net/)
 
+## MarkDown
+### Markor
+<img alt="OsmAnd" height="64" src="https://github.com/gsantner/markor/raw/master/app/src/main/ic_launcher-web.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=net.gsantner.markor)
+- [x] [F-Droid](https://f-droid.org/repository/browse/?fdid=net.gsantner.markor)
+- [x] [GitHub](https://github.com/gsantner/markor)
+- [x] [Official page](https://gsantner.net/project/markor.html)
+
 ## Matrix Client
 ### Element
 <img alt="Element" height="64" src="https://element.io/images/logo-mark-primary.svg">

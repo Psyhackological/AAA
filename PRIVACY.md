@@ -58,6 +58,7 @@ Examined apps: **20/200** 🕵️
 - [Launcher](#launcher)
 - [Loyalty Card](#loyalty-card)
 - [Maps](#maps)
+- [MarkDown](#markdown)
 - [Matrix Client](#matrix-client)
 - [Meditation](#meditation)
 - [Music Downloader](#music-downloader)
@@ -546,6 +547,10 @@ Currently being reworked as Neo Launcher.
 
 ### OsmAnd
 <img alt="OsmAnd" height="64" src="https://osmand.net/img/logo.svg">
+
+## MarkDown
+### Markor
+<img alt="OsmAnd" height="64" src="https://github.com/gsantner/markor/raw/master/app/src/main/ic_launcher-web.png">
 
 ## Matrix Client
 ### Element
