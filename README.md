@@ -857,17 +857,19 @@ F-Droid version is outdated compared to GitHub's.
 <img alt="MedicLog" height="64" src="https://raw.githubusercontent.com/rh-id/a-medic-log/master/graphics/launcher.svg">
 
 - [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/com.zell_mbc.medilog/index.html.en)
-- [x] [GitLab](https://gitlab.com/toz12/medilog)
-- [ ] Official page
-
-### MediLog
-<img alt="MediLog" height="64" src="https://gitlab.com/toz12/medilog/-/raw/master/app/src/main/ic_launcher.png">
-
-- [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/m.co.rh.id.a_medic_log/)
 - [x] [GitHub](https://github.com/rh-id/a-medic-log)
-- [x] [Official page](https://zell-mbc.com/en/privacy/medilog)
+- [ ] Official page
+
+### ~~MediLog~~
+<img alt="MediLog" height="64" src="https://gitlab.com/toz12/medilog/-/raw/master/app/src/main/ic_launcher.png">
+
+Because the dev have decided to make repo private, I am crossing out this app from the list for now.
+
+- [ ] ~~Google Play~~
+- [x] ~~[F-Droid](https://f-droid.org/en/packages/com.zell_mbc.medilog/)~~
+- [x] ~~[GitLab](https://gitlab.com/toz12/medilog)~~
+- [x] ~~[Official page](https://zell-mbc.com/en/privacy/medilog)~~
 
 ## Icon Pack
 ### Arcticons ❤️
@@ -937,8 +939,8 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/NekoX-Dev/NekoX)
 - [ ] Official page
 
-### Owlgram
-<img alt="Owlgram" height="64" src="https://owlgram.org/img/owlgram.svg">
+### OwlGram
+<img alt="Owlgram" height="64" src="https://github.com/OwlGramDev/OwlGram/blob/master/TMessagesProj/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=it.owlgram.android)
 - [ ] F-Droid

@@ -464,8 +464,10 @@ TrackerControl allows users to monitor the network communications on their Andro
 ### Medic Log
 <img alt="MedicLog" height="64" src="https://raw.githubusercontent.com/rh-id/a-medic-log/master/graphics/launcher.svg">
 
-### MediLog
+### ~~MediLog~~
 <img alt="MediLog" height="64" src="https://gitlab.com/toz12/medilog/-/raw/master/app/src/main/ic_launcher.png">
+
+Because the dev have decided to make repo private, I am crossing out this app from the list for now.
 
 ## Icon Pack
 ### Arcticons
@@ -494,8 +496,8 @@ TrackerControl allows users to monitor the network communications on their Andro
 ### Nekogram X
 <img alt="NekogramX" height="64" src="https://raw.githubusercontent.com/NekogramX/NekoX/master/TMessagesProj/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
-### Owlgram
-<img alt="Owlgram" height="64" src="https://owlgram.org/img/owlgram.svg">
+### OwlGram
+<img alt="Owlgram" height="64" src="https://github.com/OwlGramDev/OwlGram/blob/master/TMessagesProj/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true">
 
 ### Delta Chat
 <img alt="DeltaChat" height="64" src="https://delta.chat/assets/logos/delta-chat.svg">
