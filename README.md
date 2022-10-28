@@ -719,6 +719,14 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/rh-id/a-flash-deck)
 - [ ] Official page
 
+## ForgetMeNot
+<img alt="ForgetMeNot" height="64" src="https://f-droid.org/repo/com.odnovolov.forgetmenot/en-US/icon_guEyudgAuGfC-nIYBECNoOPT16msLg8RfV3bkcbKrGU=.png">
+                                                                                                                                                   
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.odnovolov.forgetmenot)
+- [x] [F-Droid](https://f-droid.org/packages/com.odnovolov.forgetmenot/)
+- [x] [GitHub](https://github.com/tema6120/ForgetMeNot)
+- [ ] Official page
+
 ## Flashlight
 ### Simple Flashlight
 <img alt="SimpleFlashlight" height="64" src="https://github.com/SimpleMobileTools/Simple-Flashlight/raw/master/fastlane/metadata/android/en-US/images/icon.png">
@@ -996,8 +1004,8 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcommandbibliotheca)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.inspiredandroid.linuxcommandbibliotheca)
 - [x] [GitHub](https://github.com/SimonSchubert/LinuxCommandLibrary)
-- [x] [Official page](https://linuxcommandlibrary.com/)
-
+- [x] [Official page](https://linuxcommandlibrary.com/)                                                                                              
+                                                                                                                                                     
 ## Language
 ### Kakugo
 <img alt="Kakugo" height="64" src="https://raw.githubusercontent.com/blastrock/kakugo/master/app/src/main/ic_launcher-web.png">
@@ -1227,6 +1235,14 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/laurent22/joplin/)
 - [x] [Official page](https://joplinapp.org/)
 
+### Safe Notes
+<img alt="Safe Notes" height="64" src="https://f-droid.org/repo/com.trisven.safenotes/en-US/icon_0hHDPDBeGzxMT5RtWKoz4APlRMZFM-dZrCH46HGqCLQ=.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.trisven.safenotes)
+- [x] [F-Droid](https://f-droid.org/packages/com.trisven.safenotes/)
+- [x] [GitHub](https://github.com/keshav-space/safenotes/)
+- [x] [Official page](https://safenotes.keshav.space/)
+
 ## OCR
 ### OCR (Tesseract)
 <img alt="OCR(Tesseract)" height="64" src="https://github.com/mtotschnig/OCR/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_scan.png?raw=true">
@@ -1451,6 +1467,15 @@ Currently being reworked as Neo Launcher.
 - [ ] Official page
 
 ## Survival
+
+### Survival Manual
+<img alt="Survival Manual" height="64" src="https://f-droid.org/repo/icons-640/org.ligi.survivalmanual.428.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.ligi.survivalmanual)
+- [x] [Fdroid](https://f-droid.org/packages/org.ligi.survivalmanual/)
+- [x] [GitHub](https://github.com/ligi/SurvivalManual)
+- [x] [Official page](https://survivalmanual.github.io/)
+
 ### Trail Sense
 <img alt="TrailSense" height="64" src="https://raw.githubusercontent.com/kylecorry31/Trail-Sense/main/app/src/main/ic_launcher-web.png">
 
@@ -1632,10 +1657,18 @@ Currently being reworked as Neo Launcher.
 ### SimplyTranslate Mobile ❤️
 <img alt="SimplyTranslateMobile" height="64" src="https://github.com/ManeraKai/simplytranslate_mobile/raw/main/fastlane/metadata/android/en-US/images/icon.png">
 
-- [ ] Google Play
+- [x] [Google Play](https://f-droid.org/en/packages/com.simplytranslate_mobile/)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile/)
 - [x] [GitHub](https://github.com/ManeraKai/simplytranslate_mobile)
 - [x] [Official page](https://manerakai.github.io/simplytranslate_mobile/index.html)
+
+### LibreTranslator
+<img alt="SimplyTranslateMobile" height="64" src="https://codeberg.org/BeoCode/LibreTranslator/raw/branch/main/app/src/main/ic_launcher-playstore.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=de.beowulf.libretranslater)
+- [x] [F-Droid](https://f-droid.org/packages/de.beowulf.libretranslater/)
+- [x] [Codeberg](https://codeberg.org/BeoCode/LibreTranslator)
+- [ ] Official page
 
 ## Twitch
 ### Twire
