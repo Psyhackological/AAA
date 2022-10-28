@@ -1279,7 +1279,7 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/PhilippC/keepass2android)
 - [ ] Official page
 
-KeePassDX ❤️
+### KeePassDX ❤️
 <img alt="KeePassDX" height="64" src="https://raw.githubusercontent.com/Kunzisoft/KeePassDX/master/art/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)
