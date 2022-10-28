@@ -622,7 +622,7 @@ F-Droid version is outdated compared to GitHub's.
 <img alt="NeoStore" height="64" src="https://raw.githubusercontent.com/NeoApplications/Neo-Store/master/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
 
 - [ ] Google Play
-- [x] [F-Droid](https://www.f-droid.org/en/packages/com.machiav3lli.fdroid/)
+- [x] [F-Droid](https://www.f-droid.org/packages/com.machiav3lli.fdroid/)
 - [x] [GitHub](https://github.com/NeoApplications/Neo-Store)
 - [ ] Official page
 
@@ -1299,7 +1299,7 @@ Currently being reworked as Neo Launcher.
 <img alt="KeePassDX" height="64" src="https://raw.githubusercontent.com/Kunzisoft/KeePassDX/master/art/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)
-- [x] [F-Droid](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/)
+- [x] [F-Droid](https://f-droid.org/packages/com.kunzisoft.keepass.libre/)
 - [x] [GitHub](https://github.com/Kunzisoft/KeePassDX)
 - [x] [Official page](https://www.keepassdx.com/)
 
@@ -1657,13 +1657,13 @@ Currently being reworked as Neo Launcher.
 ### SimplyTranslate Mobile ❤️
 <img alt="SimplyTranslateMobile" height="64" src="https://github.com/ManeraKai/simplytranslate_mobile/raw/main/fastlane/metadata/android/en-US/images/icon.png">
 
-- [x] [Google Play](https://f-droid.org/en/packages/com.simplytranslate_mobile/)
-- [x] [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile/)
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.simplytranslate_mobile/)
 - [x] [GitHub](https://github.com/ManeraKai/simplytranslate_mobile)
 - [x] [Official page](https://manerakai.github.io/simplytranslate_mobile/index.html)
 
 ### LibreTranslator
-<img alt="SimplyTranslateMobile" height="64" src="https://codeberg.org/BeoCode/LibreTranslator/raw/branch/main/app/src/main/ic_launcher-playstore.png">
+<img alt="LibreTranslator" height="64" src="https://codeberg.org/BeoCode/LibreTranslator/raw/branch/main/app/src/main/ic_launcher-playstore.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=de.beowulf.libretranslater)
 - [x] [F-Droid](https://f-droid.org/packages/de.beowulf.libretranslater/)
