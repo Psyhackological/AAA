@@ -1279,6 +1279,14 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/PhilippC/keepass2android)
 - [ ] Official page
 
+KeePassDX ❤️
+<img alt="KeePassDX" height="64" src="https://raw.githubusercontent.com/Kunzisoft/KeePassDX/master/art/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.kunzisoft.keepass.libre/)
+- [x] [GitHub](https://github.com/Kunzisoft/KeePassDX)
+- [x] [Official page](https://www.keepassdx.com/)
+
 ## PDF Viewer
 ### Pdf Viewer Plus
 <img alt="PdfViewerPlus" height="64" src="https://github.com/JavaCafe01/PdfViewer/raw/master/images/high_res.png">
