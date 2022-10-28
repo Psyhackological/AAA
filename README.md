@@ -423,7 +423,7 @@ F-Droid version is outdated compared to GitHub's.
 <img alt="Lichess" height="64" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.lichess.mobileapp)
-- [ ] F-Droid
+- [x] [F-Droid](https://www.f-droid.org/packages/org.lichess.mobileapp.free/)
 - [x] [GitHub](https://github.com/lichess-org/lichobile)
 - [x] [Official page](https://lichess.org/mobile)
 
@@ -487,6 +487,14 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary)
 - [x] [F-Droid](https://f-droid.org/en/packages/me.blog.korn123.easydiary)
 - [x] [GitHub](https://github.com/hanjoongcho/aaf-easydiary)
+- [ ] Official page
+
+### Diary
+<img alt="Diary" height="64" src="https://raw.githubusercontent.com/billthefarmer/diary/master/src/main/res/drawable-hdpi/ic_launcher.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/org.billthefarmer.diary/)
+- [x] [GitHub](https://github.com/billthefarmer/diary)
 - [ ] Official page
 
 ## Download Manager
@@ -614,7 +622,7 @@ F-Droid version is outdated compared to GitHub's.
 <img alt="NeoStore" height="64" src="https://raw.githubusercontent.com/NeoApplications/Neo-Store/master/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
 
 - [ ] Google Play
-- [ ] F-Droid
+- [x] [F-Droid](https://www.f-droid.org/en/packages/com.machiav3lli.fdroid/)
 - [x] [GitHub](https://github.com/NeoApplications/Neo-Store)
 - [ ] Official page
 
@@ -717,14 +725,6 @@ F-Droid version is outdated compared to GitHub's.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/m.co.rh.id.a_flash_deck/)
 - [x] [GitHub](https://github.com/rh-id/a-flash-deck)
-- [ ] Official page
-
-## ForgetMeNot
-<img alt="ForgetMeNot" height="64" src="https://f-droid.org/repo/com.odnovolov.forgetmenot/en-US/icon_guEyudgAuGfC-nIYBECNoOPT16msLg8RfV3bkcbKrGU=.png">
-                                                                                                                                                   
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.odnovolov.forgetmenot)
-- [x] [F-Droid](https://f-droid.org/packages/com.odnovolov.forgetmenot/)
-- [x] [GitHub](https://github.com/tema6120/ForgetMeNot)
 - [ ] Official page
 
 ## Flashlight
