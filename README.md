@@ -24,7 +24,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __206__ 🎉
+__AWESOME__ apps counter: __205__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -1661,14 +1661,6 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/packages/com.simplytranslate_mobile/)
 - [x] [GitHub](https://github.com/ManeraKai/simplytranslate_mobile)
 - [x] [Official page](https://manerakai.github.io/simplytranslate_mobile/index.html)
-
-### LibreTranslator
-<img alt="LibreTranslator" height="64" src="https://codeberg.org/BeoCode/LibreTranslator/raw/branch/main/app/src/main/ic_launcher-playstore.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=de.beowulf.libretranslater)
-- [x] [F-Droid](https://f-droid.org/packages/de.beowulf.libretranslater/)
-- [x] [Codeberg](https://codeberg.org/BeoCode/LibreTranslator)
-- [ ] Official page
 
 ## Twitch
 ### Twire
