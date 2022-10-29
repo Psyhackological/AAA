@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **20/201** 🕵️
+Examined apps: **20/205** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -313,6 +313,9 @@ TrackerControl allows users to monitor the network communications on their Andro
 ## Diary
 ### Easy Diary
 <img alt="EasyDiary" height="64" src="https://github.com/hanjoongcho/aaf-easydiary/raw/master/screenshots/ic_launcher.png">
+
+### Diary
+<img alt="Diary" height="64" src="https://raw.githubusercontent.com/billthefarmer/diary/master/src/main/res/drawable-hdpi/ic_launcher.png">
 
 ## Download Manager
 ### Download Navi
@@ -620,6 +623,9 @@ Currently being reworked as Neo Launcher.
 ### Joplin
 <img alt="Joplin" height="64" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png">
 
+### Safe Notes
+<img alt="Safe Notes" height="64" src="https://f-droid.org/repo/com.trisven.safenotes/en-US/icon_0hHDPDBeGzxMT5RtWKoz4APlRMZFM-dZrCH46HGqCLQ=.png">
+
 ## OCR
 ### OCR (Tesseract)
 <img alt="OCR(Tesseract)" height="64" src="https://github.com/mtotschnig/OCR/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_scan.png?raw=true">
@@ -641,6 +647,9 @@ Currently being reworked as Neo Launcher.
 
 ### Keepass2Android
 <img alt="Keepass2Android" height="64" src="https://github.com/PhilippC/keepass2android/blob/master/graphics/launcher_icon/Logo-green.svg">
+
+### KeePassDX
+<img alt="KeePassDX" height="64" src="https://raw.githubusercontent.com/Kunzisoft/KeePassDX/master/art/icon.png">
 
 ## PDF Viewer
 ### Pdf Viewer Plus
@@ -711,6 +720,9 @@ Currently being reworked as Neo Launcher.
 <img alt="Burning-Series" height="64" src="https://f-droid.org/repo/de.datlag.burningseries/en-US/icon_mn8-Wrvht9_iyE6QETjT1TkUaCtOThW2m8OQQfuJzfI=.png">
 
 ## Survival
+### Survival Manual
+<img alt="Survival Manual" height="64" src="https://f-droid.org/repo/icons-640/org.ligi.survivalmanual.428.png">
+
 ### Trail Sense
 <img alt="TrailSense" height="64" src="https://raw.githubusercontent.com/kylecorry31/Trail-Sense/main/app/src/main/ic_launcher-web.png">
 

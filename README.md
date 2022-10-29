@@ -24,7 +24,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __201__ 🎉
+__AWESOME__ apps counter: __205__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -423,7 +423,7 @@ F-Droid version is outdated compared to GitHub's.
 <img alt="Lichess" height="64" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.lichess.mobileapp)
-- [ ] F-Droid
+- [x] [F-Droid](https://www.f-droid.org/packages/org.lichess.mobileapp.free/)
 - [x] [GitHub](https://github.com/lichess-org/lichobile)
 - [x] [Official page](https://lichess.org/mobile)
 
@@ -487,6 +487,14 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=me.blog.korn123.easydiary)
 - [x] [F-Droid](https://f-droid.org/en/packages/me.blog.korn123.easydiary)
 - [x] [GitHub](https://github.com/hanjoongcho/aaf-easydiary)
+- [ ] Official page
+
+### Diary
+<img alt="Diary" height="64" src="https://raw.githubusercontent.com/billthefarmer/diary/master/src/main/res/drawable-hdpi/ic_launcher.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/org.billthefarmer.diary/)
+- [x] [GitHub](https://github.com/billthefarmer/diary)
 - [ ] Official page
 
 ## Download Manager
@@ -614,7 +622,7 @@ F-Droid version is outdated compared to GitHub's.
 <img alt="NeoStore" height="64" src="https://raw.githubusercontent.com/NeoApplications/Neo-Store/master/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
 
 - [ ] Google Play
-- [ ] F-Droid
+- [x] [F-Droid](https://www.f-droid.org/packages/com.machiav3lli.fdroid/)
 - [x] [GitHub](https://github.com/NeoApplications/Neo-Store)
 - [ ] Official page
 
@@ -996,8 +1004,8 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcommandbibliotheca)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.inspiredandroid.linuxcommandbibliotheca)
 - [x] [GitHub](https://github.com/SimonSchubert/LinuxCommandLibrary)
-- [x] [Official page](https://linuxcommandlibrary.com/)
-
+- [x] [Official page](https://linuxcommandlibrary.com/)                                                                                              
+                                                                                                                                                     
 ## Language
 ### Kakugo
 <img alt="Kakugo" height="64" src="https://raw.githubusercontent.com/blastrock/kakugo/master/app/src/main/ic_launcher-web.png">
@@ -1227,6 +1235,14 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/laurent22/joplin/)
 - [x] [Official page](https://joplinapp.org/)
 
+### Safe Notes
+<img alt="Safe Notes" height="64" src="https://f-droid.org/repo/com.trisven.safenotes/en-US/icon_0hHDPDBeGzxMT5RtWKoz4APlRMZFM-dZrCH46HGqCLQ=.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.trisven.safenotes)
+- [x] [F-Droid](https://f-droid.org/packages/com.trisven.safenotes/)
+- [x] [GitHub](https://github.com/keshav-space/safenotes/)
+- [x] [Official page](https://safenotes.keshav.space/)
+
 ## OCR
 ### OCR (Tesseract)
 <img alt="OCR(Tesseract)" height="64" src="https://github.com/mtotschnig/OCR/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_scan.png?raw=true">
@@ -1278,6 +1294,14 @@ Currently being reworked as Neo Launcher.
 - [x] [IzzyOnDroid (Offline-only)](https://android.izzysoft.de/repo/apk/keepass2android.keepass2android_nonet)
 - [x] [GitHub](https://github.com/PhilippC/keepass2android)
 - [ ] Official page
+
+### KeePassDX ❤️
+<img alt="KeePassDX" height="64" src="https://raw.githubusercontent.com/Kunzisoft/KeePassDX/master/art/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)
+- [x] [F-Droid](https://f-droid.org/packages/com.kunzisoft.keepass.libre/)
+- [x] [GitHub](https://github.com/Kunzisoft/KeePassDX)
+- [x] [Official page](https://www.keepassdx.com/)
 
 ## PDF Viewer
 ### Pdf Viewer Plus
@@ -1443,6 +1467,15 @@ Currently being reworked as Neo Launcher.
 - [ ] Official page
 
 ## Survival
+
+### Survival Manual
+<img alt="Survival Manual" height="64" src="https://f-droid.org/repo/icons-640/org.ligi.survivalmanual.428.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.ligi.survivalmanual)
+- [x] [Fdroid](https://f-droid.org/packages/org.ligi.survivalmanual/)
+- [x] [GitHub](https://github.com/ligi/SurvivalManual)
+- [x] [Official page](https://survivalmanual.github.io/)
+
 ### Trail Sense
 <img alt="TrailSense" height="64" src="https://raw.githubusercontent.com/kylecorry31/Trail-Sense/main/app/src/main/ic_launcher-web.png">
 
@@ -1625,7 +1658,7 @@ Currently being reworked as Neo Launcher.
 <img alt="SimplyTranslateMobile" height="64" src="https://github.com/ManeraKai/simplytranslate_mobile/raw/main/fastlane/metadata/android/en-US/images/icon.png">
 
 - [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile/)
+- [x] [F-Droid](https://f-droid.org/packages/com.simplytranslate_mobile/)
 - [x] [GitHub](https://github.com/ManeraKai/simplytranslate_mobile)
 - [x] [Official page](https://manerakai.github.io/simplytranslate_mobile/index.html)
 
