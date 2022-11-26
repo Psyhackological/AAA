@@ -719,7 +719,7 @@ Currently being reworked as Neo Launcher.
 
 - [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/ca.chancehorizon.paseo/latest/): 0 trackers, 6 permissions
 - [x] [F-Droid Anti-Features](https://f-droid.org/packages/com.iven.musicplayergo/): 0
-- [x] [https://f-droid.org/en/packages/ca.chancehorizon.paseo/): no bits collection.
+- [x] [Privacy Policy](https://f-droid.org/en/packages/ca.chancehorizon.paseo/): no bits collection.
 > Paseo does not transmit or share any data. Paseo stores data only on the device on which it is installed. 
 
 ## Streaming
