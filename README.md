@@ -24,7 +24,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __205__ 🎉
+__AWESOME__ apps counter: __206__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -93,6 +93,7 @@ __AWESOME__ apps counter: __205__ 🎉
 - [Self Hosted](#self-hosted)
 - [Spotify](#spotify)
 - [Stargazing](#stargazing)
+- [Step Counting](#step-counting)
 - [Streaming](#streaming)
 - [Survival](#survival)
 - [Terminal Emulator](#terminal-emulator)
@@ -1447,6 +1448,15 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.google.android.stardroid)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.google.android.stardroid/)
 - [x] [GitHub](https://github.com/sky-map-team/stardroid)
+- [ ] Official page
+
+## Step Counting
+### Paseo ❤️
+<img alt="Paseo" height="64" src="https://gitlab.com/pardomi/paseo/-/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/ca.chancehorizon.paseo/)
+- [x] [GitLab](https://gitlab.com/pardomi/paseo/)
 - [ ] Official page
 
 ## Streaming

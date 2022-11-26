@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **20/205** 🕵️
+Examined apps: **21/206** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -79,6 +79,7 @@ Examined apps: **20/205** 🕵️
 - [Self Hosted](#self-hosted)
 - [Spotify](#spotify)
 - [Stargazing](#stargazing)
+- [Step Counting](#step-counting)
 - [Streaming](#streaming)
 - [Survival](#survival)
 - [Terminal Emulator](#terminal-emulator)
@@ -711,6 +712,15 @@ Currently being reworked as Neo Launcher.
 ## Stargazing
 ### Sky Map
 <img alt="SkyMap" height="64" src="https://f-droid.org/repo/com.google.android.stardroid/en-US/icon_viguh3xj7mYysCwo-kWNIl5Hv8iMQV81ma2soxFM8BY=.png">
+
+## Step Counting
+### Paseo
+<img alt="Paseo" height="64" src="https://gitlab.com/pardomi/paseo/-/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/ca.chancehorizon.paseo/latest/): 0 trackers, 6 permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/packages/com.iven.musicplayergo/): 0
+- [x] [https://f-droid.org/en/packages/ca.chancehorizon.paseo/): no bits collection.
+> Paseo does not transmit or share any data. Paseo stores data only on the device on which it is installed. 
 
 ## Streaming
 ### CloudStream
