@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **21/206** 🕵️
+Examined apps: **22/207** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -26,6 +26,7 @@ Examined apps: **21/206** 🕵️
 - [Camera](#camera)
 - [Chess](#chess)
 - [Cleaner](#cleaner)
+- [Coctails Making](#coctails-making)
 - [Contacts](#contacts)
 - [Decision-Making](#decision-making)
 - [Device Synchronization](#device-synchronization)
@@ -291,6 +292,15 @@ TrackerControl allows users to monitor the network communications on their Andro
 ## Cleaner
 ### LTE Cleaner
 <img alt="LTECleaner" height="64" src="https://github.com/TheRedSpy15/LTECleanerFOSS/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png?raw=true">
+
+## Coctails Making
+### Drinkable
+<img alt="Drinkable" height="64" src="https://github.com/MOIMOB/drinkable/blob/main/android/app/src/main/ic_launcher-playstore.png?raw=true">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/320178/): 0 trackers, 2 permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/en/packages/com.moimob.drinkable/): 0
+- [x] [Privacy Policy](https://github.com/MOIMOB/drinkable/blob/main/static/app-privacy-policy.html): no bits collection.
+> The app does use third-party services that may collect information used to identify you.
 
 ## Contacts
 ### Simple Contacts

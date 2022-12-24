@@ -24,7 +24,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __206__ 🎉
+__AWESOME__ apps counter: __207__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -41,6 +41,7 @@ __AWESOME__ apps counter: __206__ 🎉
 - [Camera](#camera)
 - [Chess](#chess)
 - [Cleaner](#cleaner)
+- [Coctails Making](#coctails-making)
 - [Contacts](#contacts)
 - [Decision-Making](#decision-making)
 - [Device Synchronization](#device-synchronization)
@@ -435,6 +436,15 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=theredspy15.ltecleanerfoss)
 - [x] [F-Droid](https://f-droid.org/packages/theredspy15.ltecleanerfoss/)
 - [x] [GitHub](https://github.com/TheRedSpy15/LTECleanerFOSS)
+- [ ] Official page
+
+## Coctails Making
+### Drinkable
+<img alt="Drinkable" height="64" src="https://github.com/MOIMOB/drinkable/blob/main/android/app/src/main/ic_launcher-playstore.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.moimob.drinkable)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.moimob.drinkable/)
+- [x] [GitHub](https://github.com/MOIMOB/drinkable)
 - [ ] Official page
 
 ## Contacts
