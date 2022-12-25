@@ -24,7 +24,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __207__ 🎉
+__AWESOME__ apps counter: __208__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -852,6 +852,14 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.gh4a)
 - [x] [F-Droid](https://f-droid.org/packages/com.gh4a/)
 - [x] [GitHub](https://github.com/slapperwan/gh4a)
+- [ ] Official page
+
+### DioHub
+<img alt="DioHub" height="64" src="https://github.com/NamanShergill/diohub/blob/internal/android/app/src/main/ic_launcher-playstore.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.felix.diohub)
+- [ ] F-Droid]
+- [x] [GitHub](https://github.com/NamanShergill/diohub)
 - [ ] Official page
 
 ## Google Play

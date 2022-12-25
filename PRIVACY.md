@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **22/207** 🕵️
+Examined apps: **23/208** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -467,6 +467,13 @@ TrackerControl allows users to monitor the network communications on their Andro
 
 ### OctoDroid
 <img alt="OctoDroid" height="64" src="https://raw.githubusercontent.com/slapperwan/gh4a/master/app/src/main/res/drawable-xxhdpi/octodroid.png">
+
+### DioHub
+<img alt="DioHub" height="64" src="https://github.com/NamanShergill/diohub/blob/internal/android/app/src/main/ic_launcher-playstore.png?raw=true">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/com.felix.diohub/latest/): 0 trackers, 2 permissions
+- [ ] F-Droid Anti-Features: unknown.
+- [ ] Privacy Policy: not found.
 
 ## Google Play
 ### Aurora Store
