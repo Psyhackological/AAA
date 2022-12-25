@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **23/208** 🕵️
+Examined apps: **24/208** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -583,6 +583,12 @@ Currently being reworked as Neo Launcher.
 ## Meditation
 ### Medito
 <img alt="Medito" height="64" src="https://github.com/meditohq/medito-app/blob/develop/android/app/src/main/ic_launcher-web.png?raw=true">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/meditofoundation.medito/latest/): 0 trackers, 4 permissions
+- [x] [F-Droid Anti-Features](https://apt.izzysoft.de/fdroid/index/apk/meditofoundation.medito): 1
+	- [Tracking](https://f-droid.org/docs/Anti-Features/#Tracking)
+- [x] [Privacy Policy](https://meditofoundation.org/privacy): Information Collected via Automated Means,
+> App usage information, Device information, Coarse location information, Website usage information, Cookie information
 
 ### Meditation Assistant
 <img alt="MeditationAssistant" height="64" src="https://code.rocketnine.space/tslocum/meditationassistant/raw/branch/master/metadata/en-US/images/icon.png">
