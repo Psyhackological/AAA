@@ -24,7 +24,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __208__ 🎉
+__AWESOME__ apps counter: __209__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -1060,6 +1060,14 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/packages/fr.neamar.kiss/)
 - [x] [GitHub](https://github.com/Neamar/KISS)
 - [x] [Official page](https://kisslauncher.com/)
+
+### Lunar Launcher
+<img alt="LunarLauncher" height="64" src="https://github.com/iamrasel/lunar-launcher/raw/main/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=rasel.lunar.launcher)
+- [x] [F-Droid](https://f-droid.org/packages/rasel.lunar.launcher)
+- [x] [GitHub](https://github.com/iamrasel/lunar-launcher)
+- [ ] Official page
 
 ## Loyalty Card
 ### Catima ❤️

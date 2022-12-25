@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **24/208** 🕵️
+Examined apps: **25/209** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -557,6 +557,13 @@ Currently being reworked as Neo Launcher.
 
 ### KISS Launcher
 <img alt="KISS" height="64" src="https://github.com/Neamar/KISS/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
+
+### Lunar Launcher
+<img alt="LunarLauncher" height="64" src="https://github.com/iamrasel/lunar-launcher/raw/main/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/320354/): 0 trackers, 12 permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/packages/rasel.lunar.launcher/): 0
+- [ ] Privacy Policy: not found.
 
 ## Loyalty Card
 ### Catima
