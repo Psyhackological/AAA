@@ -1035,8 +1035,8 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 - [ ] Official page
 
 ## Launcher
-### Lawnchair
-<img alt="Lawnchair" height="64" src="https://avatars.githubusercontent.com/u/34144436?s=200&v=4">
+### Lawnchair Launcher ❤️
+<img alt="LawnchairLauncher" height="64" src="https://avatars.githubusercontent.com/u/34144436?s=200&v=4">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah)
 - [x] [F-Droid](https://f-droid.org/packages/ch.deletescape.lawnchair.plah/)
@@ -1054,7 +1054,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Official page
 
 ### KISS Launcher ❤️
-<img alt="KISS" height="64" src="https://github.com/Neamar/KISS/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
+<img alt="KISSLauncher" height="64" src="https://github.com/Neamar/KISS/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=fr.neamar.kiss)
 - [x] [F-Droid](https://f-droid.org/packages/fr.neamar.kiss/)
