@@ -41,7 +41,7 @@ __AWESOME__ apps counter: __210__ 🎉
 - [Camera](#camera)
 - [Chess](#chess)
 - [Cleaner](#cleaner)
-- [Coctails Making](#coctails-making)
+- [Cocktails Making](#coctails-making)
 - [Contacts](#contacts)
 - [Decision-Making](#decision-making)
 - [Device Synchronization](#device-synchronization)
