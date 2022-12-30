@@ -24,7 +24,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __209__ 🎉
+__AWESOME__ apps counter: __210__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -858,7 +858,7 @@ F-Droid version is outdated compared to GitHub's.
 <img alt="DioHub" height="64" src="https://github.com/NamanShergill/diohub/blob/internal/android/app/src/main/ic_launcher-playstore.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.felix.diohub)
-- [ ] F-Droid]
+- [ ] F-Droid
 - [x] [GitHub](https://github.com/NamanShergill/diohub)
 - [ ] Official page
 
@@ -1211,6 +1211,14 @@ Currently being reworked as Neo Launcher.
 - [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.droidheat.musicplayer)
 - [x] [GitHub](https://github.com/gauravjot/android-noad-music-player)
 - [ ] Official page
+
+### Tiny Music Player
+<img alt="TinyMusicPlayer" height="64" src="https://github.com/martinmimigames/tiny-music-player/blob/main/app/src/main/res/drawable-nodpi/ic_launcher.png?raw=true">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.martinmimigames.tinymusicplayer/)
+- [x] [GitHub](https://github.com/martinmimigames/tiny-music-player)
+- [x] [Official page](https://martinmimigames.github.io/projects/tiny-music-player/index.html)
 
 ## Music Scrobbler
 ### Pano Scrobbler ❤️

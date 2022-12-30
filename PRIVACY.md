@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **25/209** 🕵️
+Examined apps: **26/210** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -633,6 +633,14 @@ Currently being reworked as Neo Launcher.
 
 ### Noad Player
 <img alt="NoadPlayer" height="64" src="https://github.com/gauravjot/android-noad-music-player/blob/master/app/src/main/ic_launcher-web.png?raw=true">
+
+### Tiny Music Player
+<img alt="TinyMusicPlayer" height="64" src="https://github.com/martinmimigames/tiny-music-player/blob/main/app/src/main/res/drawable-nodpi/ic_launcher.png?raw=true">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/321736/): 0 trackers, 2 permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/en/packages/com.martinmimigames.tinymusicplayer/): 0
+- [x] [Privacy Policy](https://github.com/martinmimigames/tiny-music-player#features): no bits collection.
+> If you worry about size, compatibility or privacy, this is the best app for you!
 
 ## Music Scrobbler
 ### Pano Scrobbler
