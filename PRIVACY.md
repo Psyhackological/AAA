@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **26/210** 🕵️
+Examined apps: **27/211** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -941,6 +941,14 @@ However, some limited personal information could be collected or shared in 3 pre
 
 ### Just Another Workout Timer
 <img alt="JustAnotherWorkoutTimer" height="64" src="https://raw.githubusercontent.com/blockbasti/just_another_workout_timer/main/fastlane/metadata/android/en-US/images/icon.png">
+
+### Massive
+<img alt="Massive" height="64" src="https://gitea.presley.nz/brandon.presley/Massive/raw/branch/master/android/app/src/main/ic_launcher-playstore.png">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/321863/): 0 trackers, 8 permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/en/packages/com.massive/): 0
+- [ ] Privacy Policy: not found, but:
+> Massive tracks your reps and sets at the gym. No internet connectivity or high spec device is required. 
 
 ## YouTube
 ### NewPipe
