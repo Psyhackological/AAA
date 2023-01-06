@@ -24,7 +24,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __211__ 🎉
+__AWESOME__ apps counter: __212__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -39,6 +39,7 @@ __AWESOME__ apps counter: __211__ 🎉
 - [Calculator](#calculator)
 - [Calendar](#calendar)
 - [Camera](#camera)
+- [ChatGPT](#chatgtp)
 - [Chess](#chess)
 - [Cleaner](#cleaner)
 - [Cocktails Making](#coctails-making)
@@ -419,6 +420,16 @@ F-Droid version is outdated compared to GitHub's.
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/GrapheneOS/Camera)
 - [x] [Official page](https://grapheneos.org/)
+
+## ChatGPT
+### ChatGPT Android
+<img alt="ChatGPTAndroid" height="64" src="https://opencamera.org.uk/ic_launcher.png">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/skydoves/chatgpt-android)
+- [ ] Official page
+
 
 ## Chess
 ### Lichess ❤️

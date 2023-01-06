@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **27/211** 🕵️
+Examined apps: **27/212** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -24,6 +24,7 @@ Examined apps: **27/211** 🕵️
 - [Calculator](#calculator)
 - [Calendar](#calendar)
 - [Camera](#camera)
+- [ChatGPT](#chatgpt)
 - [Chess](#chess)
 - [Cleaner](#cleaner)
 - [Coctails Making](#coctails-making)
@@ -276,6 +277,10 @@ TrackerControl allows users to monitor the network communications on their Andro
 
 ### Secure Camera by GrapheneOS
 <img alt="GrapheneOSCamera" height="64" src="https://github.com/GrapheneOS/Camera/blob/main/app/src/main/ic_launcher-playstore.png?raw=true">
+
+## ChatGPT
+### ChatGPT Android
+<img alt="ChatGPTAndroid" height="64" src="https://opencamera.org.uk/ic_launcher.png">
 
 ## Chess
 ### Lichess
