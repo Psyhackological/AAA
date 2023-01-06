@@ -39,7 +39,7 @@ __AWESOME__ apps counter: __212__ 🎉
 - [Calculator](#calculator)
 - [Calendar](#calendar)
 - [Camera](#camera)
-- [ChatGPT](#chatgtp)
+- [ChatGPT](#chatgpt)
 - [Chess](#chess)
 - [Cleaner](#cleaner)
 - [Cocktails Making](#coctails-making)
