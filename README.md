@@ -24,7 +24,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __212__ 🎉
+__AWESOME__ apps counter: __213__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -1637,6 +1637,15 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/app/org.isoron.uhabits)
 - [x] [GitHub](https://github.com/iSoron/uhabits)
 - [x] [Official page](https://loophabits.org/)
+
+### Koduko
+> Habit Tracker
+<img alt="Koduko" height="64" src="https://github.com/Mazahir26/koduko/blob/master/assets/icon/icon.png?raw=true">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.example.koduko)
+- [x] [GitHub](https://github.com/Mazahir26/koduko)
+- [ ] Official page
 
 ### Openreads
 > Books Tracker

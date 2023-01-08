@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **27/212** 🕵️
+Examined apps: **27/213** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -832,6 +832,10 @@ Currently being reworked as Neo Launcher.
 ### Loop
 > Habit Tracker
 <img alt="LoopHabitTracker" height="64" src="https://github.com/iSoron/uhabits/blob/dev/uhabits-android/src/main/res/drawable/intro_icon_1.png?raw=true">
+
+### Koduko
+> Habit Tracker
+<img alt="Koduko" height="64" src="https://github.com/Mazahir26/koduko/blob/master/assets/icon/icon.png?raw=true">
 
 ### Openreads
 > Books Tracker
