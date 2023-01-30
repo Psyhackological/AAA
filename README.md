@@ -24,7 +24,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __214__ 🎉
+__AWESOME__ apps counter: __215__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -1231,6 +1231,14 @@ Currently being reworked as Neo Launcher.
 - [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.droidheat.musicplayer)
 - [x] [GitHub](https://github.com/gauravjot/android-noad-music-player)
 - [ ] Official page
+
+### Mucke
+<img alt="Mucke" height="64" src="https://github.com/moritz-weber/mucke/blob/master/src/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/rocks.mucke.github)
+- [x] [GitHub](https://github.com/moritz-weber/mucke)
+- [x] [Official page](https://martinmimigames.github.io/projects/tiny-music-player/index.html)
 
 ### Tiny Music Player
 <img alt="TinyMusicPlayer" height="64" src="https://github.com/martinmimigames/tiny-music-player/blob/main/app/src/main/res/drawable-nodpi/ic_launcher.png?raw=true">

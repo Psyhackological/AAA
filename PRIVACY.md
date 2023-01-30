@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **28/214** 🕵️
+Examined apps: **28/215** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -653,6 +653,9 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid Anti-Features](https://f-droid.org/en/packages/com.martinmimigames.tinymusicplayer/): 0
 - [x] [Privacy Policy](https://github.com/martinmimigames/tiny-music-player#features): no bits collection.
 > If you worry about size, compatibility or privacy, this is the best app for you!
+
+### Mucke
+<img alt="Mucke" height="64" src="https://github.com/moritz-weber/mucke/blob/master/src/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true">
 
 ## Music Scrobbler
 ### Pano Scrobbler
