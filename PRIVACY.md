@@ -9,7 +9,7 @@ The only [trackers](https://reports.exodus-privacy.eu.org/en/trackers/) that the
 The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) that the app can have is:
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **27/213** 🕵️
+Examined apps: **28/214** 🕵️
 
 ### Contents:
 - [2FA](#2fa)
@@ -426,6 +426,13 @@ TrackerControl allows users to monitor the network communications on their Andro
 
 ### Flash Deck
 <img alt="FlashDeck" height="64" src="https://raw.githubusercontent.com/rh-id/a-flash-deck/master/graphics/launcher.svg">
+
+### Yokatta
+<img alt="Yokatta" height="64" src="https://github.com/uestueab/app-thesis/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/com.thesis.yokatta/latest/): 0 trackers, 4 permissions
+- [x] [F-Droid Anti-Features](https://f-droid.org/en/packages/com.thesis.yokatta/): 0
+- [ ] Privacy Policy: not found.
 
 ## Flashlight
 ### Simple Flashlight

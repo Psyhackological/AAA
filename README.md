@@ -24,7 +24,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __213__ 🎉
+__AWESOME__ apps counter: __214__ 🎉
 
 ### Contents:
 - [2FA](#2fa)
@@ -749,6 +749,15 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/rh-id/a-flash-deck)
 - [ ] Official page
 
+### Yokatta
+<img alt="Yokatta" height="64" src="https://github.com/uestueab/app-thesis/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.thesis.yokatta/)
+- [x] [GitHub](https://github.com/uestueab/app-thesis)
+- [ ] Official page
+
+https://github.com/uestueab/app-thesis
 ## Flashlight
 ### Simple Flashlight
 <img alt="SimpleFlashlight" height="64" src="https://github.com/SimpleMobileTools/Simple-Flashlight/raw/master/fastlane/metadata/android/en-US/images/icon.png">
