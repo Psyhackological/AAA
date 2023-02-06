@@ -699,6 +699,22 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [Official page](https://snapdrop.net/)
 
 ## Finance
+### Currencies
+<img alt="Currencies" height="64" src="https://github.com/sal0max/currencies/blob/master/art/ic_launcher/ic_launcher_foreground.svg?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=de.salomax.currencies)
+- [x] [F-Droid](https://f-droid.org/packages/de.salomax.currencies/)
+- [x] [GitHub](https://github.com/sal0max/currencies)
+- [ ] Official page
+
+### MoneyWallet
+<img alt="MoneyWallet" height="64" src="https://github.com/AndreAle94/moneywallet/blob/master/app/src/main/ic_launcher-web.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.oriondev.moneywallet)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.oriondev.moneywallet)
+- [x] [GitHub](https://github.com/AndreAle94/moneywallet)
+- [ ] Official page
+
 ### My Expenses
 <img alt="MyExpenses" height="64" src="https://github.com/mtotschnig/MyExpenses/blob/master/metadata/en-US/images/icon.png?raw=true">
 
@@ -713,14 +729,6 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.jerameeldelosreyes.sushi)
 - [x] [F-Droid](https://f-droid.org/packages/com.jerameeldelosreyes.sushi/)
 - [x] [GitHub](https://github.com/jerameel/sushi)
-- [ ] Official page
-
-### MoneyWallet
-<img alt="MoneyWallet" height="64" src="https://github.com/AndreAle94/moneywallet/blob/master/app/src/main/ic_launcher-web.png?raw=true">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.oriondev.moneywallet)
-- [x] [F-Droid](https://f-droid.org/en/packages/com.oriondev.moneywallet)
-- [x] [GitHub](https://github.com/AndreAle94/moneywallet)
 - [ ] Official page
 
 ## Firewall
