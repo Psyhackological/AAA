@@ -802,6 +802,15 @@ F-Droid version is outdated compared to GitHub's.
 
 ## Finance
 
+### MoneyWallet
+
+<img alt="MoneyWallet" height="64" src="https://github.com/AndreAle94/moneywallet/blob/master/app/src/main/ic_launcher-web.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.oriondev.moneywallet)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.oriondev.moneywallet)
+- [x] [GitHub](https://github.com/AndreAle94/moneywallet)
+- [ ] Official page
+
 ### My Expenses
 
 <img alt="MyExpenses" height="64" src="https://github.com/mtotschnig/MyExpenses/blob/master/metadata/en-US/images/icon.png?raw=true">
@@ -818,15 +827,6 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.jerameeldelosreyes.sushi)
 - [x] [F-Droid](https://f-droid.org/packages/com.jerameeldelosreyes.sushi/)
 - [x] [GitHub](https://github.com/jerameel/sushi)
-- [ ] Official page
-
-### MoneyWallet
-
-<img alt="MoneyWallet" height="64" src="https://github.com/AndreAle94/moneywallet/blob/master/app/src/main/ic_launcher-web.png?raw=true">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.oriondev.moneywallet)
-- [x] [F-Droid](https://f-droid.org/en/packages/com.oriondev.moneywallet)
-- [x] [GitHub](https://github.com/AndreAle94/moneywallet)
 - [ ] Official page
 
 ## Firewall
