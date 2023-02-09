@@ -804,7 +804,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Currencies ❤️
 
-<img alt="Currencies" height="64" src="https://github.com/sal0max/currencies/blob/master/art/ic_launcher/ic_launcher_foreground.svg?raw=true">
+<img alt="Currencies" height="64" src="https://github.com/sal0max/currencies/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=de.salomax.currencies)
 - [x] [F-Droid](https://f-droid.org/packages/de.salomax.currencies/)
