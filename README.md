@@ -802,6 +802,15 @@ F-Droid version is outdated compared to GitHub's.
 
 ## Finance
 
+### Currencies ❤️
+
+<img alt="Currencies" height="64" src="https://github.com/sal0max/currencies/blob/master/art/ic_launcher/ic_launcher_foreground.svg?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=de.salomax.currencies)
+- [x] [F-Droid](https://f-droid.org/packages/de.salomax.currencies/)
+- [x] [GitHub](https://github.com/sal0max/currencies)
+- [ ] Official page
+
 ### MoneyWallet
 
 <img alt="MoneyWallet" height="64" src="https://github.com/AndreAle94/moneywallet/blob/master/app/src/main/ic_launcher-web.png?raw=true">
