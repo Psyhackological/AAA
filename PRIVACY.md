@@ -679,6 +679,14 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 
 <img alt="Imagepipe" height="64" src="https://codeberg.org/repo-avatars/230-a47fb71f565ec2388d5e78c561a5262d">
 
+### FFShare
+
+<img alt="FFShare" height="64" src="https://f-droid.org/repo/com.caydey.ffshare/en-US/icon_vvPYfQ6YV2zd9ydhsVXalVmc5MZZLZP_lz24kfaTKEQ=.png">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/com.caydey.ffshare/latest/): 0 trackers, 1 permissions
+- [ ] F-Droid Anti-Features
+- [ ] Privacy Policy
+
 ## Instant Messaging
 
 ### Signal
@@ -947,6 +955,14 @@ Currently being reworked as Neo Launcher.
 
 <img alt="GrapheneOSPDFViewer" height="64" src="https://github.com/GrapheneOS/PdfViewer/blob/main/app/src/main/ic_launcher-playstore.png?raw=true">
 
+### MJ PDF
+
+<img alt="mj_pdf_viewer" height="64" src="https://apt.izzysoft.de/fdroid/repo/icons/com.gitlab.mudlej.MjPdfReader.44.png">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/com.gitlab.mudlej.MjPdfReader/latest/): 0 trackers, 4 permissions
+- [ ] F-Droid Anti-Features
+- [ ] Privacy Policy
+
 ## Public Transport Assistant
 
 ### Transportr
@@ -1129,6 +1145,16 @@ Currently being reworked as Neo Launcher.
 >
 > Habit Tracker
 <img alt="LoopHabitTracker" height="64" src="https://github.com/iSoron/uhabits/blob/dev/uhabits-android/src/main/res/drawable/intro_icon_1.png?raw=true">
+
+### Simple Time Tracker 
+>
+> Activity Tracker, supports automated tracking by sending intent from another app (e.g. Tasker)
+<img alt="SimpleTimeTracker" height="64" src="https://f-droid.org/repo/com.razeeman.util.simpletimetracker/en-US/icon_-7PAZOv0fNugVQIIfZE4O4sDSkjwU3CkZmC2g5crWWA=.png">
+
+- [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/com.razeeman.util.simpletimetracker/latest/): 0 trackers, 2 permissions
+- [ ] F-Droid Anti-Features
+- [ ] Privacy Policy
+
 
 ### Koduko
 >

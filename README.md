@@ -1113,6 +1113,15 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 - [x] [CodeBerg](https://codeberg.org/Starfish/Imagepipe)
 - [ ] Official page
 
+### FFShare
+
+<img alt="FFShare" height="64" src="https://f-droid.org/repo/com.caydey.ffshare/en-US/icon_vvPYfQ6YV2zd9ydhsVXalVmc5MZZLZP_lz24kfaTKEQ=.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.caydey.ffshare/)
+- [x] [GitHub](https://github.com/caydey/ffshare)
+- [ ] Official page
+
 ## Instant Messaging
 
 ### Signal ❤️
@@ -1613,6 +1622,15 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/GrapheneOS/PdfViewer)
 - [x] [Official page](https://grapheneos.org/)
 
+### MJ PDF
+
+<img alt="mj_pdf_viewer" height="64" src="https://apt.izzysoft.de/fdroid/repo/icons/com.gitlab.mudlej.MjPdfReader.44.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.gitlab.mudlej.MjPdfReader)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader)
+- [x] [GitLab](https://gitlab.com/mudlej_android/mj_pdf_reader)
+- [ ] Official page
+
 ## Public Transport Assistant
 
 ### Transportr ❤️
@@ -1933,6 +1951,16 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/iSoron/uhabits)
 - [x] [Official page](https://loophabits.org/)
 
+### Simple Time Tracker ❤️
+>
+> Activity Tracker, supports automated tracking by sending intent from another app (e.g. Tasker)
+<img alt="SimpleTimeTracker" height="64" src="https://f-droid.org/repo/com.razeeman.util.simpletimetracker/en-US/icon_-7PAZOv0fNugVQIIfZE4O4sDSkjwU3CkZmC2g5crWWA=.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.razeeman.util.simpletimetracker)
+- [x] [F-Droid](https://f-droid.org/packages/com.razeeman.util.simpletimetracker/)
+- [x] [GitHub](https://github.com/Razeeman/Android-SimpleTimeTracker)
+- [ ] Official page
+
 ### Koduko
 >
 > Habit Tracker
@@ -1946,7 +1974,7 @@ Currently being reworked as Neo Launcher.
 ### Openreads
 >
 > Books Tracker
-<img alt="Openreads" height="64" src="https://github.com/mateusz-bak/openreads-android/blob/master/app/src/main/res/mipmap-xhdpi/logo_round.png?raw=true">
+<img alt="Openreads" height="64" src="https://f-droid.org/repo/software.mdev.bookstracker/en-US/icon_K4sqLCktmYBP1u6ghL4z56YR6nJgZUnxkdx63wmoDWI=.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=software.mdev.bookstracker)
 - [x] [F-Droid](https://f-droid.org/en/packages/software.mdev.bookstracker/)
@@ -1959,7 +1987,7 @@ Currently being reworked as Neo Launcher.
 <img alt="Sobriety" height="64" src="https://github.com/KiARC/Sobriety/blob/master/app/src/main/res/mipmap-xxxhdpi/sobriety.png?raw=true">
 
 - [ ] Google Play
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.katiearose.sobriety)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.katiearose.sobriety/)
 - [x] [GitHub](https://github.com/KiARC/Sobriety)
 - [ ] Official page
 
