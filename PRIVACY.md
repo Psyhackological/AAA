@@ -675,10 +675,6 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 
 ## Image Processing
 
-### Imagepipe
-
-<img alt="Imagepipe" height="64" src="https://codeberg.org/repo-avatars/230-a47fb71f565ec2388d5e78c561a5262d">
-
 ### FFShare
 
 <img alt="FFShare" height="64" src="https://f-droid.org/repo/com.caydey.ffshare/en-US/icon_vvPYfQ6YV2zd9ydhsVXalVmc5MZZLZP_lz24kfaTKEQ=.png">
@@ -686,6 +682,10 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 - [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/com.caydey.ffshare/latest/): 0 trackers, 1 permissions
 - [ ] F-Droid Anti-Features
 - [ ] Privacy Policy
+
+### Imagepipe
+
+<img alt="Imagepipe" height="64" src="https://codeberg.org/repo-avatars/230-a47fb71f565ec2388d5e78c561a5262d">
 
 ## Instant Messaging
 
@@ -947,14 +947,6 @@ Currently being reworked as Neo Launcher.
 
 ## PDF Viewer
 
-### Pdf Viewer Plus
-
-<img alt="PdfViewerPlus" height="64" src="https://github.com/JavaCafe01/PdfViewer/raw/master/images/high_res.png">
-
-### Secure PDF Viewer by GrapheneOS
-
-<img alt="GrapheneOSPDFViewer" height="64" src="https://github.com/GrapheneOS/PdfViewer/blob/main/app/src/main/ic_launcher-playstore.png?raw=true">
-
 ### MJ PDF
 
 <img alt="mj_pdf_viewer" height="64" src="https://apt.izzysoft.de/fdroid/repo/icons/com.gitlab.mudlej.MjPdfReader.44.png">
@@ -962,6 +954,14 @@ Currently being reworked as Neo Launcher.
 - [x] [εxodus report](https://reports.exodus-privacy.eu.org/en/reports/com.gitlab.mudlej.MjPdfReader/latest/): 0 trackers, 4 permissions
 - [ ] F-Droid Anti-Features
 - [ ] Privacy Policy
+
+### Pdf Viewer Plus
+
+<img alt="PdfViewerPlus" height="64" src="https://github.com/JavaCafe01/PdfViewer/raw/master/images/high_res.png">
+
+### Secure PDF Viewer by GrapheneOS
+
+<img alt="GrapheneOSPDFViewer" height="64" src="https://github.com/GrapheneOS/PdfViewer/blob/main/app/src/main/ic_launcher-playstore.png?raw=true">
 
 ## Public Transport Assistant
 
@@ -1136,15 +1136,40 @@ Currently being reworked as Neo Launcher.
 
 ## Trackers
 
+### BetterCounter
+>
+> Multi-purpose Tracker
+<img alt="BetterCounter" height="64" src="https://github.com/albertvaka/bettercounter/raw/main/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png">
+
 ### Birday
 >
 > Birthday Tracker
 <img alt="Birday" height="64" src="https://github.com/m-i-n-a-r/birday/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
+### GreenStash️
+>
+> Savings Tracker
+<img alt="GreenStash️" height="64" src="https://github.com/Pool-Of-Tears/GreenStash/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+
+### Koduko
+>
+> Habit Tracker
+<img alt="Koduko" height="64" src="https://github.com/Mazahir26/koduko/blob/master/assets/icon/icon.png?raw=true">
+
 ### Loop
 >
 > Habit Tracker
 <img alt="LoopHabitTracker" height="64" src="https://github.com/iSoron/uhabits/blob/dev/uhabits-android/src/main/res/drawable/intro_icon_1.png?raw=true">
+
+### Openreads
+>
+> Books Tracker
+<img alt="Openreads" height="64" src="https://github.com/mateusz-bak/openreads-android/blob/master/app/src/main/res/mipmap-xhdpi/logo_round.png?raw=true">
+
+### Showly
+>
+> TV Shows Tracker
+<img alt="Showly" height="64" src="https://camo.githubusercontent.com/3740231f58f9cd91dbf27285736f77ecfac4f63c02fceefcacbeb40778d3f896/68747470733a2f2f692e6962622e636f2f4368424e374c672f69632d6c61756e636865722e706e67">
 
 ### Simple Time Tracker 
 >
@@ -1155,41 +1180,15 @@ Currently being reworked as Neo Launcher.
 - [ ] F-Droid Anti-Features
 - [ ] Privacy Policy
 
-
-### Koduko
->
-> Habit Tracker
-<img alt="Koduko" height="64" src="https://github.com/Mazahir26/koduko/blob/master/assets/icon/icon.png?raw=true">
-
-### Openreads
->
-> Books Tracker
-<img alt="Openreads" height="64" src="https://github.com/mateusz-bak/openreads-android/blob/master/app/src/main/res/mipmap-xhdpi/logo_round.png?raw=true">
-
 ### Sobriety
 >
 > Addiction Tracker
 <img alt="Sobriety" height="64" src="https://github.com/KiARC/Sobriety/blob/master/app/src/main/res/mipmap-xxxhdpi/sobriety.png?raw=true">
 
-### Showly
->
-> TV Shows Tracker
-<img alt="Showly" height="64" src="https://camo.githubusercontent.com/3740231f58f9cd91dbf27285736f77ecfac4f63c02fceefcacbeb40778d3f896/68747470733a2f2f692e6962622e636f2f4368424e374c672f69632d6c61756e636865722e706e67">
-
-### GreenStash️
->
-> Savings Tracker
-<img alt="GreenStash️" height="64" src="https://github.com/Pool-Of-Tears/GreenStash/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
-
 ### Vacation Days
 >
 > Days Off Tracker
 <img alt="VacationDays" height="64" src="https://github.com/Crazy-Marvin/VacationDays/blob/development/fastlane/metadata/android/en-US/images/icon.png?raw=true">
-
-### BetterCounter
->
-> Multi-purpose Tracker
-<img alt="BetterCounter" height="64" src="https://github.com/albertvaka/bettercounter/raw/main/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png">
 
 ## Translator
 
