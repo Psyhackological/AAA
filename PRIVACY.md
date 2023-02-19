@@ -12,7 +12,7 @@ The only [F-Droid Anti-Features](https://f-droid.org/en/docs/Anti-Features/) tha
 
 - [Non-Free Network Services](https://f-droid.org/en/docs/Anti-Features/#NonFreeNet)
 
-Examined apps: **29/216** 🕵️
+Examined apps: **32/220** 🕵️
 
 ### Contents
 
