@@ -1232,6 +1232,16 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 
 ## Launcher
 
+### Kvaesitso :heart:
+
+<img alt="Kvaesitso" height="64" src="https://raw.githubusercontent.com/MM2-0/Kvaesitso/main/assets/icons/ic_launcher.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/de.mm20.launcher2.release/)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.mm20.launcher2.release) (feature completeness)
+- [x] [GitHub](https://github.com/MM2-0/Kvaesitso)
+- [x] [Official page](https://kvaesitso.mm20.de/)
+
 ### Lawnchair Launcher ❤️
 
 <img alt="LawnchairLauncher" height="64" src="https://avatars.githubusercontent.com/u/34144436?s=200&v=4">
