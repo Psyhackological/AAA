@@ -1606,7 +1606,7 @@ Currently being reworked as Neo Launcher.
 
 ### MJ PDF
 
-<img alt="mj_pdf_viewer" height="64" src="https://apt.izzysoft.de/fdroid/repo/icons/com.gitlab.mudlej.MjPdfReader.44.png">
+<img alt="mj_pdf_viewer" height="64" src="https://gitlab.com/uploads/-/system/project/avatar/38392439/logo.png?width=64">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.gitlab.mudlej.MjPdfReader)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader)
@@ -2003,7 +2003,7 @@ Currently being reworked as Neo Launcher.
 
 ### Simple Time Tracker ❤️
 >
-> Activity Tracker, supports automated tracking by sending intent from another app (e.g. Tasker)
+> Activity Tracker
 <img alt="SimpleTimeTracker" height="64" src="https://f-droid.org/repo/com.razeeman.util.simpletimetracker/en-US/icon_-7PAZOv0fNugVQIIfZE4O4sDSkjwU3CkZmC2g5crWWA=.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.razeeman.util.simpletimetracker)
