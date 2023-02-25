@@ -133,7 +133,7 @@ __AWESOME__ apps counter: __217__ 🎉
 
 ### Authenticator Pro
 
-<img alt="AuthenticatorPro" height="64" src="https://github.com/jamie-mh/AuthenticatorPro/blob/master/doc/ic_launcher-web.png?raw=true">
+<img alt="AuthenticatorPro" height="64" src="https://raw.githubusercontent.com/jamie-mh/AuthenticatorPro/master/AuthenticatorPro.Droid/Resources/mipmap-xxxhdpi/ic_launcher.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=me.jmh.authenticatorpro)
 - [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/me.jmh.authenticatorpro)
