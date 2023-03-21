@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __220__ 🎉
+__AWESOME__ apps counter: __221__ 🎉
 
 ### Contents
 
@@ -1240,6 +1240,16 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 - [ ] Official page
 
 ## Launcher
+
+### Kvaesitso :heart:
+
+<img alt="Kvaesitso" height="64" src="https://raw.githubusercontent.com/MM2-0/Kvaesitso/main/assets/icons/ic_launcher.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/de.mm20.launcher2.release/)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.mm20.launcher2.release) (feature completeness)
+- [x] [GitHub](https://github.com/MM2-0/Kvaesitso)
+- [x] [Official page](https://kvaesitso.mm20.de/)
 
 ### Lawnchair Launcher ❤️
 
