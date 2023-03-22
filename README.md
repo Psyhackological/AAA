@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __217__ 🎉
+__AWESOME__ apps counter: __221__ 🎉
 
 ### Contents
 
@@ -1104,6 +1104,15 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 
 ## Image Processing
 
+### FFShare
+
+<img alt="FFShare" height="64" src="https://f-droid.org/repo/com.caydey.ffshare/en-US/icon_vvPYfQ6YV2zd9ydhsVXalVmc5MZZLZP_lz24kfaTKEQ=.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.caydey.ffshare/)
+- [x] [GitHub](https://github.com/caydey/ffshare)
+- [ ] Official page
+
 ### Imagepipe
 
 <img alt="Imagepipe" height="64" src="https://codeberg.org/repo-avatars/230-a47fb71f565ec2388d5e78c561a5262d">
@@ -1231,6 +1240,16 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 - [ ] Official page
 
 ## Launcher
+
+### Kvaesitso :heart:
+
+<img alt="Kvaesitso" height="64" src="https://raw.githubusercontent.com/MM2-0/Kvaesitso/main/assets/icons/ic_launcher.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/de.mm20.launcher2.release/)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/de.mm20.launcher2.release) (feature completeness)
+- [x] [GitHub](https://github.com/MM2-0/Kvaesitso)
+- [x] [Official page](https://kvaesitso.mm20.de/)
 
 ### Lawnchair Launcher ❤️
 
@@ -1595,6 +1614,15 @@ Currently being reworked as Neo Launcher.
 
 ## PDF Viewer
 
+### MJ PDF
+
+<img alt="mj_pdf_viewer" height="64" src="https://gitlab.com/uploads/-/system/project/avatar/38392439/logo.png?width=64">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.gitlab.mudlej.MjPdfReader)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader)
+- [x] [GitLab](https://gitlab.com/mudlej_android/mj_pdf_reader)
+- [ ] Official page
+
 ### Pdf Viewer Plus
 
 <img alt="PdfViewerPlus" height="64" src="https://github.com/JavaCafe01/PdfViewer/raw/master/images/high_res.png">
@@ -1913,6 +1941,16 @@ Currently being reworked as Neo Launcher.
 
 ## Trackers
 
+### BetterCounter
+>
+> Multi-purpose Tracker
+<img alt="BetterCounter" height="64" src="https://github.com/albertvaka/bettercounter/raw/main/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.kde.bettercounter)
+- [x] [F-Droid](https://f-droid.org/en/packages/org.kde.bettercounter/)
+- [x] [GitHub](https://github.com/albertvaka/bettercounter)
+- [ ] Official page
+
 ### Birday ❤️
 >
 > Birthday Tracker
@@ -1921,6 +1959,26 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.minar.birday)
 - [x] [F-Droid](https://f-droid.org/packages/com.minar.birday/)
 - [x] [GitHub](https://github.com/m-i-n-a-r/birday)
+- [ ] Official page
+
+### GreenStash️
+>
+> Savings Tracker
+<img alt="GreenStash️" height="64" src="https://github.com/Pool-Of-Tears/GreenStash/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.starry.greenstash)
+- [x] [GitHub](https://github.com/Pool-Of-Tears/GreenStash)
+- [ ] Official page
+
+### Koduko
+>
+> Habit Tracker
+<img alt="Koduko" height="64" src="https://github.com/Mazahir26/koduko/blob/master/assets/icon/icon.png?raw=true">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.example.koduko)
+- [x] [GitHub](https://github.com/Mazahir26/koduko)
 - [ ] Official page
 
 ### Loop ❤️
@@ -1933,34 +1991,14 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/iSoron/uhabits)
 - [x] [Official page](https://loophabits.org/)
 
-### Koduko
->
-> Habit Tracker
-<img alt="Koduko" height="64" src="https://github.com/Mazahir26/koduko/blob/master/assets/icon/icon.png?raw=true">
-
-- [ ] Google Play
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.example.koduko)
-- [x] [GitHub](https://github.com/Mazahir26/koduko)
-- [ ] Official page
-
 ### Openreads
 >
 > Books Tracker
-<img alt="Openreads" height="64" src="https://github.com/mateusz-bak/openreads-android/blob/master/app/src/main/res/mipmap-xhdpi/logo_round.png?raw=true">
+<img alt="Openreads" height="64" src="https://f-droid.org/repo/software.mdev.bookstracker/en-US/icon_K4sqLCktmYBP1u6ghL4z56YR6nJgZUnxkdx63wmoDWI=.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=software.mdev.bookstracker)
 - [x] [F-Droid](https://f-droid.org/en/packages/software.mdev.bookstracker/)
 - [x] [GitHub](https://github.com/mateusz-bak/openreads-android)
-- [ ] Official page
-
-### Sobriety
->
-> Addiction Tracker
-<img alt="Sobriety" height="64" src="https://github.com/KiARC/Sobriety/blob/master/app/src/main/res/mipmap-xxxhdpi/sobriety.png?raw=true">
-
-- [ ] Google Play
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.katiearose.sobriety)
-- [x] [GitHub](https://github.com/KiARC/Sobriety)
 - [ ] Official page
 
 ### Showly ❤️
@@ -1973,14 +2011,24 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/michaldrabik/Showly-2.0)
 - [x] [Official page](http://showlyapp.com/)
 
-### GreenStash️
+### Simple Time Tracker ❤️
 >
-> Savings Tracker
-<img alt="GreenStash️" height="64" src="https://github.com/Pool-Of-Tears/GreenStash/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+> Activity Tracker
+<img alt="SimpleTimeTracker" height="64" src="https://f-droid.org/repo/com.razeeman.util.simpletimetracker/en-US/icon_-7PAZOv0fNugVQIIfZE4O4sDSkjwU3CkZmC2g5crWWA=.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.razeeman.util.simpletimetracker)
+- [x] [F-Droid](https://f-droid.org/packages/com.razeeman.util.simpletimetracker/)
+- [x] [GitHub](https://github.com/Razeeman/Android-SimpleTimeTracker)
+- [ ] Official page
+
+### Sobriety
+>
+> Addiction Tracker
+<img alt="Sobriety" height="64" src="https://github.com/KiARC/Sobriety/blob/master/app/src/main/res/mipmap-xxxhdpi/sobriety.png?raw=true">
 
 - [ ] Google Play
-- [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.starry.greenstash)
-- [x] [GitHub](https://github.com/Pool-Of-Tears/GreenStash)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.katiearose.sobriety/)
+- [x] [GitHub](https://github.com/KiARC/Sobriety)
 - [ ] Official page
 
 ### Vacation Days
@@ -1992,16 +2040,6 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/packages/rocks.poopjournal.vacationdays/)
 - [x] [GitHub](https://github.com/Crazy-Marvin/VacationDays)
 - [x] [Official page](https://crazymarvin.com/vacation-days/)
-
-### BetterCounter
->
-> Multi-purpose Tracker
-<img alt="BetterCounter" height="64" src="https://github.com/albertvaka/bettercounter/raw/main/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=org.kde.bettercounter)
-- [x] [F-Droid](https://f-droid.org/en/packages/org.kde.bettercounter/)
-- [x] [GitHub](https://github.com/albertvaka/bettercounter)
-- [ ] Official page
 
 ## Translator
 
