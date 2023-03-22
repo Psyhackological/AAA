@@ -994,7 +994,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### UnCiv
 
-<img alt="UnCiv" height="64" src="https://github.com/yairm210/Unciv/blob/master/extraImages/Unciv%20icon%20v5.png?raw=true">
+<img alt="UnCiv" height="64" src="https://github.com/yairm210/Unciv/blob/master/extraImages/Icons/Unciv%20icon%20v5.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.unciv.app)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.unciv.app/)
@@ -1095,7 +1095,7 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 
 ### Delta
 
-<img alt="Delta" height="64" src="https://raw.githubusercontent.com/Delta-Icons/android/master/app/src/main/ic_launcher-playstore.png">
+<img alt="Delta" height="64" src="https://github.com/Delta-Icons/android/blob/master/app/src/main/res/mipmap-xxxhdpi/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=website.leifs.delta)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/website.leifs.delta)
@@ -1355,7 +1355,7 @@ Currently being reworked as Neo Launcher.
 
 ### Medito ❤️
 
-<img alt="Medito" height="64" src="https://github.com/meditohq/medito-app/blob/develop/android/app/src/main/ic_launcher-web.png?raw=true">
+<img alt="Medito" height="64" src="https://github.com/meditohq/medito-app/blob/develop/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=meditofoundation.medito)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/meditofoundation.medito)
@@ -1882,7 +1882,7 @@ Currently being reworked as Neo Launcher.
 ### Cofi
 >
 > Coffee Timer
-<img alt="Cofi" height="64" src="https://github.com/rozPierog/Cofi/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true">
+<img alt="Cofi" height="64" src="https://github.com/rozPierog/Cofi/blob/main/app/src/main/ic_launcher-playstore.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.omelan.cofi)
 - [x] [F-Droid](https://www.f-droid.org/en/packages/com.omelan.cofi/)
@@ -1964,7 +1964,7 @@ Currently being reworked as Neo Launcher.
 ### GreenStash️
 >
 > Savings Tracker
-<img alt="GreenStash️" height="64" src="https://github.com/Pool-Of-Tears/GreenStash/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+<img alt="GreenStash️" height="64" src="https://github.com/Pool-Of-Tears/GreenStash/blob/main/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.starry.greenstash)
