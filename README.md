@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __223__ 🎉
+__AWESOME__ apps counter: __224__ 🎉
 
 ### Contents
 
@@ -1935,6 +1935,15 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.pocket_plan.j7_003)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.pocket_plan.j7_003)
 - [x] [GitHub](https://github.com/estep248/PocketPlan)
+- [ ] Official page
+
+### ToDark
+
+<img alt="ToDark" height="64" src="https://github.com/DarkMooNight/ToDark/raw/main/readme/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.yoshi.todark)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.yoshi.todark)
+- [x] [GitHub](https://github.com/DarkMooNight/ToDark)
 - [ ] Official page
 
 ## Torrenting
