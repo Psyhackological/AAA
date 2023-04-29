@@ -1,5 +1,7 @@
 # Privacy Report
 
+# As you can see, it has been overwhelmed because there are lost of apps to examine. It can easily get out of date, and I cannot guarantee that an app is 100% privacy-aware with a little help. Instead, I have created a [Privacy Examination Manual](PRIVACY_MANUAL.md) to help you determine if the app is fully privacy friendly. This way I can add more apps without extra work.
+
 See [example](#music-player-go):
 
 ## Trackers

@@ -17,11 +17,11 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Free as in Freedom
 - [x] Ad-free
 - [x] Installed and tested by me or by contributor
-- [x] [Privacy-friendly tested](PRIVACY.md)
+- [x] [Privacy-friendly aware](PRIVACY_MANUAL.md)
 - [x] Easy to use
-- [x] Still developed or polished experience
+- [x] Still in development or polished experience
 - [x] Does not lack features compared to proprietary app
-- [x] Does not need an account (the only exception is [Self-hosted](#self-hosted))
+- [x] Does not need an account (the only exceptions are [self-hosted](#self-hosted) apps)
 - [x] Has dark theme
 >
 >[More detailed explanation here.](RULES.md)
