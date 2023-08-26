@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __225__ 🎉
+__AWESOME__ apps counter: __226__ 🎉
 
 ### Contents
 
@@ -76,6 +76,7 @@ __AWESOME__ apps counter: __225__ 🎉
 - [Knowledge](#knowledge)
 - [Language](#language)
 - [Launcher](#launcher)
+- [Lemmy](#lemmy)
 - [Loyalty Card](#loyalty-card)
 - [Maps](#maps)
 - [Matrix Client](#matrix-client)
@@ -1296,6 +1297,17 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=rasel.lunar.launcher)
 - [x] [F-Droid](https://f-droid.org/packages/rasel.lunar.launcher)
 - [x] [GitHub](https://github.com/iamrasel/lunar-launcher)
+- [ ] Official page
+
+## Lemmy
+
+### Jerboa
+
+<img alt="Jerboa" height="64" src="https://raw.githubusercontent.com/dessalines/jerboa/main/app/src/main/res/jerboa.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.jerboa)
+- [x] [F-Droid](https://f-droid.org/packages/com.jerboa)
+- [x] [GitHub](https://github.com/dessalines/jerboa)
 - [ ] Official page
 
 ## Loyalty Card
