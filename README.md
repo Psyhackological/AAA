@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __230__ 🎉
+__AWESOME__ apps counter: __229__ 🎉
 
 ### Contents
 
@@ -1070,15 +1070,6 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [F-Droid](https://f-droid.org/en/packages/m.co.rh.id.a_medic_log/)
 - [x] [GitHub](https://github.com/rh-id/a-medic-log)
 - [ ] Official page
-
-### Plees Tracker
-
-<img alt="PleesTrackerIcon" height="64" src="https://github.com/vmiklos/plees-tracker/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png?raw=true">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/hu.vmiklos.plees_tracker/)
-- [x] [GitHub](https://github.com/vmiklos/plees-tracker)
-- [x] [Official page](https://vmiklos.hu/plees-tracker/)
 
 ### ~~MediLog~~
 
