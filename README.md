@@ -1951,7 +1951,7 @@ Currently being reworked as Neo Launcher.
 
 ### ToDark
 
-<img alt="ToDarkIcon" height="64" src="https://github.com/DarkMooNight/ToDark/raw/main/readme/icon.png">
+<img alt="ToDarkIcon" height="64" src="https://github.com/DarkMooNight/ToDark/raw/main/assets/icons/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.yoshi.todark)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.yoshi.todark)
