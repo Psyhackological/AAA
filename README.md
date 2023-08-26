@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __224__ 🎉
+__AWESOME__ apps counter: __225__ 🎉
 
 ### Contents
 
@@ -2338,6 +2338,15 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/it.vfsfitvnm.vimusic)
 - [x] [GitHub](https://github.com/vfsfitvnm/ViMusic)
+- [ ] Official page
+
+### YTDLnis ❤️
+
+<img alt="YTDLnis" height="64" src="https://github.com/deniscerri/ytdlnis/raw/main/fastlane/metadata/android/en-US/images/icon.png?raw=true">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid]](https://android.izzysoft.de/repo/apk/com.deniscerri.ytdl)
+- [x] [GitHub](https://github.com/deniscerri/ytdlnis)
 - [ ] Official page
 
 ## Special thanks to
