@@ -4,7 +4,7 @@
 
 This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyhackological/AAA/graphs/contributors).You can prove us wrong on the [contributing page](CONTRIBUTING.md).
 >
->App Name ❤️ = Someone's Personal Favourite
+>App Name :heart: = Someone's Personal Favourite
 >
 >[Why does it exist?](WHY.md)
 >
@@ -123,7 +123,7 @@ __AWESOME__ apps counter: __226__ 🎉
 
 ## 2FA
 
-### Aegis ❤️
+### Aegis :heart:
 
 <img alt="Aegis" height="64" src="https://github.com/beemdevelopment/Aegis/blob/master/app/src/main/res/drawable/ic_aegis_iconx.png?raw=true">
 
@@ -217,7 +217,7 @@ __AWESOME__ apps counter: __226__ 🎉
 - [x] [GitHub](https://github.com/fennifith/Alarmio)
 - [ ] Official page
 
-### Clock ❤️
+### Clock :heart:
 
 <img alt="Clock" height="64" src="https://f-droid.org/repo/com.best.deskclock/en-US/icon_F1H61d_ntO34pu9V6nsk3Zt36toTD9y6m2yo3YYnzfE=.png">
 
@@ -230,7 +230,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ## Anime & Manga
 
-### Aniyomi ❤️
+### Aniyomi :heart:
 
 <img alt="Aniyomi" height="64" src="https://raw.githubusercontent.com/jmir1/aniyomi/master/.github/readme-images/app-icon.png">
 
@@ -367,7 +367,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ## Browser
 
-### Bromite ❤️
+### Bromite :heart:
 
 <img alt="Bromite" height="64" src="https://camo.githubusercontent.com/bff09bcc69b64a9924df8e61391e90e79c9ac2280e9168505a021ddf0bca612f/68747470733a2f2f7777772e62726f6d6974652e6f72672f616e64726f69642d69636f6e2d313932783139322e706e67">
 
@@ -396,7 +396,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ## Calculator
 
-### Calculator++ ❤️
+### Calculator++ :heart:
 
 <img alt="Calculator++" height="64" src="https://github.com/Bubu/android-calculatorpp/blob/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png?raw=true">
 
@@ -425,7 +425,7 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/Darkempire78/OpenCalc)
 - [ ] Official page
 
-### Simple Calculator ❤️
+### Simple Calculator :heart:
 
 <img alt="SimpleCalculator" height="64" src="https://github.com/SimpleMobileTools/Simple-Calculator/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
@@ -487,7 +487,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ## Chess
 
-### Lichess ❤️
+### Lichess :heart:
 
 <img alt="Lichess" height="64" src="https://images.prismic.io/lichess/5cfd2630-2a8f-4fa9-8f78-04c2d9f0e5fe_lichess-box-1024.png?auto=compress,format">
 
@@ -520,7 +520,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ## Contacts
 
-### Simple Contacts ❤️
+### Simple Contacts :heart:
 
 <img alt="SimpleContacts" height="64" src="https://github.com/SimpleMobileTools/Simple-Contacts/raw/master/graphics/icon.png">
 
@@ -542,7 +542,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ## Device Synchronization
 
-### KDE Connect ❤️
+### KDE Connect :heart:
 
 <img alt="KDEconnect" height="64" src="https://raw.githubusercontent.com/KDE/kdeconnect-kde/master/icons/app/sc-apps-kdeconnect.svg">
 
@@ -562,7 +562,7 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/Chooloo/koler)
 - [ ] Official page
 
-### Simple Dialer ❤️
+### Simple Dialer :heart:
 
 <img alt="SimpleDialer" height="64" src="https://github.com/SimpleMobileTools/Simple-Dialer/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
@@ -725,7 +725,7 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitLab](https://gitlab.com/AuroraOSS/auroradroid)
 - [x] [Official page](https://auroraoss.com/)
 
-### Droid-ify ❤️
+### Droid-ify :heart:
 
 <img alt="Droid-ify" height="64" src="https://raw.githubusercontent.com/NeoApplications/Neo-Store/cfd917bab523f253394d7d9810b02a0e87b3b1c2/metadata/en-US/images/icon.png">
 
@@ -745,7 +745,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ## File Manager
 
-### Material Files ❤️
+### Material Files :heart:
 
 <img alt="MaterialFiles" height="64" src="https://github.com/zhanghai/MaterialFiles/raw/master/art/launcher_icon.svg">
 
@@ -803,7 +803,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ## Finance
 
-### Currencies ❤️
+### Currencies :heart:
 
 <img alt="Currencies" height="64" src="https://github.com/sal0max/currencies/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
@@ -901,7 +901,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ## Gallery
 
-### Simple Gallery ❤️
+### Simple Gallery :heart:
 
 <img alt="SimpleGallery" height="64" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
@@ -1033,7 +1033,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ## Google Play
 
-### Aurora Store ❤️
+### Aurora Store :heart:
 
 <img alt="AuroraStore" height="64" src="https://gitlab.com/AuroraOSS/AuroraStore/-/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
@@ -1084,7 +1084,7 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 
 ## Icon Pack
 
-### Arcticons ❤️
+### Arcticons :heart:
 
 <img alt="Arcticons" height="64" src="https://raw.githubusercontent.com/Donnnno/Arcticons/main/icons/white/arcticons.svg">
 
@@ -1134,7 +1134,7 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 
 ## Instant Messaging
 
-### Signal ❤️
+### Signal :heart:
 
 <img alt="Signal" height="64" src="https://seeklogo.com/images/S/signal-logo-20A1616F60-seeklogo.com.png">
 
@@ -1143,7 +1143,7 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 - [x] [GitHub](https://github.com/signalapp/Signal-Android)
 - [x] [Official page](https://signal.org/)
 
-### Molly ❤️
+### Molly :heart:
 
 <img alt="Molly" height="64" src="https://molly.im/author/molly/avatar_huf94a2fd78ceb4148e0a28cd6efbae53a_18855_270x270_fill_lanczos_center_3.png">
 
@@ -1190,7 +1190,7 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 
 ## Keyboard
 
-### Openboard ❤️
+### Openboard :heart:
 
 <img alt="Openboard" height="64" src="https://github.com/openboard-team/openboard/blob/master/images/open_board_final.png?raw=true">
 
@@ -1261,7 +1261,7 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 - [x] [GitHub](https://github.com/MM2-0/Kvaesitso)
 - [x] [Official page](https://kvaesitso.mm20.de/)
 
-### Lawnchair Launcher ❤️
+### Lawnchair Launcher :heart:
 
 <img alt="LawnchairLauncher" height="64" src="https://avatars.githubusercontent.com/u/34144436?s=200&v=4">
 
@@ -1281,7 +1281,7 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/NeoApplications/Neo-Launcher)
 - [ ] Official page
 
-### KISS Launcher ❤️
+### KISS Launcher :heart:
 
 <img alt="KISSLauncher" height="64" src="https://github.com/Neamar/KISS/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
@@ -1312,7 +1312,7 @@ Currently being reworked as Neo Launcher.
 
 ## Loyalty Card
 
-### Catima ❤️
+### Catima :heart:
 
 <img alt="Catima" height="64" src="https://raw.githubusercontent.com/CatimaLoyalty/Android/8318d2e7c38fa478244107716ec125331115cf25/logo.svg">
 
@@ -1323,7 +1323,7 @@ Currently being reworked as Neo Launcher.
 
 ## Maps
 
-### Organic Maps ❤️
+### Organic Maps :heart:
 
 <img alt="OrganicMaps" height="64" src="https://organicmaps.app/logos/green-on-transparent.svg">
 
@@ -1374,7 +1374,7 @@ Currently being reworked as Neo Launcher.
 
 ## Meditation
 
-### Medito ❤️
+### Medito :heart:
 
 <img alt="Medito" height="64" src="https://github.com/meditohq/medito-app/blob/develop/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png?raw=true">
 
@@ -1405,7 +1405,7 @@ Currently being reworked as Neo Launcher.
 
 ## Music Player
 
-### Metro ❤️
+### Metro :heart:
 
 <img alt="Metro" height="64" src="https://play-lh.googleusercontent.com/LsjjdQ5KSBnnztnMzRq8nTkmmCSINVE3BwSf4YG0Ps2ITGZQ-yV9pzbEAgkDXjx52140=s180">
 
@@ -1432,7 +1432,7 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/OxygenCobalt/Auxio)
 - [ ] Official page
 
-### Music Player GO ❤️
+### Music Player GO :heart:
 
 <img alt="MusicPlayerGO" height="64" src="https://github.com/enricocid/Music-Player-GO/blob/main/project/app/src/main/res/mipmap-xxhdpi/ic_launcher.png?raw=true">
 
@@ -1497,7 +1497,7 @@ Currently being reworked as Neo Launcher.
 
 ## Music Scrobbler
 
-### Pano Scrobbler ❤️
+### Pano Scrobbler :heart:
 
 <img alt="PanoScrobbler" height="64" src="https://play-lh.googleusercontent.com/QIDK-bs4AbrACmPJsEpcENeQyjMfrfrgsLfizHmqVLanqNE_-Qs8eLpqLdlwCNViXg=w240-h480">
 
@@ -1586,7 +1586,7 @@ Currently being reworked as Neo Launcher.
 
 ## Package Manager
 
-### App Manager ❤️
+### App Manager :heart:
 
 <img alt="AppManager" height="64" src="https://github.com/MuntashirAkon/AppManager/blob/master/docs/raw/images/icon.png">
 
@@ -1606,7 +1606,7 @@ Currently being reworked as Neo Launcher.
 
 ## Password Manager
 
-### Bitwarden ❤️
+### Bitwarden :heart:
 
 <img alt="Bitwarden" height="64" src="https://github.com/bitwarden/mobile/blob/master/store/google/icons/hi-res-icon.png?raw=true">
 
@@ -1624,7 +1624,7 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/PhilippC/keepass2android)
 - [ ] Official page
 
-### KeePassDX ❤️
+### KeePassDX :heart:
 
 <img alt="KeePassDX" height="64" src="https://raw.githubusercontent.com/Kunzisoft/KeePassDX/master/art/icon.png">
 
@@ -1664,7 +1664,7 @@ Currently being reworked as Neo Launcher.
 
 ## Public Transport Assistant
 
-### Transportr ❤️
+### Transportr :heart:
 
 <img alt="Transportr" height="64" src="https://github.com/grote/Transportr/raw/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png">
 
@@ -1695,7 +1695,7 @@ Currently being reworked as Neo Launcher.
 
 ## Reddit
 
-### Infinity ❤️
+### Infinity :heart:
 
 <img alt="Infinity" height="64" src="https://github.com/Docile-Alligator/Infinity-For-Reddit/blob/master/app/src/main/res/drawable-xxxhdpi/splash_icon.png?raw=true">
 
@@ -1755,7 +1755,7 @@ Currently being reworked as Neo Launcher.
 
 ## SMS Messenger
 
-### Simple SMS Messenger ❤️
+### Simple SMS Messenger :heart:
 
 <img alt="SimpleSMSMessenger" height="64" src="https://github.com/SimpleMobileTools/Simple-SMS-Messenger/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
@@ -1795,7 +1795,7 @@ Currently being reworked as Neo Launcher.
 
 ## Spotify
 
-### Blade Player ❤️
+### Blade Player :heart:
 
 <img alt="BladePlayer" height="64" src="https://github.com/vhaudiquet/BladePlayer/blob/master/app/src/main/ic_launcher-playstore.png">
 
@@ -1817,7 +1817,7 @@ Currently being reworked as Neo Launcher.
 
 ## Step Counting
 
-### Paseo ❤️
+### Paseo :heart:
 
 <img alt="Paseo" height="64" src="https://gitlab.com/pardomi/paseo/-/raw/master/fastlane/metadata/android/en-US/images/icon.png">
 
@@ -1868,7 +1868,7 @@ Currently being reworked as Neo Launcher.
 
 ## Terminal Emulator
 
-### Termux ❤️
+### Termux :heart:
 
 <img alt="Termux" height="64" src="https://github.com/termux/termux-app/blob/master/art/ic_launcher2.png?raw=true">
 
@@ -1890,7 +1890,7 @@ Currently being reworked as Neo Launcher.
 
 ## Timers
 
-### Goodtime ❤️
+### Goodtime :heart:
 >
 > Pomodoro Timer
 <img alt="Goodtime" height="64" src="https://github.com/adrcotfas/Goodtime/blob/master/app/src/main/ic_launcher-web.png?raw=true">
@@ -1960,7 +1960,7 @@ Currently being reworked as Neo Launcher.
 
 ## Torrenting
 
-### LibreTorrent ❤️
+### LibreTorrent :heart:
 
 <img alt="LibreTorrent" height="64" src="https://gitlab.com/proninyaroslav/libretorrent/-/raw/master/art/icon.svg">
 
@@ -1981,7 +1981,7 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/albertvaka/bettercounter)
 - [ ] Official page
 
-### Birday ❤️
+### Birday :heart:
 >
 > Birthday Tracker
 <img alt="Birday" height="64" src="https://github.com/m-i-n-a-r/birday/blob/master/fastlane/metadata/android/en-US/images/icon.png?raw=true">
@@ -2011,7 +2011,7 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/Mazahir26/koduko)
 - [ ] Official page
 
-### Loop ❤️
+### Loop :heart:
 >
 > Habit Tracker
 <img alt="LoopHabitTracker" height="64" src="https://github.com/iSoron/uhabits/blob/dev/uhabits-android/src/main/res/drawable/intro_icon_1.png?raw=true">
@@ -2031,7 +2031,7 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/mateusz-bak/openreads-android)
 - [ ] Official page
 
-### Showly ❤️
+### Showly :heart:
 >
 > TV Shows Tracker
 <img alt="Showly" height="64" src="https://camo.githubusercontent.com/3740231f58f9cd91dbf27285736f77ecfac4f63c02fceefcacbeb40778d3f896/68747470733a2f2f692e6962622e636f2f4368424e374c672f69632d6c61756e636865722e706e67">
@@ -2041,7 +2041,7 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/michaldrabik/Showly-2.0)
 - [x] [Official page](http://showlyapp.com/)
 
-### Simple Time Tracker ❤️
+### Simple Time Tracker :heart:
 >
 > Activity Tracker
 <img alt="SimpleTimeTracker" height="64" src="https://f-droid.org/repo/com.razeeman.util.simpletimetracker/en-US/icon_-7PAZOv0fNugVQIIfZE4O4sDSkjwU3CkZmC2g5crWWA=.png">
@@ -2091,7 +2091,7 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/sakusaku3939/DeepLAndroid)
 - [ ] Official page
 
-### SimplyTranslate Mobile ❤️
+### SimplyTranslate Mobile :heart:
 
 <img alt="SimplyTranslateMobile" height="64" src="https://github.com/ManeraKai/simplytranslate_mobile/raw/main/fastlane/metadata/android/en-US/images/icon.png">
 
@@ -2122,7 +2122,7 @@ Currently being reworked as Neo Launcher.
 
 ## Twitter
 
-### Fritter ❤️
+### Fritter :heart:
 
 <img alt="Fritter" height="64" src="https://camo.githubusercontent.com/d2f22524a41d737d6919d4fdad7f60553a0b086fceb581a5de042c32d9c2366c/687474703a2f2f692e696d6775722e636f6d2f786d4f394d54762e706e67">
 
@@ -2144,7 +2144,7 @@ Currently being reworked as Neo Launcher.
 
 ## Video Player
 
-### VLC ❤️
+### VLC :heart:
 
 <img alt="VLC" height="64" src="https://github.com/videolan/vlc-android/raw/master/application/resources/assets/images/svg/icon.svg">
 
@@ -2162,7 +2162,7 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/moneytoo/Player)
 - [ ] Official page
 
-### mpv ❤️
+### mpv :heart:
 
 <img alt="mpv" height="64" src="https://mpv.io/images/mpv-logo-128-0baae5aa.png">
 
@@ -2173,7 +2173,7 @@ Currently being reworked as Neo Launcher.
 
 ## Voice Recorder
 
-### Simple Voice Recorder ❤️
+### Simple Voice Recorder :heart:
 
 <img alt="SimpleVoiceRecorder" height="64" src="https://raw.githubusercontent.com/SimpleMobileTools/Simple-Voice-Recorder/master/graphics/icon.png">
 
@@ -2298,7 +2298,7 @@ Currently being reworked as Neo Launcher.
 
 ## YouTube
 
-### NewPipe ❤️
+### NewPipe :heart:
 
 <img alt="NewPipe" height="64" src="https://newpipe.net/img/logo.svg">
 
@@ -2307,7 +2307,7 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/TeamNewPipe/NewPipe)
 - [x] [Official page](https://newpipe.net/)
 
-### NewPipe x SponsorBlock x Return YouTube Dislike ❤️
+### NewPipe x SponsorBlock x Return YouTube Dislike :heart:
 
 <img alt="NewPipeXSponsorBlockXReturnYouTubeDislike" height="64" src="https://newpipe.net/img/logo.svg">
 
@@ -2352,7 +2352,7 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/vfsfitvnm/ViMusic)
 - [ ] Official page
 
-### YTDLnis ❤️
+### YTDLnis :heart:
 
 <img alt="YTDLnis" height="64" src="https://github.com/deniscerri/ytdlnis/raw/main/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
