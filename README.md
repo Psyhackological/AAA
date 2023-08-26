@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __228__ 🎉
+__AWESOME__ apps counter: __229__ 🎉
 
 ### Contents
 
@@ -2020,6 +2020,16 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/app/org.isoron.uhabits)
 - [x] [GitHub](https://github.com/iSoron/uhabits)
 - [x] [Official page](https://loophabits.org/)
+
+### Habo
+>
+> Habit Tracker
+<img alt="HaboIcon" height="64" src="https://github.com/xpavle00/Habo/blob/master/assets/images/icon.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.pavlenko.Habo)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.pavlenko.Habo)
+- [x] [GitHub](https://github.com/xpavle00/Habo)
+- [x] [Official page](https://habo.space/)
 
 ### Openreads
 >
