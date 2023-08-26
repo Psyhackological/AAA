@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __226__ 🎉
+__AWESOME__ apps counter: __227__ 🎉
 
 ### Contents
 
@@ -2070,6 +2070,16 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/packages/rocks.poopjournal.vacationdays/)
 - [x] [GitHub](https://github.com/Crazy-Marvin/VacationDays)
 - [x] [Official page](https://crazymarvin.com/vacation-days/)
+
+### drip
+>
+> Menstrual Cycle Tracker
+<img alt="drip" height="64" src="https://gitlab.com/bloodyhealth/drip/-/raw/main/metadata/en-US/images/icon.png?raw=true">
+
+- [x] [Google Play](https://bloodyhealth.gitlab.io/android.html)
+- [x] [F-Droid](https://bloodyhealth.gitlab.io/fdroid.html)
+- [x] [GitLab](hhttps://gitlab.com/bloodyhealth/drip)
+- [x] [Official page](https://bloodyhealth.gitlab.io/)
 
 ## Translator
 
