@@ -2078,7 +2078,7 @@ Currently being reworked as Neo Launcher.
 
 - [x] [Google Play](https://bloodyhealth.gitlab.io/android.html)
 - [x] [F-Droid](https://bloodyhealth.gitlab.io/fdroid.html)
-- [x] [GitLab](hhttps://gitlab.com/bloodyhealth/drip)
+- [x] [GitLab](https://gitlab.com/bloodyhealth/drip)
 - [x] [Official page](https://bloodyhealth.gitlab.io/)
 
 ## Translator
@@ -2367,7 +2367,7 @@ Currently being reworked as Neo Launcher.
 <img alt="YTDLnisIcon" height="64" src="https://github.com/deniscerri/ytdlnis/raw/main/fastlane/metadata/android/en-US/images/icon.png?raw=true">
 
 - [ ] Google Play
-- [x] [IzzyOnDroid]](https://android.izzysoft.de/repo/apk/com.deniscerri.ytdl)
+- [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.deniscerri.ytdl)
 - [x] [GitHub](https://github.com/deniscerri/ytdlnis)
 - [ ] Official page
 
