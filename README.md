@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __227__ 🎉
+__AWESOME__ apps counter: __228__ 🎉
 
 ### Contents
 
@@ -2080,6 +2080,16 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://bloodyhealth.gitlab.io/fdroid.html)
 - [x] [GitLab](https://gitlab.com/bloodyhealth/drip)
 - [x] [Official page](https://bloodyhealth.gitlab.io/)
+
+### Plees Tracker
+>
+> Sleep Tracker
+<img alt="PleesIcon" height="64" src="https://github.com/vmiklos/plees-tracker/blob/master/app/src/main/ic_launcher-web.png?raw=true">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/hu.vmiklos.plees_tracker/)
+- [x] [GitHub](https://github.com/vmiklos/plees-tracker)
+- [x] [Official page](https://vmiklos.hu/plees-tracker/)
 
 ## Translator
 
