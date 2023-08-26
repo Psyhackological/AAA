@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __229__ 🎉
+__AWESOME__ apps counter: __230__ 🎉
 
 ### Contents
 
@@ -1382,6 +1382,15 @@ Currently being reworked as Neo Launcher.
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/meditofoundation.medito)
 - [x] [GitHub](https://github.com/meditohq/medito-app)
 - [x] [Official page](https://meditofoundation.org/)
+
+### Buddha Quotes
+
+<img alt="BuddhaQuotestIcon" height="64" src="https://github.com/BanDev/BuddhaQuotes/raw/main/assets/buddha.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.bandev.buddhaquotes)
+- [x] [F-Droid](https://f-droid.org/packages/org.bandev.buddhaquotes)
+- [x] [GitHub](https://github.com/BanDev/BuddhaQuotes)
+- [ ] Official page
 
 ### Meditation Assistant
 
