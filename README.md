@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __229__ 🎉
+__AWESOME__ apps counter: __230__ 🎉
 
 ### Contents
 
@@ -44,7 +44,7 @@ __AWESOME__ apps counter: __229__ 🎉
 - [Camera](#camera)
 - [ChatGPT](#chatgpt)
 - [Chess](#chess)
-- [Cleaner](#cleaner)
+- [System Cleaner](#system-cleaner)
 - [Cocktails Making](#coctails-making)
 - [Contacts](#contacts)
 - [Decision-Making](#decision-making)
@@ -496,7 +496,7 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/lichess-org/lichobile)
 - [x] [Official page](https://lichess.org/mobile)
 
-## Cleaner
+## System Cleaner
 
 ### LTE Cleaner
 
@@ -505,6 +505,15 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=theredspy15.ltecleanerfoss)
 - [x] [F-Droid](https://f-droid.org/packages/theredspy15.ltecleanerfoss/)
 - [x] [GitHub](https://github.com/TheRedSpy15/LTECleanerFOSS)
+- [ ] Official page
+
+### SD Maid 2/SE
+
+<img alt="SDMaid2/SEIcon" height="64" src="https://github.com/d4rken-org/sdmaid-se/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png?raw=true?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=eu.darken.sdmse)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/packages/eu.darken.sdmse/)
+- [x] [GitHub](https://github.com/d4rken-org/sdmaid-se)
 - [ ] Official page
 
 ## Coctails Making
