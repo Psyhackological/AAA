@@ -367,14 +367,14 @@ F-Droid version is outdated compared to GitHub's.
 
 ## Browser
 
-### Bromite :heart:
+### Cromite :heart:
 
-<img alt="BromiteIcon" height="64" src="https://camo.githubusercontent.com/bff09bcc69b64a9924df8e61391e90e79c9ac2280e9168505a021ddf0bca612f/68747470733a2f2f7777772e62726f6d6974652e6f72672f616e64726f69642d69636f6e2d313932783139322e706e67">
+<img alt="CromiteIcon" height="64" src="https://camo.githubusercontent.com/1c6e60bae46d73a1f9abc35721e66caeba21531996df62e0a602cf41d7826a41/68747470733a2f2f7777772e63726f6d6974652e6f72672f6170705f69636f6e2e706e67">
 
 - [ ] Google Play
-- [x] [F-Droid](https://www.bromite.org/fdroid)
-- [x] [GitHub](https://github.com/bromite/bromite)
-- [x] [Official page](https://www.bromite.org/)
+- [ ] F-Droid]
+- [x] [GitHub](https://github.com/uazo/cromite)
+- [x] [Official page](https://www.cromite.org/)
 
 ### Mull
 
