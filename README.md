@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __230__ 🎉
+__AWESOME__ apps counter: __231__ 🎉
 
 ### Contents
 
@@ -372,7 +372,7 @@ F-Droid version is outdated compared to GitHub's.
 <img alt="CromiteIcon" height="64" src="https://camo.githubusercontent.com/1c6e60bae46d73a1f9abc35721e66caeba21531996df62e0a602cf41d7826a41/68747470733a2f2f7777772e63726f6d6974652e6f72672f6170705f69636f6e2e706e67">
 
 - [ ] Google Play
-- [ ] F-Droid]
+- [ ] F-Droid
 - [x] [GitHub](https://github.com/uazo/cromite)
 - [x] [Official page](https://www.cromite.org/)
 
@@ -1050,6 +1050,15 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [F-Droid](https://f-droid.org/en/packages/com.aurora.store/)
 - [x] [GitLab](https://gitlab.com/AuroraOSS/AuroraStore)
 - [x] [Official page](https://auroraoss.com/)
+
+### Obtainium
+
+<img alt="ObtainiumIcon" height="64" src="https://github.com/ImranR98/Obtainium/raw/main/assets/graphics/icon_small.png">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.imranr.obtainium)
+- [x] [GitHub](https://github.com/ImranR98/Obtainium)
+- [ ] Official page
 
 ## Health
 
