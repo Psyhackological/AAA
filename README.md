@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __231__ 🎉
+__AWESOME__ apps counter: __232__ 🎉
 
 ### Contents
 
@@ -2407,6 +2407,15 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.deniscerri.ytdl)
 - [x] [GitHub](https://github.com/deniscerri/ytdlnis)
+- [ ] Official page
+
+### Seal
+
+<img alt="SealIcon" height="64" src="https://github.com/JunkFood02/Seal/raw/main/fastlane/metadata/android/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.junkfood.seal/)
+- [x] [GitHub](https://github.com/JunkFood02/Seal)
 - [ ] Official page
 
 ## Special thanks to
