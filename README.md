@@ -957,7 +957,7 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitLab](https://gitlab.com/enjoyingfoss/parlera)
 - [ ] Official page
 
-### Shattered Pixel Dungeon
+### Shattered Pixel Dungeon :heart:
 
 <img alt="ShatteredPixelDungeonIcon" height="64" src="https://raw.githubusercontent.com/00-Evan/shattered-pixel-dungeon/master/desktop/src/main/assets/icons/icon_256.png">
 
