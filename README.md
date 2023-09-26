@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __232__ 🎉
+__AWESOME__ apps counter: __233__ 🎉
 
 ### Contents
 
@@ -1010,6 +1010,15 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [F-Droid](https://f-droid.org/en/packages/com.unciv.app/)
 - [x] [GitHub](https://github.com/yairm210/Unciv)
 - [x] [Official page](https://yairm210.itch.io/unciv)
+
+### Box Stacker
+
+<img alt="BoxStackerIcon" height="64" src="https://gitlab.com/box-stacker/box-stacker-mobile/-/raw/main/metadata/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=net.artificialworlds.boxstacker)
+- [x] [F-Droid](https://f-droid.org/en/packages/net.artificialworlds.boxstacker/)
+- [x] [GitLab](https://gitlab.com/box-stacker/box-stacker-mobile)
+- [x] [Official page](https://box-stacker.artificialworlds.net/info/)
 
 ## GitHub Client
 
