@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __233__ 🎉
+__AWESOME__ apps counter: __234__ 🎉
 
 ### Contents
 
@@ -393,6 +393,15 @@ F-Droid version is outdated compared to GitHub's.
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/brave/brave-browser)
 - [x] [Official page](https://brave.com/)
+
+### Iceraven
+
+<img alt="IceravenIcon" height="64" src="https://raw.githubusercontent.com/fork-maintainers/iceraven-browser/f7c14b140e267c110977c271887837e6b64721ce/fork-asset-sources/IceRaven%202.svg">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/fork-maintainers/iceraven-browser)
+- [ ] Official page
 
 ## Calculator
 
