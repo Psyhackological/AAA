@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __234__ 🎉
+__AWESOME__ apps counter: __235__ 🎉
 
 ### Contents
 
@@ -303,6 +303,15 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [F-Droid](https://f-droid.org/packages/com.smartpack.kernelmanager)
 - [x] [GitHub](https://github.com/SmartPack/SmartPack-Kernel-Manager)
 - [x] [Official page](https://smartpack.github.io/)
+
+### Amarok
+
+<img alt="AmarokIcon" height="64" src="https://github.com/deltazefiro/Amarok-Hider/blob/main/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/pl/packages/deltazero.amarok.foss/)
+- [x] [GitHub](https://github.com/deltazefiro/Amarok-Hider)
+- [x] [Official page](https://deltazefiro.github.io/Amarok-doc/)
 
 ## App Backup
 
