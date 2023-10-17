@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __235__ 🎉
+__AWESOME__ apps counter: __236__ 🎉
 
 ### Contents
 
@@ -227,6 +227,15 @@ F-Droid version is outdated compared to GitHub's.
 - [x] ~~[F-Droid](https://f-droid.org/packages/com.best.deskclock/)~~
 - [x] [GitHub](https://github.com/qw123wh/new-clock)
 - [ ] Official page
+
+### Clock You :heart:
+
+<img alt="ClockYouIcon" height="64" src="https://github.com/you-apps/ClockYou/raw/main/fastlane/metadata/android/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.bnyro.clock/)
+- [x] [GitHub](https://github.com/you-apps/ClockYou)
+- [x] [Official page](https://you-apps.net/)
 
 ## Anime & Manga
 
