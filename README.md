@@ -1177,6 +1177,15 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 - [x] [CodeBerg](https://codeberg.org/Starfish/Imagepipe)
 - [ ] Official page
 
+### Image Toolbox :heart:
+
+<img alt="ImageToolboxIcon" height="64" src="https://user-images.githubusercontent.com/52178347/244873361-7561ef91-3c2e-4398-87a0-813a56a9f408.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/ru.tech.imageresizershrinker/)
+- [x] [GitHub](https://github.com/T8RIN/ImageToolbox)
+- [ ] Official page
+
 ## Instant Messaging
 
 ### Signal :heart:
