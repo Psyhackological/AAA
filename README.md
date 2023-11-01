@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __238__ 🎉
+__AWESOME__ apps counter: __240__ 🎉
 
 ### Contents
 
@@ -962,6 +962,15 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=deckers.thibault.aves)
 - [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/deckers.thibault.aves)
 - [x] [GitHub](https://github.com/deckerst/aves)
+- [ ] Official page
+
+### Gallery
+
+<img alt="GalleryIcon" height="64" src="https://github.com/IacobIonut01/Gallery/blob/main/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.dot.gallery.gplay)
+- [x] [F-Droid](https://f-droid.org/packages/com.dot.gallery/)
+- [x] [GitHub](https://github.com/IacobIonut01/Gallery)
 - [ ] Official page
 
 ## Games
