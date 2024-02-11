@@ -463,14 +463,14 @@ F-Droid version is outdated compared to GitHub's.
 
 ## Calendar
 
-### Simple Calendar
+### Fossify Calendar
 
-<img alt="SimpleCalendarIcon" height="64" src="https://github.com/SimpleMobileTools/Simple-Calendar/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="FossifyCalendarIcon" height="64" src="https://github.com/FossifyOrg/Calendar/raw/master/graphics/icon.webp">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar.pro)
-- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.calendar.pro)
-- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Calendar)
-- [x] [Official page](https://www.simplemobiletools.com/calendar)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.fossify.calendar)
+- [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.calendar/)
+- [x] [GitHub](https://github.com/FossifyOrg/Calendar)
+- [x] [Official page](https://www.fossify.org/)
 
 ### Etar
 
@@ -556,14 +556,14 @@ F-Droid version is outdated compared to GitHub's.
 
 ## Contacts
 
-### Simple Contacts :heart:
+### Fossify Contacts :heart:
 
-<img alt="SimpleContactsIcon" height="64" src="https://github.com/SimpleMobileTools/Simple-Contacts/raw/master/graphics/icon.png">
+<img alt="FossifyContactsIcon" height="64" src="https://github.com/FossifyOrg/Contacts/raw/master/graphics/icon.webp">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.contacts.pro)
-- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.contacts.pro)
-- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Contacts)
-- [x] [Official page](https://www.simplemobiletools.com/contacts/)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.fossify.contacts)
+- [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.contacts/)
+- [x] [GitHub](https://github.com/FossifyOrg/Contacts)
+- [x] [Official page](https://www.fossify.org/)
 
 ## Decision-Making
 
@@ -598,14 +598,14 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/Chooloo/koler)
 - [ ] Official page
 
-### Simple Dialer :heart:
+### Fossify Phone :heart:
 
-<img alt="SimpleDialerIcon" height="64" src="https://github.com/SimpleMobileTools/Simple-Dialer/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="FossifyPhoneIcon" height="64" src="https://github.com/FossifyOrg/Phone/raw/master/graphics/icon.webp">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.dialer)
-- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.dialer)
-- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Dialer)
-- [x] [Official page](https://www.simplemobiletools.com/)
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.phone/)
+- [x] [GitHub](https://github.com/FossifyOrg/Phone)
+- [x] [Official page](https://www.fossify.org/)
 
 ## Diary
 
@@ -799,14 +799,14 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/TeamAmaze/AmazeFileManager)
 - [x] [Official page](https://teamamaze.xyz/)
 
-### Simple File Manager
+### Fossify File Manager
 
-<img alt="SimpleFileManagerIcon" height="64" src="https://github.com/SimpleMobileTools/Simple-File-Manager/raw/master/graphics/icon.png">
+<img alt="FossifyFileManagerIcon" height="64" src="https://github.com/FossifyOrg/File-Manager/raw/master/graphics/icon.webp">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.filemanager.pro)
-- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.filemanager.pro)
-- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-File-Manager)
-- [x] [Official page](https://www.simplemobiletools.com/filemanager/)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.fossify.filemanager)
+- [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.filemanager/)
+- [x] [GitHub](https://github.com/FossifyOrg/File-Manager)
+- [x] [Official page](https://www.fossify.org/)
 
 ## File Synchronization
 
@@ -937,14 +937,14 @@ F-Droid version is outdated compared to GitHub's.
 
 ## Gallery
 
-### Simple Gallery :heart:
+### Fossify Gallery :heart:
 
-<img alt="SimpleGalleryIcon" height="64" src="https://github.com/SimpleMobileTools/Simple-Gallery/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="FossifyGalleryIcon" height="64" src="https://github.com/FossifyOrg/Gallery/raw/master/graphics/icon.webp">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.gallery.pro)
-- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.gallery.pro)
-- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Gallery)
-- [x] [Official page](https://www.simplemobiletools.com/gallery)
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.gallery/)
+- [x] [GitHub](https://github.com/FossifyOrg/Gallery)
+- [x] [Official page](https://www.fossify.org/)
 
 ### LeafPic Revived
 
@@ -1834,14 +1834,14 @@ Currently being reworked as Neo Launcher.
 
 ## SMS Messenger
 
-### Simple SMS Messenger :heart:
+### Fossify Messages :heart:
 
-<img alt="SimpleSMSMessengerIcon" height="64" src="https://github.com/SimpleMobileTools/Simple-SMS-Messenger/raw/master/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="FossifyMessagesIcon" height="64" src="https://github.com/FossifyOrg/Messages/raw/master/graphics/icon.webp">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.smsmessenger)
-- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.smsmessenger)
-- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-SMS-Messenger)
-- [x] [Official page](https://www.simplemobiletools.com)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.fossify.messages)
+- [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.messages/)
+- [x] [GitHub](https://github.com/FossifyOrg/Messages)
+- [x] [Official page](https://www.fossify.org/)
 
 ### QKSMS
 
