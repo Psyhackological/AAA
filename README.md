@@ -208,15 +208,6 @@ __AWESOME__ apps counter: __241__ 🎉
 
 ## Alarm
 
-### Alarmio
-
-<img alt="AlarmioIcon" height="64" src="https://github.com/fennifith/Alarmio/blob/main/app/src/main/ic_launcher-web.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=me.jfenn.alarmio)
-- [x] [F-Droid](https://f-droid.org/packages/me.jfenn.alarmio/)
-- [x] [GitHub](https://github.com/fennifith/Alarmio)
-- [ ] Official page
-
 ### Clock :heart:
 
 <img alt="ClockIcon" height="64" src="https://f-droid.org/repo/com.best.deskclock/en-US/icon_F1H61d_ntO34pu9V6nsk3Zt36toTD9y6m2yo3YYnzfE=.png">
@@ -910,15 +901,6 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/FossifyOrg/Gallery)
 - [x] [Official page](https://www.fossify.org/)
 
-### LeafPic Revived
-
-<img alt="LeafPicRevivedIcon" height="64" src="https://raw.githubusercontent.com/apcro/leafpicrevived/master/leafpicrevived/src/main/res/drawable/leaf_pic.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.alienpants.leafpicrevived)
-- [x] [F-Droid](https://f-droid.org/app/com.alienpants.leafpicrevived)
-- [x] [GitHub](https://github.com/apcro/leafpicrevived)
-- [ ] Official page
-
 ### Aves
 
 <img alt="AvesIcon" height="64" src="https://raw.githubusercontent.com/deckerst/aves/develop/aves_logo.svg">
@@ -1021,15 +1003,6 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [Official page](https://box-stacker.artificialworlds.net/info/)
 
 ## GitHub Client
-
-### OpenHub
-
-<img alt="OpenHubIcon" height="64" src="https://github.com/ThirtyDegreesRay/OpenHub/blob/master/app/src/main/res/mipmap-hdpi/logo.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.thirtydegreesray.openhub)
-- [x] [F-Droid](https://f-droid.org/ro/packages/com.thirtydegreesray.openhub/)
-- [x] [GitHub](https://github.com/ThirtyDegreesRay/OpenHub)
-- [x] [Official page](https://thirtydegreesray.github.io/OpenHub/)
 
 ### OctoDroid
 
@@ -1199,7 +1172,7 @@ F-Droid version is outdated compared to GitHub's.
 
 <img alt="OwlgramIcon" height="64" src="https://github.com/OwlGramDev/OwlGram/blob/master/TMessagesProj/src/main/res/mipmap-xxhdpi/ic_launcher.png">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=it.owlgram.android)
+- [ ] Google Play
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/OwlGramDev/OwlGram)
 - [ ] Official page
@@ -1551,15 +1524,6 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/OmGodse/Notally)
 - [ ] Official page
 
-### Notedge
-
-<img alt="NotedgeIcon" height="64" src="https://camo.githubusercontent.com/82fed33162840dc397ea0f9c057434e8babe9456b44883ccd0311d5f0484d148/68747470733a2f2f73766773686172652e636f6d2f692f6777552e737667">
-
-- [ ] Google Play
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.kigya.notedgeapp)
-- [x] [GitHub](https://github.com/kigya/NotedgeApp)
-- [x] [Official page](https://notedge.netlify.app)
-
 ### Joplin
 
 <img alt="JoplinIcon" height="64" src="https://raw.githubusercontent.com/laurent22/joplin/dev/Assets/LinuxIcons/256x256.png">
@@ -1658,15 +1622,6 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.gitlab.mudlej.MjPdfReader)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader)
 - [x] [GitLab](https://gitlab.com/mudlej_android/mj_pdf_reader)
-- [ ] Official page
-
-### Pdf Viewer Plus
-
-<img alt="PdfViewerPlusIcon" height="64" src="https://github.com/JavaCafe01/PdfViewer/raw/master/images/high_res.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/com.gsnathan.pdfviewer)
-- [x] [GitHub](https://github.com/JavaCafe01/PdfViewer)
 - [ ] Official page
 
 ### Secure PDF Viewer by GrapheneOS
