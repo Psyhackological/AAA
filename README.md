@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __240__ 🎉
+__AWESOME__ apps counter: __241__ 🎉
 
 ### Contents
 
@@ -1276,6 +1276,15 @@ F-Droid version is outdated compared to GitHub's.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard)
 - [x] [GitHub](https://github.com/florisboard/florisboard)
+- [ ] Official page
+
+### Thumb-Key :heart:
+
+<img alt="ThumbKeyIcon" height="64" src="https://github.com/dessalines/thumb-key/blob/main/app/src/main/ic_launcher-playstore.png?raw=true">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.dessalines.thumbkey)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.dessalines.thumbkey/)
+- [x] [GitHub](https://github.com/dessalines/thumb-key)
 - [ ] Official page
 
 ## Knowledge
