@@ -452,15 +452,6 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/Darkempire78/OpenCalc)
 - [ ] Official page
 
-### Simple Calculator :heart:
-
-<img alt="SimpleCalculatorIcon" height="64" src="https://github.com/SimpleMobileTools/Simple-Calculator/raw/master/fastlane/metadata/android/en-US/images/icon.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.calculator)
-- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.calculator)
-- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Calculator)
-- [x] [Official page](https://www.simplemobiletools.com/calculator)
-
 ## Calendar
 
 ### Fossify Calendar
@@ -653,15 +644,6 @@ F-Droid version is outdated compared to GitHub's.
 
 ## Drawing
 
-### Simple Draw
-
-<img alt="SimpleDrawIcon" height="64" src="https://github.com/SimpleMobileTools/Simple-Draw/raw/master/graphics/icon.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.draw.pro)
-- [x] [F-Droid](https://f-droid.org/en/packages/com.simplemobiletools.draw.pro/)
-- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Draw)
-- [x] [Official page](https://www.simplemobiletools.com)
-
 ### Pocket Paint
 
 <img alt="PocketPaintIcon" height="64" src="https://github.com/Catrobat/Paintroid/blob/develop/app/src/main/res/mipmap-xhdpi/ic_launcher.png">
@@ -678,7 +660,7 @@ F-Droid version is outdated compared to GitHub's.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.therealbluepandabear.pixapencil/)
 - [x] [GitHub](https://github.com/therealbluepandabear/PixaPencil)
-- [x] [Official page](https://pixapencil.github.io/)
+- [x] [Official page](https://pixapencil.com/)
 
 ## E-book Reader
 
@@ -763,7 +745,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Droid-ify :heart:
 
-<img alt="Droid-ifyIcon" height="64" src="https://raw.githubusercontent.com/NeoApplications/Neo-Store/cfd917bab523f253394d7d9810b02a0e87b3b1c2/metadata/en-US/images/icon.png">
+<img alt="Droid-ifyIcon" height="64" src="https://github.com/Droid-ify/client/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.looker.droidify)
@@ -772,7 +754,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Neo Store
 
-<img alt="NeoStoreIcon" height="64" src="https://raw.githubusercontent.com/NeoApplications/Neo-Store/master/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+<img alt="NeoStoreIcon" height="64" src="https://github.com/NeoApplications/Neo-Store/raw/master/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp">
 
 - [ ] Google Play
 - [x] [F-Droid](https://www.f-droid.org/packages/com.machiav3lli.fdroid/)
@@ -916,15 +898,6 @@ F-Droid version is outdated compared to GitHub's.
 - [ ] Official page
 
 ## Flashlight
-
-### Simple Flashlight
-
-<img alt="SimpleFlashlightIcon" height="64" src="https://github.com/SimpleMobileTools/Simple-Flashlight/raw/master/fastlane/metadata/android/en-US/images/icon.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.flashlight)
-- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.flashlight)
-- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Flashlight)
-- [x] [Official page](https://www.simplemobiletools.com)
 
 ### Flashy
 
@@ -1260,15 +1233,6 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/openboard-team/openboard)
 - [ ] Official page
 
-### Simple Keyboard
-
-<img alt="SimpleKeyboardIcon" height="64" src="https://github.com/SimpleMobileTools/Simple-Keyboard/raw/main/fastlane/metadata/android/en-US/images/icon.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.keyboard)
-- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.keyboard)
-- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Keyboard)
-- [x] [Official page](https://www.simplemobiletools.com)
-
 ### FlorisBoard
 
 <img alt="FlorisBoardIcon" height="64" src="https://github.com/florisboard/florisboard/raw/master/fastlane/metadata/android/en-US/images/icon.png">
@@ -1420,7 +1384,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=net.gsantner.markor)
 - [x] [F-Droid](https://f-droid.org/repository/browse/?fdid=net.gsantner.markor)
 - [x] [GitHub](https://github.com/gsantner/markor)
-- [x] [Official page](https://gsantner.net/project/markor.html)
+- [x] [Official page](https://gsantner.net/page/projects.html#markor)
 
 ## Matrix Client
 
@@ -1520,15 +1484,6 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/enricocid/Music-Player-GO)
 - [ ] Official page
 
-### Simple Music Player
-
-<img alt="SimpleMusicPlayerIcon" height="64" src="https://github.com/SimpleMobileTools/Simple-Music-Player/raw/master/fastlane/metadata/android/en-US/images/icon.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.musicplayer)
-- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.musicplayer)
-- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Music-Player)
-- [x] [Official page](https://www.simplemobiletools.com)
-
 ### Vinyl
 
 <img alt="VinylIcon" height="64" src="https://github.com/AdrienPoupa/VinylMusicPlayer/blob/master/app/src/main/res/drawable-xxxhdpi/icon_web.png">
@@ -1604,15 +1559,6 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/packages/com.omgodse.notally/)
 - [x] [GitHub](https://github.com/OmGodse/Notally)
 - [ ] Official page
-
-### Simple Notes
-
-<img alt="SimpleNotesIcon" height="64" src="https://github.com/SimpleMobileTools/Simple-Notes/raw/master/fastlane/metadata/android/en-US/images/icon.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.notes.pro)
-- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.notes.pro)
-- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Notes)
-- [x] [Official page](https://www.simplemobiletools.com/notes)
 
 ### Notedge
 
@@ -2292,15 +2238,6 @@ Currently being reworked as Neo Launcher.
 
 ## Voice Recorder
 
-### Simple Voice Recorder :heart:
-
-<img alt="SimpleVoiceRecorderIcon" height="64" src="https://raw.githubusercontent.com/SimpleMobileTools/Simple-Voice-Recorder/master/graphics/icon.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.voicerecorder)
-- [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.voicerecorder/)
-- [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Voice-Recorder)
-- [x] [Official page](https://www.simplemobiletools.com/voice)
-
 ### Audio Recorder
 
 <img alt="AudioRecorderIcon" height="64" src="https://github.com/Dimowner/AudioRecorder/raw/master/app/src/releaseConfig/res/mipmap-xxxhdpi/audio_recorder_logo.png">
@@ -2379,7 +2316,7 @@ Currently being reworked as Neo Launcher.
 
 ### Kiwix
 
-<img alt="KiwixIcon" height="64" src="https://raw.githubusercontent.com/kiwix/kiwix-android/develop/app/src/main/kiwix_icon-web.png">
+<img alt="KiwixIcon" height="64" src="https://github.com/kiwix/kiwix-android/blob/main/ic_launcher-web.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.kiwix.kiwixmobile)
 - [x] [F-Droid](https://f-droid.org/packages/org.kiwix.kiwixmobile/)
@@ -2451,7 +2388,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/repository/browse/?fdid=free.rm.skytube.oss)
 - [x] [GitHub](https://github.com/SkyTubeTeam/SkyTube)
-- [x] [Official page](https://skytube-app.com/)
+- [ ] Official page
 
 ### LibreTube
 
