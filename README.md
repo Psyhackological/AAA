@@ -257,14 +257,14 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/saikou-app/saikou)
 - [x] [Official page](https://saikou-app.github.io/)
 
-### Tachiyomi️
+### TachiyomiAZ
 
-<img alt="Tachiyomi️Icon" height="64" src="https://github.com/tachiyomiorg/tachiyomi/blob/master/app/src/main/ic_launcher-web.png">
+<img alt="TachiyomiAZIcon" height="64" src="https://github.com/az4521/TachiyomiAZ/blob/master/app/src/main/ic_launcher-web.png?raw=true">
 
 - [ ] Google Play
 - [x] [F-Droid](https://staging.f-droid.org/en/packages/eu.kanade.tachiyomi/)
-- [x] [GitHub](https://github.com/tachiyomiorg/tachiyomi)
-- [x] [Official page](https://tachiyomi.org/)
+- [x] [GitHub](https://github.com/az4521/TachiyomiAZ)
+- [x] [Official page](https://crafty.moe/tachiAZ.htm)
 
 ### TachiyomiSY
 
