@@ -277,12 +277,12 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Kotatsu
 
-<img alt="KotatsuIcon" height="64" src="https://kotatsuapp.github.io/img/icon4_retro.svg">
+<img alt="KotatsuIcon" height="64" src="https://github.com/KotatsuApp/Kotatsu/blob/devel/metadata/en-US/icon.png?raw=true">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.koitharu.kotatsu/)
 - [x] [GitHub](https://github.com/KotatsuApp/Kotatsu)
-- [x] [Official page](https://kotatsuapp.github.io/)
+- [x] [Official page](https://kotatsu.app/)
 
 ## Android Customization
 
@@ -620,12 +620,12 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Diary
 
-<img alt="DiaryIcon" height="64" src="https://raw.githubusercontent.com/billthefarmer/diary/master/src/main/res/drawable-hdpi/ic_launcher.png">
+<img alt="DiaryIcon" height="64" src="https://github.com/billthefarmer/diary/raw/master/data/ic_launcher.svg">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.billthefarmer.diary/)
 - [x] [GitHub](https://github.com/billthefarmer/diary)
-- [ ] Official page
+- [x] [Official page](https://billthefarmer.github.io/diary/)
 
 ## Download Manager
 
@@ -633,7 +633,7 @@ F-Droid version is outdated compared to GitHub's.
 
 <img alt="DownloadNaviIcon" height="64" src="https://play-lh.googleusercontent.com/XKSnuIxirq8HktMEpxtcWbAVFl7ThnGg6I_hph0PeYe1JEt8iVCLAf76sDoUeVUu2eFL">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.tachibana.downloader)
+- [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.tachibana.downloader/)
 - [x] [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)
 - [ ] Official page
@@ -660,7 +660,7 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.draw.pro)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.simplemobiletools.draw.pro/)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Draw)
-- [x] [Official page](https://www.simplemobiletools.com/draw)
+- [x] [Official page](https://www.simplemobiletools.com)
 
 ### Pocket Paint
 
@@ -924,7 +924,7 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.flashlight)
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.flashlight)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Flashlight)
-- [x] [Official page](https://www.simplemobiletools.com/flashlight)
+- [x] [Official page](https://www.simplemobiletools.com)
 
 ### Flashy
 
@@ -932,8 +932,8 @@ F-Droid version is outdated compared to GitHub's.
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=rocks.poopjournal.flashy)
 - [x] [F-Droid](https://f-droid.org/en/packages/rocks.poopjournal.flashy/)
-- [x] [GitHub](https://www.simplemobiletools.com/flashlight)
-- [x] [Official page](https://poopjournal.rocks/Flashy/)
+- [x] [GitHub](https://github.com/Crazy-Marvin/Flashy)
+- [x] [Official page](https://crazymarvin.com/flashy/)
 
 ## Gallery
 
@@ -1125,16 +1125,14 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/rh-id/a-medic-log)
 - [ ] Official page
 
-### ~~MediLog~~
+### MediLog
 
 <img alt="MediLogIcon" height="64" src="https://gitlab.com/toz12/medilog/-/raw/master/app/src/main/ic_launcher.png">
 
-Because the dev have decided to make repo private, I am crossing out this app from the list for now.
-
-- [ ] ~~Google Play~~
-- [x] ~~[F-Droid](https://f-droid.org/en/packages/com.zell_mbc.medilog/)~~
-- [x] ~~[GitLab](https://gitlab.com/toz12/medilog)~~
-- [x] ~~[Official page](https://zell-mbc.com/en/privacy/medilog)~~
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.zell_mbc.medilog/)
+- [x] [Codeberg](https://codeberg.org/toz/MediLog)
+- [x] [Official page](https://codeberg.org/toz/MediLog/wiki/?action=_pages)
 
 ## Icon Pack
 
@@ -1162,7 +1160,7 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 <img alt="DeltaIcon" height="64" src="https://github.com/Delta-Icons/android/blob/master/app/src/main/res/mipmap-xxxhdpi/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=website.leifs.delta)
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/website.leifs.delta)
+- [x] [F-Droid](https://f-droid.org/packages/website.leifs.delta.foss/)
 - [x] [GitHub](https://github.com/Delta-Icons/android)
 - [x] [Official page](https://delta-icons.github.io/)
 
@@ -1240,7 +1238,7 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 - [x] [Google Play](https://play.google.com/store/apps/details?id=it.owlgram.android)
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/OwlGramDev/OwlGram)
-- [x] [Official page](https://owlgram.org/)
+- [ ] Official page
 
 ### Delta Chat
 
@@ -1257,7 +1255,7 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 
 <img alt="OpenboardIcon" height="64" src="https://github.com/openboard-team/openboard/blob/master/images/open_board_final.png">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=org.dslul.openboard.inputmethod.latin)
+- [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin)
 - [x] [GitHub](https://github.com/openboard-team/openboard)
 - [ ] Official page
@@ -1269,7 +1267,7 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.keyboard)
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.keyboard)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Keyboard)
-- [x] [Official page](https://www.simplemobiletools.com/keyboard)
+- [x] [Official page](https://www.simplemobiletools.com)
 
 ### FlorisBoard
 
@@ -1290,14 +1288,14 @@ Because the dev have decided to make repo private, I am crossing out this app fr
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.jlindemann.science)
 - [x] [GitHub](https://github.com/JLindemann42/Atomic-Periodic-Table.Android/)
-- [x] [Official page](https://www.jlindemann.se/homepage/atomic)
+- [ ] Official page
 
 ### Linux Command Library
 
 <img alt="LinuxCommandLibraryIcon" height="64" src="https://github.com/SimonSchubert/LinuxCommandLibrary/blob/master/android/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcommandbibliotheca)
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.inspiredandroid.linuxcommandbibliotheca)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.inspiredandroid.linuxcommandbibliotheca/)
 - [x] [GitHub](https://github.com/SimonSchubert/LinuxCommandLibrary)
 - [x] [Official page](https://linuxcommandlibrary.com/)
 
@@ -1520,7 +1518,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.musicplayer)
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.musicplayer)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-Music-Player)
-- [x] [Official page](https://www.simplemobiletools.com/music)
+- [x] [Official page](https://www.simplemobiletools.com)
 
 ### Vinyl
 
@@ -1720,7 +1718,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="PdfViewerPlusIcon" height="64" src="https://github.com/JavaCafe01/PdfViewer/raw/master/images/high_res.png">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.gsnathan.pdfviewer)
+- [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.gsnathan.pdfviewer)
 - [x] [GitHub](https://github.com/JavaCafe01/PdfViewer)
 - [ ] Official page
@@ -1772,7 +1770,7 @@ Currently being reworked as Neo Launcher.
 <img alt="InfinityIcon" height="64" src="https://github.com/Docile-Alligator/Infinity-For-Reddit/blob/master/app/src/main/res/drawable-xxxhdpi/splash_icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit)
-- [x] [F-Droid](https://f-droid.org/packages/ml.docilealligator.infinityforreddit/)
+- [ ] F-Droid
 - [x] [GitHub](https://github.com/Docile-Alligator/Infinity-For-Reddit)
 - [ ] Official page
 
@@ -1834,7 +1832,7 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.simplemobiletools.smsmessenger)
 - [x] [F-Droid](https://f-droid.org/packages/com.simplemobiletools.smsmessenger)
 - [x] [GitHub](https://github.com/SimpleMobileTools/Simple-SMS-Messenger)
-- [x] [Official page](https://www.simplemobiletools.com/sms)
+- [x] [Official page](https://www.simplemobiletools.com)
 
 ### QKSMS
 
@@ -1914,7 +1912,7 @@ Currently being reworked as Neo Launcher.
 <img alt="Burning-SeriesIcon" height="64" src="https://f-droid.org/repo/de.datlag.burningseries/en-US/icon_mn8-Wrvht9_iyE6QETjT1TkUaCtOThW2m8OQQfuJzfI=.png">
 
 - [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/de.datlag.burningseries/)
+- [x] [F-Droid](https://f-droid.org/packages/dev.datlag.burningseries/)
 - [x] [GitHub](https://github.com/DATL4G/BurningSeries-Android/)
 - [ ] Official page
 
@@ -2238,7 +2236,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="FritterIcon" height="64" src="https://camo.githubusercontent.com/d2f22524a41d737d6919d4fdad7f60553a0b086fceb581a5de042c32d9c2366c/687474703a2f2f692e696d6775722e636f6d2f786d4f394d54762e706e67">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.jonjomckay.fritter)
+- [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.jonjomckay.fritter/)
 - [x] [GitHub](https://github.com/jonjomckay/fritter)
 - [x] [Official page](https://fritter.cc/)
@@ -2345,7 +2343,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="VeterondoIcon" height="64" src="https://f-droid.org/repo/icons-640/com.saladdressing.veterondo.13.png">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.saladdressing.veterondo)
+- [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.saladdressing.veterondo/)
 - [x] [GitHub](https://github.com/Antonis427/veterondo)
 - [ ] Official page
