@@ -430,13 +430,13 @@ F-Droid version is outdated compared to GitHub's.
 <img alt="Calculator-inatorIcon" height="64" src="https://github.com/prathameshmm02/Calculator-inator/blob/main/fastlane/metadata/android/en-US/images/icon.png">
 
 - [ ] Google Play
-- [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/com.inator.calculator)
+- [x] [F-Droid](https://f-droid.org/packages/com.inator.calculator/)
 - [x] [GitHub](https://github.com/prathameshmm02/Calculator-inator)
 - [ ] Official page
 
 ### OpenCalc
 
-<img alt="OpenCalcIcon" height="64" src="https://github.com/Darkempire78/OpenCalc/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+<img alt="OpenCalcIcon" height="64" src="https://github.com/Darkempire78/OpenCalc/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.darkempire78.opencalculator/)
@@ -511,7 +511,7 @@ F-Droid version is outdated compared to GitHub's.
 
 <img alt="LTECleanerIcon" height="64" src="https://github.com/TheRedSpy15/LTECleanerFOSS/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=theredspy15.ltecleanerfoss)
+- [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/theredspy15.ltecleanerfoss/)
 - [x] [GitHub](https://github.com/TheRedSpy15/LTECleanerFOSS)
 - [ ] Official page
@@ -730,7 +730,7 @@ F-Droid version is outdated compared to GitHub's.
 <img alt="AuroraDroidIcon" height="64" src="https://gitlab.com/AuroraOSS/auroradroid/-/raw/master/app/src/main/ic_launcher-web.png">
 
 - [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/com.aurora.adroid/)
+- [ ] F-Droid
 - [x] [GitLab](https://gitlab.com/AuroraOSS/auroradroid)
 - [x] [Official page](https://auroraoss.com/)
 
@@ -1035,7 +1035,7 @@ F-Droid version is outdated compared to GitHub's.
 
 <img alt="OctoDroidIcon" height="64" src="https://raw.githubusercontent.com/slapperwan/gh4a/master/app/src/main/res/drawable-xxhdpi/octodroid.png">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.gh4a)
+- [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.gh4a/)
 - [x] [GitHub](https://github.com/slapperwan/gh4a)
 - [ ] Official page
@@ -1291,7 +1291,7 @@ F-Droid version is outdated compared to GitHub's.
 <img alt="LawnchairLauncherIcon" height="64" src="https://avatars.githubusercontent.com/u/34144436?s=200&v=4">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=ch.deletescape.lawnchair.plah)
-- [x] [F-Droid](https://f-droid.org/packages/ch.deletescape.lawnchair.plah/)
+- [ ] F-Droid
 - [x] [GitHub](https://github.com/LawnchairLauncher/lawnchair)
 - [x] [Official page](https://lawnchair.app/)
 
@@ -1401,7 +1401,7 @@ Currently being reworked as Neo Launcher.
 
 ### Medito :heart:
 
-<img alt="MeditoIcon" height="64" src="https://github.com/meditohq/medito-app/blob/develop/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+<img alt="MeditoIcon" height="64" src="https://github.com/meditohq/medito-app/blob/develop/android/app/src/main/res/drawable/logo.png?raw=true">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=meditofoundation.medito)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/meditofoundation.medito)
@@ -1855,10 +1855,10 @@ Currently being reworked as Neo Launcher.
 
 ### Burning-Series
 
-<img alt="Burning-SeriesIcon" height="64" src="https://f-droid.org/repo/de.datlag.burningseries/en-US/icon_mn8-Wrvht9_iyE6QETjT1TkUaCtOThW2m8OQQfuJzfI=.png">
+<img alt="Burning-SeriesIcon" height="64" src="https://github.com/DatL4g/Burning-Series/blob/compose/app/shared/src/commonMain/resources/MR/assets/png/launcher_64.png?raw=true">
 
 - [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/dev.datlag.burningseries/)
+- [x] [F-Droid](https://f-droid.org/en/packages/dev.datlag.burningseries/)
 - [x] [GitHub](https://github.com/DATL4G/BurningSeries-Android/)
 - [ ] Official page
 
@@ -1961,7 +1961,7 @@ Currently being reworked as Neo Launcher.
 <img alt="PocketPlanIcon" height="64" src="https://github.com/estep248/PocketPlan/blob/master/app/src/main/ic_launcher-playstore.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.pocket_plan.j7_003)
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.pocket_plan.j7_003)
+- [x] [F-Droid](https://f-droid.org/packages/com.pocket_plan.j7_003/)
 - [x] [GitHub](https://github.com/estep248/PocketPlan)
 - [ ] Official page
 
@@ -1990,7 +1990,7 @@ Currently being reworked as Neo Launcher.
 ### BetterCounter
 >
 > Multi-purpose Tracker
-<img alt="BetterCounterIcon" height="64" src="https://github.com/albertvaka/bettercounter/raw/main/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png">
+<img alt="BetterCounterIcon" height="64" src="https://github.com/albertvaka/bettercounter/raw/main/app/src/main/res/mipmap-xhdpi/ic_launcher.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.kde.bettercounter)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.kde.bettercounter/)
@@ -2134,7 +2134,7 @@ Currently being reworked as Neo Launcher.
 <img alt="ArnaTranslateIcon" height="64" src="https://user-images.githubusercontent.com/16052180/171461601-8b58706b-12d4-4131-97ad-1580fd5ba580.png">
 
 - [ ] Google Play
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.arna.translate)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.simplytranslate_mobile/)
 - [x] [GitHub](https://manerakai.github.io/simplytranslate_mobile/index.html)
 - [ ] Official page
 
@@ -2244,7 +2244,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="GeometricWeatherIcon" height="64" src="https://github.com/WangDaYeeeeee/GeometricWeather/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=wangdaye.com.geometricweather)
+- [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/wangdaye.com.geometricweather/)
 - [x] [GitHub](https://github.com/WangDaYeeeeee/GeometricWeather)
 - [ ] Official page
@@ -2254,7 +2254,7 @@ Currently being reworked as Neo Launcher.
 <img alt="PluviaWeatherIcon" height="64" src="https://raw.githubusercontent.com/SpicyChair/pluvia_weather_flutter/master/android/app/src/main/ic_launcher-playstore.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.spicychair.weather)
-- [x] [F-Droid](https://f-droid.org/packages/com.spicychair.weather/)
+- [ ] F-Droid
 - [x] [GitHub](https://github.com/SpicyChair/pluvia_weather_flutter)
 - [ ] Official page
 
@@ -2433,10 +2433,6 @@ Currently being reworked as Neo Launcher.
 ### Contributors to this repo
 
 [![GitHub contributors](https://contrib.rocks/image?repo=Psyhackological/AAA)](https://github.com/Psyhackological/AAA/graphs/contributors)
-
-### LinuxCafeFederation/[awesome-android](https://github.com/LinuxCafeFederation/awesome-android)
-
-<img alt="LinuxCafeFederation/awesome-androidIcon" height="64" src="https://avatars.githubusercontent.com/u/66378202?s=200&v=4">
 
 ### pluja/[awesome-privacy](https://github.com/pluja/awesome-privacy)
 
