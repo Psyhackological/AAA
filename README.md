@@ -139,7 +139,7 @@ __AWESOME__ apps counter: __228__ 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=me.jmh.authenticatorpro)
 - [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/me.jmh.authenticatorpro)
 - [x] [GitHub](https://github.com/jamie-mh/AuthenticatorPro)
-- [ ] Official page
+- [x] [Official page](https://authenticatorpro.jmh.me/)
 
 ## Ad Blocking
 
@@ -369,7 +369,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Cromite :heart:
 
-<img alt="CromiteIcon" height="64" src="https://camo.githubusercontent.com/1c6e60bae46d73a1f9abc35721e66caeba21531996df62e0a602cf41d7826a41/68747470733a2f2f7777772e63726f6d6974652e6f72672f6170705f69636f6e2e706e67">
+<img alt="CromiteIcon" height="64" src="https://www.cromite.org/app_icon.png">
 
 - [ ] Google Play
 - [ ] F-Droid
@@ -1064,7 +1064,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### MediLog
 
-<img alt="MediLogIcon" height="64" src="https://gitlab.com/toz12/medilog/-/raw/master/app/src/main/ic_launcher.png">
+<img alt="MediLogIcon" height="64" src="https://codeberg.org/toz/MediLog/raw/branch/master/app/src/main/mipmap-xxxhdpi/ic_launcher.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.zell_mbc.medilog/)
@@ -2015,7 +2015,7 @@ Currently being reworked as Neo Launcher.
 ### Showly :heart:
 >
 > TV Shows Tracker
-<img alt="ShowlyIcon" height="64" src="https://camo.githubusercontent.com/3740231f58f9cd91dbf27285736f77ecfac4f63c02fceefcacbeb40778d3f896/68747470733a2f2f692e6962622e636f2f4368424e374c672f69632d6c61756e636865722e706e67">
+<img alt="ShowlyIcon" height="64" src="https://raw.githubusercontent.com/michaldrabik/showly-2.0/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.michaldrabik.showly2)
 - [ ] F-Droid
