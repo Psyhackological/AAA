@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __228__ 🎉
+__AWESOME__ apps counter: __229__ 🎉
 
 ### Contents
 
@@ -1483,6 +1483,15 @@ Currently being reworked as Neo Launcher.
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/rocks.mucke.github)
 - [x] [GitHub](https://github.com/moritz-weber/mucke)
 - [x] [Official page](https://martinmimigames.github.io/projects/tiny-music-player/index.html)
+
+### Fossify Music Player
+
+<img alt="FossifyMusicPlayerIcon" height="64" src="https://github.com/FossifyOrg/Music-Player/raw/master/graphics/icon.webp">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/org.fossify.musicplayer/)
+- [x] [GitHub](https://github.com/FossifyOrg/Music-Player)
+- [x] [Official page](https://www.fossify.org/)
 
 ### Tiny Music Player
 
