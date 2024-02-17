@@ -241,7 +241,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### TachiyomiAZ
 
-<img alt="TachiyomiAZIcon" height="64" src="https://github.com/az4521/TachiyomiAZ/blob/master/app/src/main/ic_launcher-web.png?raw=true">
+<img alt="TachiyomiAZIcon" height="64" src="https://github.com/az4521/TachiyomiAZ/blob/master/app/src/main/ic_launcher-web.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://staging.f-droid.org/en/packages/eu.kanade.tachiyomi/)
@@ -259,7 +259,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Kotatsu
 
-<img alt="KotatsuIcon" height="64" src="https://github.com/KotatsuApp/Kotatsu/blob/devel/metadata/en-US/icon.png?raw=true">
+<img alt="KotatsuIcon" height="64" src="https://github.com/KotatsuApp/Kotatsu/blob/devel/metadata/en-US/icon.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.koitharu.kotatsu/)
@@ -1208,7 +1208,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Thumb-Key :heart:
 
-<img alt="ThumbKeyIcon" height="64" src="https://github.com/dessalines/thumb-key/blob/main/app/src/main/ic_launcher-playstore.png?raw=true">
+<img alt="ThumbKeyIcon" height="64" src="https://github.com/dessalines/thumb-key/blob/main/app/src/main/ic_launcher-playstore.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.dessalines.thumbkey)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.dessalines.thumbkey/)
@@ -1374,7 +1374,7 @@ Currently being reworked as Neo Launcher.
 
 ### Medito :heart:
 
-<img alt="MeditoIcon" height="64" src="https://github.com/meditohq/medito-app/blob/develop/android/app/src/main/res/drawable/logo.png?raw=true">
+<img alt="MeditoIcon" height="64" src="https://github.com/meditohq/medito-app/blob/develop/android/app/src/main/res/drawable/logo.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=meditofoundation.medito)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/meditofoundation.medito)
@@ -1819,7 +1819,7 @@ Currently being reworked as Neo Launcher.
 
 ### Burning-Series
 
-<img alt="Burning-SeriesIcon" height="64" src="https://github.com/DatL4g/Burning-Series/blob/compose/app/shared/src/commonMain/resources/MR/assets/png/launcher_64.png?raw=true">
+<img alt="Burning-SeriesIcon" height="64" src="https://github.com/DatL4g/Burning-Series/blob/compose/app/shared/src/commonMain/resources/MR/assets/png/launcher_64.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/dev.datlag.burningseries/)
@@ -2271,7 +2271,7 @@ Currently being reworked as Neo Launcher.
 
 ### Kiwix
 
-<img alt="KiwixIcon" height="64" src="https://github.com/kiwix/kiwix-android/blob/main/ic_launcher-web.png?raw=true">
+<img alt="KiwixIcon" height="64" src="https://github.com/kiwix/kiwix-android/blob/main/ic_launcher-web.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.kiwix.kiwixmobile)
 - [x] [F-Droid](https://f-droid.org/packages/org.kiwix.kiwixmobile/)
