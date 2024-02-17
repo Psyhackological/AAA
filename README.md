@@ -2318,14 +2318,14 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/TeamNewPipe/NewPipe)
 - [x] [Official page](https://newpipe.net/)
 
-### NewPipe x SponsorBlock x Return YouTube Dislike :heart:
+### Tubular :heart:
 
-<img alt="NewPipeXSponsorBlockXReturnYouTubeDislikeIcon" height="64" src="https://newpipe.net/img/logo.svg">
+<img alt="TubularIcon" height="64" src="https://github.com/polymorphicshade/Tubular/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
 
 - [ ] Google Play
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.newpipe)
-- [x] [GitHub](https://github.com/polymorphicshade/NewPipe)
-- [x] [Official page](https://newpipe.net/)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.tubular)
+- [x] [GitHub](https://github.com/polymorphicshade/Tubular)
+- [ ] Official page
 
 ### Clipious:heart:
 
