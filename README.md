@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __229__ 🎉
+__AWESOME__ apps counter: __231__ 🎉
 
 ### Contents
 
@@ -1188,13 +1188,13 @@ F-Droid version is outdated compared to GitHub's.
 
 ## Keyboard
 
-### Openboard :heart:
+### HeliBoard :heart:
 
-<img alt="OpenboardIcon" height="64" src="https://github.com/openboard-team/openboard/blob/master/images/open_board_final.png">
+<img alt="HeliBoardIcon" height="64" src="https://github.com/Helium314/HeliBoard/blob/master/images/open_board_final.png">
 
 - [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin)
-- [x] [GitHub](https://github.com/openboard-team/openboard)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/helium314.keyboard)
+- [x] [GitHub](https://github.com/Helium314/HeliBoard)
 - [ ] Official page
 
 ### FlorisBoard
@@ -1307,6 +1307,15 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/packages/com.jerboa)
 - [x] [GitHub](https://github.com/dessalines/jerboa)
 - [ ] Official page
+
+### Thunder
+
+<img alt="ThunderIcon" height="64" src="https://github.com/thunder-app/thunder/raw/develop/assets/logo.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.hjiangsu.thunder)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.hjiangsu.thunder)
+- [x] [GitHub](https://github.com/thunder-app/thunder)
+- [x] [Official page](https://thunderapp.dev/)
 
 ## Loyalty Card
 
@@ -2139,6 +2148,15 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/en/packages/com.github.andreyasadchy.xtra/)
 - [x] [GitHub](https://github.com/crackededed/Xtra)
 - [ ] Official page
+
+### Frosty
+
+<img alt="FrostyIcon" height="64" src="https://github.com/tommyxchow/frosty/blob/main/assets/icons/logo.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.tommychow.frosty&hl=en_US&gl=US)
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/tommyxchow/frosty)
+- [x] [Official page](https://www.frostyapp.io/)
 
 ## Twitter
 
