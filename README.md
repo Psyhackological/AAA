@@ -1308,7 +1308,7 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/dessalines/jerboa)
 - [ ] Official page
 
-### Thunder
+### Thunder :heart:
 
 <img alt="ThunderIcon" height="64" src="https://github.com/thunder-app/thunder/raw/develop/assets/logo.png">
 
@@ -2222,13 +2222,13 @@ Currently being reworked as Neo Launcher.
 
 ## Weather
 
-### Geometric Weather
+### Breezy Weather
 
-<img alt="GeometricWeatherIcon" height="64" src="https://github.com/WangDaYeeeeee/GeometricWeather/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+<img alt="BreezyWeatherIcon" height="64" src="https://github.com/breezy-weather/breezy-weather/raw/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp">
 
 - [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/wangdaye.com.geometricweather/)
-- [x] [GitHub](https://github.com/WangDaYeeeeee/GeometricWeather)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.breezyweather)
+- [x] [GitHub](https://github.com/breezy-weather/breezy-weather)
 - [ ] Official page
 
 ### Pluvia Weather
