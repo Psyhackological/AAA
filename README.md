@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __231__ 🎉
+__AWESOME__ apps counter: __232__ 🎉
 
 ### Contents
 
@@ -423,6 +423,15 @@ F-Droid version is outdated compared to GitHub's.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.inator.calculator/)
 - [x] [GitHub](https://github.com/prathameshmm02/Calculator-inator)
+- [ ] Official page
+
+### yetCalc
+
+<img alt="yetCalcIcon" height="64" src="https://github.com/Yet-Zio/yetCalc/raw/main/img/icons/appico.png">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/yetzio.yetcalc)
+- [x] [GitHub](https://github.com/Yet-Zio/yetCalc)
 - [ ] Official page
 
 ### OpenCalc
