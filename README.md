@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyhackological/AAA/graphs/contributors).You can prove us wrong on the [contributing page](CONTRIBUTING.md).
+This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyhackological/AAA/graphs/contributors). You can prove us wrong on the [contributing page](CONTRIBUTING.md).
 >
 >App Name :heart: = Someone's Personal Favourite
 >
@@ -26,15 +26,15 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __232__ 🎉
+__AWESOME__ apps counter: __233__ 🎉
 
 ### Contents
 
 - [2FA](#2fa)
 - [Ad Blocking](#ad-blocking)
 - [Alarm](#alarm)
-- [Anime & Manga](#anime--manga)
 - [Android Customization](#android-customization)
+- [Anime & Manga](#anime--manga)
 - [App Backup](#app-backup)
 - [Background Noise](#background-noise)
 - [Barcode Scanner](#barcode-scanner)
@@ -44,7 +44,6 @@ __AWESOME__ apps counter: __232__ 🎉
 - [Camera](#camera)
 - [ChatGPT](#chatgpt)
 - [Chess](#chess)
-- [System Cleaner](#system-cleaner)
 - [Cocktails Making](#coctails-making)
 - [Contacts](#contacts)
 - [Decision-Making](#decision-making)
@@ -64,6 +63,7 @@ __AWESOME__ apps counter: __232__ 🎉
 - [Firewall](#firewall)
 - [Flash Cards](#flash-cards)
 - [Flashlight](#flashlight)
+- [Forgejo & Gitea](#forgejo--gitea)
 - [Gallery](#gallery)
 - [Games](#games)
 - [GitHub Client](#github-client)
@@ -89,8 +89,8 @@ __AWESOME__ apps counter: __232__ 🎉
 - [Office Suite](#office-suite)
 - [Package Manager](#package-manager)
 - [Password Manager](#password-manager)
-- [PDF Viewer](#pdf-viewer)
 - [Podcast](#podcast)
+- [PDF Viewer](#pdf-viewer)
 - [Public Transport Assistant](#public-transport-assistant)
 - [Reddit](#reddit)
 - [RNG](#rng)
@@ -102,6 +102,7 @@ __AWESOME__ apps counter: __232__ 🎉
 - [Step Counting](#step-counting)
 - [Streaming](#streaming)
 - [Survival](#survival)
+- [System Cleaner](#system-cleaner)
 - [Terminal Emulator](#terminal-emulator)
 - [Text Editor](#text-editor)
 - [Timers](#timers)
@@ -228,44 +229,6 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/you-apps/ClockYou)
 - [x] [Official page](https://you-apps.net/)
 
-## Anime & Manga
-
-### Aniyomi :heart:
-
-<img alt="AniyomiIcon" height="64" src="https://raw.githubusercontent.com/jmir1/aniyomi/master/.github/readme-images/app-icon.png">
-
-- [ ] Google Play
-- [ ] F-Droid
-- [x] [GitHub](https://github.com/jmir1/aniyomi)
-- [x] [Official page](https://aniyomi.jmir.xyz/)
-
-### TachiyomiAZ
-
-<img alt="TachiyomiAZIcon" height="64" src="https://github.com/az4521/TachiyomiAZ/blob/master/app/src/main/ic_launcher-web.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://staging.f-droid.org/en/packages/eu.kanade.tachiyomi/)
-- [x] [GitHub](https://github.com/az4521/TachiyomiAZ)
-- [x] [Official page](https://crafty.moe/tachiAZ.htm)
-
-### TachiyomiSY
-
-<img alt="TachiyomiSYIcon" height="64" src="https://github.com/jobobby04/TachiyomiSY/blob/master/app/src/main/ic_launcher-web.png">
-
-- [ ] Google Play
-- [ ] F-Droid
-- [x] [GitHub](https://github.com/jobobby04/TachiyomiSY)
-- [ ] Official page
-
-### Kotatsu
-
-<img alt="KotatsuIcon" height="64" src="https://github.com/KotatsuApp/Kotatsu/blob/devel/metadata/en-US/icon.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/org.koitharu.kotatsu/)
-- [x] [GitHub](https://github.com/KotatsuApp/Kotatsu)
-- [x] [Official page](https://kotatsu.app/)
-
 ## Android Customization
 
 ### Magisk️
@@ -303,6 +266,44 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [F-Droid](https://f-droid.org/pl/packages/deltazero.amarok.foss/)
 - [x] [GitHub](https://github.com/deltazefiro/Amarok-Hider)
 - [x] [Official page](https://deltazefiro.github.io/Amarok-doc/)
+
+## Anime & Manga
+
+### Aniyomi :heart:
+
+<img alt="AniyomiIcon" height="64" src="https://raw.githubusercontent.com/jmir1/aniyomi/master/.github/readme-images/app-icon.png">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/jmir1/aniyomi)
+- [x] [Official page](https://aniyomi.jmir.xyz/)
+
+### TachiyomiAZ
+
+<img alt="TachiyomiAZIcon" height="64" src="https://github.com/az4521/TachiyomiAZ/blob/master/app/src/main/ic_launcher-web.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://staging.f-droid.org/en/packages/eu.kanade.tachiyomi/)
+- [x] [GitHub](https://github.com/az4521/TachiyomiAZ)
+- [x] [Official page](https://crafty.moe/tachiAZ.htm)
+
+### TachiyomiSY
+
+<img alt="TachiyomiSYIcon" height="64" src="https://github.com/jobobby04/TachiyomiSY/blob/master/app/src/main/ic_launcher-web.png">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/jobobby04/TachiyomiSY)
+- [ ] Official page
+
+### Kotatsu
+
+<img alt="KotatsuIcon" height="64" src="https://github.com/KotatsuApp/Kotatsu/blob/devel/metadata/en-US/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/org.koitharu.kotatsu/)
+- [x] [GitHub](https://github.com/KotatsuApp/Kotatsu)
+- [x] [Official page](https://kotatsu.app/)
 
 ## App Backup
 
@@ -504,26 +505,6 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [F-Droid](https://www.f-droid.org/packages/org.lichess.mobileapp.free/)
 - [x] [GitHub](https://github.com/lichess-org/lichobile)
 - [x] [Official page](https://lichess.org/mobile)
-
-## System Cleaner
-
-### LTE Cleaner
-
-<img alt="LTECleanerIcon" height="64" src="https://github.com/TheRedSpy15/LTECleanerFOSS/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/theredspy15.ltecleanerfoss/)
-- [x] [GitHub](https://github.com/TheRedSpy15/LTECleanerFOSS)
-- [ ] Official page
-
-### SD Maid 2/SE
-
-<img alt="SDMaid2/SEIcon" height="64" src="https://github.com/d4rken-org/sdmaid-se/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=eu.darken.sdmse)
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/packages/eu.darken.sdmse/)
-- [x] [GitHub](https://github.com/d4rken-org/sdmaid-se)
-- [ ] Official page
 
 ## Coctails Making
 
@@ -888,6 +869,17 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/uestueab/app-thesis)
 - [ ] Official page
 
+## Forgejo & Gitea
+
+### GitNex
+
+<img alt="GitNex" height="64" src="https://codeberg.org/gitnex/GitNex/raw/branch/main/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.mian.gitnex.pro)
+- [x] [F-Droid](https://f-droid.org/en/packages/org.mian.gitnex/)
+- [x] [Codeberg](https://codeberg.org/gitnex/GitNex)
+- [x] [Official page](https://gitnex.com/)
+
 ## Flashlight
 
 ### Flashy
@@ -898,6 +890,17 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [F-Droid](https://f-droid.org/en/packages/rocks.poopjournal.flashy/)
 - [x] [GitHub](https://github.com/Crazy-Marvin/Flashy)
 - [x] [Official page](https://crazymarvin.com/flashy/)
+
+## Forgejo & Gitea
+
+### GitNext
+
+<img alt="GitNexIcon" height="64" src="https://codeberg.org/gitnex/GitNex/raw/branch/main/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.mian.gitnex.pro)
+- [x] [F-Droid](https://f-droid.org/en/packages/org.mian.gitnex/)
+- [x] [Codeberg](https://codeberg.org/gitnex/GitNex)
+- [x] [Official page](https://gitnex.com/)
 
 ## Gallery
 
@@ -1640,6 +1643,17 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/Kunzisoft/KeePassDX)
 - [x] [Official page](https://www.keepassdx.com/)
 
+## Podcast
+
+### AntennaPod
+
+<img alt="AntennaPodIcon" height="64" src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
+- [x] [F-Droid](https://f-droid.org/en/packages/de.danoeh.antennapod/)
+- [x] [GitHub](https://github.com/AntennaPod/AntennaPod)
+- [x] [Official page](https://antennapod.org/)
+
 ## PDF Viewer
 
 ### MJ PDF
@@ -1679,17 +1693,6 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://www.f-droid.org/en/packages/de.schildbach.oeffi/)
 - [x] [Gitlab](https://gitlab.com/oeffi/oeffi)
 - [x] [Official page](https://oeffi.schildbach.de/)
-
-## Podcast
-
-### AntennaPod
-
-<img alt="AntennaPodIcon" height="64" src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
-- [x] [F-Droid](https://f-droid.org/en/packages/de.danoeh.antennapod/)
-- [x] [GitHub](https://github.com/AntennaPod/AntennaPod)
-- [x] [Official page](https://antennapod.org/)
 
 ## Reddit
 
@@ -1863,6 +1866,26 @@ Currently being reworked as Neo Launcher.
 - [x] [Fdroid](https://f-droid.org/en/packages/com.kylecorry.trail_sense/)
 - [x] [GitHub](https://github.com/kylecorry31/Trail-Sense)
 - [x] [Official page](https://kylecorry.com/Trail-Sense/)
+
+## System Cleaner
+
+### LTE Cleaner
+
+<img alt="LTECleanerIcon" height="64" src="https://github.com/TheRedSpy15/LTECleanerFOSS/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/theredspy15.ltecleanerfoss/)
+- [x] [GitHub](https://github.com/TheRedSpy15/LTECleanerFOSS)
+- [ ] Official page
+
+### SD Maid 2/SE
+
+<img alt="SDMaid2/SEIcon" height="64" src="https://github.com/d4rken-org/sdmaid-se/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=eu.darken.sdmse)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/packages/eu.darken.sdmse/)
+- [x] [GitHub](https://github.com/d4rken-org/sdmaid-se)
+- [ ] Official page
 
 ## Terminal Emulator
 
