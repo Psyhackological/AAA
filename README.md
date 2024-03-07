@@ -871,7 +871,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ## Forgejo & Gitea
 
-### GitNex
+### GitNex :heart:
 
 <img alt="GitNex" height="64" src="https://codeberg.org/gitnex/GitNex/raw/branch/main/fastlane/metadata/android/en-US/images/icon.png">
 
