@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __233__ 🎉
+__AWESOME__ apps counter: __234__ 🎉
 
 ### Contents
 
@@ -2251,6 +2251,15 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/en/packages/com.dimowner.audiorecorder/)
 - [x] [GitHub](https://github.com/Dimowner/AudioRecorder)
 - [ ] Official page
+
+### Fossify Voice Recorder
+
+<img alt="FossifyVoiceRecorderIcon" height="64" src="https://github.com/FossifyOrg/Voice-Recorder/raw/master/graphics/icon.webp">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.voicerecorder/)
+- [x] [GitHub](https://github.com/FossifyOrg/Voice-Recorder)
+- [x] [Official page](https://www.fossify.org/)
 
 ## Weather
 
