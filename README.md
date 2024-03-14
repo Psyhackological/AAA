@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __234__ 🎉
+__AWESOME__ apps counter: __235__ 🎉
 
 ### Contents
 
@@ -442,6 +442,15 @@ F-Droid version is outdated compared to GitHub's.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.darkempire78.opencalculator/)
 - [x] [GitHub](https://github.com/Darkempire78/OpenCalc)
+- [ ] Official page
+
+### CuteCalc
+
+<img alt="CuteCalcIcon" height="64" src="https://github.com/sosauce/CuteCalc/blob/main/app/src/main/res/drawable/icon2.png">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.sosauce.cutecalc)
+- [x] [GitHub](https://github.com/sosauce/CuteCalc)
 - [ ] Official page
 
 ## Calendar
