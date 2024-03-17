@@ -209,7 +209,7 @@ __AWESOME__ apps counter: __236__ 🎉
 
 ### URLCheck
 
-<img alt="URLCheckIcon" height="64" src="https://github.com/TrianguloY/UrlChecker">
+<img alt="URLCheckIcon" height="64" src="https://github.com/TrianguloY/UrlChecker/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.trianguloy.urlchecker)
 - [x] [F-Droid](https://f-droid.org/packages/com.trianguloy.urlchecker/)
