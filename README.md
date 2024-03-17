@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __235__ 🎉
+__AWESOME__ apps counter: __236__ 🎉
 
 ### Contents
 
@@ -206,6 +206,15 @@ __AWESOME__ apps counter: __235__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/net.kollnig.missioncontrol.fdroid/)
 - [x] [GitHub](https://github.com/TrackerControl/tracker-control-android)
 - [x] [Official page](https://trackercontrol.org/)
+
+### URLCheck
+
+<img alt="URLCheckIcon" height="64" src="https://github.com/TrianguloY/UrlChecker">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.trianguloy.urlchecker)
+- [x] [F-Droid](https://f-droid.org/packages/com.trianguloy.urlchecker/)
+- [x] [GitHub](https://github.com/TrianguloY/UrlChecker)
+- [x] [Official page](https://f-droid.org/packages/com.trianguloy.urlchecker/)
 
 ## Alarm
 
