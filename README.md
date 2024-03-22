@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __236__ 🎉
+__AWESOME__ apps counter: __237__ 🎉
 
 ### Contents
 
@@ -70,6 +70,7 @@ __AWESOME__ apps counter: __236__ 🎉
 - [Google Play](#google-play)
 - [Health](#health)
 - [Icon Pack](#icon-pack)
+- [IDE](#IDE)
 - [Image Processing](#image-processing)
 - [Instant Messaging](#instant-messaging)
 - [Keyboard](#keyboard)
@@ -1130,6 +1131,17 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [F-Droid](https://f-droid.org/packages/website.leifs.delta.foss/)
 - [x] [GitHub](https://github.com/Delta-Icons/android)
 - [x] [Official page](https://delta-icons.github.io/)
+
+## IDE
+
+### Cosmic IDE
+
+<img alt="CosmicIDEIcon" height="64" src="https://github.com/Cosmic-Ide/Cosmic-IDE/blob/main/fastlane/metadata/android/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/org.cosmicide)
+- [x] [GitHub](https://github.com/Cosmic-Ide/Cosmic-IDE)
+- [ ] Official page
 
 ## Image Processing
 
