@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __237__ 🎉
+__AWESOME__ apps counter: __238__ 🎉
 
 ### Contents
 
@@ -1101,6 +1101,15 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [F-Droid](https://f-droid.org/packages/com.zell_mbc.medilog/)
 - [x] [Codeberg](https://codeberg.org/toz/MediLog)
 - [x] [Official page](https://codeberg.org/toz/MediLog/wiki/?action=_pages)
+
+### MedTimer
+
+<img alt="MedTimerIcon" height="64" src="https://github.com/Futsch1/medTimer/blob/main/app/src/main/play/listings/en-US/graphics/icon/1.png">
+
+- [ ] Google Play
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.futsch1.medtimer)
+- [x] [GitHub](https://github.com/Futsch1/medTimer)
+- [ ] Official page
 
 ## Icon Pack
 
