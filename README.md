@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __238__ 🎉
+__AWESOME__ apps counter: __239__ 🎉
 
 ### Contents
 
@@ -238,6 +238,15 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [F-Droid](https://f-droid.org/packages/com.bnyro.clock/)
 - [x] [GitHub](https://github.com/you-apps/ClockYou)
 - [x] [Official page](https://you-apps.net/)
+
+### Fossify Clock
+
+<img alt="FossifyClockIcon" height="64" src="https://github.com/FossifyOrg/Clock/raw/master/graphics/icon.webp">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.clock/)
+- [x] [GitHub](https://github.com/FossifyOrg/Clock)
+- [x] [Official page](https://www.fossify.org/)
 
 ## Android Customization
 
