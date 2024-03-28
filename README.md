@@ -99,7 +99,7 @@ __AWESOME__ apps counter: __240__ 🎉
 - [Self Hosted](#self-hosted)
 - [SMS Messenger](#sms-messenger)
 - [Spotify](#spotify)
-- [SSH client](#ssh)
+- [SSH client](#ssh-client)
 - [Stargazing](#stargazing)
 - [Step Counting](#step-counting)
 - [Streaming](#streaming)
@@ -1855,6 +1855,17 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/vhaudiquet/BladePlayer)
 - [ ] Official page
 
+## SSH client
+
+### ConnectBot :heart:
+
+<img alt="ConnectBotIcon" height="64" src="https://github.com/connectbot/connectbot/blob/main/icons/icon64.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.connectbot)
+- [x] [F-Droid](https://f-droid.org/en/packages/org.connectbot/)
+- [x] [GitHub](https://github.com/connectbot/connectbot)
+- [x] [Official page](http://connectbot.org/)
+
 ## Stargazing
 
 ### Sky Map
@@ -2290,6 +2301,17 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/packages/is.xyz.mpv/)
 - [x] [GitHub](https://github.com/mpv-android/mpv-android)
 - [x] [Official page](https://mpv.io/)
+
+## VNC client
+
+### AVNC :heart:
+
+<img alt="AVNCIcon" height="64" src="https://raw.githubusercontent.com/gujjwal00/avnc/master/metadata/en-US/branding/icon.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.gaurav.avnc)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.gaurav.avnc/)
+- [x] [GitHub](https://github.com/gujjwal00/avnc)
+- [ ] Official page
 
 ## Voice Recorder
 
