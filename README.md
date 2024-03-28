@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __239__ 🎉
+__AWESOME__ apps counter: __240__ 🎉
 
 ### Contents
 
@@ -96,9 +96,10 @@ __AWESOME__ apps counter: __239__ 🎉
 - [Reddit](#reddit)
 - [RNG](#rng)
 - [RSS Reader](#rss-reader)
-- [SMS Messenger](#sms-messenger)
 - [Self Hosted](#self-hosted)
+- [SMS Messenger](#sms-messenger)
 - [Spotify](#spotify)
+- [SSH client](#ssh)
 - [Stargazing](#stargazing)
 - [Step Counting](#step-counting)
 - [Streaming](#streaming)
@@ -115,6 +116,7 @@ __AWESOME__ apps counter: __239__ 🎉
 - [Twitter](#twitter)
 - [Unit Converter](#unit-converter)
 - [Video Player](#video-player)
+- [VNC client](#vnc-client)
 - [Voice Recorder](#voice-recorder)
 - [Weather](#weather)
 - [Wikipedia](#wikipedia)
