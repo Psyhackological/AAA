@@ -90,8 +90,8 @@ __AWESOME__ apps counter: __240__ 🎉
 - [Office Suite](#office-suite)
 - [Package Manager](#package-manager)
 - [Password Manager](#password-manager)
-- [Podcast](#podcast)
 - [PDF Viewer](#pdf-viewer)
+- [Podcast](#podcast)
 - [Public Transport Assistant](#public-transport-assistant)
 - [Reddit](#reddit)
 - [RNG](#rng)
@@ -1693,17 +1693,6 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/Kunzisoft/KeePassDX)
 - [x] [Official page](https://www.keepassdx.com/)
 
-## Podcast
-
-### AntennaPod
-
-<img alt="AntennaPodIcon" height="64" src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
-- [x] [F-Droid](https://f-droid.org/en/packages/de.danoeh.antennapod/)
-- [x] [GitHub](https://github.com/AntennaPod/AntennaPod)
-- [x] [Official page](https://antennapod.org/)
-
 ## PDF Viewer
 
 ### MJ PDF
@@ -1725,6 +1714,17 @@ Currently being reworked as Neo Launcher.
 - [x] [Official page](https://grapheneos.org/)
 
 ## Public Transport Assistant
+
+## Podcast
+
+### AntennaPod
+
+<img alt="AntennaPodIcon" height="64" src="https://f-droid.org/repo/de.danoeh.antennapod/en-US/icon_OH4TXWSQZ716A97yM9y87Gy65l3w19qzHcH-RfkE7xw=.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=de.danoeh.antennapod)
+- [x] [F-Droid](https://f-droid.org/en/packages/de.danoeh.antennapod/)
+- [x] [GitHub](https://github.com/AntennaPod/AntennaPod)
+- [x] [Official page](https://antennapod.org/)
 
 ### Transportr :heart:
 
