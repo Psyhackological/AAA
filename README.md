@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __240__ 🎉
+__AWESOME__ apps counter: __241__ 🎉
 
 ### Contents
 
@@ -1043,6 +1043,15 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [F-Droid](https://f-droid.org/en/packages/net.artificialworlds.boxstacker/)
 - [x] [GitLab](https://gitlab.com/box-stacker/box-stacker-mobile)
 - [x] [Official page](https://box-stacker.artificialworlds.net/info/)
+
+### Everest
+
+<img alt="EverestIcon" height="64" src="https://github.com/mwageringel/everest/blob/main/metadata/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/io.github.mwageringel.everest/)
+- [x] [GitHub](https://github.com/mwageringel/everest)
+- [x] [Official page](https://mwageringel.github.io/everest/)
 
 ## GitHub Client
 
