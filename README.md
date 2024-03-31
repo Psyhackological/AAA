@@ -129,7 +129,7 @@ __AWESOME__ apps counter: __244__ 🎉
 
 ### Aegis :heart:
 
-<img alt="AegisIcon" height="64" src="https://github.com/beemdevelopment/Aegis/blob/master/app/src/main/res/drawable/ic_aegis_iconx.png">
+<img alt="AegisIcon" height="64" src="https://raw.githubusercontent.com/beemdevelopment/Aegis/master/app/src/main/res/drawable/ic_aegis_iconx.png">
 
 - [x] [Google Play](http://play.google.com/store/apps/details?id=com.beemdevelopment.aegis)
 - [x] [F-Droid](https://f-droid.org/app/com.beemdevelopment.aegis)
@@ -149,7 +149,7 @@ __AWESOME__ apps counter: __244__ 🎉
 
 ### AdAway
 
-<img alt="AdAwayIcon" height="64" src="https://github.com/AdAway/AdAway/blob/master/app/src/main/res/mipmap-mdpi/icon.png">
+<img alt="AdAwayIcon" height="64" src="https://raw.githubusercontent.com/AdAway/AdAway/master/app/src/main/res/mipmap-mdpi/icon.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/app/org.adaway)
@@ -212,7 +212,7 @@ __AWESOME__ apps counter: __244__ 🎉
 
 ### URLCheck
 
-<img alt="URLCheckIcon" height="64" src="https://github.com/TrianguloY/UrlChecker/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+<img alt="URLCheckIcon" height="64" src="https://raw.githubusercontent.com/TrianguloY/UrlChecker/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.trianguloy.urlchecker)
 - [x] [F-Droid](https://f-droid.org/packages/com.trianguloy.urlchecker/)
@@ -281,7 +281,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Amarok
 
-<img alt="AmarokIcon" height="64" src="https://github.com/deltazefiro/Amarok-Hider/blob/main/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+<img alt="AmarokIcon" height="64" src="https://raw.githubusercontent.com/deltazefiro/Amarok-Hider/main/app/src/main/res/mipmap-hdpi/ic_launcher.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/pl/packages/deltazero.amarok.foss/)
@@ -301,7 +301,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### TachiyomiAZ
 
-<img alt="TachiyomiAZIcon" height="64" src="https://github.com/az4521/TachiyomiAZ/blob/master/app/src/main/ic_launcher-web.png">
+<img alt="TachiyomiAZIcon" height="64" src="https://raw.githubusercontent.com/az4521/TachiyomiAZ/master/app/src/main/ic_launcher-web.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://staging.f-droid.org/en/packages/eu.kanade.tachiyomi/)
@@ -310,7 +310,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### TachiyomiSY
 
-<img alt="TachiyomiSYIcon" height="64" src="https://github.com/jobobby04/TachiyomiSY/blob/master/app/src/main/ic_launcher-web.png">
+<img alt="TachiyomiSYIcon" height="64" src="https://raw.githubusercontent.com/jobobby04/TachiyomiSY/master/app/src/main/ic_launcher-web.png">
 
 - [ ] Google Play
 - [ ] F-Droid
@@ -319,7 +319,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Kotatsu
 
-<img alt="KotatsuIcon" height="64" src="https://github.com/KotatsuApp/Kotatsu/blob/devel/metadata/en-US/icon.png">
+<img alt="KotatsuIcon" height="64" src="https://raw.githubusercontent.com/KotatsuApp/Kotatsu/devel/metadata/en-US/icon.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.koitharu.kotatsu/)
@@ -371,7 +371,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### SecScanQR
 
-<img alt="SecScanQRIcon" height="64" src="https://github.com/Fr4gorSoftware/SecScanQR/blob/master/pictures/web_hi_res_512.png">
+<img alt="SecScanQRIcon" height="64" src="https://raw.githubusercontent.com/Fr4gorSoftware/SecScanQR/master/pictures/web_hi_res_512.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/de.t_dankworth.secscanqr/)
@@ -429,7 +429,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Calculator++ :heart:
 
-<img alt="Calculator++Icon" height="64" src="https://github.com/Bubu/android-calculatorpp/blob/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png">
+<img alt="Calculator++Icon" height="64" src="https://raw.githubusercontent.com/Bubu/android-calculatorpp/master/app/src/main/res/drawable-xxxhdpi/ic_launcher.png">
 
 ([Google Play's version](https://reports.exodus-privacy.eu.org/en/reports/44561/) differs from [F-Droid's one](https://reports.exodus-privacy.eu.org/en/reports/org.solovyev.android.calculator/latest/), and it violates the rules.)
 
@@ -440,7 +440,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Calculator-inator
 
-<img alt="Calculator-inatorIcon" height="64" src="https://github.com/prathameshmm02/Calculator-inator/blob/main/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="Calculator-inatorIcon" height="64" src="https://raw.githubusercontent.com/prathameshmm02/Calculator-inator/main/fastlane/metadata/android/en-US/images/icon.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.inator.calculator/)
@@ -467,7 +467,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### CuteCalc
 
-<img alt="CuteCalcIcon" height="64" src="https://github.com/sosauce/CuteCalc/blob/main/app/src/main/res/drawable/icon2.png">
+<img alt="CuteCalcIcon" height="64" src="https://raw.githubusercontent.com/sosauce/CuteCalc/main/app/src/main/res/drawable/icon2.png">
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.sosauce.cutecalc)
@@ -507,7 +507,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Secure Camera by GrapheneOS
 
-<img alt="GrapheneOSCameraIcon" height="64" src="https://github.com/GrapheneOS/Camera/blob/main/app/src/main/ic_launcher-playstore.png">
+<img alt="GrapheneOSCameraIcon" height="64" src="https://raw.githubusercontent.com/GrapheneOS/Camera/main/app/src/main/ic_launcher-playstore.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=app.grapheneos.camera.play)
 - [ ] F-Droid
@@ -540,7 +540,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Drinkable
 
-<img alt="DrinkableIcon" height="64" src="https://github.com/MOIMOB/drinkable/blob/main/android/app/src/main/ic_launcher-playstore.png">
+<img alt="DrinkableIcon" height="64" src="https://raw.githubusercontent.com/MOIMOB/drinkable/main/android/app/src/main/ic_launcher-playstore.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.moimob.drinkable)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.moimob.drinkable/)
@@ -584,7 +584,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Koler
 
-<img alt="KolerIcon" height="64" src="https://github.com/Chooloo/koler/blob/master/koler/src/main/ic_launcher-web.png">
+<img alt="KolerIcon" height="64" src="https://raw.githubusercontent.com/Chooloo/koler/master/koler/src/main/ic_launcher-web.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.chooloo.www.koler)
 - [x] [F-Droid](https://f-droid.org/app/com.chooloo.www.koler)
@@ -635,7 +635,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Aliucord
 
-<img alt="AliucordIcon" height="64" src="https://github.com/Aliucord/Aliucord/blob/main/installer/android/app/src/main/assets/icon2.png">
+<img alt="AliucordIcon" height="64" src="https://raw.githubusercontent.com/Aliucord/Aliucord/main/installer/android/app/src/main/assets/icon2.png">
 
 (Aliucord doesn't make Discord open source, it is still proprietary software but with FOSS patches and modifications [without Discord Tracking](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java))
 
@@ -648,7 +648,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Pocket Paint
 
-<img alt="PocketPaintIcon" height="64" src="https://github.com/Catrobat/Paintroid/blob/develop/app/src/main/res/mipmap-xhdpi/ic_launcher.png">
+<img alt="PocketPaintIcon" height="64" src="https://raw.githubusercontent.com/Catrobat/Paintroid/develop/app/src/main/res/mipmap-xhdpi/ic_launcher.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.catrobat.paintroid)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.catrobat.paintroid/)
@@ -668,7 +668,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Librera Reader
 
-<img alt="LibreraReaderIcon" height="64" src="https://github.com/foobnix/LibreraReader/blob/master/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="LibreraReaderIcon" height="64" src="https://raw.githubusercontent.com/foobnix/LibreraReader/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.foobnix.pdf.reader)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.foobnix.pro.pdf.reader/)
@@ -677,7 +677,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### KOReader
 
-<img alt="KOReaderIcon" height="64" src="https://github.com/koreader/koreader/blob/master/metadata/en-US/images/icon.png">
+<img alt="KOReaderIcon" height="64" src="https://raw.githubusercontent.com/koreader/koreader/master/metadata/en-US/images/icon.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/org.koreader.launcher.fdroid/)
@@ -718,7 +718,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Lemuroid
 
-<img alt="LemuroidIcon" height="64" src="https://github.com/Swordfish90/Lemuroid/blob/master/lemuroid-app/src/main/lemuroid_launcher-web.png">
+<img alt="LemuroidIcon" height="64" src="https://raw.githubusercontent.com/Swordfish90/Lemuroid/master/lemuroid-app/src/main/lemuroid_launcher-web.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid)
 - [x] [F-Droid](https://f-droid.org/packages/com.swordfish.lemuroid/)
@@ -825,7 +825,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Currencies :heart:
 
-<img alt="CurrenciesIcon" height="64" src="https://github.com/sal0max/currencies/blob/master/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="CurrenciesIcon" height="64" src="https://raw.githubusercontent.com/sal0max/currencies/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=de.salomax.currencies)
 - [x] [F-Droid](https://f-droid.org/packages/de.salomax.currencies/)
@@ -834,7 +834,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### MoneyWallet
 
-<img alt="MoneyWalletIcon" height="64" src="https://github.com/AndreAle94/moneywallet/blob/master/app/src/main/ic_launcher-web.png">
+<img alt="MoneyWalletIcon" height="64" src="https://raw.githubusercontent.com/AndreAle94/moneywallet/master/app/src/main/ic_launcher-web.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.oriondev.moneywallet)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.oriondev.moneywallet)
@@ -843,7 +843,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### My Expenses
 
-<img alt="MyExpensesIcon" height="64" src="https://github.com/mtotschnig/MyExpenses/blob/master/metadata/en-US/images/icon.png">
+<img alt="MyExpensesIcon" height="64" src="https://raw.githubusercontent.com/mtotschnig/MyExpenses/master/metadata/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.totschnig.myexpenses)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.totschnig.myexpenses/)
@@ -852,7 +852,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Sushi
 
-<img alt="SushiIcon" height="64" src="https://github.com/jerameel/sushi/blob/main/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="SushiIcon" height="64" src="https://raw.githubusercontent.com/jerameel/sushi/main/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.jerameeldelosreyes.sushi)
 - [x] [F-Droid](https://f-droid.org/packages/com.jerameeldelosreyes.sushi/)
@@ -863,7 +863,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### AFWall+
 
-<img alt="AFWall+Icon" height="64" src="https://github.com/ukanth/afwall/blob/beta/app/src/main/ic_launcher-web.png">
+<img alt="AFWall+Icon" height="64" src="https://raw.githubusercontent.com/ukanth/afwall/beta/app/src/main/ic_launcher-web.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=dev.ukanth.ufirewall)
 - [x] [F-Droid](https://f-droid.org/en/packages/dev.ukanth.ufirewall/)
@@ -892,7 +892,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Yokatta
 
-<img alt="YokattaIcon" height="64" src="https://github.com/uestueab/app-thesis/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png">
+<img alt="YokattaIcon" height="64" src="https://raw.githubusercontent.com/uestueab/app-thesis/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.thesis.yokatta/)
@@ -914,7 +914,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Flashy
 
-<img alt="FlashyIcon" height="64" src="https://github.com/Crazy-Marvin/Flashy/blob/development/app/src/main/ic_launcher-web.png">
+<img alt="FlashyIcon" height="64" src="https://raw.githubusercontent.com/Crazy-Marvin/Flashy/development/app/src/main/ic_launcher-web.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=rocks.poopjournal.flashy)
 - [x] [F-Droid](https://f-droid.org/en/packages/rocks.poopjournal.flashy/)
@@ -954,7 +954,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Gallery
 
-<img alt="GalleryIcon" height="64" src="https://github.com/IacobIonut01/Gallery/blob/main/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="GalleryIcon" height="64" src="https://raw.githubusercontent.com/IacobIonut01/Gallery/main/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.dot.gallery.gplay)
 - [x] [F-Droid](https://f-droid.org/packages/com.dot.gallery/)
@@ -965,7 +965,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Mindustry
 
-<img alt="MindustryIcon" height="64" src="https://github.com/Anuken/Mindustry/blob/master/android/ic_launcher-web.png">
+<img alt="MindustryIcon" height="64" src="https://raw.githubusercontent.com/Anuken/Mindustry/master/android/ic_launcher-web.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=io.anuke.mindustry)
 - [x] [F-Droid](https://f-droid.org/packages/io.anuke.mindustry)
@@ -992,7 +992,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Simon Tatham's Puzzles
 
-<img alt="SimonTathamsPuzzlesIcon" height="64" src="https://github.com/chrisboyle/sgtpuzzles/blob/main/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+<img alt="SimonTathamsPuzzlesIcon" height="64" src="https://raw.githubusercontent.com/chrisboyle/sgtpuzzles/main/app/src/main/res/mipmap-hdpi/ic_launcher.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=name.boyle.chris.sgtpuzzles)
 - [x] [F-Droid](https://f-droid.org/en/packages/name.boyle.chris.sgtpuzzles/)
@@ -1028,7 +1028,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### UnCiv
 
-<img alt="UnCivIcon" height="64" src="https://github.com/yairm210/Unciv/blob/master/extraImages/Icons/Unciv%20icon%20v5.png">
+<img alt="UnCivIcon" height="64" src="https://raw.githubusercontent.com/yairm210/Unciv/master/extraImages/Icons/Unciv%20icon%20v5.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.unciv.app)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.unciv.app/)
@@ -1046,7 +1046,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Everest
 
-<img alt="EverestIcon" height="64" src="https://github.com/mwageringel/everest/blob/main/metadata/en-US/images/icon.png">
+<img alt="EverestIcon" height="64" src="https://raw.githubusercontent.com/mwageringel/everest/main/metadata/en-US/images/icon.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/io.github.mwageringel.everest/)
@@ -1066,7 +1066,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### DioHub
 
-<img alt="DioHubIcon" height="64" src="https://github.com/NamanShergill/diohub/blob/internal/android/app/src/main/ic_launcher-playstore.png">
+<img alt="DioHubIcon" height="64" src="https://raw.githubusercontent.com/NamanShergill/diohub/internal/android/app/src/main/ic_launcher-playstore.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.felix.diohub)
 - [ ] F-Droid
@@ -1124,7 +1124,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### MedTimer
 
-<img alt="MedTimerIcon" height="64" src="https://github.com/Futsch1/medTimer/blob/main/app/src/main/play/listings/en-US/graphics/icon/1.png">
+<img alt="MedTimerIcon" height="64" src="https://raw.githubusercontent.com/Futsch1/medTimer/main/app/src/main/play/listings/en-US/graphics/icon/1.png">
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.futsch1.medtimer)
@@ -1154,7 +1154,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Delta
 
-<img alt="DeltaIcon" height="64" src="https://github.com/Delta-Icons/android/blob/master/app/src/main/res/mipmap-xxxhdpi/icon.png">
+<img alt="DeltaIcon" height="64" src="https://raw.githubusercontent.com/Delta-Icons/android/master/app/src/main/res/mipmap-xxxhdpi/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=website.leifs.delta)
 - [x] [F-Droid](https://f-droid.org/packages/website.leifs.delta.foss/)
@@ -1165,7 +1165,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Cosmic IDE
 
-<img alt="CosmicIDEIcon" height="64" src="https://github.com/Cosmic-Ide/Cosmic-IDE/blob/main/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="CosmicIDEIcon" height="64" src="https://raw.githubusercontent.com/Cosmic-Ide/Cosmic-IDE/main/fastlane/metadata/android/en-US/images/icon.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.cosmicide)
@@ -1223,7 +1223,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Session
 
-<img alt="SessionIcon" height="64" src="https://github.com/oxen-io/session-android/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+<img alt="SessionIcon" height="64" src="https://raw.githubusercontent.com/oxen-io/session-android/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
 
 - [x] [Google Play](https://getsession.org/android)
 - [x] [F-Droid](https://fdroid.getsession.org/)
@@ -1241,7 +1241,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### OwlGram
 
-<img alt="OwlgramIcon" height="64" src="https://github.com/OwlGramDev/OwlGram/blob/master/TMessagesProj/src/main/res/mipmap-xxhdpi/ic_launcher.png">
+<img alt="OwlgramIcon" height="64" src="https://raw.githubusercontent.com/OwlGramDev/OwlGram/master/TMessagesProj/src/main/res/mipmap-xxhdpi/ic_launcher.png">
 
 - [ ] Google Play
 - [ ] F-Droid
@@ -1261,7 +1261,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### HeliBoard :heart:
 
-<img alt="HeliBoardIcon" height="64" src="https://github.com/Helium314/HeliBoard/blob/master/images/open_board_final.png">
+<img alt="HeliBoardIcon" height="64" src="https://raw.githubusercontent.com/Helium314/HeliBoard/master/images/open_board_final.png">
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/helium314.keyboard)
@@ -1279,7 +1279,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Thumb-Key :heart:
 
-<img alt="ThumbKeyIcon" height="64" src="https://github.com/dessalines/thumb-key/blob/main/app/src/main/ic_launcher-playstore.png">
+<img alt="ThumbKeyIcon" height="64" src="https://raw.githubusercontent.com/dessalines/thumb-key/main/app/src/main/ic_launcher-playstore.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.dessalines.thumbkey)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.dessalines.thumbkey/)
@@ -1291,7 +1291,7 @@ F-Droid version is outdated compared to GitHub's.
 ### Atomic
 >
 > Periodic Table
-<img alt="AtomicIcon" height="64" src="https://github.com/JLindemann42/Atomic-Periodic-Table.Android/blob/master/app/src/main/ic_launcher-web.png">
+<img alt="AtomicIcon" height="64" src="https://raw.githubusercontent.com/JLindemann42/Atomic-Periodic-Table.Android/master/app/src/main/ic_launcher-web.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.jlindemann.science)
@@ -1300,7 +1300,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### Linux Command Library
 
-<img alt="LinuxCommandLibraryIcon" height="64" src="https://github.com/SimonSchubert/LinuxCommandLibrary/blob/master/android/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+<img alt="LinuxCommandLibraryIcon" height="64" src="https://raw.githubusercontent.com/SimonSchubert/LinuxCommandLibrary/master/android/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcommandbibliotheca)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.inspiredandroid.linuxcommandbibliotheca/)
@@ -1352,7 +1352,7 @@ Currently being reworked as Neo Launcher.
 
 ### KISS Launcher :heart:
 
-<img alt="KISSLauncherIcon" height="64" src="https://github.com/Neamar/KISS/blob/master/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="KISSLauncherIcon" height="64" src="https://raw.githubusercontent.com/Neamar/KISS/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=fr.neamar.kiss)
 - [x] [F-Droid](https://f-droid.org/packages/fr.neamar.kiss/)
@@ -1454,7 +1454,7 @@ Currently being reworked as Neo Launcher.
 
 ### Medito :heart:
 
-<img alt="MeditoIcon" height="64" src="https://github.com/meditohq/medito-app/blob/develop/android/app/src/main/res/drawable/logo.png">
+<img alt="MeditoIcon" height="64" src="https://raw.githubusercontent.com/meditohq/medito-app/develop/android/app/src/main/res/drawable/logo.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=meditofoundation.medito)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/meditofoundation.medito)
@@ -1483,7 +1483,7 @@ Currently being reworked as Neo Launcher.
 
 ### SpotiFlyer
 
-<img alt="SpotiFlyerIcon" height="64" src="https://github.com/Shabinder/SpotiFlyer/blob/main/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="SpotiFlyerIcon" height="64" src="https://raw.githubusercontent.com/Shabinder/SpotiFlyer/main/fastlane/metadata/android/en-US/images/icon.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.shabinder.spotiflyer)
@@ -1503,7 +1503,7 @@ Currently being reworked as Neo Launcher.
 
 ### BlackHole
 
-<img alt="BlackHoleIcon" height="64" src="https://github.com/Sangwan5688/BlackHole/blob/main/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="BlackHoleIcon" height="64" src="https://raw.githubusercontent.com/Sangwan5688/BlackHole/main/fastlane/metadata/android/en-US/images/icon.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.shadow.blackhole/)
@@ -1521,7 +1521,7 @@ Currently being reworked as Neo Launcher.
 
 ### Music Player GO :heart:
 
-<img alt="MusicPlayerGOIcon" height="64" src="https://github.com/enricocid/Music-Player-GO/blob/main/project/app/src/main/res/mipmap-xxhdpi/ic_launcher.png">
+<img alt="MusicPlayerGOIcon" height="64" src="https://raw.githubusercontent.com/enricocid/Music-Player-GO/main/project/app/src/main/res/mipmap-xxhdpi/ic_launcher.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.iven.musicplayergo)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.iven.musicplayergo/)
@@ -1530,7 +1530,7 @@ Currently being reworked as Neo Launcher.
 
 ### Vinyl
 
-<img alt="VinylIcon" height="64" src="https://github.com/AdrienPoupa/VinylMusicPlayer/blob/master/app/src/main/res/drawable-xxxhdpi/icon_web.png">
+<img alt="VinylIcon" height="64" src="https://raw.githubusercontent.com/AdrienPoupa/VinylMusicPlayer/master/app/src/main/res/drawable-xxxhdpi/icon_web.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.poupa.vinylmusicplayer)
 - [x] [F-Droid](https://f-droid.org/packages/com.poupa.vinylmusicplayer/)
@@ -1539,7 +1539,7 @@ Currently being reworked as Neo Launcher.
 
 ### Howl
 
-<img alt="HowlIcon" height="64" src="https://github.com/Iamlooker/Howl/blob/stable/app/src/main/ic_launcher-playstore.png">
+<img alt="HowlIcon" height="64" src="https://raw.githubusercontent.com/Iamlooker/Howl/stable/app/src/main/ic_launcher-playstore.png">
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.looker.howlmusic)
@@ -1548,7 +1548,7 @@ Currently being reworked as Neo Launcher.
 
 ### Noad Player
 
-<img alt="NoadPlayerIcon" height="64" src="https://github.com/gauravjot/android-noad-music-player/blob/master/app/src/main/ic_launcher-web.png">
+<img alt="NoadPlayerIcon" height="64" src="https://raw.githubusercontent.com/gauravjot/android-noad-music-player/master/app/src/main/ic_launcher-web.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.droidheat.musicplayer)
 - [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.droidheat.musicplayer)
@@ -1557,7 +1557,7 @@ Currently being reworked as Neo Launcher.
 
 ### Mucke
 
-<img alt="MuckeIcon" height="64" src="https://github.com/moritz-weber/mucke/blob/master/src/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png">
+<img alt="MuckeIcon" height="64" src="https://raw.githubusercontent.com/moritz-weber/mucke/master/src/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png">
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/rocks.mucke.github)
@@ -1575,7 +1575,7 @@ Currently being reworked as Neo Launcher.
 
 ### Tiny Music Player
 
-<img alt="TinyMusicPlayerIcon" height="64" src="https://github.com/martinmimigames/tiny-music-player/blob/main/app/src/main/res/drawable-nodpi/ic_launcher.png">
+<img alt="TinyMusicPlayerIcon" height="64" src="https://raw.githubusercontent.com/martinmimigames/tiny-music-player/main/app/src/main/res/drawable-nodpi/ic_launcher.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.martinmimigames.tinymusicplayer/)
@@ -1606,7 +1606,7 @@ Currently being reworked as Neo Launcher.
 
 ### Notally
 
-<img alt="NotallyIcon" height="64" src="https://github.com/OmGodse/Notally/blob/master/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="NotallyIcon" height="64" src="https://raw.githubusercontent.com/OmGodse/Notally/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.omgodse.notally)
 - [x] [F-Droid](https://f-droid.org/packages/com.omgodse.notally/)
@@ -1635,7 +1635,7 @@ Currently being reworked as Neo Launcher.
 
 ### OCR (Tesseract)
 
-<img alt="OCR(Tesseract)Icon" height="64" src="https://github.com/mtotschnig/OCR/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_scan.png">
+<img alt="OCR(Tesseract)Icon" height="64" src="https://raw.githubusercontent.com/mtotschnig/OCR/master/app/src/main/res/mipmap-xxxhdpi/ic_scan.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.totschnig.ocr.tesseract/)
@@ -1657,7 +1657,7 @@ Currently being reworked as Neo Launcher.
 
 ### App Manager :heart:
 
-<img alt="AppManagerIcon" height="64" src="https://github.com/MuntashirAkon/AppManager/blob/master/docs/raw/images/icon.png">
+<img alt="AppManagerIcon" height="64" src="https://raw.githubusercontent.com/MuntashirAkon/AppManager/master/docs/raw/images/icon.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/io.github.muntashirakon.AppManager/)
@@ -1677,7 +1677,7 @@ Currently being reworked as Neo Launcher.
 
 ### Bitwarden :heart:
 
-<img alt="BitwardenIcon" height="64" src="https://github.com/bitwarden/mobile/blob/master/store/google/icons/hi-res-icon.png">
+<img alt="BitwardenIcon" height="64" src="https://raw.githubusercontent.com/bitwarden/mobile/master/store/google/icons/hi-res-icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.x8bit.bitwarden)
 - [x] [F-Droid](https://mobileapp.bitwarden.com/fdroid/)
@@ -1686,7 +1686,7 @@ Currently being reworked as Neo Launcher.
 
 ### Keepass2Android
 
-<img alt="Keepass2AndroidIcon" height="64" src="https://github.com/PhilippC/keepass2android/blob/master/graphics/launcher_icon/Logo-green.svg">
+<img alt="Keepass2AndroidIcon" height="64" src="https://raw.githubusercontent.com/PhilippC/keepass2android/master/graphics/launcher_icon/Logo-green.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)
 - [x] [IzzyOnDroid (Offline-only)](https://android.izzysoft.de/repo/apk/keepass2android.keepass2android_nonet)
@@ -1715,7 +1715,7 @@ Currently being reworked as Neo Launcher.
 
 ### Secure PDF Viewer by GrapheneOS
 
-<img alt="GrapheneOSPDFViewerIcon" height="64" src="https://github.com/GrapheneOS/PdfViewer/blob/main/app/src/main/ic_launcher-playstore.png">
+<img alt="GrapheneOSPDFViewerIcon" height="64" src="https://raw.githubusercontent.com/GrapheneOS/PdfViewer/main/app/src/main/ic_launcher-playstore.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=app.grapheneos.pdfviewer.play)
 - [ ] F-Droid
@@ -1757,7 +1757,7 @@ Currently being reworked as Neo Launcher.
 
 ### Infinity :heart:
 
-<img alt="InfinityIcon" height="64" src="https://github.com/Docile-Alligator/Infinity-For-Reddit/blob/master/app/src/main/res/drawable-xxxhdpi/splash_icon.png">
+<img alt="InfinityIcon" height="64" src="https://raw.githubusercontent.com/Docile-Alligator/Infinity-For-Reddit/master/app/src/main/res/drawable-xxxhdpi/splash_icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit)
 - [ ] F-Droid
@@ -1777,7 +1777,7 @@ Currently being reworked as Neo Launcher.
 
 ### Randomix
 
-<img alt="RandomixIcon" height="64" src="https://github.com/m-i-n-a-r/randomix/blob/master/app/src/main/ic_launcher-web.png">
+<img alt="RandomixIcon" height="64" src="https://raw.githubusercontent.com/m-i-n-a-r/randomix/master/app/src/main/ic_launcher-web.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.minar.randomix)
 - [x] [F-Droid](https://f-droid.org/packages/com.minar.randomix/)
@@ -1826,7 +1826,7 @@ Currently being reworked as Neo Launcher.
 
 ### QKSMS
 
-<img alt="QKSMSIcon" height="64" src="https://github.com/moezbhatti/qksms/blob/master/presentation/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+<img alt="QKSMSIcon" height="64" src="https://raw.githubusercontent.com/moezbhatti/qksms/master/presentation/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.moez.QKSMS)
 - [x] [F-Droid](https://f-droid.org/packages/com.moez.QKSMS/)
@@ -1857,7 +1857,7 @@ Currently being reworked as Neo Launcher.
 
 ### Blade Player :heart:
 
-<img alt="BladePlayerIcon" height="64" src="https://github.com/vhaudiquet/BladePlayer/blob/master/app/src/main/ic_launcher-playstore.png">
+<img alt="BladePlayerIcon" height="64" src="https://raw.githubusercontent.com/vhaudiquet/BladePlayer/master/app/src/main/ic_launcher-playstore.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=v.blade)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/v.blade)
@@ -1868,7 +1868,7 @@ Currently being reworked as Neo Launcher.
 
 ### ConnectBot :heart:
 
-<img alt="ConnectBotIcon" height="64" src="https://github.com/connectbot/connectbot/blob/main/icons/icon64.png">
+<img alt="ConnectBotIcon" height="64" src="https://raw.githubusercontent.com/connectbot/connectbot/main/icons/icon64.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.connectbot)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.connectbot/)
@@ -1910,7 +1910,7 @@ Currently being reworked as Neo Launcher.
 
 ### Burning-Series
 
-<img alt="Burning-SeriesIcon" height="64" src="https://github.com/DatL4g/Burning-Series/blob/compose/app/shared/src/commonMain/resources/MR/assets/png/launcher_64.png">
+<img alt="Burning-SeriesIcon" height="64" src="https://raw.githubusercontent.com/DatL4g/Burning-Series/compose/app/shared/src/commonMain/resources/MR/assets/png/launcher_64.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/dev.datlag.burningseries/)
@@ -1941,7 +1941,7 @@ Currently being reworked as Neo Launcher.
 
 ### LTE Cleaner
 
-<img alt="LTECleanerIcon" height="64" src="https://github.com/TheRedSpy15/LTECleanerFOSS/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png">
+<img alt="LTECleanerIcon" height="64" src="https://raw.githubusercontent.com/TheRedSpy15/LTECleanerFOSS/master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/theredspy15.ltecleanerfoss/)
@@ -1950,7 +1950,7 @@ Currently being reworked as Neo Launcher.
 
 ### SD Maid 2/SE
 
-<img alt="SDMaid2/SEIcon" height="64" src="https://github.com/d4rken-org/sdmaid-se/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+<img alt="SDMaid2/SEIcon" height="64" src="https://raw.githubusercontent.com/d4rken-org/sdmaid-se/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=eu.darken.sdmse)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/packages/eu.darken.sdmse/)
@@ -1961,7 +1961,7 @@ Currently being reworked as Neo Launcher.
 
 ### Termux :heart:
 
-<img alt="TermuxIcon" height="64" src="https://github.com/termux/termux-app/blob/master/art/ic_launcher2.png">
+<img alt="TermuxIcon" height="64" src="https://raw.githubusercontent.com/termux/termux-app/master/art/ic_launcher2.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.termux)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.termux/)
@@ -1993,7 +1993,7 @@ Currently being reworked as Neo Launcher.
 ### Goodtime :heart:
 >
 > Pomodoro Timer
-<img alt="GoodtimeIcon" height="64" src="https://github.com/adrcotfas/Goodtime/blob/master/app/src/main/ic_launcher-web.png">
+<img alt="GoodtimeIcon" height="64" src="https://raw.githubusercontent.com/adrcotfas/Goodtime/master/app/src/main/ic_launcher-web.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.apps.adrcotfas.goodtime)
 - [x] [F-Droid](https://f-droid.org/packages/com.apps.adrcotfas.goodtime)
@@ -2003,7 +2003,7 @@ Currently being reworked as Neo Launcher.
 ### Cofi
 >
 > Coffee Timer
-<img alt="CofiIcon" height="64" src="https://github.com/rozPierog/Cofi/blob/main/app/src/main/ic_launcher-playstore.png">
+<img alt="CofiIcon" height="64" src="https://raw.githubusercontent.com/rozPierog/Cofi/main/app/src/main/ic_launcher-playstore.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.omelan.cofi)
 - [x] [F-Droid](https://www.f-droid.org/en/packages/com.omelan.cofi/)
@@ -2012,7 +2012,7 @@ Currently being reworked as Neo Launcher.
 
 ### Smart EggTimer
 
-<img alt="SmartEggTimerIcon" height="64" src="https://github.com/woheller69/eggtimer/blob/main/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="SmartEggTimerIcon" height="64" src="https://raw.githubusercontent.com/woheller69/eggtimer/main/fastlane/metadata/android/en-US/images/icon.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/org.woheller69.eggtimer/)
@@ -2042,7 +2042,7 @@ Currently being reworked as Neo Launcher.
 
 ### PocketPlan
 
-<img alt="PocketPlanIcon" height="64" src="https://github.com/estep248/PocketPlan/blob/master/app/src/main/ic_launcher-playstore.png">
+<img alt="PocketPlanIcon" height="64" src="https://raw.githubusercontent.com/estep248/PocketPlan/master/app/src/main/ic_launcher-playstore.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.pocket_plan.j7_003)
 - [x] [F-Droid](https://f-droid.org/packages/com.pocket_plan.j7_003/)
@@ -2086,7 +2086,7 @@ Currently being reworked as Neo Launcher.
 
 > Birthday Tracker
 
-<img alt="BirdayIcon" height="64" src="https://github.com/m-i-n-a-r/birday/blob/master/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="BirdayIcon" height="64" src="https://raw.githubusercontent.com/m-i-n-a-r/birday/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.minar.birday)
 - [x] [F-Droid](https://f-droid.org/packages/com.minar.birday/)
@@ -2097,7 +2097,7 @@ Currently being reworked as Neo Launcher.
 
 > Savings Tracker
 
-<img alt="GreenStash️Icon" height="64" src="https://github.com/Pool-Of-Tears/GreenStash/blob/main/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="GreenStash️Icon" height="64" src="https://raw.githubusercontent.com/Pool-Of-Tears/GreenStash/main/fastlane/metadata/android/en-US/images/icon.png">
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.starry.greenstash)
@@ -2108,7 +2108,7 @@ Currently being reworked as Neo Launcher.
 
 > Habit Tracker
 
-<img alt="KodukoIcon" height="64" src="https://github.com/Mazahir26/koduko/blob/master/assets/icon/icon.png">
+<img alt="KodukoIcon" height="64" src="https://raw.githubusercontent.com/Mazahir26/koduko/master/assets/icon/icon.png">
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.example.koduko)
@@ -2119,7 +2119,7 @@ Currently being reworked as Neo Launcher.
 
 > Habit Tracker
 
-<img alt="LoopHabitTrackerIcon" height="64" src="https://github.com/iSoron/uhabits/blob/dev/uhabits-android/src/main/res/drawable/intro_icon_1.png">
+<img alt="LoopHabitTrackerIcon" height="64" src="https://raw.githubusercontent.com/iSoron/uhabits/dev/uhabits-android/src/main/res/drawable/intro_icon_1.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.isoron.uhabits)
 - [x] [F-Droid](https://f-droid.org/app/org.isoron.uhabits)
@@ -2130,7 +2130,7 @@ Currently being reworked as Neo Launcher.
 
 > Habit Tracker
 
-<img alt="HaboIcon" height="64" src="https://github.com/xpavle00/Habo/blob/master/assets/images/icon.png">
+<img alt="HaboIcon" height="64" src="https://raw.githubusercontent.com/xpavle00/Habo/master/assets/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.pavlenko.Habo)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.pavlenko.Habo)
@@ -2174,7 +2174,7 @@ Currently being reworked as Neo Launcher.
 
 > Addiction Tracker
 
-<img alt="SobrietyIcon" height="64" src="https://github.com/KiARC/Sobriety/blob/master/app/src/main/res/mipmap-xxxhdpi/sobriety.png">
+<img alt="SobrietyIcon" height="64" src="https://raw.githubusercontent.com/KiARC/Sobriety/master/app/src/main/res/mipmap-xxxhdpi/sobriety.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.katiearose.sobriety/)
@@ -2185,7 +2185,7 @@ Currently being reworked as Neo Launcher.
 
 > Days Off Tracker
 
-<img alt="VacationDaysIcon" height="64" src="https://github.com/Crazy-Marvin/VacationDays/blob/development/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="VacationDaysIcon" height="64" src="https://raw.githubusercontent.com/Crazy-Marvin/VacationDays/development/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=rocks.poopjournal.vacationdays)
 - [x] [F-Droid](https://f-droid.org/packages/rocks.poopjournal.vacationdays/)
@@ -2207,7 +2207,7 @@ Currently being reworked as Neo Launcher.
 
 > Sleep Tracker
 
-<img alt="PleesIcon" height="64" src="https://github.com/vmiklos/plees-tracker/blob/master/app/src/main/ic_launcher-web.png">
+<img alt="PleesIcon" height="64" src="https://raw.githubusercontent.com/vmiklos/plees-tracker/master/app/src/main/ic_launcher-web.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/hu.vmiklos.plees_tracker/)
@@ -2258,7 +2258,7 @@ Currently being reworked as Neo Launcher.
 
 ### Twire
 
-<img alt="TwireIcon" height="64" src="https://github.com/twireapp/Twire/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+<img alt="TwireIcon" height="64" src="https://raw.githubusercontent.com/twireapp/Twire/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.perflyst.twire/)
@@ -2276,7 +2276,7 @@ Currently being reworked as Neo Launcher.
 
 ### Frosty
 
-<img alt="FrostyIcon" height="64" src="https://github.com/tommyxchow/frosty/blob/main/assets/icons/logo.svg">
+<img alt="FrostyIcon" height="64" src="hhttps://raw.githubusercontent.com//">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.tommychow.frosty&hl=en_US&gl=US)
 - [ ] F-Droid
@@ -2298,7 +2298,7 @@ Currently being reworked as Neo Launcher.
 
 ### Converter NOW
 
-<img alt="ConverterNOWIcon" height="64" src="https://github.com/ferraridamiano/ConverterNOW/blob/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+<img alt="ConverterNOWIcon" height="64" src="https://raw.githubusercontent.com/ferraridamiano/ConverterNOW/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.ferrarid.converterpro)
 - [x] [F-Droid](https://f-droid.org/packages/com.ferrarid.converterpro)
@@ -2318,7 +2318,7 @@ Currently being reworked as Neo Launcher.
 
 ### Just (Video) Player
 
-<img alt="Just(Video)PlayerIcon" height="64" src="https://github.com/moneytoo/Player/blob/master/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="Just(Video)PlayerIcon" height="64" src="https://raw.githubusercontent.com/moneytoo/Player/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.brouken.player)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.brouken.player/)
@@ -2387,7 +2387,7 @@ Currently being reworked as Neo Launcher.
 
 ### Clima
 
-<img alt="ClimaIcon" height="64" src="https://github.com/Lacerte/clima/blob/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+<img alt="ClimaIcon" height="64" src="https://raw.githubusercontent.com/Lacerte/clima/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/co.prestosole.clima/)
@@ -2396,7 +2396,7 @@ Currently being reworked as Neo Launcher.
 
 ### Forecastie
 
-<img alt="ForecastieIcon" height="64" src="https://github.com/martykan/forecastie/blob/master/icon.png">
+<img alt="ForecastieIcon" height="64" src="https://raw.githubusercontent.com/martykan/forecastie/master/icon.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/cz.martykan.forecastie/)
@@ -2434,7 +2434,7 @@ Currently being reworked as Neo Launcher.
 
 ### Kiwix
 
-<img alt="KiwixIcon" height="64" src="https://github.com/kiwix/kiwix-android/blob/main/ic_launcher-web.png">
+<img alt="KiwixIcon" height="64" src="https://raw.githubusercontent.com/kiwix/kiwix-android/main/ic_launcher-web.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.kiwix.kiwixmobile)
 - [x] [F-Droid](https://f-droid.org/packages/org.kiwix.kiwixmobile/)
@@ -2483,7 +2483,7 @@ Currently being reworked as Neo Launcher.
 
 ### Tubular :heart:
 
-<img alt="TubularIcon" height="64" src="https://github.com/polymorphicshade/Tubular/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+<img alt="TubularIcon" height="64" src="https://raw.githubusercontent.com/polymorphicshade/Tubular/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.tubular)
@@ -2501,7 +2501,7 @@ Currently being reworked as Neo Launcher.
 
 ### SkyTube
 
-<img alt="SkyTubeIcon" height="64" src="https://github.com/SkyTubeTeam/SkyTube/blob/master/app/src/main/ic_launcher-web.png">
+<img alt="SkyTubeIcon" height="64" src="https://raw.githubusercontent.com/SkyTubeTeam/SkyTube/master/app/src/main/ic_launcher-web.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/repository/browse/?fdid=free.rm.skytube.oss)
@@ -2510,7 +2510,7 @@ Currently being reworked as Neo Launcher.
 
 ### LibreTube
 
-<img alt="LibreTubeIcon" height="64" src="https://github.com/libre-tube/LibreTube/blob/master/fastlane/metadata/android/en-US/images/icon.png">
+<img alt="LibreTubeIcon" height="64" src="https://raw.githubusercontent.com/libre-tube/LibreTube/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.github.libretube/)
@@ -2519,7 +2519,7 @@ Currently being reworked as Neo Launcher.
 
 ### SongTube
 
-<img alt="SongTubeIcon" height="64" src="https://github.com/SongTube/SongTube-App/blob/development/assets/images/ic_launcher.png">
+<img alt="SongTubeIcon" height="64" src="https://raw.githubusercontent.com/SongTube/SongTube-App/development/assets/images/ic_launcher.png">
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.artxdev.songtube)
@@ -2528,7 +2528,7 @@ Currently being reworked as Neo Launcher.
 
 ### ViMusic
 
-<img alt="ViMusicIcon" height="64" src="https://github.com/vfsfitvnm/ViMusic/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+<img alt="ViMusicIcon" height="64" src="https://raw.githubusercontent.com/vfsfitvnm/ViMusic/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/it.vfsfitvnm.vimusic)
