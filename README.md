@@ -2072,8 +2072,9 @@ Currently being reworked as Neo Launcher.
 ## Trackers
 
 ### BetterCounter
->
+
 > Multi-purpose Tracker
+
 <img alt="BetterCounterIcon" height="64" src="https://github.com/albertvaka/bettercounter/raw/main/app/src/main/res/mipmap-xhdpi/ic_launcher.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.kde.bettercounter)
@@ -2082,8 +2083,9 @@ Currently being reworked as Neo Launcher.
 - [ ] Official page
 
 ### Birday :heart:
->
+
 > Birthday Tracker
+
 <img alt="BirdayIcon" height="64" src="https://github.com/m-i-n-a-r/birday/blob/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.minar.birday)
@@ -2092,8 +2094,9 @@ Currently being reworked as Neo Launcher.
 - [ ] Official page
 
 ### GreenStash️
->
+
 > Savings Tracker
+
 <img alt="GreenStash️Icon" height="64" src="https://github.com/Pool-Of-Tears/GreenStash/blob/main/fastlane/metadata/android/en-US/images/icon.png">
 
 - [ ] Google Play
@@ -2102,8 +2105,9 @@ Currently being reworked as Neo Launcher.
 - [ ] Official page
 
 ### Koduko
->
+
 > Habit Tracker
+
 <img alt="KodukoIcon" height="64" src="https://github.com/Mazahir26/koduko/blob/master/assets/icon/icon.png">
 
 - [ ] Google Play
@@ -2112,8 +2116,9 @@ Currently being reworked as Neo Launcher.
 - [ ] Official page
 
 ### Loop :heart:
->
+
 > Habit Tracker
+
 <img alt="LoopHabitTrackerIcon" height="64" src="https://github.com/iSoron/uhabits/blob/dev/uhabits-android/src/main/res/drawable/intro_icon_1.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.isoron.uhabits)
@@ -2122,8 +2127,9 @@ Currently being reworked as Neo Launcher.
 - [x] [Official page](https://loophabits.org/)
 
 ### Habo
->
+
 > Habit Tracker
+
 <img alt="HaboIcon" height="64" src="https://github.com/xpavle00/Habo/blob/master/assets/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.pavlenko.Habo)
@@ -2132,8 +2138,9 @@ Currently being reworked as Neo Launcher.
 - [x] [Official page](https://habo.space/)
 
 ### Openreads
->
+
 > Books Tracker
+
 <img alt="OpenreadsIcon" height="64" src="https://f-droid.org/repo/software.mdev.bookstracker/en-US/icon_K4sqLCktmYBP1u6ghL4z56YR6nJgZUnxkdx63wmoDWI=.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=software.mdev.bookstracker)
@@ -2142,8 +2149,9 @@ Currently being reworked as Neo Launcher.
 - [ ] Official page
 
 ### Showly :heart:
->
+
 > TV Shows Tracker
+
 <img alt="ShowlyIcon" height="64" src="https://raw.githubusercontent.com/michaldrabik/showly-2.0/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.michaldrabik.showly2)
@@ -2152,8 +2160,9 @@ Currently being reworked as Neo Launcher.
 - [x] [Official page](http://showlyapp.com/)
 
 ### Simple Time Tracker :heart:
->
+
 > Activity Tracker
+
 <img alt="SimpleTimeTrackerIcon" height="64" src="https://f-droid.org/repo/com.razeeman.util.simpletimetracker/en-US/icon_-7PAZOv0fNugVQIIfZE4O4sDSkjwU3CkZmC2g5crWWA=.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.razeeman.util.simpletimetracker)
@@ -2162,8 +2171,9 @@ Currently being reworked as Neo Launcher.
 - [ ] Official page
 
 ### Sobriety
->
+
 > Addiction Tracker
+
 <img alt="SobrietyIcon" height="64" src="https://github.com/KiARC/Sobriety/blob/master/app/src/main/res/mipmap-xxxhdpi/sobriety.png">
 
 - [ ] Google Play
@@ -2172,8 +2182,9 @@ Currently being reworked as Neo Launcher.
 - [ ] Official page
 
 ### Vacation Days
->
+
 > Days Off Tracker
+
 <img alt="VacationDaysIcon" height="64" src="https://github.com/Crazy-Marvin/VacationDays/blob/development/fastlane/metadata/android/en-US/images/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=rocks.poopjournal.vacationdays)
@@ -2182,8 +2193,9 @@ Currently being reworked as Neo Launcher.
 - [x] [Official page](https://crazymarvin.com/vacation-days/)
 
 ### drip
->
+
 > Menstrual Cycle Tracker
+
 <img alt="dripIcon" height="64" src="https://gitlab.com/bloodyhealth/drip/-/raw/main/metadata/en-US/images/icon.png">
 
 - [x] [Google Play](https://bloodyhealth.gitlab.io/android.html)
@@ -2192,8 +2204,9 @@ Currently being reworked as Neo Launcher.
 - [x] [Official page](https://bloodyhealth.gitlab.io/)
 
 ### Plees Tracker
->
+
 > Sleep Tracker
+
 <img alt="PleesIcon" height="64" src="https://github.com/vmiklos/plees-tracker/blob/master/app/src/main/ic_launcher-web.png">
 
 - [ ] Google Play
@@ -2202,8 +2215,9 @@ Currently being reworked as Neo Launcher.
 - [x] [Official page](https://vmiklos.hu/plees-tracker/)
 
 ### Trackbook :heart:
->
+
 > Movement Tracker
+
 <img alt="TrackbookIcon" height="64" src="https://codeberg.org/y20k/trackbook/raw/branch/master/metadata/en-US/images/icon.png">
 
 - [ ] Google Play
