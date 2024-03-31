@@ -705,8 +705,9 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [Official page](https://k9mail.app/)
 
 ### SimpleLogin
->
+
 > Aliases management
+
 <img alt="SimpleLoginIcon" height="64" src="https://raw.githubusercontent.com/simple-login/Simple-Login-Android/master/SimpleLogin/app/src/main/ic_launcher-playstore.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=io.simplelogin.android)
@@ -1289,8 +1290,9 @@ F-Droid version is outdated compared to GitHub's.
 ## Knowledge
 
 ### Atomic
->
+
 > Periodic Table
+
 <img alt="AtomicIcon" height="64" src="https://raw.githubusercontent.com/JLindemann42/Atomic-Periodic-Table.Android/master/app/src/main/ic_launcher-web.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.jlindemann.science)
@@ -1991,8 +1993,9 @@ Currently being reworked as Neo Launcher.
 ## Timers
 
 ### Goodtime :heart:
->
+
 > Pomodoro Timer
+
 <img alt="GoodtimeIcon" height="64" src="https://raw.githubusercontent.com/adrcotfas/Goodtime/master/app/src/main/ic_launcher-web.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.apps.adrcotfas.goodtime)
@@ -2001,8 +2004,9 @@ Currently being reworked as Neo Launcher.
 - [ ] Official page
 
 ### Cofi
->
+
 > Coffee Timer
+
 <img alt="CofiIcon" height="64" src="https://raw.githubusercontent.com/rozPierog/Cofi/main/app/src/main/ic_launcher-playstore.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.omelan.cofi)
@@ -2020,8 +2024,9 @@ Currently being reworked as Neo Launcher.
 - [ ] Official page
 
 ### Cuppa
->
+
 > Tea Timer
+
 <img alt="CuppaIcon" height="64" src="https://www.nathanatos.com/software/images/Cuppa_hires_default.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.nathanatos.Cuppa)
