@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __241__ 🎉
+__AWESOME__ apps counter: __244__ 🎉
 
 ### Contents
 
@@ -1978,6 +1978,15 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/packages/com.foxdebug.acode/)
 - [x] [GitHub](https://github.com/deadlyjack/acode)
 - [x] [Official page](https://acode.foxdebug.com/)
+
+### Xed Editor
+
+<img alt="XedEditorIcon" height="64" src="https://github.com/RohitKushvaha01/Xed-Editor/raw/main/fastlane/metadata/android/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.rk.xededitor/)
+- [x] [GitHub](https://github.com/RohitKushvaha01/Xed-Editor)
+- [ ] Official page
 
 ## Timers
 
