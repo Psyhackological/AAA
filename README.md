@@ -1274,7 +1274,7 @@ F-Droid version is outdated compared to GitHub's.
 
 ### HeliBoard :heart:
 
-<img alt="HeliBoardIcon" height="64" src="https://raw.githubusercontent.com/Helium314/HeliBoard/master/images/open_board_final.png">
+<img alt="HeliBoardIcon" height="64" src="https://raw.githubusercontent.com/Helium314/HeliBoard/8d546fad5e7d59699bb15418f14a2ca471b4d659/art/launcher_icon/icon_source_-_rubik_font_not_included.svg">
 
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/helium314.keyboard)
