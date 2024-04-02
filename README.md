@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __244__ 🎉
+__AWESOME__ apps counter: __245__ 🎉
 
 ### Contents
 
@@ -51,6 +51,7 @@ __AWESOME__ apps counter: __244__ 🎉
 - [Dialer](#dialer)
 - [Diary](#diary)
 - [Discord](#discord)
+- [Document Scanner](#document-scanner)
 - [Download Manager](#download-manager)
 - [Drawing](#drawing)
 - [E-book Reader](#e-book-reader)
@@ -643,6 +644,17 @@ F-Droid version is outdated compared to GitHub's.
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/Aliucord/Aliucord)
 - [ ] Official page
+
+## Document Scanner
+
+### OSS Document Scanner
+
+<img alt="OSSDocumentScannerIcon" height="64" src="https://raw.githubusercontent.com/Akylas/OSS-DocumentScanner/master/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.akylas.documentscanner)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.akylas.documentscanner)
+- [x] [GitHub](https://github.com/Akylas/OSS-DocumentScanner)
+- [x] [Official page](https://www.akylas.fr/)
 
 ## Drawing
 
