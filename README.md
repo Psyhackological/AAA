@@ -26,12 +26,13 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __245__ 🎉
+__AWESOME__ apps counter: __246__ 🎉
 
 ### Contents
 
 - [2FA](#2fa)
 - [Ad Blocking](#ad-blocking)
+- [AI](#ai)
 - [Alarm](#alarm)
 - [Android Customization](#android-customization)
 - [Anime & Manga](#anime--manga)
@@ -219,6 +220,17 @@ __AWESOME__ apps counter: __245__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.trianguloy.urlchecker/)
 - [x] [GitHub](https://github.com/TrianguloY/UrlChecker)
 - [x] [Official page](https://f-droid.org/packages/com.trianguloy.urlchecker/)
+
+## AI
+
+### whoBIRD
+
+<img alt="whoBIRDIcon" height="64" src="https://raw.githubusercontent.com/woheller69/whoBIRD/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/org.woheller69.whobird/)
+- [x] [GitHub](https://github.com/woheller69/whoBIRD)
+- [ ] Official page
 
 ## Alarm
 
