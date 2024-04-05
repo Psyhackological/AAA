@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __246__ 🎉
+__AWESOME__ apps counter: __247__ 🎉
 
 ### Contents
 
@@ -99,6 +99,7 @@ __AWESOME__ apps counter: __246__ 🎉
 - [RNG](#rng)
 - [RSS Reader](#rss-reader)
 - [Self Hosted](#self-hosted)
+- [Shazam](#shazam)
 - [SMS Messenger](#sms-messenger)
 - [Spotify](#spotify)
 - [SSH client](#ssh-client)
@@ -1877,6 +1878,17 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=dev.jdtech.jellyfin)
 - [x] [F-Droid](https://apt.izzysoft.de/fdroid/index/apk/dev.jdtech.jellyfin)
 - [x] [GitHub](https://github.com/jarnedemeulemeester/findroid)
+- [ ] Official page
+
+## Shazam
+
+### Audile
+
+<img alt="AudileIcon" height="64" src="https://raw.githubusercontent.com/aleksey-saenko/MusicRecognizer/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.mrsep.musicrecognizer/)
+- [x] [GitHub](https://github.com/aleksey-saenko/MusicRecognizer)
 - [ ] Official page
 
 ## Spotify
