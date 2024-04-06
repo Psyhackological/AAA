@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __247__ 🎉
+__AWESOME__ apps counter: __248__ 🎉
 
 ### Contents
 
@@ -1962,7 +1962,7 @@ Currently being reworked as Neo Launcher.
 <img alt="Survival ManualIcon" height="64" src="https://f-droid.org/repo/icons-640/org.ligi.survivalmanual.428.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.ligi.survivalmanual)
-- [x] [Fdroid](https://f-droid.org/packages/org.ligi.survivalmanual/)
+- [x] [F-Droid](https://f-droid.org/packages/org.ligi.survivalmanual/)
 - [x] [GitHub](https://github.com/ligi/SurvivalManual)
 - [x] [Official page](https://survivalmanual.github.io/)
 
@@ -1971,9 +1971,18 @@ Currently being reworked as Neo Launcher.
 <img alt="TrailSenseIcon" height="64" src="https://raw.githubusercontent.com/kylecorry31/Trail-Sense/main/app/src/main/ic_launcher-web.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.kylecorry.trail_sense)
-- [x] [Fdroid](https://f-droid.org/en/packages/com.kylecorry.trail_sense/)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.kylecorry.trail_sense/)
 - [x] [GitHub](https://github.com/kylecorry31/Trail-Sense)
 - [x] [Official page](https://kylecorry.com/Trail-Sense/)
+
+### Compass
+
+<img alt="CompassIcon" height="64" src="https://raw.githubusercontent.com/Kr0oked/Compass/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.bobek.compass)
+- [x] [F-Droid](https://f-droid.org/packages/com.bobek.compass/)
+- [x] [GitHub](https://github.com/Kr0oked/Compass)
+- [ ] Official page
 
 ## System Cleaner
 
