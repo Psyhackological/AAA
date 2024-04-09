@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __248__ 🎉
+__AWESOME__ apps counter: __249__ 🎉
 
 ### Contents
 
@@ -2106,6 +2106,15 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.yoshi.todark)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.yoshi.todark)
 - [x] [GitHub](https://github.com/DarkMooNight/ToDark)
+- [ ] Official page
+
+### Doable
+
+<img alt="DoableIcon" height="64" src="https://codeberg.org/florian-obernberger/flutter-doable/media/branch/main/assets/app_icons/app_icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://codeberg.org/florian-obernberger/fdroid-repo)
+- [x] [Codeberg](https://codeberg.org/florian-obernberger/flutter-doable)
 - [ ] Official page
 
 ## Torrenting
