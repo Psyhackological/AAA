@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __249__ 🎉
+__AWESOME__ apps counter: __250 🎉
 
 ### Contents
 
@@ -1651,12 +1651,21 @@ Currently being reworked as Neo Launcher.
 
 ### Safe Notes
 
-<img alt="Safe NotesIcon" height="64" src="https://f-droid.org/repo/com.trisven.safenotes/en-US/icon_0hHDPDBeGzxMT5RtWKoz4APlRMZFM-dZrCH46HGqCLQ=.png">
+<img alt="SafeNotesIcon" height="64" src="https://f-droid.org/repo/com.trisven.safenotes/en-US/icon_0hHDPDBeGzxMT5RtWKoz4APlRMZFM-dZrCH46HGqCLQ=.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.trisven.safenotes)
 - [x] [F-Droid](https://f-droid.org/packages/com.trisven.safenotes/)
 - [x] [GitHub](https://github.com/keshav-space/safenotes/)
 - [x] [Official page](https://safenotes.keshav.space/)
+
+### Fossify Notes
+
+<img alt="FossifyNotes" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Notes/master/graphics/icon.webp">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.notes/)
+- [x] [GitHub](https://github.com/FossifyOrg/Notes)
+- [x] [Official page](https://www.fossify.org/)
 
 ## OCR
 
