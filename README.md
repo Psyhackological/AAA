@@ -2167,7 +2167,8 @@ Currently being reworked as Neo Launcher.
 
 <img alt="GreenStash️Icon" height="64" src="https://raw.githubusercontent.com/Pool-Of-Tears/GreenStash/main/fastlane/metadata/android/en-US/images/icon.png">
 
-- [ ] Google Play
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.starry.greenstash)
+- [x] [F-Droid](https://f-droid.org/packages/com.starry.greenstash/)
 - [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/com.starry.greenstash)
 - [x] [GitHub](https://github.com/Pool-Of-Tears/GreenStash)
 - [ ] Official page
