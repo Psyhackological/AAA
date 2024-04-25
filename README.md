@@ -709,6 +709,16 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [GitHub](https://github.com/koreader/koreader)
 - [x] [Official page](https://koreader.rocks/)
 
+### Myne
+
+<img alt="MyneIcon" height="64" src="https://github.com/Pool-Of-Tears/Myne/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.starry.myne)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.starry.myne/)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.starry.myne)
+- [x] [GitHub](https://github.com/Pool-Of-Tears/Myne)
+- [ ] Official page
+
 ## Email
 
 ### FairEmail
