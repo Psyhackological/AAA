@@ -2353,7 +2353,7 @@ Currently being reworked as Neo Launcher.
 
 ### Frosty
 
-<img alt="FrostyIcon" height="64" src="hhttps://raw.githubusercontent.com//">
+<img alt="FrostyIcon" height="64" src="https://raw.githubusercontent.com/tommyxchow/frosty/d49cdb2c79a078409dde8dc9b241aec6ec4abbd1/assets/icons/logo.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.tommychow.frosty&hl=en_US&gl=US)
 - [ ] F-Droid
