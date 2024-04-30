@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __251__ 🎉
+__AWESOME__ apps counter: __250__ 🎉
 
 ### Contents
 
@@ -1536,15 +1536,6 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/en/packages/io.github.muntashirakon.Music/)
 - [x] [GitHub](https://github.com/MuntashirAkon/Metro)
 - [ ] Official page
-
-### BlackHole
-
-<img alt="BlackHoleIcon" height="64" src="https://raw.githubusercontent.com/Sangwan5688/BlackHole/main/fastlane/metadata/android/en-US/images/icon.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/com.shadow.blackhole/)
-- [x] [GitHub](https://github.com/Sangwan5688/BlackHole)
-- [x] [Official page](https://sangwan5688.github.io/BlackHole/)
 
 ### Auxio
 
