@@ -26,12 +26,12 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __250__ 🎉
+__AWESOME__ apps counter: __251__ 🎉
 
 ### Contents
 
 - [2FA](#2fa)
-- [Ad Blocking](#ad-blocking)
+- [Ads & Trackers](#ads--trackers)
 - [AI](#ai)
 - [Alarm](#alarm)
 - [Android Customization](#android-customization)
@@ -148,7 +148,7 @@ __AWESOME__ apps counter: __250__ 🎉
 - [x] [GitHub](https://github.com/jamie-mh/AuthenticatorPro)
 - [x] [Official page](https://authenticatorpro.jmh.me/)
 
-## Ad Blocking
+## Ads & Trackers
 
 ### AdAway
 
@@ -221,6 +221,15 @@ __AWESOME__ apps counter: __250__ 🎉
 - [x] [F-Droid](https://f-droid.org/packages/com.trianguloy.urlchecker/)
 - [x] [GitHub](https://github.com/TrianguloY/UrlChecker)
 - [x] [Official page](https://f-droid.org/packages/com.trianguloy.urlchecker/)
+
+### Exodus
+
+<img alt="ExodusIcon" height="64" src="https://raw.githubusercontent.com/Exodus-Privacy/exodus-android-app/master/app/src/main/ic_launcher-playstore.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.eu.exodus_privacy.exodusprivacy)
+- [x] [F-Droid](https://f-droid.org/packages/org.eu.exodus_privacy.exodusprivacy/)
+- [x] [GitHub](https://github.com/Exodus-Privacy/exodus-android-app)
+- [x] [Official page](https://exodus-privacy.eu.org/)
 
 ## AI
 
