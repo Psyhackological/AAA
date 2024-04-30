@@ -1510,7 +1510,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="BuddhaQuotestIcon" height="64" src="https://github.com/BanDev/BuddhaQuotes/raw/main/assets/buddha.svg">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=org.bandev.buddhaquotes)
+- [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.bandev.buddhaquotes)
 - [x] [GitHub](https://github.com/BanDev/BuddhaQuotes)
 - [ ] Official page
@@ -2364,7 +2364,7 @@ Currently being reworked as Neo Launcher.
 
 ### Fritter :heart:
 
-<img alt="FritterIcon" height="64" src="https://camo.githubusercontent.com/d2f22524a41d737d6919d4fdad7f60553a0b086fceb581a5de042c32d9c2366c/687474703a2f2f692e696d6775722e636f6d2f786d4f394d54762e706e67">
+<img alt="FritterIcon" height="64" src="https://raw.githubusercontent.com/jonjomckay/fritter/a42e370ca97bc9263a2b184da6d6b4982ef0532f/assets/icon.svg">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.jonjomckay.fritter/)
@@ -2428,7 +2428,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="AudioRecorderIcon" height="64" src="https://github.com/Dimowner/AudioRecorder/raw/master/app/src/releaseConfig/res/mipmap-xxxhdpi/audio_recorder_logo.png">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.dimowner.audiorecorder)
+- [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.dimowner.audiorecorder/)
 - [x] [GitHub](https://github.com/Dimowner/AudioRecorder)
 - [ ] Official page
