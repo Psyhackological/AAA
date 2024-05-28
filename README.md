@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __252__ 🎉
+__AWESOME__ apps counter: __251__ 🎉
 
 ### Contents
 
@@ -2004,15 +2004,6 @@ Currently being reworked as Neo Launcher.
 
 ## System Cleaner
 
-### LTE Cleaner
-
-<img alt="LTECleanerIcon" height="64" src="https://raw.githubusercontent.com/TheRedSpy15/LTECleanerFOSS/master/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/theredspy15.ltecleanerfoss/)
-- [x] [GitHub](https://github.com/TheRedSpy15/LTECleanerFOSS)
-- [ ] Official page
-
 ### SD Maid 2/SE
 
 <img alt="SDMaid2/SEIcon" height="64" src="https://raw.githubusercontent.com/d4rken-org/sdmaid-se/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png">
@@ -2477,7 +2468,7 @@ Currently being reworked as Neo Launcher.
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/co.prestosole.clima/)
-- [x] [GitHub](https://github.com/Lacerte/clima)
+- [x] [GitHub](https://codeberg.org/Lacerte/clima)
 - [x] [Official page](https://lacerte.github.io/clima/)
 
 ### Forecastie
