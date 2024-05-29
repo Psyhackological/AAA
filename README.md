@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __251__ 🎉
+__AWESOME__ apps counter: __252__ 🎉
 
 ### Contents
 
@@ -1096,6 +1096,15 @@ F-Droid version is outdated compared to GitHub's.
 - [x] [F-Droid](https://f-droid.org/packages/io.github.mwageringel.everest/)
 - [x] [GitHub](https://github.com/mwageringel/everest)
 - [x] [Official page](https://mwageringel.github.io/everest/)
+
+### Minetest
+
+<img alt="MinetestIcon" height="64" src="https://raw.githubusercontent.com/minetest/minetest/master/misc/minetest.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=net.minetest.minetest)
+- [x] [F-Droid](https://f-droid.org/en/packages/net.minetest.minetest/)
+- [x] [GitHub](https://github.com/minetest/minetest)
+- [x] [Official page](https://www.minetest.net/)
 
 ## GitHub Client
 
