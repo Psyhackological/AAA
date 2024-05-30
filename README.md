@@ -248,11 +248,9 @@ __AWESOME__ apps counter: __252__ 🎉
 
 <img alt="ClockIcon" height="64" src="https://f-droid.org/repo/com.best.deskclock/en-US/icon_F1H61d_ntO34pu9V6nsk3Zt36toTD9y6m2yo3YYnzfE=.png">
 
-F-Droid version is outdated compared to GitHub's.
-
 - [ ] Google Play
-- [x] ~~[F-Droid](https://f-droid.org/packages/com.best.deskclock/)~~
-- [x] [GitHub](https://github.com/qw123wh/new-clock)
+- [x] [F-Droid](https://f-droid.org/packages/com.best.deskclock/)
+- [x] [GitHub](https://github.com/BlackyHawky/Clock)
 - [ ] Official page
 
 ### Clock You :heart:
