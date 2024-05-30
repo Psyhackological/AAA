@@ -246,7 +246,7 @@ __AWESOME__ apps counter: __252__ 🎉
 
 ### Clock :heart:
 
-<img alt="ClockIcon" height="64" src="https://f-droid.org/repo/com.best.deskclock/en-US/icon_F1H61d_ntO34pu9V6nsk3Zt36toTD9y6m2yo3YYnzfE=.png">
+<img alt="ClockIcon" height="64" src="https://raw.githubusercontent.com/BlackyHawky/Clock/main/fastlane/metadata/android/en-US/images/icon.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.best.deskclock/)
