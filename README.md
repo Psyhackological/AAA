@@ -1776,6 +1776,15 @@ Currently being reworked as Neo Launcher.
 
 ## Public Transport Assistant
 
+### Transportr :heart:
+
+<img alt="TransportrIcon" height="64" src="https://github.com/grote/Transportr/raw/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/repository/browse/?fdid=de.grobox.liberario)
+- [x] [GitHub](https://github.com/grote/Transportr)
+- [x] [Official page](https://transportr.app/)
+
 ## Podcast
 
 ### AntennaPod
@@ -1786,15 +1795,6 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/en/packages/de.danoeh.antennapod/)
 - [x] [GitHub](https://github.com/AntennaPod/AntennaPod)
 - [x] [Official page](https://antennapod.org/)
-
-### Transportr :heart:
-
-<img alt="TransportrIcon" height="64" src="https://github.com/grote/Transportr/raw/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/repository/browse/?fdid=de.grobox.liberario)
-- [x] [GitHub](https://github.com/grote/Transportr)
-- [x] [Official page](https://transportr.app/)
 
 ### Öffi
 
