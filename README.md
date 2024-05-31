@@ -1471,17 +1471,6 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/osmandapp/OsmAnd)
 - [x] [Official page](https://osmand.net/)
 
-## MarkDown
-
-### Markor
-
-<img alt="OsmAndIcon" height="64" src="https://github.com/gsantner/markor/raw/master/app/src/main/ic_launcher-web.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=net.gsantner.markor)
-- [x] [F-Droid](https://f-droid.org/repository/browse/?fdid=net.gsantner.markor)
-- [x] [GitHub](https://github.com/gsantner/markor)
-- [x] [Official page](https://gsantner.net/page/projects.html#markor)
-
 ## Matrix Client
 
 ### Element
@@ -1674,6 +1663,15 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/keshav-space/safenotes/)
 - [x] [Official page](https://safenotes.keshav.space/)
 
+### Markor
+
+<img alt="OsmAndIcon" height="64" src="https://github.com/gsantner/markor/raw/master/app/src/main/ic_launcher-web.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=net.gsantner.markor)
+- [x] [F-Droid](https://f-droid.org/repository/browse/?fdid=net.gsantner.markor)
+- [x] [GitHub](https://github.com/gsantner/markor)
+- [x] [Official page](https://gsantner.net/page/projects.html#markor)
+
 ### Fossify Notes
 
 <img alt="FossifyNotes" height="64" src="https://raw.githubusercontent.com/FossifyOrg/Notes/master/graphics/icon.webp">
@@ -1776,6 +1774,15 @@ Currently being reworked as Neo Launcher.
 
 ## Public Transport Assistant
 
+### Transportr :heart:
+
+<img alt="TransportrIcon" height="64" src="https://github.com/grote/Transportr/raw/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/repository/browse/?fdid=de.grobox.liberario)
+- [x] [GitHub](https://github.com/grote/Transportr)
+- [x] [Official page](https://transportr.app/)
+
 ## Podcast
 
 ### AntennaPod
@@ -1786,15 +1793,6 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/en/packages/de.danoeh.antennapod/)
 - [x] [GitHub](https://github.com/AntennaPod/AntennaPod)
 - [x] [Official page](https://antennapod.org/)
-
-### Transportr :heart:
-
-<img alt="TransportrIcon" height="64" src="https://github.com/grote/Transportr/raw/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/repository/browse/?fdid=de.grobox.liberario)
-- [x] [GitHub](https://github.com/grote/Transportr)
-- [x] [Official page](https://transportr.app/)
 
 ### Öffi
 
