@@ -2572,7 +2572,7 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/polymorphicshade/Tubular)
 - [ ] Official page
 
-### Clipious:heart:
+### Clipious :heart:
 
 <img alt="ClipiousIcon" height="64" src="https://raw.githubusercontent.com/lamarios/clipious/9d8f8f039a38ab27ea34e0ef28ddad1f22c4de91/assets/icon.svg">
 
