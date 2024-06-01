@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __252__ 🎉
+__AWESOME__ apps counter: __251__ 🎉
 
 ### Contents
 
@@ -116,7 +116,6 @@ __AWESOME__ apps counter: __252__ 🎉
 - [Trackers](#trackers)
 - [Translator](#translator)
 - [Twitch](#twitch)
-- [Twitter](#twitter)
 - [Unit Converter](#unit-converter)
 - [Video Player](#video-player)
 - [VNC client](#vnc-client)
@@ -2364,17 +2363,6 @@ Currently being reworked as Neo Launcher.
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/tommyxchow/frosty)
 - [x] [Official page](https://www.frostyapp.io/)
-
-## Twitter
-
-### Fritter :heart:
-
-<img alt="FritterIcon" height="64" src="https://raw.githubusercontent.com/jonjomckay/fritter/a42e370ca97bc9263a2b184da6d6b4982ef0532f/assets/icon.svg">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/packages/com.jonjomckay.fritter/)
-- [x] [GitHub](https://github.com/jonjomckay/fritter)
-- [x] [Official page](https://fritter.cc/)
 
 ## Unit Converter
 
