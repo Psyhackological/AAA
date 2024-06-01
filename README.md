@@ -1786,6 +1786,15 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/grote/Transportr)
 - [x] [Official page](https://transportr.app/)
 
+### Öffi
+
+<img alt="ÖffiIcon" height="64" src="https://gitlab.com/oeffi/oeffi/-/raw/master/oeffi/graphics/ic_oeffi_stations_color_48dp-mdpi.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=de.schildbach.oeffi)
+- [x] [F-Droid](https://www.f-droid.org/en/packages/de.schildbach.oeffi/)
+- [x] [Gitlab](https://gitlab.com/oeffi/oeffi)
+- [x] [Official page](https://oeffi.schildbach.de/)
+
 ## Podcast
 
 ### AntennaPod
@@ -1796,15 +1805,6 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/en/packages/de.danoeh.antennapod/)
 - [x] [GitHub](https://github.com/AntennaPod/AntennaPod)
 - [x] [Official page](https://antennapod.org/)
-
-### Öffi
-
-<img alt="ÖffiIcon" height="64" src="https://gitlab.com/oeffi/oeffi/-/raw/master/oeffi/graphics/ic_oeffi_stations_color_48dp-mdpi.svg">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=de.schildbach.oeffi)
-- [x] [F-Droid](https://www.f-droid.org/en/packages/de.schildbach.oeffi/)
-- [x] [Gitlab](https://gitlab.com/oeffi/oeffi)
-- [x] [Official page](https://oeffi.schildbach.de/)
 
 ## Reddit
 
