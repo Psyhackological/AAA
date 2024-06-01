@@ -2600,14 +2600,14 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/SongTube/SongTube-App)
 - [x] [Official page](https://songtube.github.io/)
 
-### ViMusic
+### RiMusic
 
-<img alt="ViMusicIcon" height="64" src="https://raw.githubusercontent.com/vfsfitvnm/ViMusic/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+<img alt="RiMusicIcon" height="64" src="https://raw.githubusercontent.com/fast4x/RiMusic/00147116bdf6d0bbe7d855dd903576c692a0a616/assets/design/icon.svg">
 
 - [ ] Google Play
-- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/it.vfsfitvnm.vimusic)
-- [x] [GitHub](https://github.com/vfsfitvnm/ViMusic)
-- [ ] Official page
+- [x] [F-Droid](https://f-droid.org/it/packages/it.fast4x.rimusic/)
+- [x] [GitHub](https://github.com/fast4x/RiMusic)
+- [x] [Official page](https://rimusic.xyz/)
 
 ### YTDLnis :heart:
 
