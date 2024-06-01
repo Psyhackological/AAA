@@ -1329,6 +1329,8 @@ __AWESOME__ apps counter: __251__ 🎉
 
 ### Thumb-Key :heart:
 
+> A privacy-conscious Android keyboard made for your thumbs
+
 <img alt="ThumbKeyIcon" height="64" src="https://raw.githubusercontent.com/dessalines/thumb-key/main/app/src/main/ic_launcher-playstore.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.dessalines.thumbkey)
@@ -1422,6 +1424,8 @@ Currently being reworked as Neo Launcher.
 ## Lemmy
 
 ### Jerboa
+
+> A native android app for Lemmy
 
 <img alt="JerboaIcon" height="64" src="https://raw.githubusercontent.com/dessalines/jerboa/main/app/src/main/res/jerboa.svg">
 
