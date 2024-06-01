@@ -1877,13 +1877,15 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/FossifyOrg/Messages)
 - [x] [Official page](https://www.fossify.org/)
 
-### QKSMS
+### QUIK SMS
 
-<img alt="QKSMSIcon" height="64" src="https://raw.githubusercontent.com/moezbhatti/qksms/master/presentation/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+> The most beautiful SMS messenger for Android - Revived
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.moez.QKSMS)
-- [x] [F-Droid](https://f-droid.org/packages/com.moez.QKSMS/)
-- [x] [GitHub](https://github.com/moezbhatti/qksms)
+<img alt="QUIKSMSIcon" height="64" src="https://raw.githubusercontent.com/octoshrimpy/quik/master/presentation/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/dev.octoshrimpy.quik/)
+- [x] [GitHub](https://github.com/octoshrimpy/quik)
 - [ ] Official page
 
 ## Self Hosted
