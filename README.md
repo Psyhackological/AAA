@@ -2635,6 +2635,8 @@ Currently being reworked as Neo Launcher.
 
 <img alt="pluja/awesome-privacyIcon" width="256" src="https://github.com/pluja/awesome-privacy/raw/main/misc/logo.png">
 
+### offa/[android-foss](https://github.com/offa/android-foss)
+
 ### JStumpp/[awesome-android](https://github.com/JStumpp/awesome-android)
 
 <img alt="JStumpp/awesome-androidIcon" width="256" src="https://raw.githubusercontent.com/jstumpp/awesome-android/master/awesome-android.png">
