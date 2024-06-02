@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __251__ 🎉
+__AWESOME__ apps counter: __252__ 🎉
 
 ### Contents
 
@@ -2490,11 +2490,20 @@ Currently being reworked as Neo Launcher.
 
 ### Rain
 
-<img alt="RainIcon" height="64" src="https://github.com/DarkMooNight/Rain/raw/main/assets/icons/icon.png">
+<img alt="RainIcon" height="64" src="https://raw.githubusercontent.com/DarkMooNight/Rain/main/assets/icons/icon.png">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.yoshi.rain)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.yoshi.rain)
 - [x] [GitHub](https://github.com/DarkMooNight/Rain)
+- [ ] Official page
+
+### Cirrus
+
+<img alt="CirrusIcon" height="64" src="https://raw.githubusercontent.com/woheller69/omweather/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/de/packages/org.woheller69.omweather/)
+- [x] [GitHub](https://github.com/woheller69/omweather)
 - [ ] Official page
 
 ## Wikipedia
