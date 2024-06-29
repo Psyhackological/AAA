@@ -2327,10 +2327,10 @@ Currently being reworked as Neo Launcher.
 
 <img alt="DeepLIcon" height="64" src="https://raw.githubusercontent.com/sakusaku3939/DeepLAndroid/master/app/src/main/ic_launcher-playstore.png">
 
-- [ ] Google Play
+- [x] [Google Play) (https://play.google.com/store/apps/details?id=com.deepl.mobiletranslator)
 - [x] [F-Droid](https://f-droid.org/packages/com.example.deeplviewer/)
 - [x] [GitHub](https://github.com/sakusaku3939/DeepLAndroid)
-- [ ] Official page
+- [x] [Official page] (https://www.deepl.com/tr/translator)
 
 ### SimplyTranslate Mobile :heart:
 
