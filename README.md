@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __252__ 🎉
+__AWESOME__ apps counter: __253__ 🎉
 
 ### Contents
 
@@ -685,15 +685,6 @@ __AWESOME__ apps counter: __252__ 🎉
 - [x] [F-Droid](https://f-droid.org/en/packages/org.catrobat.paintroid/)
 - [x] [GitHub](https://github.com/Catrobat/Paintroid)
 - [ ] Official page
-
-### PixaPencil
-
-<img alt="PixaPencilIcon" height="64" src="https://user-images.githubusercontent.com/50536495/170400421-0c3a1711-4484-42b1-995b-ee0095c3c7cb.png">
-
-- [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/com.therealbluepandabear.pixapencil/)
-- [x] [GitHub](https://github.com/therealbluepandabear/PixaPencil)
-- [x] [Official page](https://pixapencil.com/)
 
 ## E-book Reader
 
