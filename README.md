@@ -93,6 +93,7 @@ __AWESOME__ apps counter: __253__ 🎉
 - [Package Manager](#package-manager)
 - [Password Manager](#password-manager)
 - [PDF Viewer](#pdf-viewer)
+- [Plants](#plants)
 - [Podcast](#podcast)
 - [Public Transport Assistant](#public-transport-assistant)
 - [Reddit](#reddit)
@@ -1750,7 +1751,7 @@ Currently being reworked as Neo Launcher.
 
 ### MJ PDF
 
-<img alt="mj_pdf_viewerIcon" height="64" src="https://gitlab.com/uploads/-/system/project/avatar/38392439/logo.png?width=64">
+<img alt="MJPDFIcon" height="64" src="https://gitlab.com/uploads/-/system/project/avatar/38392439/logo.png?width=64">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.gitlab.mudlej.MjPdfReader)
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.gitlab.mudlej.MjPdfReader)
@@ -1765,6 +1766,19 @@ Currently being reworked as Neo Launcher.
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/GrapheneOS/PdfViewer)
 - [x] [Official page](https://grapheneos.org/)
+
+## Plants
+
+### Florae
+
+> free application that will allow you to keep track of the care of your plants while respecting your freedom and privacy.
+
+<img alt="FLoraeIcon" height="64" src="https://raw.githubusercontent.com/aeri/Florae/main/metadata/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=cat.naval.florae)
+- [x] [F-Droid](https://f-droid.org/en/packages/cat.naval.florae/)
+- [x] [GitHub](https://github.com/aeri/Florae)
+- [ ] Official page
 
 ## Public Transport Assistant
 
