@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __253__ 🎉
+__AWESOME__ apps counter: __254__ 🎉
 
 ### Contents
 
@@ -56,6 +56,7 @@ __AWESOME__ apps counter: __253__ 🎉
 - [Download Manager](#download-manager)
 - [Drawing](#drawing)
 - [E-book Reader](#e-book-reader)
+- [Education](#education)
 - [Email](#email)
 - [Emulation](#emulation)
 - [F-Droid](#f-droid)
@@ -714,6 +715,19 @@ __AWESOME__ apps counter: __253__ 🎉
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.starry.myne)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.starry.myne/)
 - [x] [GitHub](https://github.com/Pool-Of-Tears/Myne)
+- [ ] Official page
+
+## Education
+
+### Quiz-Platform
+
+> Quiz Platform is a Open Source knowledge testing platform for Android based on Jetpack Compose and Google solutions.
+
+<img alt="QuizPlatformIcon" height="64" src="https://raw.githubusercontent.com/Yugyd/quiz-platform/master/app/src/main/res/mipmap-hdpi/ic_launcher.webp">
+
+- [x] [Google Play]()
+- [ ] F-Droid
+- [x] [GitLab](https://gitlab.com/AuroraOSS/auroradroid)
 - [ ] Official page
 
 ## Email
