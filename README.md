@@ -26,7 +26,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 >
 >[More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __253__ 🎉
+__AWESOME__ apps counter: __254__ 🎉
 
 ### Contents
 
@@ -2578,6 +2578,15 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.tubular)
 - [x] [GitHub](https://github.com/polymorphicshade/Tubular)
+- [ ] Official page
+
+### PipePipe
+
+<img alt="PipePipeIcon" height="64" src="https://raw.githubusercontent.com/InfinityLoop1308/PipePipe/main/fastlane/metadata/android/en-US/images/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/InfinityLoop1309.NewPipeEnhanced/)
+- [x] [GitHub](https://github.com/InfinityLoop1308/PipePipe)
 - [ ] Official page
 
 ### Clipious :heart:
