@@ -1352,6 +1352,17 @@ __AWESOME__ apps counter: __254__ 🎉
 - [x] [GitHub](https://github.com/SimonSchubert/LinuxCommandLibrary)
 - [x] [Official page](https://linuxcommandlibrary.com/)
 
+### Quiz-Platform
+
+> Quiz Platform is a Open Source knowledge testing platform for Android based on Jetpack Compose and Google solutions.
+
+<img alt="QuizPlatformIcon" height="64" src="https://raw.githubusercontent.com/Yugyd/quiz-platform/master/app/src/main/res/mipmap-hdpi/ic_launcher.webp">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.yugyd.quiz)
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/Yugyd/quiz-platform)
+- [ ] Official page
+
 ## Language
 
 ### Kakugo
