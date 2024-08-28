@@ -3,12 +3,12 @@
 ## Introduction
 
 This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyhackological/AAA/graphs/contributors). You can prove us wrong on the [contributing page](CONTRIBUTING.md).
+
+> App Name :heart: = Someone's Personal Favourite
 >
->App Name :heart: = Someone's Personal Favourite
+> [Why does it exist?](WHY.md)
 >
->[Why does it exist?](WHY.md)
->
->Please use `Home` button to go to the top.
+> Please use `Home` button to go to the top.
 
 ### Rules
 
@@ -23,10 +23,9 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Does not lack features compared to proprietary app
 - [x] Does not need an account (the only exceptions are [self-hosted](#self-hosted) apps)
 - [x] Has dark theme
->
->[More detailed explanation here.](RULES.md)
+  > [More detailed explanation here.](RULES.md)
 
-__AWESOME__ apps counter: __254__ 🎉
+**AWESOME** apps counter: **255** 🎉
 
 ### Contents
 
@@ -1624,7 +1623,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="SimpleScrobblerIcon" height="64" src="https://avatars.githubusercontent.com/u/53984925?s=200&v=4">
 
-- [ ]  Google Play
+- [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.adam.aslfms/)
 - [x] [GitHub](https://github.com/simple-last-fm-scrobbler/sls)
 - [x] [Official page](https://simple-last-fm-scrobbler.github.io/)
@@ -1869,6 +1868,17 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/en/packages/com.nunti/)
 - [x] [GitLab](https://gitlab.com/ondrejfoltyn/nunti)
+- [ ] Official page
+
+### Capy Reader
+
+> A smallish RSS reader
+
+<img alt="CapyReaderIcon" height="64" src="https://raw.githubusercontent.com/jocmp/capyreader/main/site/capy.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.capyreader.app)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.capyreader.app/)
+- [x] [GitHub](https://github.com/jocmp/capyreader)
 - [ ] Official page
 
 ## SMS Messenger
