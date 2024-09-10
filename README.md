@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **255** 🎉
+**AWESOME** apps counter: **256** 🎉
 
 ### Contents
 
@@ -117,6 +117,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [Translator](#translator)
 - [Twitch](#twitch)
 - [Unit Converter](#unit-converter)
+- [URL Cleaner](#url-cleaner)
 - [Video Player](#video-player)
 - [VNC client](#vnc-client)
 - [Voice Recorder](#voice-recorder)
@@ -2395,6 +2396,17 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/packages/com.ferrarid.converterpro)
 - [x] [GitHub](https://github.com/ferraridamiano/ConverterNOW)
 - [x] [Official page](https://converter-now.web.app/)
+
+## URL Cleaner
+
+### Léon
+
+<img alt="Léon" height="64" src="https://raw.githubusercontent.com/svenjacobs/leon/main/etc/ic_launcher.svg">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.svenjacobs.app.leon/)
+- [x] [GitHub](https://github.com/svenjacobs/leon)
+- [ ] Official page
 
 ## Video Player
 
