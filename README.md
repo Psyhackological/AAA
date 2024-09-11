@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **256** 🎉
+**AWESOME** apps counter: **257** 🎉
 
 ### Contents
 
@@ -2436,6 +2436,17 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/packages/is.xyz.mpv/)
 - [x] [GitHub](https://github.com/mpv-android/mpv-android)
 - [x] [Official page](https://mpv.io/)
+
+### mpvKt :heart:
+
+> A media player based on the popular commandline media player mpv.
+
+<img alt="mpvKtIcon" height="64" src="https://raw.githubusercontent.com/abdallahmehiz/mpvKt/main/.github/assets/app_icon.svg">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/live.mehiz.mpvkt/)
+- [x] [GitHub](https://github.com/abdallahmehiz/mpvKt)
+- [ ] Official page
 
 ## VNC client
 
