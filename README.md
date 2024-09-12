@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **257** 🎉
+**AWESOME** apps counter: **258** 🎉
 
 ### Contents
 
@@ -81,6 +81,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [Lemmy](#lemmy)
 - [Loyalty Card](#loyalty-card)
 - [Maps](#maps)
+- [Mastodon](#Mastodon)
 - [Matrix Client](#matrix-client)
 - [Meditation](#meditation)
 - [Music Downloader](#music-downloader)
@@ -1465,6 +1466,17 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/packages/net.osmand.plus/)
 - [x] [GitHub](https://github.com/osmandapp/OsmAnd)
 - [x] [Official page](https://osmand.net/)
+
+## Mastodon
+
+### Tusky :heart:
+
+<img alt="TuskyIcon" height="64" src="https://raw.githubusercontent.com/tuskyapp/Tusky/develop/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky)
+- [x] [F-Droid](https://f-droid.org/en/packages/com.keylesspalace.tusky/)
+- [x] [GitHub](https://github.com/tuskyapp/Tusky)
+- [x] [Official page](https://tusky.app/)
 
 ## Matrix Client
 
