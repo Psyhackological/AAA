@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **258** 🎉
+**AWESOME** apps counter: **259** 🎉
 
 ### Contents
 
@@ -2338,6 +2338,17 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.y20k.trackbook/)
 - [x] [Codeberg](https://codeberg.org/y20k/trackbook)
+- [ ] Official page
+
+### Screen Time
+
+> Screen Timer tracker
+
+<img alt="ScreenTimerIcon" height="64" src="https://raw.githubusercontent.com/markusfisch/ScreenTime/refs/heads/master/svg/google_play_icon.svg">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/de.markusfisch.android.screentime/)
+- [x] [Codeberg](https://github.com/markusfisch/ScreenTime)
 - [ ] Official page
 
 ## Translator
