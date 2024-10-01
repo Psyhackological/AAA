@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **259** 🎉
+**AWESOME** apps counter: **260** 🎉
 
 ### Contents
 
@@ -271,6 +271,15 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [F-Droid](https://f-droid.org/en/packages/org.fossify.clock/)
 - [x] [GitHub](https://github.com/FossifyOrg/Clock)
 - [x] [Official page](https://www.fossify.org/)
+
+### Chrono
+
+<img alt="ChronoIcon" height="64" src="https://raw.githubusercontent.com/vicolo-dev/chrono/master/icon.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.vicolo.chrono/)
+- [x] [GitHub](https://github.com/vicolo-dev/chrono)
+- [ ] Official page
 
 ## Android Customization
 
