@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **260** 🎉
+**AWESOME** apps counter: **261** 🎉
 
 ### Contents
 
@@ -236,11 +236,24 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 ### whoBIRD
 
+> Identify bird sounds in real time
+
 <img alt="whoBIRDIcon" height="64" src="https://raw.githubusercontent.com/woheller69/whoBIRD/master/fastlane/metadata/android/en-US/images/icon.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.woheller69.whobird/)
 - [x] [GitHub](https://github.com/woheller69/whoBIRD)
+- [ ] Official page
+
+### TIDY
+
+> Text-to-Image Discovery
+
+<img alt="TIDYIcon" height="64" src="https://raw.githubusercontent.com/slavabarkov/tidy/refs/heads/main/app/src/main/ic_launcher-playstore.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/com.slavabarkov.tidy/)
+- [x] [GitHub](https://github.com/slavabarkov/tidy)
 - [ ] Official page
 
 ## Alarm
