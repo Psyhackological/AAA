@@ -140,14 +140,14 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [GitHub](https://github.com/beemdevelopment/Aegis)
 - [x] [Official page](https://getaegis.app/)
 
-### Authenticator Pro
+### Stratum Auth
 
-<img alt="AuthenticatorProIcon" height="64" src="https://raw.githubusercontent.com/jamie-mh/AuthenticatorPro/master/AuthenticatorPro.Droid/Resources/mipmap-xxxhdpi/ic_launcher.png">
+<img alt="StratumAuthIcon" height="64" src="https://raw.githubusercontent.com/stratumauth/app/refs/heads/master/fastlane/metadata/android/en-US/images/icon.png">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=me.jmh.authenticatorpro)
-- [x] [IzzyOnDroid](https://android.izzysoft.de/repo/apk/me.jmh.authenticatorpro)
-- [x] [GitHub](https://github.com/jamie-mh/AuthenticatorPro)
-- [x] [Official page](https://authenticatorpro.jmh.me/)
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.stratumauth.app)
+- [x] [F-Droid](https://stratumauth.com/fdroid/repo/)
+- [x] [GitHub](https://github.com/stratumauth/app)
+- [x] [Official page](https://stratumauth.com/)
 
 ## Ads & Trackers
 
