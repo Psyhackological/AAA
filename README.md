@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **261** 🎉
+**AWESOME** apps counter: **262** 🎉
 
 ### Contents
 
@@ -148,6 +148,15 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [F-Droid](https://stratumauth.com/fdroid/repo/)
 - [x] [GitHub](https://github.com/stratumauth/app)
 - [x] [Official page](https://stratumauth.com/)
+
+### Ente Auth
+
+<img alt="EnteAuthIcon" height="64" src="https://raw.githubusercontent.com/ente-io/ente/refs/heads/main/mobile/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=io.ente.auth)
+- [x] [F-Droid](https://f-droid.org/packages/io.ente.auth/)
+- [x] [GitHub](https://github.com/ente-io/ente/tree/main/auth#readme)
+- [x] [Official page](https://ente.io/)
 
 ## Ads & Trackers
 
