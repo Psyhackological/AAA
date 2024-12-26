@@ -2506,7 +2506,7 @@ Currently being reworked as Neo Launcher.
 
 > Video player for local/network content with subtitle/metadata download support
 
-<img alt="NOVAVideoPlayerIcon" height="64" src="https://raw.githubusercontent.com/abdallahmehiz/mpvKt/main/.github/assets/app_icon.svg">
+<img alt="NOVAVideoPlayerIcon" height="64" src="https://f-droid.org/en/packages/live.mehiz.mpvkt/">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=org.courville.nova)
 - [x] [F-Droid](https://f-droid.org/en/packages/org.courville.nova/)
