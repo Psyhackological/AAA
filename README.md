@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **262** 🎉
+**AWESOME** apps counter: **263** 🎉
 
 ### Contents
 
@@ -2501,6 +2501,17 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/en/packages/live.mehiz.mpvkt/)
 - [x] [GitHub](https://github.com/abdallahmehiz/mpvKt)
 - [ ] Official page
+
+### NOVA Video Player
+
+> Video player for local/network content with subtitle/metadata download support
+
+<img alt="NOVAVideoPlayerIcon" height="64" src="https://raw.githubusercontent.com/abdallahmehiz/mpvKt/main/.github/assets/app_icon.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.courville.nova)
+- [x] [F-Droid](https://f-droid.org/en/packages/org.courville.nova/)
+- [x] [GitHub](https://github.com/nova-video-player/aos-AVP)
+- [x] [Official page](https://home.courville.org/nova_video_player-faq/index.html)
 
 ## VNC client
 
