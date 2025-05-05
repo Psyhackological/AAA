@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **263** 🎉
+**AWESOME** apps counter: **264** 🎉
 
 ### Contents
 
@@ -632,6 +632,15 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [F-Droid](https://f-droid.org/en/packages/org.kde.kdeconnect_tp/)
 - [x] [GitHub](https://github.com/KDE/kdeconnect-kde)
 - [x] [Official page](https://kdeconnect.kde.org/)
+
+### LocalSend
+
+<img alt="LocalSendIcon" height="64" src="https://localsend.org/_nuxt/logo-512.aU8Z13Dx.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.localsend.localsend_app)
+- [x] [F-Droid](https://f-droid.org/en/packages/org.localsend.localsend_app/)
+- [x] [GitHub](https://github.com/localsend/localsend)
+- [x] [Official page](https://localsend.org/)
 
 ## Dialer
 
