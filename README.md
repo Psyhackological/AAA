@@ -451,14 +451,14 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [GitHub](https://github.com/uazo/cromite)
 - [x] [Official page](https://www.cromite.org/)
 
-### Mull
+### IronFox
 
-<img alt="MullIcon" height="64" src="https://user-images.githubusercontent.com/88576601/173426453-8f901901-5c38-4c88-967b-024c6a072c54.jpg">
+<img alt="IronFox" height="64" src="https://gitlab.com/ironfox-oss/IronFox/-/raw/dev/assets/ironfox.png">
 
 - [ ] Google Play
-- [x] [F-Droid](https://f-droid.org/en/packages/us.spotco.fennec_dos/)
-- [x] [GitLab](https://gitlab.com/divested-mobile/mull-fenix)
-- [x] [Official page](https://divestos.org/index.php?page=our_apps#mull)
+- [x] [F-Droid](fdroidrepos://fdroid.ironfoxoss.org/fdroid/repo?fingerprint=C5E291B5A571F9C8CD9A9799C2C94E02EC9703948893F2CA756D67B94204F904)
+- [x] [GitLab](https://gitlab.com/ironfox-oss/IronFox)
+- [x] [Official page](https://ironfoxoss.org/)
 
 ### Brave
 
