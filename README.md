@@ -973,17 +973,6 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [GitHub](https://github.com/uestueab/app-thesis)
 - [ ] Official page
 
-## Forgejo & Gitea
-
-### GitNex :heart:
-
-<img alt="GitNex" height="64" src="https://codeberg.org/gitnex/GitNex/raw/branch/main/fastlane/metadata/android/en-US/images/icon.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=org.mian.gitnex.pro)
-- [x] [F-Droid](https://f-droid.org/en/packages/org.mian.gitnex/)
-- [x] [Codeberg](https://codeberg.org/gitnex/GitNex)
-- [x] [Official page](https://gitnex.com/)
-
 ## Flashlight
 
 ### Flashy
@@ -997,7 +986,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 ## Forgejo & Gitea
 
-### GitNext
+### GitNex :heart:
 
 <img alt="GitNexIcon" height="64" src="https://codeberg.org/gitnex/GitNex/raw/branch/main/fastlane/metadata/android/en-US/images/icon.png">
 
