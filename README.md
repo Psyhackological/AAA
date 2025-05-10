@@ -695,15 +695,13 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 ## Discord
 
-### Aliucord
+### Revenge
 
-<img alt="AliucordIcon" height="64" src="https://raw.githubusercontent.com/Aliucord/Aliucord/main/installer/android/app/src/main/assets/icon2.png">
-
-(Aliucord doesn't make Discord open source, it is still proprietary software but with FOSS patches and modifications [without Discord Tracking](https://github.com/Aliucord/Aliucord/blob/main/Aliucord/src/main/java/com/aliucord/coreplugins/NoTrack.java))
+<img alt="Revenge" height="64" src="https://github.com/revenge-mod/revenge-bundle/blob/main/assets/logo/logo-dark.svg">
 
 - [ ] Google Play
 - [ ] F-Droid
-- [x] [GitHub](https://github.com/Aliucord/Aliucord)
+- [x] [GitHub](https://github.com/revenge-mod/revenge-bundle/tree/main)
 - [ ] Official page
 
 ## Document Scanner
