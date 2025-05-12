@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **264** 🎉
+**AWESOME** apps counter: **265** 🎉
 
 ### Contents
 
@@ -695,13 +695,22 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 ## Discord
 
+### Aliucord
+
+<img alt="AliucordIcon" height="64" src="https://raw.githubusercontent.com/Aliucord/Aliucord/main/installer/android/app/src/main/assets/icon2.png">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/Aliucord/Aliucord)
+- [ ] Official page
+
 ### Revenge
 
 <img alt="Revenge" height="64" src="https://raw.githubusercontent.com/revenge-mod/revenge-bundle/refs/heads/main/assets/logo/logo-dark.svg">
 
 - [ ] Google Play
 - [ ] F-Droid[
-- [x] [GitHub](https://github.com/revenge-mod/revenge-bundle/tree/main](https://github.com/revenge-mod/revenge-bundle)
+- [x] [GitHub](https://github.com/revenge-mod/revenge-bundle)
 - [ ] Official page
 
 ## Document Scanner
