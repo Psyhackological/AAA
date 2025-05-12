@@ -700,8 +700,8 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 <img alt="Revenge" height="64" src="https://raw.githubusercontent.com/revenge-mod/revenge-bundle/refs/heads/main/assets/logo/logo-dark.svg">
 
 - [ ] Google Play
-- [ ] F-Droid
-- [x] [GitHub](https://github.com/revenge-mod/revenge-bundle/tree/main)
+- [ ] F-Droid[
+- [x] [GitHub](https://github.com/revenge-mod/revenge-bundle/tree/main](https://github.com/revenge-mod/revenge-bundle)
 - [ ] Official page
 
 ## Document Scanner
