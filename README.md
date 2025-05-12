@@ -697,7 +697,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 ### Revenge
 
-<img alt="Revenge" height="64" src="https://github.com/revenge-mod/revenge-bundle/blob/main/assets/logo/logo-dark.svg">
+<img alt="Revenge" height="64" src="https://raw.githubusercontent.com/revenge-mod/revenge-bundle/refs/heads/main/assets/logo/logo-dark.svg">
 
 - [ ] Google Play
 - [ ] F-Droid
