@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **264** 🎉
+**AWESOME** apps counter: **265** 🎉
 
 ### Contents
 
@@ -704,6 +704,17 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [ ] Google Play
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/Aliucord/Aliucord)
+- [ ] Official page
+
+### Revenge
+
+<img alt="Revenge" height="64" src="https://raw.githubusercontent.com/revenge-mod/revenge-bundle/refs/heads/main/assets/logo/logo-dark.svg">
+
+> A client modification for Discord mobile, a continuation of [Bunny](https://github.com/pyoncord/Bunny).
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/revenge-mod/revenge-bundle)
 - [ ] Official page
 
 ## Document Scanner
