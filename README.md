@@ -792,7 +792,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 > Encrypted email provider
 
-<img alt="ProtonMailIcon" height="64" src="https://github.com/ProtonMail/android-mail/blob/main/.idea/icon.svg">
+<img alt="ProtonMailIcon" height="64" src="https://raw.githubusercontent.com/ProtonMail/android-mail/refs/heads/main/.idea/icon.svg">
 
 - [x] [Google Play](https://play.google.com/store/apps/details?id=ch.protonmail.android)
 - [ ] F-Droid
