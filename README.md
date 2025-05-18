@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **265** 🎉
+**AWESOME** apps counter: **266** 🎉
 
 ### Contents
 
@@ -787,6 +787,17 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [F-Droid](https://f-droid.org/packages/com.fsck.k9/)
 - [x] [GitHub](https://github.com/thundernest/k-9)
 - [x] [Official page](https://k9mail.app/)
+
+### Proton Mail
+
+> Encrypted email provider
+
+<img alt="ProtonMailIcon" height="64" src="https://github.com/ProtonMail/android-mail/blob/main/.idea/icon.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=ch.protonmail.android)
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/ProtonMail/android-mail)
+- [x] [Official page](https://proton.me/mail)
 
 ### SimpleLogin
 
