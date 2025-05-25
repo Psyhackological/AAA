@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **266** 🎉
+**AWESOME** apps counter: **267** 🎉
 
 ### Contents
 
@@ -1361,6 +1361,16 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/helium314.keyboard)
 - [x] [GitHub](https://github.com/Helium314/HeliBoard)
 - [ ] Official page
+
+### Fcitx5 for Android :heart:
+<img alt="Fcitx5ForAndroidIcon" height="64" src="https://raw.githubusercontent.com/fcitx5-android/fcitx5-android/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+
+> Supports input for Chinese, Japanese, Korean, and more
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.fcitx.fcitx5.android)
+- [x] [F-Droid](https://f-droid.org/packages/org.fcitx.fcitx5.android/)
+- [x] [Source code](https://github.com/fcitx5-android/fcitx5-android)
+- [x] [Official page](https://fcitx5-android.github.io/en/)
 
 ### FlorisBoard
 
