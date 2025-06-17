@@ -122,6 +122,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [Video Player](#video-player)
 - [VNC client](#vnc-client)
 - [Voice Recorder](#voice-recorder)
+- [Wallet](#wallet)
 - [Weather](#weather)
 - [Wikipedia](#wikipedia)
 - [Workout](#workout)
@@ -2637,6 +2638,17 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/de/packages/org.woheller69.omweather/)
 - [x] [GitHub](https://github.com/woheller69/omweather)
+- [ ] Official page
+
+## Wallet
+
+### fWallet
+
+<img alt="fWalletIcon" height="64" src="https://gitlab.com/TheOneWithTheBraid/f_wallet/-/raw/main/assets/logo/logo-circle.png?ref_type=heads&inline=false">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/business.braid.f_wallet/)
+- [x] [GitLab](https://gitlab.com/TheOneWithTheBraid/f_wallet)
 - [ ] Official page
 
 ## Wikipedia
