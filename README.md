@@ -1188,6 +1188,15 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [GitHub](https://github.com/ImranR98/Obtainium)
 - [ ] Official page
 
+### Accrescent
+
+<img alt="AccrescentIcon" height="64" src="https://github.com/accrescent/accrescent/blob/master/.icon-round.png">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/accrescent/accrescent)
+- [x] [Official page](https://accrescent.app/)
+
 ## Health
 
 ### Did I Take My Meds?
