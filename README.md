@@ -2653,7 +2653,7 @@ Currently being reworked as Neo Launcher.
 
 ### fWallet
 
-<img alt="fWalletIcon" height="64" src="https://gitlab.com/TheOneWithTheBraid/f_wallet/-/raw/main/assets/logo/logo-circle.png?ref_type=heads&inline=false">
+<img alt="fWalletIcon" height="64" src="https://gitlab.com/TheOneWithTheBraid/f_wallet/-/raw/main/assets/logo/logo-circle.png">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/business.braid.f_wallet/)
