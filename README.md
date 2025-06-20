@@ -1190,7 +1190,9 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 ### Accrescent
 
-<img alt="AccrescentIcon" height="64" src="https://github.com/accrescent/accrescent/blob/master/.icon-round.png">
+> A novel Android app store focused on security, privacy, and usability
+
+<img alt="AccrescentIcon" height="64" src="https://raw.githubusercontent.com/accrescent/accrescent/refs/heads/master/.icon-round.png">
 
 - [ ] Google Play
 - [ ] F-Droid
@@ -2652,6 +2654,8 @@ Currently being reworked as Neo Launcher.
 ## Wallet
 
 ### fWallet
+
+> A beautiful cross-platform wallet application for your transport tickets, discount cards and subscriptions.
 
 <img alt="fWalletIcon" height="64" src="https://gitlab.com/TheOneWithTheBraid/f_wallet/-/raw/main/assets/logo/logo-circle.png?ref_type=heads&inline=false">
 
