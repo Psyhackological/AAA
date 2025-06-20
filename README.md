@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **267** 🎉
+**AWESOME** apps counter: **269** 🎉
 
 ### Contents
 
@@ -2657,7 +2657,7 @@ Currently being reworked as Neo Launcher.
 
 > A beautiful cross-platform wallet application for your transport tickets, discount cards and subscriptions.
 
-<img alt="fWalletIcon" height="64" src="https://gitlab.com/TheOneWithTheBraid/f_wallet/-/raw/main/assets/logo/logo-circle.png?ref_type=heads&inline=false">
+<img alt="fWalletIcon" height="64" src="https://gitlab.com/TheOneWithTheBraid/f_wallet/-/raw/main/assets/logo/logo-circle.svg">
 
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/business.braid.f_wallet/)
