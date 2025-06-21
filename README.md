@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **267** 🎉
+**AWESOME** apps counter: **269** 🎉
 
 ### Contents
 
@@ -122,6 +122,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [Video Player](#video-player)
 - [VNC client](#vnc-client)
 - [Voice Recorder](#voice-recorder)
+- [Wallet](#wallet)
 - [Weather](#weather)
 - [Wikipedia](#wikipedia)
 - [Workout](#workout)
@@ -1186,6 +1187,17 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/dev.imranr.obtainium)
 - [x] [GitHub](https://github.com/ImranR98/Obtainium)
 - [ ] Official page
+
+### Accrescent
+
+> A novel Android app store focused on security, privacy, and usability
+
+<img alt="AccrescentIcon" height="64" src="https://raw.githubusercontent.com/accrescent/accrescent/refs/heads/master/.icon-round.png">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/accrescent/accrescent)
+- [x] [Official page](https://accrescent.app/)
 
 ## Health
 
@@ -2637,6 +2649,19 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/de/packages/org.woheller69.omweather/)
 - [x] [GitHub](https://github.com/woheller69/omweather)
+- [ ] Official page
+
+## Wallet
+
+### fWallet
+
+> A beautiful cross-platform wallet application for your transport tickets, discount cards and subscriptions.
+
+<img alt="fWalletIcon" height="64" src="https://gitlab.com/TheOneWithTheBraid/f_wallet/-/raw/main/assets/logo/logo-circle.svg">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/business.braid.f_wallet/)
+- [x] [GitLab](https://gitlab.com/TheOneWithTheBraid/f_wallet)
 - [ ] Official page
 
 ## Wikipedia
