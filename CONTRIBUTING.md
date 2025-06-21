@@ -25,6 +25,8 @@ __If I've made mistake, notify me on the Issues page or throw me a pull request.
 ### App Name
 <img alt="AppName" height="64" src="AppNameImageLink.svg/png">
 
+> Description of the app to give the clue what to expect. This can be yours or just from any site. (GitLab, GitHub, Codeberg, F-Droid, Official website and so on.)
+
 - [x] [Google Play](GooglePlayLink)
 - [x] [F-Droid](F-DroidLink)
 - [x] [Source code](SourceCodeLink)
