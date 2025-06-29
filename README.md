@@ -2090,7 +2090,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="Survival ManualIcon" height="64" src="https://f-droid.org/repo/icons-640/org.ligi.survivalmanual.428.png">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=org.ligi.survivalmanual)
+- [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/org.ligi.survivalmanual/)
 - [x] [GitHub](https://github.com/ligi/SurvivalManual)
 - [x] [Official page](https://survivalmanual.github.io/)
@@ -2601,7 +2601,7 @@ Currently being reworked as Neo Launcher.
 
 <img alt="PluviaWeatherIcon" height="64" src="https://raw.githubusercontent.com/SpicyChair/pluvia_weather_flutter/master/android/app/src/main/ic_launcher-playstore.png">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.spicychair.weather)
+- [ ] Google Play
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/SpicyChair/pluvia_weather_flutter)
 - [ ] Official page
