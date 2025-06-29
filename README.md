@@ -909,14 +909,14 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [GitHub](https://github.com/Catfriend1/syncthing-android)
 - [ ] Official page
 
-### Snapdrop
+### PairDrop
 
-<img alt="SnapdropIcon" height="64" src="https://github.com/fm-sys/snapdrop-android/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+<img alt="PairDropIcon" height="64" src="https://raw.githubusercontent.com/schlagmichdoch/PairDrop/master/public/images/android-chrome-512x512.png">
 
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.fmsys.snapdrop)
-- [x] [F-Droid](https://f-droid.org/en/packages/com.fmsys.snapdrop/)
-- [x] [GitHub](https://github.com/fm-sys/snapdrop-android)
-- [x] [Official page](https://snapdrop.net/)
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/schlagmichdoch/pairdrop)
+- [x] [Official page](https://pairdrop.net/)
 
 ## Finance
 
