@@ -913,7 +913,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 <img alt="PairDropIcon" height="64" src="https://raw.githubusercontent.com/schlagmichdoch/PairDrop/master/public/images/android-chrome-512x512.png">
 
-- [ ] Google Play
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.fmsys.snapdrop&hl=en)
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/schlagmichdoch/pairdrop)
 - [x] [Official page](https://pairdrop.net/)
