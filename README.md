@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **269** 🎉
+**AWESOME** apps counter: **268** 🎉
 
 ### Contents
 
@@ -2702,15 +2702,6 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [x] [F-Droid](https://f-droid.org/packages/com.blockbasti.justanotherworkouttimer/)
 - [x] [GitHub](https://github.com/blockbasti/just_another_workout_timer)
-- [ ] Official page
-
-### Massive
-
-<img alt="MassiveIcon" height="64" src="https://gitea.presley.nz/brandon.presley/Massive/raw/branch/master/android/app/src/main/ic_launcher-playstore.png">
-
-- [x] [Google Play](https://play.google.com/store/apps/details?id=com.massive)
-- [x] [F-Droid](https://f-droid.org/en/packages/com.massive/)
-- [x] [GitTea](https://gitea.presley.nz/brandon.presley/Massive)
 - [ ] Official page
 
 ## YouTube
