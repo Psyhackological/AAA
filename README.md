@@ -121,6 +121,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [URL Cleaner](#url-cleaner)
 - [Video Player](#video-player)
 - [VNC client](#vnc-client)
+- [VNC server](#vnc-server)
 - [Voice Recorder](#voice-recorder)
 - [Wallet](#wallet)
 - [Weather](#weather)
@@ -2564,6 +2565,17 @@ Currently being reworked as Neo Launcher.
 - [x] [Google Play](https://play.google.com/store/apps/details?id=com.gaurav.avnc)
 - [x] [F-Droid](https://f-droid.org/en/packages/com.gaurav.avnc/)
 - [x] [GitHub](https://github.com/gujjwal00/avnc)
+- [ ] Official page
+      
+## VNC server
+
+### droidVNC-NG
+
+<img alt="DroidVNC-NGIcon" height="64" src="https://raw.githubusercontent.com/bk138/droidVNC-NG/refs/heads/master/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=net.christianbeier.droidvnc_ng)
+- [x] [F-Droid](https://f-droid.org/packages/net.christianbeier.droidvnc_ng/)
+- [x] [GitHub](https://github.com/bk138/droidVNC-NG)
 - [ ] Official page
 
 ## Voice Recorder
