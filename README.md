@@ -2326,6 +2326,17 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/xpavle00/Habo)
 - [x] [Official page](https://habo.space/)
 
+### Table Habit
+
+> Habit Tracker
+
+<img alt="TableHabitIcon" height="64" src="https://raw.githubusercontent.com/FriesI23/mhabit/main/assets/logo/icon.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=io.github.friesi23.mhabit)
+- [x] [F-Droid](https://f-droid.org/packages/io.github.friesi23.mhabit)
+- [x] [Github](https://github.com/FriesI23/mhabit)
+- [x] [Official page](https://github.com/FriesI23/mhabit)
+
 ### Openreads
 
 > Books Tracker
@@ -2566,7 +2577,7 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/en/packages/com.gaurav.avnc/)
 - [x] [GitHub](https://github.com/gujjwal00/avnc)
 - [ ] Official page
-      
+
 ## VNC server
 
 ### droidVNC-NG
