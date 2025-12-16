@@ -573,7 +573,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 ### ChatGPT Android
 
-<img alt="ChatGPTAndroidIcon" height="64" src="https://opencamera.org.uk/ic_launcher.png">
+<img alt="ChatGPTAndroidIcon" height="64" src="https://raw.githubusercontent.com/skydoves/chatgpt-android/refs/heads/main/app/src/main/res/drawable/openai.jpeg">
 
 - [ ] Google Play
 - [ ] F-Droid
