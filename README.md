@@ -549,6 +549,17 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [GitHub](https://github.com/Etar-Group/Etar-Calendar)
 - [ ] Official page
 
+### KashCal
+
+<img alt="KashCalIcon" height="64" src="https://raw.githubusercontent.com/KashCal/KashCal/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+
+> Offline-first calendar with iCloud/CalDAV sync, full-text search, recurring events, contact birthdays, and home screen widget.
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/KashCal/KashCal)
+- [ ] Official page
+
 ## Camera
 
 ### OpenCamera
