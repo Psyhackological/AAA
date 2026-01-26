@@ -556,9 +556,10 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 > Offline-first calendar with iCloud/CalDAV sync, full-text search, recurring events, contact birthdays, and home screen widget.
 
 - [ ] Google Play
-- [ ] F-Droid
+- [x] [F-Droid](https://f-droid.org/en/packages/org.onekash.kashcal/)
+- [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.onekash.kashcal)
 - [x] [GitHub](https://github.com/KashCal/KashCal)
-- [ ] Official page
+- [x] [Official page](https://kashcal.github.io/)
 
 ## Camera
 
