@@ -1544,6 +1544,15 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/organicmaps/organicmaps)
 - [x] [Official page](https://organicmaps.app/)
 
+### CoMaps
+
+<img alt="CoMapsIcon" height="64" src="https://codeberg.org/comaps/comaps/media/branch/main/docs/badges/logo.svg">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=app.comaps.google)
+- [x] [F-Droid](https://f-droid.org/ru/packages/app.comaps.fdroid/)
+- [x] [GitHub](https://github.com/comaps/comaps) / [Codeberg](https://codeberg.org/comaps/comaps)
+- [x] [Official page](https://www.comaps.app/)
+
 ### OsmAnd
 
 <img alt="OsmAndIcon" height="64" src="https://osmand.net/img/logo.svg">
