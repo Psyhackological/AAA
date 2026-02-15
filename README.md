@@ -873,6 +873,15 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [GitHub](https://github.com/NeoApplications/Neo-Store)
 - [ ] Official page
 
+### Florid
+
+<img alt="FloridIcon" height="64" src="https://raw.githubusercontent.com/Nandanrmenon/florid/main/assets/Florid.svg">
+
+* [ ] Google Play
+* [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.nahnah.florid)
+* [x] [GitHub](https://github.com/Nandanrmenon/florid)
+* [x] [Official page](https://www.nandanmenon.dev/florid)
+
 ## File Manager
 
 ### Material Files :heart:
