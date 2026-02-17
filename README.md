@@ -707,6 +707,16 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [GitHub](https://github.com/TachibanaGeneralLaboratories/download-navi)
 - [ ] Official page
 
+
+### AB Download Manager
+
+<img alt="DownloadNaviIcon" height="64" src="https://github.com/amir1376/ab-download-manager/raw/master/assets/logo/app_logo_with_background.svg">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/amir1376/ab-download-manager)
+- [x] [Official page](https://abdownloadmanager.com)
+
 ## Discord
 
 ### Aliucord
