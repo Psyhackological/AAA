@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **273** 🎉
+**AWESOME** apps counter: **274** 🎉
 
 ### Contents
 
@@ -1721,6 +1721,17 @@ Currently being reworked as Neo Launcher.
 - [x] [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.looker.howlmusic)
 - [x] [GitHub](https://github.com/Iamlooker/Howl)
 - [ ] Official page
+
+### Levyra
+
+> Open-source music player with streaming, smart discovery, synced lyrics, offline M4A downloads, and private on-device listening insights.
+
+<img alt="LevyraIcon" height="64" src="https://raw.githubusercontent.com/LUC4N3X/Levyra-deepsound/main/app/src/main/res/drawable/levyra_logo.png">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/com.luc4n3x.levyra/)
+- [x] [GitHub](https://github.com/LUC4N3X/Levyra-deepsound)
+- [x] [Official page](https://levyra.dpdns.org/)
 
 ### Noad Player
 
