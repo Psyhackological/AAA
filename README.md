@@ -1769,6 +1769,17 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/martinmimigames/tiny-music-player)
 - [x] [Official page](https://martinmimigames.github.io/projects/tiny-music-player/index.html)
 
+### Sepotify
+
+<img alt="SepotifyIcon" height="64" src="https://raw.githubusercontent.com/RMNO21/Sepotify/main/app/src/main/res/drawable/placeholder.jpg">
+
+> Open-source Spotify alternative music streaming app for Android powered by YouTube/InnerTube audio backend.
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/RMNO21/Sepotify)
+- [ ] Official page
+
 ## Music Scrobbler
 
 ### Pano Scrobbler :heart:
