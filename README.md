@@ -1778,7 +1778,7 @@ Currently being reworked as Neo Launcher.
 - [ ] Google Play
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/kurupdevs/KuruBeats)
-- [x] [Official page](https://github.com/kurupdevs/KuruBeats)
+- [x] [Official page](https://kurupdevs.github.io/kurubeats.html)
 
 ## Music Scrobbler
 
