@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **274** 🎉
+**AWESOME** apps counter: **275** 🎉
 
 ### Contents
 
@@ -1768,6 +1768,17 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/en/packages/com.martinmimigames.tinymusicplayer/)
 - [x] [GitHub](https://github.com/martinmimigames/tiny-music-player)
 - [x] [Official page](https://martinmimigames.github.io/projects/tiny-music-player/index.html)
+
+### KuruBeats
+
+> Free, open-source Android music player for local files and YouTube Music — synced lyrics, no ads, no account.
+
+<img alt="KuruBeatsIcon" height="64" src="https://raw.githubusercontent.com/kurupdevs/KuruBeats/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/kurupdevs/KuruBeats)
+- [x] [Official page](https://kurupdevs.github.io/kurubeats.html)
 
 ## Music Scrobbler
 
