@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **275** 🎉
+**AWESOME** apps counter: **276** 🎉
 
 ### Contents
 
@@ -1919,6 +1919,17 @@ Currently being reworked as Neo Launcher.
 - [x] [Official page](https://www.keepassdx.com/)
 
 ## PDF Viewer
+
+### Gander
+
+<img alt="GanderIcon" height="64" src="https://raw.githubusercontent.com/mokshablr/gander/main/fastlane/metadata/android/en-US/images/icon.png">
+
+> Offline viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown, code and STL files. It asks for no permissions and has no internet access.
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.arjun.gander)
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/mokshablr/gander)
+- [x] [Official page](https://arjun.maniyani.com/gander/)
 
 ### MJ PDF
 
