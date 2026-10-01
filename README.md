@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **275** 🎉
+**AWESOME** apps counter: **276** 🎉
 
 ### Contents
 
@@ -2867,6 +2867,17 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/en/packages/com.github.libretube/)
 - [x] [GitHub](https://github.com/libre-tube/LibreTube)
 - [x] [Official page](https://libre-tube.github.io/)
+
+### NewTube
+
+> Unofficial YouTube client for Android phones and tablets, built on SmartTube. Optional sign-in with a code, background play, picture-in-picture, save for offline, SponsorBlock, DeArrow and Return YouTube Dislike.
+
+<img alt="NewTubeIcon" height="64" src="https://raw.githubusercontent.com/aleixrodriala/newtube/main/.github/assets/icon.png">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/aleixrodriala/newtube)
+- [x] [Official page](https://newtube-app.github.io/)
 
 ### SongTube
 
