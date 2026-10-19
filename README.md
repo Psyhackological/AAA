@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **275** 🎉
+**AWESOME** apps counter: **276** 🎉
 
 ### Contents
 
@@ -364,6 +364,17 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [ ] F-Droid
 - [x] [GitHub](https://github.com/jmir1/aniyomi)
 - [x] [Official page](https://aniyomi.jmir.xyz/)
+
+### Easemic
+
+<img alt="EasemicIcon" height="64" src="https://easemic.com/favicon.svg">
+
+> Native Android comic and manga reader built with Kotlin and Jetpack Compose, supporting local CBZ/ZIP archives, self-hosted OPDS catalogs (Komga, Kavita), and client-side encrypted cloud storage streaming and backup.
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/dirtyfancy/easemic)
+- [x] [Official page](https://easemic.com/)
 
 ### TachiyomiAZ
 
