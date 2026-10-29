@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **275** 🎉
+**AWESOME** apps counter: **276** 🎉
 
 ### Contents
 
@@ -2331,6 +2331,17 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/packages/com.lolo.io.onelist/)
 - [x] [GitHub](https://github.com/lolo-io/OneList)
 - [ ] Official page
+
+### Super Productivity :heart:
+
+> To-do list and time tracker with timeboxing, a Pomodoro timer and Jira, GitHub and GitLab integrations; works offline, no account needed.
+
+<img alt="SuperProductivityIcon" height="64" src="https://raw.githubusercontent.com/super-productivity/super-productivity/master/build/icons/128x128.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.superproductivity.superproductivity)
+- [x] [F-Droid](https://f-droid.org/packages/com.superproductivity.superproductivity)
+- [x] [GitHub](https://github.com/super-productivity/super-productivity)
+- [x] [Official page](https://super-productivity.com/)
 
 ## Torrenting
 
