@@ -1542,6 +1542,17 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/iamrasel/lunar-launcher)
 - [ ] Official page
 
+### TV Box Tools
+
+> Launcher manager and ADB toolbox for Android TV, Google TV, and Fire TV boxes (sets any launcher as the persistent HOME app over ADB without root or accessibility services).
+
+<img alt="TVBoxToolsIcon" height="64" src="https://raw.githubusercontent.com/smartago/tvboxtools/main/brands/assets/tvboxtools-icon-512.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.tv.launcher.manager.adb.tvboxtools&gl=us)
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/smartago/tvboxtools)
+- [x] [Official page](https://tvboxtools.com)
+
 ## Lemmy
 
 ### Jerboa
