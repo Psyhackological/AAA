@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **275** 🎉
+**AWESOME** apps counter: **276** 🎉
 
 ### Contents
 
@@ -50,6 +50,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [Device Synchronization](#device-synchronization)
 - [Dialer](#dialer)
 - [Diary](#diary)
+- [Digital Wellbeing](#digital-wellbeing)
 - [Discord](#discord)
 - [Document Scanner](#document-scanner)
 - [Download Manager](#download-manager)
@@ -715,6 +716,19 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [F-Droid](https://f-droid.org/packages/org.billthefarmer.diary/)
 - [x] [GitHub](https://github.com/billthefarmer/diary)
 - [x] [Official page](https://billthefarmer.github.io/diary/)
+
+## Digital Wellbeing
+
+### PlugBrain
+
+<img alt="PlugBrainIcon" height="64" src="https://raw.githubusercontent.com/msbelaid/PlugBrain/master/.design/Logo/Digital/01-Output/Light_512.svg">
+
+> App blocker that asks a short math question before you keep using a distracting app. The questions get harder the more you use the app and easier when you stay away. No internet permission, no account, no ads.
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=app.plugbrain.android)
+- [x] [F-Droid](https://f-droid.org/packages/app.plugbrain.android/)
+- [x] [GitHub](https://github.com/msbelaid/PlugBrain)
+- [x] [Official page](https://plugbrain.app)
 
 ## Download Manager
 
