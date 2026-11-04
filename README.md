@@ -401,6 +401,17 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [GitHub](https://github.com/IReaderorg/IReader)
 - [x] [Official page](https://ireaderorg.netlify.app/)
 
+### Waifu Deck
+
+<img alt="WaifuDeckIcon" height="64" src="https://raw.githubusercontent.com/fancydirty/waifu-deck/main/docs/images/readme/icon.png">
+
+> Anime art collection app that unifies ten image boards into one deduplicated swipe deck, saves full-resolution originals locally, and optionally syncs to your own encrypted cloud storage (Cloudflare R2, Bunny, Backblaze B2, S3, WebDAV, Google Drive, OneDrive).
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/fancydirty/waifu-deck)
+- [x] [Official page](https://waifudeck.app/)
+
 ## App Backup
 
 ### Neo Backup
