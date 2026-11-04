@@ -1352,6 +1352,17 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 ## Instant Messaging
 
+### MeshLive
+
+<img alt="MeshLiveIcon" height="64" src="https://raw.githubusercontent.com/MeshLive/meshlive-android/main/docs/brand/meshlive-icon.svg">
+
+> Encrypted voice/video calls and live audio/video broadcasts over a Bluetooth mesh, without internet, accounts or servers. Android 10 or newer; currently in beta.
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [Source code](https://github.com/MeshLive/meshlive-android)
+- [x] [Official page](https://github.com/MeshLive/meshlive-android#readme)
+
 ### Signal :heart:
 
 <img alt="SignalIcon" height="64" src="https://seeklogo.com/images/S/signal-logo-20A1616F60-seeklogo.com.png">
