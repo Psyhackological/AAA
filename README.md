@@ -1677,6 +1677,17 @@ Currently being reworked as Neo Launcher.
 
 ## Music Player
 
+### Apex Music Player
+
+<img alt="ApexMusicPlayerIcon" height="64" src="https://raw.githubusercontent.com/Yaromir-Anokhin/apex-music-player/main/assets/icon-192.png">
+
+> Modern, lightweight open-source Android music player with YouTube audio & album cover downloader, 10-band equalizer, 3D visualizer, and custom playlists. Universal compatibility for Android 5.0 to 15+.
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [Source code](https://github.com/Yaromir-Anokhin/apex-music-player)
+- [x] [Official page](https://yaromir-anokhin.github.io/apex-music-player/)
+
 ### Metro :heart:
 
 <img alt="MetroIcon" height="64" src="https://play-lh.googleusercontent.com/LsjjdQ5KSBnnztnMzRq8nTkmmCSINVE3BwSf4YG0Ps2ITGZQ-yV9pzbEAgkDXjx52140=s180">
