@@ -365,6 +365,17 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [GitHub](https://github.com/jmir1/aniyomi)
 - [x] [Official page](https://aniyomi.jmir.xyz/)
 
+### Easemic
+
+<img alt="EasemicIcon" height="64" src="https://easemic.com/favicon.svg">
+
+> Native Android comic and manga reader built with Kotlin and Jetpack Compose, supporting local CBZ/ZIP archives, self-hosted OPDS catalogs (Komga, Kavita), and client-side encrypted cloud storage streaming and backup.
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/dirtyfancy/easemic)
+- [x] [Official page](https://easemic.com/)
+
 ### TachiyomiAZ
 
 <img alt="TachiyomiAZIcon" height="64" src="https://raw.githubusercontent.com/az4521/TachiyomiAZ/master/app/src/main/ic_launcher-web.png">
