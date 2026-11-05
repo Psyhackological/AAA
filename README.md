@@ -92,6 +92,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [Office Suite](#office-suite)
 - [Package Manager](#package-manager)
 - [Password Manager](#password-manager)
+- [PDF Tools](#pdf-tools)
 - [PDF Viewer](#pdf-viewer)
 - [Plants](#plants)
 - [Podcast](#podcast)
@@ -1917,6 +1918,19 @@ Currently being reworked as Neo Launcher.
 - [x] [F-Droid](https://f-droid.org/packages/com.kunzisoft.keepass.libre/)
 - [x] [GitHub](https://github.com/Kunzisoft/KeePassDX)
 - [x] [Official page](https://www.keepassdx.com/)
+
+## PDF Tools
+
+### Usugami
+
+<img alt="UsugamiIcon" height="64" src="https://raw.githubusercontent.com/Nath-Goa/usugami/main/docs/icon.svg">
+
+> Turn photos, Word, PowerPoint and EPUB files into PDFs, and merge, split, reorganize, edit, sign, compress, flatten and redact PDFs on your phone. No ads, no tracking, no account, no uploads.
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/Nath-Goa/usugami)
+- [ ] Official page
 
 ## PDF Viewer
 
