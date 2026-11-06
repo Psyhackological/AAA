@@ -2879,6 +2879,17 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/libre-tube/LibreTube)
 - [x] [Official page](https://libre-tube.github.io/)
 
+### NewTube
+
+> Unofficial YouTube client for Android phones and tablets, built on SmartTube. Optional sign-in with a code, background play, picture-in-picture, save for offline, SponsorBlock, DeArrow and Return YouTube Dislike.
+
+<img alt="NewTubeIcon" height="64" src="https://raw.githubusercontent.com/aleixrodriala/newtube/main/.github/assets/icon.png">
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/aleixrodriala/newtube)
+- [x] [Official page](https://newtube-app.github.io/)
+
 ### SongTube
 
 <img alt="SongTubeIcon" height="64" src="https://raw.githubusercontent.com/SongTube/SongTube-App/development/assets/images/ic_launcher.png">
