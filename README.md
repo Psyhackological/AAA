@@ -25,7 +25,7 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] Has dark theme
   > [More detailed explanation here.](RULES.md)
 
-**AWESOME** apps counter: **276** 🎉
+**AWESOME** apps counter: **277** 🎉
 
 ### Contents
 
@@ -317,6 +317,19 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [ ] Official page
 
 ## Android Customization
+
+### Adaptive Theme
+
+<img alt="AdaptiveThemeIcon" height="64" src="https://raw.githubusercontent.com/xLexip/Adaptive-Theme/develop/app/fastlane/metadata/android/en-US/images/icon.png">
+
+> Automatically switches Android's system light/dark theme based on ambient light, with optional matching wallpapers. Requires Android 14+ and a one-time permission grant via ADB, WebADB, Shizuku, or root.
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=dev.lexip.hecate)
+- [x] [F-Droid](https://f-droid.org/packages/dev.lexip.hecate/)
+- [x] [Source code](https://github.com/xLexip/Adaptive-Theme)
+- [ ] Official page
+
+The FOSS build on F-Droid and GitHub Releases contains no analytics or crash reporting. The Google Play build includes Firebase Analytics and Crashlytics; see the [privacy policy](https://github.com/xLexip/Adaptive-Theme/blob/develop/.github/PRIVACY_POLICY.md).
 
 ### Magisk️
 
