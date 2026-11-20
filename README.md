@@ -814,6 +814,17 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 
 ## Email
 
+### Aster Mail
+
+> Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains.
+
+<img alt="AsterMailIcon" height="64" src="https://raw.githubusercontent.com/Aster-Privacy/Aster-Android/main/fastlane/metadata/android/en-US/images/icon.png">
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=org.astermail.android)
+- [x] [F-Droid](https://f-droid.org/packages/org.astermail.android/)
+- [x] [GitHub](https://github.com/Aster-Privacy/Aster-Android)
+- [x] [Official page](https://astermail.org)
+
 ### FairEmail
 
 <img alt="FairEmailIcon" height="64" src="https://raw.githubusercontent.com/M66B/FairEmail/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
