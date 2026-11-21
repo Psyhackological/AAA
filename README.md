@@ -999,6 +999,15 @@ This is a list of `THE BEST FOSS apps` according to [us](https://github.com/Psyh
 - [x] [GitHub](https://github.com/jerameel/sushi)
 - [ ] Official page
 
+### Tally
+
+<img alt="TallyIcon" height="64" src="https://raw.githubusercontent.com/IamAndelib/Tally-android/main/docs/logo.svg">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/packages/app.tally.expenses/)
+- [x] [GitHub](https://github.com/IamAndelib/Tally-android)
+- [ ] Official page
+
 ## Firewall
 
 ### AFWall+
