@@ -1920,6 +1920,17 @@ Currently being reworked as Neo Launcher.
 
 ## PDF Viewer
 
+### Gander
+
+<img alt="GanderIcon" height="64" src="https://raw.githubusercontent.com/mokshablr/gander/main/fastlane/metadata/android/en-US/images/icon.png">
+
+> Offline viewer for PDF, Word, Excel, PowerPoint, photos, video, audio, Markdown, code and STL files. It asks for no permissions and has no internet access.
+
+- [x] [Google Play](https://play.google.com/store/apps/details?id=com.arjun.gander)
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/mokshablr/gander)
+- [x] [Official page](https://arjun.maniyani.com/gander/)
+
 ### MJ PDF
 
 <img alt="MJPDFIcon" height="64" src="https://gitlab.com/uploads/-/system/project/avatar/38392439/logo.png?width=64">
