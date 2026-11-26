@@ -1780,6 +1780,17 @@ Currently being reworked as Neo Launcher.
 - [x] [GitHub](https://github.com/kurupdevs/KuruBeats)
 - [x] [Official page](https://kurupdevs.github.io/kurubeats.html)
 
+### Sepotify
+
+<img alt="SepotifyIcon" height="64" src="https://raw.githubusercontent.com/RMNO21/Sepotify/main/app/src/main/res/drawable/placeholder.jpg">
+
+> Open-source Spotify alternative music streaming app for Android powered by YouTube/InnerTube audio backend.
+
+- [ ] Google Play
+- [ ] F-Droid
+- [x] [GitHub](https://github.com/RMNO21/Sepotify)
+- [ ] Official page
+
 ## Music Scrobbler
 
 ### Pano Scrobbler :heart:
